@@ -11,7 +11,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: stateofthemap-2019-dev
+    image: stateofthemap-2020-dev
     ports:
       - 35729:35729
       - 4000:4000

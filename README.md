@@ -1,4 +1,4 @@
-# State of the Map 2019 Website
+# State of the Map 2020 Website
 
 ## Local installation
 
