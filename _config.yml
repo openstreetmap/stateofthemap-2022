@@ -32,7 +32,6 @@ exclude:
   - Dockerfile*
   - docker-compose.*
   - Gemfile
-  - docker-entrypoint.sh
 
 permalink: /:title/
 relative_permalinks: false
