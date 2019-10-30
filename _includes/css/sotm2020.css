@@ -86,20 +86,18 @@ a:hover,
 a:focus {
     text-decoration: underline;
     color: {{ site.color.text }};
-    text-decoration-color: {{ site.color.text }};
 }
 
 footer a,
 .page a {
-  color: {{ site.color.links-white }};
+    color: {{ site.color.links-white }};
 }
 
 footer a:hover,
 footer a:focus,
 .page a:hover,
 .page a:focus {
-    color: white;
-    text-decoration-color: {{ site.color.links-white }};
+    opacity: 0.8;
 }
 
 .navbar-custom {
@@ -534,8 +532,13 @@ span.numeral {
 
 /* Newsletter
 ------------------------------------------------------- */
-#newsletter {
+#newsletter, #streaming {
     background-color: {{ site.color.primary-light }};
+    color: {{ site.color.text-light }};
+}
+
+#newsletter a, #streaming a {
+    color: {{ site.color.text-light }};
 }
 
 .with-icon input[type=email] {
@@ -657,7 +660,7 @@ nav .navbar-brand {
     -moz-transition: all .2s;
     -o-transition: all .2s;
     transition: all .2s;
-    filter: grayscale(1);
+    filter: grayscale(1) invert(1);
     display: inline-block;
     max-width: 100%;
 }
