@@ -244,9 +244,9 @@ questions about visa applications please write to
 [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org).
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2> 
-24 February 2020: Deadline talk submissions<br> 
-21 April 2020: Program announcement<br> 
-3-5 July: State of the Map<br>
+23 February 2020: Deadline talk submissions<br> 
+April 2020: Program announcement<br> 
+3-5 July 2020: State of the Map<br>
 
 <h2 id="submit">Submit your presentation</h2>
 
