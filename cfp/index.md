@@ -96,13 +96,6 @@ use OpenStreetMap data or the OpenStreetMap theme to eg. create clothing,
 jewellery, 3D printed objects, engravings, visualizations, computer or mobile
 games, virtual worlds, augmented reality, flyers, postcards, etc.
 
-SotM also has an academic track with its own Call for Abstracts which is
-dedicated to scientific applications of OSM. Please follow the link to the Call
-for Abstracts of the academic track if you are willing to propose a contribution
-for this track. The academic track uses the same submission system, but it has
-different requirements which are outlined in the [call for academic
-abstracts]({{site.baseurl}}/cfp/academic/).
-
 <p><div class="img-with-credits"><img alt="Heidelberg"
 src="/img/sotm-2019-laptop.jpg" style="width:100%; height:auto;"/><span
 class="credits">Manfred Stock, CC BY-NC-SA 2.0</span></div></p>
@@ -143,7 +136,8 @@ the database. You should outline the format how you intend to organise the
 discussion and make sure to invite the key players for the discussion. Panels
 may or may not include the audience. Do what works best for your topic.
 
-<h3 id="submission-bof">Birds of a Feather</h3> Birds of a Feather sessions are
+<h3 id="submission-bof">Birds of a Feather</h3> [Birds of a
+Feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) sessions are
 informal, spontaneous discussion rounds centered around a specific topic. It is
 *not possible* to submit a BoF session in advance. Instead, we will provide a
 wiki page to organize it shortly before the conference. We plan to provide a lot
@@ -245,7 +239,9 @@ related to a sponsor.
 We hope this detailed "Call for Presentations" helps to increase the
 transparency of our program selection process. Questions are welcome. You can
 reach us at the following email address:
-[program-sotm@openstreetmap.org](mailto:program-sotm@openstreetmap.org).
+[program-sotm@openstreetmap.org](mailto:program-sotm@openstreetmap.org). For
+questions about visa applications please write to
+[sotm@openstreetmap.org](mailto:sotm@openstreetmap.org).
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2> 
 24 February 2020: Deadline talk submissions<br> 
