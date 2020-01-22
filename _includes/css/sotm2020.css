@@ -160,8 +160,8 @@ footer a:focus,
     }
 
     .navbar a, .navbar a:hover {
-        color: {{ site.color.primary-light }};
-        filter: drop-shadow(0 0 0.8px white);
+        color: {{ site.color.primary-dark }};
+        filter: drop-shadow(0 0 0.8px black);
     }
 
     a.navbar-brand {
