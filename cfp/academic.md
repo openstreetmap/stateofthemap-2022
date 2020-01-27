@@ -40,7 +40,7 @@ The 2019 Academic Track resulted in a special issue of the [ISPRS International 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 23 February 2020: Deadline [non-academic talk submissions]({{site.baseurl}}/cfp)<br>
-9 March 2020: Deadline academic talk submissions
+9 March 2020: Deadline academic talk submissions<br>
 April 2020: Program announcement<br>
 3-5 July 2020: State of the Map
 
