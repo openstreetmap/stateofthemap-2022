@@ -24,6 +24,11 @@ OpenStreetMap use and research in Africa
 
 In an effort to improve the interaction and collaboration between the academic and the more general OpenStreetMap communities, authors are invited to particularly highlight the practical implications or impacts of their research on the OpenStreetMap community at large.
 
+<div class="img-with-credits">
+  <img src="https://live.staticflickr.com/65535/48772425261_a9cee53a06_c_d.jpg" alt="Professor Alexander Zipf from Heidelberg University during State of the Map 2019.">
+  <a href="https://www.flickr.com/photos/23246315@N08/48772425261/in/album-72157711004596931/"><span class="credits">© Manfred Stock, CC-BY-NC-SA</span></a>
+</div>
+
 <h2 id="guidelines">Submission Guidelines</h2>
 
 Authors are invited to submit abstracts using the State of the Map 2020 Pretalx [submission system](https://pretalx.com/state-of-the-map-2020-academic-track/cfp). Deadline for submission is 9 March 2020.
