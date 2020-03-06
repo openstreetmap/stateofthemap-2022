@@ -31,7 +31,7 @@ In an effort to improve the interaction and collaboration between the academic a
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit abstracts using the State of the Map 2020 Pretalx [submission system](https://pretalx.com/state-of-the-map-2020-academic-track/cfp). Deadline for submission is 9 March 2020.
+Authors are invited to submit abstracts using the State of the Map 2020 Pretalx [submission system](https://pretalx.com/state-of-the-map-2020-academic-track/cfp). Deadline for submission is 26 March 2020.
 
 Abstracts should include from a minimum of 500 to a maximum of 800 words.These limits will be strictly enforced for a fair and balanced review process.
 
@@ -45,7 +45,8 @@ The 2019 Academic Track resulted in a special issue of the [ISPRS International 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 23 February 2020: Deadline [non-academic talk submissions]({{site.baseurl}}/cfp)<br>
-9 March 2020: Deadline academic talk submissions<br>
+~~9 March 2020~~<br>
+26 March 2020: Deadline academic talk submissions<br>
 April 2020: Program announcement<br>
 3-5 July 2020: State of the Map
 
