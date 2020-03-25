@@ -13,7 +13,7 @@
    xml:space="preserve"
    id="svg815"
    version="1.1"
-   sodipodi:docname="intro-logo-square.svg"
+   sodipodi:docname="logo-square.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,16 +23,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="956"
+     inkscape:window-height="1041"
      id="namedview5124"
      showgrid="false"
      inkscape:zoom="2.15011"
-     inkscape:cx="75.14684"
+     inkscape:cx="214.48942"
      inkscape:cy="179.83871"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-x="960"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g823"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -40,7 +40,7 @@
      fit-margin-bottom="0" /><metadata
      id="metadata821"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs819"><clipPath
        id="clipPath833"
        clipPathUnits="userSpaceOnUse"><path
@@ -172,4 +172,26 @@
      id="path1552"
      d="m 192.02222,-12.676193 c 0,-2.726856 -0.88439,-4.974669 -2.65316,-6.78029 -1.76877,-1.805621 -3.97973,-2.726856 -6.63289,-2.726856 -2.69001,0 -4.90097,0.921235 -6.66974,2.726856 -1.76877,1.805621 -2.65316,4.053434 -2.65316,6.78029 v 11.97605441 h 2.8374 V -12.970989 c 0,-1.768771 0.62644,-3.279596 1.91617,-4.569325 1.28973,-1.289729 2.83741,-1.916169 4.56933,-1.916169 1.73192,0 3.2059,0.62644 4.49563,1.916169 1.28972,1.289729 1.95301,2.800554 1.95301,4.569325 v 12.27085041 h 2.83741 z"
      inkscape:connector-curvature="0" /></g>
-</g></svg>
+<g
+   id="g1382"
+   transform="matrix(0.96457207,0.7705372,-0.7705372,0.96457207,386.51865,-68.783098)"><rect
+     ry="1.7138622"
+     transform="scale(1,-1)"
+     y="-167.96048"
+     x="-55.810028"
+     height="34.155937"
+     width="118.91904"
+     id="rect1377"
+     style="fill:#ffffff;fill-opacity:0.61083745;stroke:#ff0000;stroke-width:3.77836347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><text
+     transform="scale(1,-1)"
+     id="text1375"
+     y="-140.06909"
+     x="-53.033649"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ff0000;fill-opacity:1;stroke-width:0.75"
+       y="-140.06909"
+       x="-53.033649"
+       id="tspan1373"
+       sodipodi:role="line">ONLINE!</tspan></text>
+</g></g></svg>
