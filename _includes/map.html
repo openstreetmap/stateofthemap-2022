@@ -8,7 +8,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-33.95771,18.46102], 14);
+    var map = L.map('map').setView([10,0], 2);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}},
@@ -18,9 +18,9 @@
     L.marker([-33.95771,18.46102], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [40, 40],
-          iconAnchor: [20, 20],
+          iconAnchor: [20, 40],
           className: "map-icon"
-        })}).bindPopup("<h3>Main Conference Venue</h3><p>Snape Building<br>(Upper Campus),<br>University of Cape Town's Rondebosch (main) campus</em>.</p>").addTo(map);
+        })}).bindPopup("<h3>(formerly planned) Main Conference Venue</h3><p>Snape Building<br>(Upper Campus),<br>University of Cape Town's Rondebosch (main) campus</em>.</p>").addTo(map);
 
     map.scrollWheelZoom.disable();
   }, false);
