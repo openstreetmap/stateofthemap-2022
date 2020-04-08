@@ -24,7 +24,7 @@ Sponsorship is available in packages. Packages include some or all of the follow
 | <span title="provided on website">Job Offer Board</span>           | yes | yes | yes | yes | yes |
 | SotM website               | logo and company profile | logo | logo | logo | company name |
 | <span title="provided as a PDF download">Booklet</span>                        | full page (A4 portrait) | half page (A5 landscape) | half page (A5 landscape) | quarter page (A6 portrait) | company name |
-| <span title="logos in our video streaming website">Sponsor banner</a>           | logo | logo | logo | - | - |
+| <span title="logos in our video streaming website">Sponsor banner</span>           | logo | logo | logo | - | - |
 | Tweet from [@sotm](https://twitter.com/sotm/)       | week before and following | week before | - | - | - |
 | <span title="at the moment we don't plan a registration for the online conference, but should this happen (e.g. due to technical reasons), this would be the number of reserved slots for you as a sponsor">Reserved conference passes</span>       | 10 | 6 | 4 | 2 | 1 |
 
