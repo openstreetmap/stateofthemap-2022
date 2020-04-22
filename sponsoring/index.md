@@ -17,7 +17,7 @@ Sponsorship is available in packages. Packages include some or all of the follow
 |                                    | Platinum | Gold | Silver | Bronze | Supporter |
 |---------------------------- | ------ | -----  | ----- | ----- | ----- |
 |                                   | EUR 24000 | EUR 14000 | EUR 8000 | EUR 3000 | EUR 700 |
-| <s>Exhibition in main hall</s>    | canceled | canceled | canceled | - | - |
+| <span title="replacement for exhibition in main hall">Virtual Booth</span>    | BBB Channel | BBB Channel | BBB Channel | - | - |
 | <s>Placement of leaflets</s>     | x | x | x | x | x |
 | Special appreciation      | yes | - | - | - | - |
 | Opening Session          | 5 min talking spot | Thank you | - | - | - |
