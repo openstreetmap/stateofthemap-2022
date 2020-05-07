@@ -2,7 +2,7 @@
 layout: session
 title: "Use of OSM data in formalizing informal public transport systems, case of Maputo-Mozambique"
 code: "HYJA7W"
-speaker_names_with_affiliations: [&#39;Remígio Chilaule&#39;]
+speaker_names_with_affiliations: ["Remígio Chilaule"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 15:45"

@@ -2,7 +2,7 @@
 layout: session
 title: "Earthquakes and OpenStreetMap"
 code: "KNU7L3"
-speaker_names_with_affiliations: [&#39;Danijel Schorlemmer&#39;]
+speaker_names_with_affiliations: ["Danijel Schorlemmer"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 12:15"

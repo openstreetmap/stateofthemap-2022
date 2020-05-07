@@ -2,7 +2,7 @@
 layout: session
 title: "OSM data assessment in the area of Athens - Greece"
 code: "V9J9JS"
-speaker_names_with_affiliations: [&#39;Stathis G. Arapostathis&#39;]
+speaker_names_with_affiliations: ["Stathis G. Arapostathis"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 17:15"

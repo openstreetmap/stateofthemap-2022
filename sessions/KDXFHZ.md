@@ -2,7 +2,7 @@
 layout: session
 title: "4 County OSM Digitization Liberia – Lesson Learned"
 code: "KDXFHZ"
-speaker_names_with_affiliations: [&#39;Tri Selasa&#39;]
+speaker_names_with_affiliations: ["Tri Selasa"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 10:45"

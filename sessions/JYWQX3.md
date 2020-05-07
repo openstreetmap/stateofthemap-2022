@@ -2,7 +2,7 @@
 layout: session
 title: "Trademarks &amp; OSMF"
 code: "JYWQX3"
-speaker_names_with_affiliations: [&#39;Kathleen Lu&#39;]
+speaker_names_with_affiliations: ["Kathleen Lu"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 20:45"
@@ -27,7 +27,7 @@ How do you get trademark rights?
 Trademark use vs not trademark use
  - Using a term &#34;as a mark&#34;
  - Sponsorship/endorsement
- - What trademark doesn&#39;t protect
+ - What trademark doesn"t protect
  - fair uses
 
 OSM trademarks:

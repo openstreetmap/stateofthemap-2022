@@ -2,7 +2,7 @@
 layout: session
 title: "Turkish Law on National Geospatial Data and Its Implications Regarding OSM and the Community"
 code: "JAG7JD"
-speaker_names_with_affiliations: [&#39;Can Ünen&#39;, &#39;Orkut Murat Yılmaz&#39;]
+speaker_names_with_affiliations: ["Can Ünen", "Orkut Murat Yılmaz"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 18:00"

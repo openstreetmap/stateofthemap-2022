@@ -2,7 +2,7 @@
 layout: session
 title: "Winds of Change in OpenStreetMap"
 code: "RRVNAM"
-speaker_names_with_affiliations: [&#39;Allan Mustard&#39;]
+speaker_names_with_affiliations: ["Allan Mustard"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 10:20"

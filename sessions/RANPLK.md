@@ -2,7 +2,7 @@
 layout: session
 title: "Pedestrians First"
 code: "RANPLK"
-speaker_names_with_affiliations: [&#39;Taylor Reich&#39;]
+speaker_names_with_affiliations: ["Taylor Reich"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 20:00"

@@ -2,7 +2,7 @@
 layout: session
 title: "Sustainability and OSM for Development"
 code: "XAKBJT"
-speaker_names_with_affiliations: [&#39;Erica Hagen&#39;]
+speaker_names_with_affiliations: ["Erica Hagen"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 20:45"

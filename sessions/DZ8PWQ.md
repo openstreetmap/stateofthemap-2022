@@ -2,7 +2,7 @@
 layout: session
 title: "Building mapping communities in rural Tanzania – challenges, successes and lessons learnt"
 code: "DZ8PWQ"
-speaker_names_with_affiliations: [&#39;Janet Chapman&#39;]
+speaker_names_with_affiliations: ["Janet Chapman"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 13:00"

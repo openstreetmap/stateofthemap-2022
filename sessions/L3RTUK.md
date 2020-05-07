@@ -2,7 +2,7 @@
 layout: session
 title: "MAPBEKS: Mapping of HIV Facilities and LGBT spaces in the Philippines on OpenStreetMap"
 code: "L3RTUK"
-speaker_names_with_affiliations: [&#39;Mikko Tamura&#39;]
+speaker_names_with_affiliations: ["Mikko Tamura"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 10:00"

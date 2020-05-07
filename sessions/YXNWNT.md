@@ -2,7 +2,7 @@
 layout: session
 title: "Buildings are the new Streets"
 code: "YXNWNT"
-speaker_names_with_affiliations: [&#39;Danijel Schorlemmer&#39;, &#39;Felix Delattre&#39;]
+speaker_names_with_affiliations: ["Danijel Schorlemmer", "Felix Delattre"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 15:45"

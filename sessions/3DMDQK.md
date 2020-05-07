@@ -2,7 +2,7 @@
 layout: session
 title: "Economy, Human, and Policy Impact on Mapping in Public Sector"
 code: "3DMDQK"
-speaker_names_with_affiliations: [&#39;Asish Abraham Joseph&#39;]
+speaker_names_with_affiliations: ["Asish Abraham Joseph"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 12:15"

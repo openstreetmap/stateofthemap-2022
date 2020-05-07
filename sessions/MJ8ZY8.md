@@ -2,7 +2,7 @@
 layout: session
 title: "OSM Routing Evaluation"
 code: "MJ8ZY8"
-speaker_names_with_affiliations: [&#39;Yantisa Akhadi&#39;]
+speaker_names_with_affiliations: ["Yantisa Akhadi"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 11:30"

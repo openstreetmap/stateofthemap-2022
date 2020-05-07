@@ -2,7 +2,7 @@
 layout: session
 title: "MapImpact: Mapping and social researchs by students in Cusco, Perú"
 code: "3AJAEF"
-speaker_names_with_affiliations: [&#39;Regina Campos Cc.&#39;]
+speaker_names_with_affiliations: ["Regina Campos Cc."]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 21:30"

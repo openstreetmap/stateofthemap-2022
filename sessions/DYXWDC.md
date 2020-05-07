@@ -2,7 +2,7 @@
 layout: session
 title: "There might have been a misunderstanding..."
 code: "DYXWDC"
-speaker_names_with_affiliations: [&#39;Frederik Ramm&#39;]
+speaker_names_with_affiliations: ["Frederik Ramm"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 17:15"
@@ -14,7 +14,7 @@ This talk will explain some of the often-heard but little-documented basic conce
 * we are not a map (but a database)
 * the map does not matter (the community does)
 * openstreetmap.org is not aimed at the public (but at mappers)
-* we map what&#39;s on the ground (not what the government or the landowner wants)
+* we map what"s on the ground (not what the government or the landowner wants)
 
 Building on that, the talk will also outline why the OSM community is often skeptical about filling an empty map with data imports, about AI contributions, or about automatic edits, and why OpenStreetMap is not a business directory.
 

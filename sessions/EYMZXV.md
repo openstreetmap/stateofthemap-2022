@@ -2,7 +2,7 @@
 layout: session
 title: "Overwiew on OpenStreetMap Togo Community"
 code: "EYMZXV"
-speaker_names_with_affiliations: [&#39;Ata Franck Akouete&#39;]
+speaker_names_with_affiliations: ["Ata Franck Akouete"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 15:45"

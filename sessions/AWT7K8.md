@@ -2,7 +2,7 @@
 layout: session
 title: "Gender Performance in OSM Mapping, Does It Matter?"
 code: "AWT7K8"
-speaker_names_with_affiliations: [&#39;Zainab Ramadhanis&#39;]
+speaker_names_with_affiliations: ["Zainab Ramadhanis"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 11:30"

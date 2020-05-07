@@ -2,7 +2,7 @@
 layout: session
 title: "Creating an open data ecosystem for reviews of places and more"
 code: "AA8RXP"
-speaker_names_with_affiliations: [&#39;Dina Carabas&#39;]
+speaker_names_with_affiliations: ["Dina Carabas"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 16:30"
@@ -21,7 +21,7 @@ We propose a 20 minute presentation, roughly along the following outline:
 
 (1) How open data reviews can contribute to the OSM ecosystem (5 min)
   - As consumer choice proliferates, people will rely even more on online reviews to inform their decisions. This makes reviews an increasingly valuable source of insight that helps people navigate our complex world. The problem is that hundreds of millions of people are feeding their valuable insights currently into proprietary data silos.
-  - Even the most enthusiastic users of OSM-based navigation apps are forced to switch to Google Maps and other proprietary services to see other people&#39;s opinions about a place. Offering an open data reviews layer can increase the competitiveness with proprietary online map services.
+  - Even the most enthusiastic users of OSM-based navigation apps are forced to switch to Google Maps and other proprietary services to see other people"s opinions about a place. Offering an open data reviews layer can increase the competitiveness with proprietary online map services.
   - An open reviews ecosystem can bring new faces and diversity to the OSM community (e.g., people who want to enrich the factual information with their opinions about the places in their neighborhood).
   - A person who writes a review about a place is more likely to add valuable additional data points back to OSM (e.g., opening hours, wheelchair accessibility, other updates), which can increase the number of contributors.
   - Technological contribution to the ecosystem: proposing and developing a more permanent place identifier scheme

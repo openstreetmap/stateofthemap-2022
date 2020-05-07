@@ -2,7 +2,7 @@
 layout: session
 title: "Closing"
 code: "VTDQPZ"
-speaker_names_with_affiliations: [&#39;SotM Working Group&#39;]
+speaker_names_with_affiliations: ["SotM Working Group"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 21:50"

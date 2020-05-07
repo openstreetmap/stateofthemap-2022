@@ -2,7 +2,7 @@
 layout: session
 title: "Minutely Extracts: Tools for nimble editing and downloading"
 code: "JDNTHK"
-speaker_names_with_affiliations: [&#39;Brandon Liu&#39;]
+speaker_names_with_affiliations: ["Brandon Liu"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 17:15"
@@ -15,4 +15,4 @@ The first part of this talk covers a new web service, Minutely Extracts (protoma
 
 The second part of this talk describes OSM Express (osmx), a new spatially indexed file format powering Minutely Extracts, that supports in-place updates. Developers needing random access to OSM objects can consider embedding osmx as a library. Near real-time editing activity visualization is one possible use case. I’ll review the technical tradeoffs between using osmx, PBFs and other popular formats.
 
-Financial Background: The software is developed as open source, under a BSD license, and funded by the author&#39;s commercial OSM-based SaaS services as well as OSM contract software development.
+Financial Background: The software is developed as open source, under a BSD license, and funded by the author"s commercial OSM-based SaaS services as well as OSM contract software development.

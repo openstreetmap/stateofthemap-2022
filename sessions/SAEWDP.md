@@ -2,7 +2,7 @@
 layout: session
 title: "What to do when local citizens do not consent? A discussion on how to navigate difficult field scenarios that involve local communities."
 code: "SAEWDP"
-speaker_names_with_affiliations: [&#39;Shamilah Nassozi&#39;]
+speaker_names_with_affiliations: ["Shamilah Nassozi"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 16:30"

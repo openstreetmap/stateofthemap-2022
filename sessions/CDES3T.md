@@ -2,7 +2,7 @@
 layout: session
 title: "The use of OpenStreetMap within the Italian Alpine Club"
 code: "CDES3T"
-speaker_names_with_affiliations: [&#39;Luca Delucchi&#39;]
+speaker_names_with_affiliations: ["Luca Delucchi"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 13:00"

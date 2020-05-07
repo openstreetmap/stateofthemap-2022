@@ -2,7 +2,7 @@
 layout: session
 title: "The Map in 360"
 code: "YTHZWC"
-speaker_names_with_affiliations: [&#39;Said Turksever&#39;]
+speaker_names_with_affiliations: ["Said Turksever"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 15:00"
