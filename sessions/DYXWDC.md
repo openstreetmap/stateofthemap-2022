@@ -1,0 +1,21 @@
+---
+layout: session
+title: "There might have been a misunderstanding..."
+code: "DYXWDC"
+speaker_names_with_affiliations: [&#39;Frederik Ramm&#39;]
+room: "Track 1"
+length: "00:20"
+time: "Saturday, 17:15"
+resources: []
+recording: True
+---
+This talk will explain some of the often-heard but little-documented basic concepts in OSM, like
+
+* we are not a map (but a database)
+* the map does not matter (the community does)
+* openstreetmap.org is not aimed at the public (but at mappers)
+* we map what&#39;s on the ground (not what the government or the landowner wants)
+
+Building on that, the talk will also outline why the OSM community is often skeptical about filling an empty map with data imports, about AI contributions, or about automatic edits, and why OpenStreetMap is not a business directory.
+
+The plan is to explain the basic ideas and give examples of their effects for data users or for everyday mapping practice. Where the concepts are controversial or subject to discussion, these controversies will be mentioned but not followed in depth. This talk will focus on &#34;traditional&#34; values in OpenStreetMap because they are omnipresent. After hearing these explanations, newcomers will have a better chance of understanding where people come from when they say things like &#34;we are not a map&#34;, and will be better prepared to form their own opinion.
