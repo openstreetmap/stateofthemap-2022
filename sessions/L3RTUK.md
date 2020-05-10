@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Mikko Tamura"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 10:00"
+time_iso: "2020-07-05T10:00:00Z"
 resources: [{ description: "Test Video", url: "/attachments/L3RTUK_2020-04-28_14-20-14_HTXEG6F.mkv" }]
 recording: True
 ---

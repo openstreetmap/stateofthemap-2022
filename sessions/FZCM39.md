@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Gregory Marler"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 21:30"
+time_iso: "2020-07-04T21:30:00Z"
 resources: []
 recording: True
 ---

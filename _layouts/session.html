@@ -11,7 +11,7 @@ color: dark-nav
 
       <section class='col3'>
         <p><span class='abstract-room'>Room: {{page.room}}</span></p>
-        <p><span class='abstract-time'>{{page.time}}</span></p>
+        <p><span class='abstract-time'><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg={{page.title}}&iso={{page.time_iso}}">{{page.time}} UTC</a></span></p>
         {% unless page.recording or page.recordings %}
           <p><span class='abstract-no-recording'><img src="/img/novideo-dark.svg" class="noRecordingDark" height="25" alt="no recording" title="This session was not recorded."> This event was not recorded.</span></p>
         {% endunless %}

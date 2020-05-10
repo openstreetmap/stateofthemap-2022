@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Mikel Maron"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 18:00"
+time_iso: "2020-07-04T18:00:00Z"
 resources: []
 recording: True
 ---

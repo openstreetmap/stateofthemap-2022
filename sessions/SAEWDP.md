@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Shamilah Nassozi"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 16:30"
+time_iso: "2020-07-05T16:30:00Z"
 resources: []
 recording: True
 ---

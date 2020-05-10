@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Taylor Reich"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 20:00"
+time_iso: "2020-07-05T20:00:00Z"
 resources: []
 recording: True
 ---

@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Brandon Liu"]
 room: "Track 1"
 length: "00:20"
 time: "Sunday, 17:15"
+time_iso: "2020-07-05T17:15:00Z"
 resources: []
 recording: True
 ---

@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Said Turksever"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 15:00"
+time_iso: "2020-07-04T15:00:00Z"
 resources: []
 recording: True
 ---

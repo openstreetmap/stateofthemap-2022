@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Jorge"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 16:30"
+time_iso: "2020-07-04T16:30:00Z"
 resources: []
 recording: True
 ---

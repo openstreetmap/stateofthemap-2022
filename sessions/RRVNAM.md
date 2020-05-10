@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Allan Mustard"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 10:20"
+time_iso: "2020-07-04T10:20:00Z"
 resources: []
 recording: True
 ---

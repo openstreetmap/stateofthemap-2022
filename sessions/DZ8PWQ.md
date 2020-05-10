@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Janet Chapman"]
 room: "Track 2"
 length: "00:20"
 time: "Saturday, 13:00"
+time_iso: "2020-07-04T13:00:00Z"
 resources: []
 recording: True
 ---

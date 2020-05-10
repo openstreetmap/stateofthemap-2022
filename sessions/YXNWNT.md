@@ -6,6 +6,7 @@ speaker_names_with_affiliations: ["Danijel Schorlemmer", "Felix Delattre"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 15:45"
+time_iso: "2020-07-04T15:45:00Z"
 resources: []
 recording: True
 ---
