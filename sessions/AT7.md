@@ -11,4 +11,4 @@ time_iso: "2020-07-05T15:45:00Z"
 resources: []
 recording: True
 ---
-
+This study explores the following research questions using OpenStreetMap data with survey data from one of seven slums being studied in Africa and Asia. What are the differentials of spatial proximity to healthcare providers in informal urban settings like slum? Do different sociodemographic profiles of slum residents have different accessibility to health care facilities? Preliminary findings suggest that slum residents can access four categories of health care facilities (Clinics and Maternity Centres; Patent Medicine Stores; Traditional and Faith Healers; and, one Eye Health Centre) within a walking distance (under 1km) where Clinics and Maternity Centres are farthest from most residents.

@@ -11,4 +11,4 @@ time_iso: "2020-07-05T10:45:00Z"
 resources: []
 recording: True
 ---
-
+Organizations use geographic data created by OpenStreetMap (OSM) for humanitarian and development purposes. As more people start to depend on OSM, it is important to measure data completeness in order to inform contributors and decision makers on unmapped parts of the world. Here we describe a method for measuring the completeness of OSM building footprints using human settlement layers as a proxy for ground truth data. We also provide implementation details using geospatial Python libraries and we explain why it is faster as compared to GIS software.
