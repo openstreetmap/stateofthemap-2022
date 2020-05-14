@@ -2,7 +2,7 @@
 layout: session
 title: "Mapcampaigner Redesign: The Data Quality Monitor For OSM"
 code: "VJS3LC"
-speaker_names_with_affiliations: ["Jorge"]
+speaker_names_with_affiliations: ["Jorge Martinez"]
 room: "Track 1"
 length: "00:20"
 time: "Saturday, 16:30"
