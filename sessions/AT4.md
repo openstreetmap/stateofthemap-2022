@@ -1,7 +1,7 @@
 ---
 layout: session_academic
 academic: true
-title: "The question of “localness” in OpenStreetMap"
+title: "Analyzing the localness of OSM data"
 code: "AT4"
 speaker_names_with_affiliations: ["Susanne Schröder-Bergen, Institute of Geography, Friedrich-Alexander University Erlangen-Nürnberg"]
 room: "Track 2"
