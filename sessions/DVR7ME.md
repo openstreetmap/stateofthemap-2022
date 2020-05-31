@@ -4,7 +4,7 @@ title: "Building Stronger Communities Together - the Local Chapters &amp; Commun
 code: "DVR7ME"
 speaker_names_with_affiliations: ["Maggie Cawley"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 21:30"
 time_iso: "2020-07-04T21:30:00Z"
 resources: []

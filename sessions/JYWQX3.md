@@ -4,7 +4,7 @@ title: "Trademarks &amp; OSMF"
 code: "JYWQX3"
 speaker_names_with_affiliations: ["Kathleen Lu"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 20:45"
 time_iso: "2020-07-05T20:45:00Z"
 resources: []

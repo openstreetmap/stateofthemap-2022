@@ -4,7 +4,7 @@ title: "MAPBEKS: Mapping of HIV Facilities and LGBT spaces in the Philippines on
 code: "L3RTUK"
 speaker_names_with_affiliations: ["Mikko Tamura"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 10:00"
 time_iso: "2020-07-05T10:00:00Z"
 resources: []

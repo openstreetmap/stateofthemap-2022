@@ -4,7 +4,7 @@ title: "The use of OpenStreetMap within the Italian Alpine Club"
 code: "CDES3T"
 speaker_names_with_affiliations: ["Luca Delucchi"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 13:00"
 time_iso: "2020-07-05T13:00:00Z"
 resources: []

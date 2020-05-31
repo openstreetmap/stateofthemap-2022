@@ -4,7 +4,7 @@ title: "Visualizing Gender of Street Names in Brazil"
 code: "HLFEER"
 speaker_names_with_affiliations: ["Bernardo Loureiro"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 20:00"
 time_iso: "2020-07-04T20:00:00Z"
 resources: []

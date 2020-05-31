@@ -4,7 +4,7 @@ title: "Use of OSM data in formalizing informal public transport systems, case o
 code: "HYJA7W"
 speaker_names_with_affiliations: ["Remígio Chilaule"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 15:45"
 time_iso: "2020-07-05T15:45:00Z"
 resources: []

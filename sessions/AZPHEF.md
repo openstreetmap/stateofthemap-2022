@@ -4,7 +4,7 @@ title: "Lightning Talks I"
 code: "AZPHEF"
 speaker_names_with_affiliations: ["SotM Working Group"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 13:00"
 time_iso: "2020-07-04T13:00:00Z"
 resources: []

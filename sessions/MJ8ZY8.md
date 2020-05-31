@@ -4,7 +4,7 @@ title: "OSM Routing Evaluation"
 code: "MJ8ZY8"
 speaker_names_with_affiliations: ["Yantisa Akhadi"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 11:30"
 time_iso: "2020-07-04T11:30:00Z"
 resources: []

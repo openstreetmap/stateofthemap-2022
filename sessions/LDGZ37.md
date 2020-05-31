@@ -4,7 +4,7 @@ title: "Participatory Budgeting &amp; Mapping with citizens and government"
 code: "LDGZ37"
 speaker_names_with_affiliations: ["Erica Hagen", "Lucy Fondo"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 20:00"
 time_iso: "2020-07-04T20:00:00Z"
 resources: []

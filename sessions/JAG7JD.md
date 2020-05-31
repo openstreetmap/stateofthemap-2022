@@ -4,7 +4,7 @@ title: "Turkish Law on National Geospatial Data and Its Implications Regarding O
 code: "JAG7JD"
 speaker_names_with_affiliations: ["Can Ünen", "Orkut Murat Yılmaz"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 18:00"
 time_iso: "2020-07-04T18:00:00Z"
 resources: []

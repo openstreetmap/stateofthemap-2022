@@ -4,7 +4,7 @@ title: "Creating an open data ecosystem for reviews of places and more"
 code: "AA8RXP"
 speaker_names_with_affiliations: ["Dina Carabas"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 16:30"
 time_iso: "2020-07-04T16:30:00Z"
 resources: [{ description: "Ecosystem", url: "/attachments/AA8RXP_Screenshot_2020-03-29_at_15.55.38_oIv435A.png" }]

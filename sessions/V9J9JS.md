@@ -4,7 +4,7 @@ title: "OSM data assessment in the area of Athens - Greece"
 code: "V9J9JS"
 speaker_names_with_affiliations: ["Stathis G. Arapostathis"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 17:15"
 time_iso: "2020-07-04T17:15:00Z"
 resources: []

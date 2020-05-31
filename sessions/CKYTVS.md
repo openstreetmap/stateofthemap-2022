@@ -4,7 +4,7 @@ title: "Send me a Postcard"
 code: "CKYTVS"
 speaker_names_with_affiliations: ["Ilya Zverev"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 20:45"
 time_iso: "2020-07-04T20:45:00Z"
 resources: []

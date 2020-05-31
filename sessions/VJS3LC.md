@@ -4,7 +4,7 @@ title: "Mapcampaigner Redesign: The Data Quality Monitor For OSM"
 code: "VJS3LC"
 speaker_names_with_affiliations: ["Jorge Martinez"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 16:30"
 time_iso: "2020-07-04T16:30:00Z"
 resources: []

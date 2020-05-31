@@ -4,7 +4,7 @@ title: "MapImpact: Mapping and social researchs by students in Cusco, Perú"
 code: "3AJAEF"
 speaker_names_with_affiliations: ["Regina Campos Cc."]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 21:30"
 time_iso: "2020-07-04T21:30:00Z"
 resources: []

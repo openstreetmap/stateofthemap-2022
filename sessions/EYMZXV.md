@@ -4,7 +4,7 @@ title: "Overwiew on OpenStreetMap Togo Community"
 code: "EYMZXV"
 speaker_names_with_affiliations: ["Ata Franck Akouete"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 15:45"
 time_iso: "2020-07-04T15:45:00Z"
 resources: []

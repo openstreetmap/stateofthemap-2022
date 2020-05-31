@@ -4,7 +4,7 @@ title: "Meet an OpenStreetMapper"
 code: "FZCM39"
 speaker_names_with_affiliations: ["Gregory Marler"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 22:15"
 time_iso: "2020-07-04T22:15:00Z"
 resources: []

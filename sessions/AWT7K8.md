@@ -4,7 +4,7 @@ title: "Gender Performance in OSM Mapping, Does It Matter?"
 code: "AWT7K8"
 speaker_names_with_affiliations: ["Zainab Ramadhanis"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 11:30"
 time_iso: "2020-07-05T11:30:00Z"
 resources: []

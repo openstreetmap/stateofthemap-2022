@@ -4,7 +4,7 @@ title: "Ranks for Rendering"
 code: "3FNPY7"
 speaker_names_with_affiliations: ["Michael Reichert"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Saturday, 12:15"
 time_iso: "2020-07-04T12:15:00Z"
 resources: []

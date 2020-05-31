@@ -4,7 +4,7 @@ title: "Identify map problems in OSM by connectivity check"
 code: "URVEBF"
 speaker_names_with_affiliations: ["Evan Hossain"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 12:15"
 time_iso: "2020-07-05T12:15:00Z"
 resources: []

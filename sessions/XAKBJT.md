@@ -4,7 +4,7 @@ title: "Sustainability and OSM for Development"
 code: "XAKBJT"
 speaker_names_with_affiliations: ["Erica Hagen"]
 room: "Track 2"
-length: "00:20"
+length: "20"
 time: "Saturday, 20:45"
 time_iso: "2020-07-04T20:45:00Z"
 resources: [{ description: "Sustainability in OSM", url: "/attachments/XAKBJT_Sustainability_in_OSM_-_Erica_Hagen_-_OpenDRI_Whit_B4RVJlq.pdf" }]

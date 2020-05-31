@@ -4,7 +4,7 @@ title: "Rapid Mapping of 50 Communes in Madagascar"
 code: "S8HYDT"
 speaker_names_with_affiliations: ["Seth Cochran"]
 room: "Track 1"
-length: "00:20"
+length: "20"
 time: "Sunday, 17:15"
 time_iso: "2020-07-05T17:15:00Z"
 resources: []
