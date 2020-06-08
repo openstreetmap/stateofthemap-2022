@@ -3,7 +3,7 @@ layout: session_academic
 academic: true
 title: "Measuring OpenStreetMap building footprint completeness using human settlement layers"
 code: "AT2"
-speaker_names_with_affiliations: ["Ardie Orden, Thinking Machines Data Science; ardie@thinkingmachin.es","Pia Faustino, Thinking Machines Data Science; pia@thinkingmachin.es","Mark Steve Samson, Thinking Machines Data Science; marksteve@thinkingmachin.es"]
+speaker_names_with_affiliations: ["Ardie Orden, Thinking Machines Data Science; ardie@thinkingmachin.es","Ren Avell Flores, Thinking Machines Data Science","Pia Faustino, Thinking Machines Data Science; pia@thinkingmachin.es","Mark Steve Samson, Thinking Machines Data Science; marksteve@thinkingmachin.es"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 10:45"
