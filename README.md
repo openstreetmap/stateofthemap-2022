@@ -22,7 +22,7 @@ Alternatively you can use Docker to install Jekyll and to serve the site within 
 * [Install docker-compose](https://docs.docker.com/compose/install/)
 * `git clone git@github.com:openstreetmap/stateofthemap-2020.git`
 * `cd stateofthemap-2020`
-* `docker-compose up`
+* `docker-compose up --build`
 * Point your browser to `http://localhost:4000/`
 
 Alternatively if you are using docker-machine, replace localhost with the IP address from `docker-machine ip`
