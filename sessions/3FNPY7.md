@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Ranks for Rendering"
+subtitle: "Adding Missing Ranking to OSM Data for Rule-based Cartography"
 code: "3FNPY7"
 speaker_names_with_affiliations: ["Michael Reichert"]
 room: "Track 1"
