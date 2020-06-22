@@ -2,7 +2,7 @@
 layout: session
 title: "Evolution of humanitarian mapping within the OpenStreetMap Community"
 code: "SNEDXL"
-speaker_names_with_affiliations: ["Marcel Reinmuth; Heidelberg Institute of Geoinformation Technology, Heidelberg University;\r", "Benjamin Herfort; Heidelberg Institute of Geoinformation Technology, Heidelberg University;\r", "Jochen Stier; Heidelberg Institute of Geoinformation Technology, Heidelberg University;\r", "Alina Klerings; Heidelberg Institute of Geoinformation Technology, Heidelberg University;"]
+speaker_names_with_affiliations: ["Marcel Reinmuth (Heidelberg Institute of Geoinformation Technology, Heidelberg University)", "Benjamin Herfort (Heidelberg Institute of Geoinformation Technology, Heidelberg University)", "Jochen Stier (Heidelberg Institute of Geoinformation Technology, Heidelberg University)", "Alina Klerings (Heidelberg Institute of Geoinformation Technology, Heidelberg University)"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 16:30"

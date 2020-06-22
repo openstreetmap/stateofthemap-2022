@@ -2,7 +2,7 @@
 layout: session
 title: "From Historical OpenStreetMap data to customized training samples for geospatial machine learning"
 code: "HUKVDK"
-speaker_names_with_affiliations: ["Zhaoyan Wu; GIScience Research Group, Heidelberg University, Heidelberg, Germany and School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China;\r", "Hao Li; GIScience Research Group, Heidelberg University, Heidelberg, Germany;\r", "Alexander Zipf; GIScience Research Group, Heidelberg University, Heidelberg, Germany;"]
+speaker_names_with_affiliations: ["Zhaoyan Wu (GIScience Research Group, Heidelberg University, Heidelberg, Germany and School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China)", "Hao Li (GIScience Research Group, Heidelberg University, Heidelberg, Germany)", "Alexander Zipf (GIScience Research Group, Heidelberg University, Heidelberg, Germany)"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 13:00"

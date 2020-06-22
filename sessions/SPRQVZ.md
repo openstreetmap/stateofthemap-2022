@@ -2,7 +2,7 @@
 layout: session
 title: "Curious Cases of Corporations in OpenStreetMap"
 code: "SPRQVZ"
-speaker_names_with_affiliations: ["Jennings Anderson; University of Colorado Boulder;\r", "Dipto Sarkar; University College Cork;"]
+speaker_names_with_affiliations: ["Jennings Anderson (University of Colorado Boulder)", "Dipto Sarkar (University College Cork)"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 18:00"

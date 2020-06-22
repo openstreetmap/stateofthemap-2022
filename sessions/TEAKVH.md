@@ -2,7 +2,7 @@
 layout: session
 title: "Community mapping a means to building resilience"
 code: "TEAKVH"
-speaker_names_with_affiliations: ["Dickson Daniel Chinguwo; The Malawi Polytechnic;\r", "Brown Kingsely Mphalo; Department of Surveys;"]
+speaker_names_with_affiliations: ["Dickson Daniel Chinguwo (The Malawi Polytechnic)", "Brown Kingsely Mphalo (Department of Surveys)"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 15:00"

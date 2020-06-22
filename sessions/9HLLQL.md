@@ -2,7 +2,7 @@
 layout: session
 title: "Towards understanding the quality of OpenStreetMap contributions: Results of an intrinsic quality assessment of data for Mozambique"
 code: "9HLLQL"
-speaker_names_with_affiliations: ["Aphiwe Madubedube; Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa;\r", "Serena Coetzee; Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa;\r", "Victoria Rautenbach; Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa;"]
+speaker_names_with_affiliations: ["Aphiwe Madubedube (Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa)", "Serena Coetzee (Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa)", "Victoria Rautenbach (Department of Geography, Geoinformatics and Meteorology, University of Pretoria, Pretoria, South Africa)"]
 room: "Track 2"
 length: "20"
 time: "Sunday, 11:30"
