@@ -14,8 +14,45 @@ headings: "overview,general_Saturday,general_Sunday"
   <li><a class="page-scroll" href="#general_Sunday">Sunday, 5 July</a>: day 2 of more presentations plus a whole track of academic talks selected by our <a href="../cfp/academic#committee">scientific committee</a></li>
 </ul>
 
+<p>Change time zone:
+<select id="city-select" size="1" onchange="updateTZ(this.value)">
+    <option value="UTC">UTC</option>
+</select>
+</p>
+
 <!--<p>If you want to use an app to get reminder for talks in the schedule, you can use <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity">Giggity</a>. Alternatively, you can get the whole schedule as <a href="http://sotm.osmz.ru/19.ics">calendar file</a>.</p>
 
 <p>The programme of the academic track can be found on <a href="../academic_programme/">a separate page</a>.</p>-->
 
 {% include schedule/_general.html %}
+
+<script src="/js/moment.min.js"></script>
+<script src="/js/moment-timezone-with-data-10-year-range.min.js"></script>
+<script src="/js/timezones.js"></script>
+<script>
+    function updateTZ(tz) {
+        $('td > a').each(function() {
+            let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
+            if (m) {
+                let time = moment.utc(m[1]);
+                let timeTZ = moment(time).tz(tz);
+                $(this).html(timeTZ.format(
+                    time.date() == timeTZ.date() ? 'H:mm' : 'H:mm[<br><small>]ddd[</small>]'
+                ));
+            }
+        });
+        $('td', '.scheduleTable').first().text(tz == 'UTC' ? 'Time (UTC)' : 'Local Time');
+        return false;
+    }
+    function addCities(where) {
+        for (let i = 0; i < cityTimeZones.length; i++) {
+            let tz = cityTimeZones[i];
+            if (tz[2]) {
+                where.append($('<option value="' + tz[2] + '">' + tz[0] + ', ' + tz[1] + '</option>'));
+            }
+        }
+    }
+    window.addEventListener('DOMContentLoaded', function(e) {
+        addCities($('#city-select'));
+    });
+</script>
