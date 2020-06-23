@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Meet an OpenStreetMapper"
+subtitle: "Getting to know the people that make OpenStreetMap"
 code: "FZCM39"
 speaker_names_with_affiliations: ["Gregory Marler"]
 room: "Track 1"

@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Winds of Change in OpenStreetMap"
+subtitle: "The next 15 years"
 code: "RRVNAM"
 speaker_names_with_affiliations: ["Allan Mustard"]
 room: "Track 1"

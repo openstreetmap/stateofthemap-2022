@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Sustainability and OSM for Development"
+subtitle: "Research Outcomes with Open Cities Africa and GFDRR"
 code: "XAKBJT"
 speaker_names_with_affiliations: ["Erica Hagen"]
 room: "Track 2"

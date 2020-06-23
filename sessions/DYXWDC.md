@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "There might have been a misunderstanding..."
+subtitle: "Common misconceptions about OpenStreetMap"
 code: "DYXWDC"
 speaker_names_with_affiliations: ["Frederik Ramm"]
 room: "Track 1"
