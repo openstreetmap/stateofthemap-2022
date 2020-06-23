@@ -26,11 +26,12 @@ headings: "overview,general_Saturday,general_Sunday"
 
 {% include schedule/_general.html %}
 
-<script src="/js/moment.min.js"></script>
-<script src="/js/moment-timezone-with-data-10-year-range.min.js"></script>
-<script src="/js/timezones.js"></script>
+<script src="{{ "/js/moment.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/moment-timezone-with-data-10-year-range.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/timezones.js" | prepend: site.baseurl }}"></script>
 <script>
     function updateTZ(tz) {
+        window.alert(tz);
         $('td > a').each(function() {
             let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
             if (m) {
@@ -44,12 +45,11 @@ headings: "overview,general_Saturday,general_Sunday"
         $('td', '.scheduleTable').first().text(tz == 'UTC' ? 'Time (UTC)' : 'Local Time');
         return false;
     }
+
     function addCities(where) {
         for (let i = 0; i < cityTimeZones.length; i++) {
             let tz = cityTimeZones[i];
-            if (tz[2]) {
-                where.append($('<option value="' + tz[2] + '">' + tz[0] + ', ' + tz[1] + '</option>'));
-            }
+            where.append($('<option value="' + tz[2] + '">' + tz[0] + ', ' + tz[1] + '</option>'));
         }
     }
     window.addEventListener('DOMContentLoaded', function(e) {
