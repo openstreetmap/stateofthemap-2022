@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Assessing Global OpenStreetMap building completeness to generate large-scale 3D city models"
 code: "YHEMFS"
 speaker_names_with_affiliations: ["Filip Biljecki (Urban Analytics Lab, National University of Singapore, Singapore)", "Ang Li Min (Urban Analytics Lab, National University of Singapore, Singapore)"]

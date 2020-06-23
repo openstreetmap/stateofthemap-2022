@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Examining spatial proximity to health care facilities in an informal urban setting"
 code: "FLHGVQ"
 speaker_names_with_affiliations: ["Godwin Yeboah (Institute for Global Sustainable Development, University of Warwick, Coventry, United Kingdom)", "João Porto de Albuquerque (Institute for Global Sustainable Development, University of Warwick, Coventry, United Kingdom)", "Olalekan John Taiwo (Department of Geography, University of Ibadan, Nigeria)"]

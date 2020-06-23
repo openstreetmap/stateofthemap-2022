@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Community mapping a means to building resilience"
 code: "TEAKVH"
 speaker_names_with_affiliations: ["Dickson Daniel Chinguwo (The Malawi Polytechnic)", "Brown Kingsely Mphalo (Department of Surveys)"]

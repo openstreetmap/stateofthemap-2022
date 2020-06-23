@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Detecting informal settlements via topological analysis"
 code: "EYDKX3"
 speaker_names_with_affiliations: ["Satej Soman (Mansueto Institute for Urban Innovation, University of Chicago\r)", "Cooper Nederhoof (Mansueto Institute for Urban Innovation, University of Chicago\r)", "Nicholas Marchio (Mansueto Institute for Urban Innovation, University of Chicago\r)", "Annie Yang (University of Chicago\r)", "Anni Beukes (Mansueto Institute for Urban Innovation, University of Chicago \r)", "Luis Bettencourt (Mansueto Institute for Urban Innovation, University of Chicago)"]

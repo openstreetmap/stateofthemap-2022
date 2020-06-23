@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Measuring OpenStreetMap building footprint completeness using human settlement layers"
 code: "YUM9PY"
 speaker_names_with_affiliations: ["Ardie Orden (Thinking Machines Data Science\r)", "Ren Avell Flores (Thinking Machines Data Science\r)", "Pia Faustino (Thinking Machines Data Science\r)", "Mark Steve Samson (Thinking Machines Data Science)"]

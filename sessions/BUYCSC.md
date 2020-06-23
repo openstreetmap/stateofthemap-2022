@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Analyzing the localness of OSM data"
 code: "BUYCSC"
 speaker_names_with_affiliations: ["Susanne Schröder-Bergen (Institute of Geography, Friedrich-Alexander University Erlangen-Nürnberg)"]
