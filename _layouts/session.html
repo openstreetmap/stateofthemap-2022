@@ -18,6 +18,12 @@ color: dark-nav
 
         <hr class="space-right4">
 
+        <p>
+          <a href="{{page.pad}}" title="interactive session pad for discussions, questions and answers, extra content, etc. about this session">session pad</a>
+        </p>
+
+        <hr class="space-right4">
+
         {% for r in page.resources %}
         <p><span class='abstract-doi'><a href="{{r.url}}">{{r.description}}</a>{% if r.description == 'full abstract' %} (<a href="https://doi.org/{{page.doi}}">DOI</a>){% endif %}</p>
         {% endfor %}
