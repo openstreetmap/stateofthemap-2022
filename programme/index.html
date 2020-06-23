@@ -31,7 +31,6 @@ headings: "overview,general_Saturday,general_Sunday"
 <script src="{{ "/js/timezones.js" | prepend: site.baseurl }}"></script>
 <script>
     function updateTZ(tz) {
-        window.alert(tz);
         $('td > a').each(function() {
             let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
             if (m) {
@@ -47,9 +46,15 @@ headings: "overview,general_Saturday,general_Sunday"
     }
 
     function addCities(where) {
+        cityTimeZones.sort(function(a, b) {
+            if (a[1] < b[1]) return -1;
+            if (a[1] > b[1]) return 1;
+            return 0;
+        });
         for (let i = 0; i < cityTimeZones.length; i++) {
             let tz = cityTimeZones[i];
-            where.append($('<option value="' + tz[2] + '">' + tz[0] + ', ' + tz[1] + '</option>'));
+            let name = tz[0] ? tz[1] + ' &mdash; ' + tz[0] : tz[1];
+            where.append($('<option value="' + tz[2] + '">' + name + '</option>'));
         }
     }
     window.addEventListener('DOMContentLoaded', function(e) {
