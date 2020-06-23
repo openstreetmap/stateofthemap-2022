@@ -9,6 +9,7 @@ time: "Sunday, 18:00"
 time_iso: "2020-07-05T18:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/lightning-talks-ii
 ---
 We are still looking for lightning talks:
 

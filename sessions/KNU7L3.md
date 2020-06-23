@@ -9,6 +9,7 @@ time: "Sunday, 20:00"
 time_iso: "2020-07-05T20:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/earthquakes-and-openstreetmap
 ---
 Earthquakes are threatening many regions in the world with constantly increasing risk due to rapid urbanization and industrialization. To improve resilience and preparedness, we need to estimate the risk of earthquakes with the greatest possible detail. For this, exposure models are used that translate the physical earthquake hazard to building damage, human and financial losses. The level of detail in the risk model directly depends on the level of detail in the exposure model. So far, exposure models are usually described as aggregated building-type descriptions for larger geographic areas, from city districts to even larger administrative units.
 

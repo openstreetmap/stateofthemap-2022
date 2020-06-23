@@ -9,6 +9,7 @@ time: "Sunday, 10:00"
 time_iso: "2020-07-05T10:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/mapbeks-mapping-of-hiv-facilities-and-lgbt-spaces-
 ---
 MapBeks is an online community of mapping volunteers that advocates for diversity inclusion and representation focused specifically for Lesbians, Gays, Bisexuals, Transgendered, Queer, Inter-sexed, etc. (LGBTQI+) on OpenStreetMap.
 As part of its advocacy is to map-out and locate all HIV facilities (testing, counselling, and treatment hubs) in the Philippines. It has researched, collated, and validated various sources to build an updated and comprehensive online database with location data. Currently, it has identified 650 HIV testing and counselling centers all over the Philippines and already mapped out 140 (20%) of the facilities on OSM using MapContrib.xyz.

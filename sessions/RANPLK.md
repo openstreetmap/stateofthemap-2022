@@ -9,6 +9,7 @@ time: "Sunday, 20:00"
 time_iso: "2020-07-05T20:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/pedestrians-first
 ---
 Few modern cities are walkable. Around the globe, cities have been designed for cars rather than pedestrians, resulting in enormous costs to the environment, the economy, and even the social fabric of our communities. In the face of the climate crisis, there is an urgent need to build cities that are sustainable and inclusive. Responding to that need, the Institute for Transportation and Development Policy has released Pedestrians First, a tool that supports planners and decision-makers by using OSM to measure what matters for walkability in cities.
 

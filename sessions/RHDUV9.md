@@ -9,6 +9,7 @@ time: "Saturday, 18:00"
 time_iso: "2020-07-04T18:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/an-incomplete-history-of-companies-and-professiona
 ---
 I want to reset the vision of companies place in OSM, starting by connecting back in time to when it was all more fluid in our community. For example, a month after I met Steve Coast in 2005, I was setting up meetings with Google. Helped secure Yahoo! maps imagery in 2007. Companies hosted many of the early days mapping parties. Professional cartographers were among the projects most original enthusiasts. The point was to change how mapping was done -- including and especially at companies. 
 

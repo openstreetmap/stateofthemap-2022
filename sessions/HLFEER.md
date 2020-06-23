@@ -9,6 +9,7 @@ time: "Saturday, 20:00"
 time_iso: "2020-07-04T20:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/visualizing-gender-of-street-names-in-brazil
 ---
 Using OSM road data and a database of gender popularity for names, I created a map visualization to show gender disparity in street names in Brazil. Streets named after women represent only a small proportion of the streets in Brazil. This proportion is even smaller when we consider the length instead of the number of streets.
 

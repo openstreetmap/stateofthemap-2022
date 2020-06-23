@@ -9,6 +9,7 @@ time: "Sunday, 17:15"
 time_iso: "2020-07-05T17:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/detecting-informal-settlements-via-topological-ana
 ---
 We outline methods for a) extracting the geometry of street blocks in urban centres using
 OSM and remote sensing data, b) generating approximate cadastral maps of a

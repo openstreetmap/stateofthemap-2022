@@ -9,6 +9,7 @@ time: "Sunday, 11:30"
 time_iso: "2020-07-05T11:30:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/gender-performance-in-osm-mapping-does-it-matter
 ---
 It is true that men mappers more dominate OpenStreetMap (OSM) mapping than women mappers. Some mapper communities have the number of female mappers than males mappers. For instance in Humanitarian OpenStreetMap Team Indonesia (HOT Indonesia), 19 from 30 mappers in HOT Indonesia are female. Moreover, it is a fact that men and women have some behavioural differences and it might affect their working performance, especially in OSM mapping. According to the number of changesets, addition, deletion and modification in OSM mapping that tracked through OSMCha, it can be seen the difference between female and male mappers when they are mapping some objects in OSM. 
 

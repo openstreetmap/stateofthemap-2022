@@ -9,5 +9,6 @@ time: "Sunday, 10:00"
 time_iso: "2020-07-05T10:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/assessing-global-openstreetmap-building-completene
 ---
 This presentation describes the ongoing work at the Urban Analytics Lab at the National University of Singapore, developing novel methods to assess building completeness at a multi-country scale, as part of a broader project of generating 3D city models on a large-scale using OpenStreetMap.

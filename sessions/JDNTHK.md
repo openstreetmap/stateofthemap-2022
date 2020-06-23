@@ -9,6 +9,7 @@ time: "Sunday, 20:45"
 time_iso: "2020-07-05T20:45:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/minutely-extracts-tools-for-nimble-editing-and-dow
 ---
 Workflows for adding data to OpenStreetMap keep getting better - but once an edit is uploaded, it can take a long time to appear on hosted map tiles or regional OSM extracts. The experience of downloading and using OpenStreetMap can be improved by quick access to fresh data - a fast feedback loop makes contributing to OSM more enjoyable!
 

@@ -9,6 +9,7 @@ time: "Saturday, 15:00"
 time_iso: "2020-07-04T15:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/the-map-in-360
 ---
 Mobile mapping is the process of collecting geospatial data from a mobile vehicle using a 360º camera, laser scanner, GPS/IMU positioning system, and other sensors. Mobile mapping is a time and cost-effective way to conduct asset inventory, monitor road infrastructure, and map street furniture. However, the high cost of acquiring mobile mapping equipment, such as professional 360° cameras and laser scanners, inhibit the ability of local OpenStreetMap communities to leverage mobile mapping technologies. With advice from Mapillary, low-cost devices that are accessible to communities make mobile mapping possible on a wider scale.
 

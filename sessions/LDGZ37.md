@@ -9,6 +9,7 @@ time: "Saturday, 20:00"
 time_iso: "2020-07-04T20:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/participatory-budgeting---mapping-with-citizens-an
 ---
 Map Kibera has been helping communities map out their local projects by collecting data and creating digital maps that they can use for planning and decision making. The Participatory Budget Mapping project was conducted in 3 counties in Kenya: West Pokot, Baringo and Makueni. These counties had already been part of an annual process of participatory budgeting, with locals weighing in on how budgets should be spent in their counties. 
 

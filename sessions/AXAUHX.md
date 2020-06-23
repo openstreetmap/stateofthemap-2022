@@ -9,6 +9,7 @@ time: "Saturday, 10:00"
 time_iso: "2020-07-04T10:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/opening
 ---
 Welcome to SotM 2020!
 

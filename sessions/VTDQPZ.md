@@ -9,5 +9,6 @@ time: "Sunday, 21:50"
 time_iso: "2020-07-05T21:50:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/closing
 ---
 Maps!

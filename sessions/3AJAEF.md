@@ -9,6 +9,7 @@ time: "Saturday, 21:30"
 time_iso: "2020-07-04T21:30:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/mapimpact-mapping-and-social-researchs-by-students
 ---
 MapImpact is a GAL Center project in Cusco, Peru, which aims to make more students aware of the problems that afflict their locality, to achieve this they will have to investigate these problems using OSM and associated tools such as Kobo Collect, as the main research tool. 
 

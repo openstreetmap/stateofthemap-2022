@@ -9,6 +9,7 @@ time: "Sunday, 13:00"
 time_iso: "2020-07-05T13:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/the-use-of-openstreetmap-within-the-italian-alpine
 ---
 The collaboration between the Italian Alpine Club (CAI) and OpenStreetMap (OSM) officially began with the signing of an agreement between CAI and Wikimedia Italia, the Italian chapter of the OSM Foundation, in 2016.
 The first activity was to define a standard to be used for CAI objects to be mapped using the wiki, and this started the mapping.

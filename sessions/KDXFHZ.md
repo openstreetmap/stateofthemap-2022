@@ -9,6 +9,7 @@ time: "Saturday, 10:45"
 time_iso: "2020-07-04T10:45:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/4-county-osm-digitization-liberia--lesson-learned
 ---
 The Government of Liberia is working on building an effective social protection by implementing a Liberia Household Social Registry (LHSR). The data collection for this Liberia Household Social Registry (LHSR) requires house-to-house visits. To ensure that the data intake questionnaire is administered to all households, updated map is needed since it’s last updated in 2008.
 HOT collaborated with OSM Liberia and iLab Liberia to complete the mapping and perform quality assurance in four counties in Liberia. The objective of this program is to update OpenStreetMap data to assist with a Social Registry data collection in four counties in Liberia: Bomi, Bong, Nimba and Maryland. Buildings and roads are the entities to map for this program.
