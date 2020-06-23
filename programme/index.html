@@ -26,38 +26,4 @@ headings: "overview,general_Saturday,general_Sunday"
 
 {% include schedule/_general.html %}
 
-<script src="{{ "/js/moment.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/moment-timezone-with-data-10-year-range.min.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/js/timezones.js" | prepend: site.baseurl }}"></script>
-<script>
-    function updateTZ(tz) {
-        $('td > a').each(function() {
-            let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
-            if (m) {
-                let time = moment.utc(m[1]);
-                let timeTZ = moment(time).tz(tz);
-                $(this).html(timeTZ.format(
-                    time.date() == timeTZ.date() ? 'H:mm' : 'H:mm[<br><small>]ddd[</small>]'
-                ));
-            }
-        });
-        $('td', '.scheduleTable').first().text(tz == 'UTC' ? 'Time (UTC)' : 'Local Time');
-        return false;
-    }
-
-    function addCities(where) {
-        cityTimeZones.sort(function(a, b) {
-            if (a[1] < b[1]) return -1;
-            if (a[1] > b[1]) return 1;
-            return 0;
-        });
-        for (let i = 0; i < cityTimeZones.length; i++) {
-            let tz = cityTimeZones[i];
-            let name = tz[0] ? tz[1] + ' &mdash; ' + tz[0] : tz[1];
-            where.append($('<option value="' + tz[2] + '">' + name + '</option>'));
-        }
-    }
-    window.addEventListener('DOMContentLoaded', function(e) {
-        addCities($('#city-select'));
-    });
-</script>
+{% include _timezoneswitcher.html %}
