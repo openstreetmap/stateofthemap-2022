@@ -51,17 +51,19 @@
                     <li>
                         <a class="{% if page.url contains '/venue' %}active{% endif %}" href="{{site.baseurl}}/venue/">Venue</a>
                     </li>-->
-
+                    <li>
+                        <a class="{% if page.url contains '/faq' %}active{% endif %}" href="{{site.baseurl}}/faq/">FAQ</a>
+                    </li>
                     <li>
                         <a class="{% if page.url contains '/artwork' %}active{% endif %}" href="{{site.baseurl}}/artwork/">Artwork</a>
                     </li>
-                    <li>
+                    <!-- <li>
                       {% if page.role == 'index' %}
                         <a class="page-scroll" href="#newsletter">Newsletter</a>
                       {% else %}
                         <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
                       {% endif %}
-                    </li>
+		    </li> -->
                     <li>
                       {% if page.role == 'index' %}
                         <a class="page-scroll" href="#sponsors">Sponsors</a>
