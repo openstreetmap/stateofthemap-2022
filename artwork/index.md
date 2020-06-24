@@ -22,5 +22,5 @@ Preview](/img/sotm2020-tshirt-preview.jpeg)
 # Sticker
 
 
-![T-Shirt](/img/sotm2020-sticker.png) Artwork by Bernelle Verster, CC-BY-SA 4.0.
+![Sticker](/img/sotm2020-sticker.png) Artwork by Bernelle Verster, CC-BY-SA 4.0.
 [Download SVG](/img/sotm2020-sticker.svg)
