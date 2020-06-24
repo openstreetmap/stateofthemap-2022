@@ -34,7 +34,10 @@
     }
 
     function addCities(where) {
+        const userTZ = moment.tz.guess();
         cityTimeZones.sort(function(a, b) {
+            if (a[2] == userTZ) return -1;
+            if (b[2] == userTZ) return 1;
             if (a[1] < b[1]) return -1;
             if (a[1] > b[1]) return 1;
             return 0;
@@ -42,6 +45,9 @@
         for (let i = 0; i < cityTimeZones.length; i++) {
             let tz = cityTimeZones[i];
             let name = tz[0] ? tz[1] + ' &mdash; ' + tz[0] : tz[1];
+            if (tz[2] == userTZ) {
+              name = '' + name + '*';
+            }
             where.append($('<option value="' + tz[2] + '">' + name + '</option>'));
         }
     }
