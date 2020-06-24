@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Rapid Mapping of 50 Communes in Madagascar"
+subtitle: "A Model for Collaboration in Rapidly Mapping Remote Areas"
 code: "S8HYDT"
 speaker_names_with_affiliations: ["Seth Cochran"]
 room: "Track 1"

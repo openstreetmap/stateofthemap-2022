@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Pedestrians First"
+subtitle: "Measuring walkability in cities worldwide"
 code: "RANPLK"
 speaker_names_with_affiliations: ["Taylor Reich"]
 room: "Track 1"
