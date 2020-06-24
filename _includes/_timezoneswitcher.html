@@ -29,6 +29,7 @@
                 $(this).html(timeTZ.format('dddd, H:mm z'));
             }
         });
+        window.localStorage.setItem("tz", tz);
         return false;
     }
 
@@ -46,5 +47,10 @@
     }
     window.addEventListener('DOMContentLoaded', function(e) {
         addCities($('#city-select'));
+        let tz = window.localStorage.getItem("tz");
+        if (tz) {
+          updateTZ(tz);
+          $('#city-select')[0].selectedIndex = cityTimeZones.indexOf(cityTimeZones.find(ctz => ctz[2] == tz)) + 1;
+        }
     });
 </script>
