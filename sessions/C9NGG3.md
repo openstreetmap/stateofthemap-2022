@@ -1,7 +1,6 @@
 ---
 layout: session
 title: "OSM Deep Facts in Developing Country: Indonesia case study"
-subtitle: "OSM Deep Facts in Developing Country: Indonesia case study"
 code: "C9NGG3"
 speaker_names_with_affiliations: ["Dwi Fanny Wulandari"]
 room: "Track 1"
