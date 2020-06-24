@@ -14,7 +14,8 @@ yourself to the assets below and produce your own.
 Artwork by Bernelle Verster, CC-BY-SA 4.0. [Download
 SVG](/img/sotm2020-tshirt.svg)
 
-T-Shirt preview: ![T-Shirt Preview](/img/sotm2020-tshirt-preview.jpeg)
+There's [a wiki page](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/Tshirt_shop_organization) regarding conference T-shirts. And here's a preview: 
+![T-Shirt Preview](/img/sotm2020-tshirt-preview.jpeg)
 
 # Sticker
 

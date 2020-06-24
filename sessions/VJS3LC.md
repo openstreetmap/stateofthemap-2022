@@ -9,6 +9,7 @@ time: "Saturday, 16:30"
 time_iso: "2020-07-04T16:30:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/mapcampaigner-redesign-the-data-quality-monitor-fo
 ---
 When we talk about a mapping campaign, it generally has specific characteristics:
 Desire to collect geospatial data for a purpose.

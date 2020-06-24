@@ -9,6 +9,7 @@ time: "Saturday, 18:00"
 time_iso: "2020-07-04T18:00:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/turkish-law-on-national-geospatial-data-and-its-im
 ---
 On January 30, members of the Turkish parliament voted in favour of the proposed amendment to the law regulating the acquisition, collection, dissemination and trading of spatial data falling within the responsibility matrix of Turkish National Geographic Information System. The law has officially been put into practice on February 20, with nationwide uncertainties on how it will be enforced, and on what level.
 

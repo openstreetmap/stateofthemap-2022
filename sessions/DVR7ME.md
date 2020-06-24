@@ -9,6 +9,7 @@ time: "Saturday, 21:30"
 time_iso: "2020-07-04T21:30:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/building-stronger-communities-together--the-local-
 ---
 Attend this talk to learn more about the Local Chapters and Communities Working Group (LCCWG). This talk will share our current initiatives as well as invite ideas from participants, and will precede the annual Local Chapters Congress, so hopefully we"ll see you at both! 
 

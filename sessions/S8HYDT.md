@@ -9,6 +9,7 @@ time: "Sunday, 17:15"
 time_iso: "2020-07-05T17:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/rapid-mapping-of-50-communes-in-madagascar
 ---
 Operation Fistula have a project in Madagascar where we are trying to end fistula for every woman in 50 communes (counties) across two regions of the country. These women are invisible. Their condition keeps them hidden from the public - many even hiding themselves, as the indignity of their injury is profound. They smell of urine or feces, so they don’t want to be seen. We are hiring a huge team of community agents on gps-powered motorbikes to go to every village in these 50 counties, and find every one of these invisible women. The problem is that the villages themselves are also invisible, so we are not sure where to go.
 

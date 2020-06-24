@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Ranks for Rendering"
+subtitle: "Adding Missing Ranking to OSM Data for Rule-based Cartography"
 code: "3FNPY7"
 speaker_names_with_affiliations: ["Michael Reichert"]
 room: "Track 1"
@@ -9,6 +10,7 @@ time: "Saturday, 12:15"
 time_iso: "2020-07-04T12:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/ranks-for-rendering
 ---
 Maps cannot show all information at all scales. A cartographer needs to decided which features should appear at which scale on the map.
 

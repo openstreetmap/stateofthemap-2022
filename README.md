@@ -1,5 +1,9 @@
 # State of the Map 2020 Website
 
+This repo is the Jekyll configuration, styles and content powering https://2020.stateofthemap.org
+
+Note that the SotM program is managed through our submission system at https://pretalx.com/sotm2020. If you change it on the submission system, it will be updated on the website automatically. Do that rather than making pull requests on the "session" files here.
+
 ## Local installation
 
 ### Install Jekyll
@@ -22,7 +26,7 @@ Alternatively you can use Docker to install Jekyll and to serve the site within 
 * [Install docker-compose](https://docs.docker.com/compose/install/)
 * `git clone git@github.com:openstreetmap/stateofthemap-2020.git`
 * `cd stateofthemap-2020`
-* `docker-compose up`
+* `docker-compose up --build`
 * Point your browser to `http://localhost:4000/`
 
 Alternatively if you are using docker-machine, replace localhost with the IP address from `docker-machine ip`

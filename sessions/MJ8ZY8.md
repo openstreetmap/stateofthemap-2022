@@ -9,6 +9,7 @@ time: "Saturday, 11:30"
 time_iso: "2020-07-04T11:30:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/osm-routing-evaluation
 ---
 There have been multiples OSM routing services that are available, from offline to online. While this situation gives people many options to choose from it may also confuse people on which service they should choose or use. 
 

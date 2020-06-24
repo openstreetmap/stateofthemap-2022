@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "There might have been a misunderstanding..."
+subtitle: "Common misconceptions about OpenStreetMap"
 code: "DYXWDC"
 speaker_names_with_affiliations: ["Frederik Ramm"]
 room: "Track 1"
@@ -9,6 +10,7 @@ time: "Saturday, 17:15"
 time_iso: "2020-07-04T17:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/there-might-have-been-a-misunderstanding...
 ---
 This talk will explain some of the often-heard but little-documented basic concepts in OSM, like
 

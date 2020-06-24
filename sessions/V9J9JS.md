@@ -9,6 +9,7 @@ time: "Saturday, 17:15"
 time_iso: "2020-07-04T17:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/osm-data-assessment-in-the-area-of-athens--greece
 ---
 Current research aspires to contribute to the assessment of the OSM map in Athens, Greece in terms of completeness and precision. The researcher chose Athens as, according to international published research regarding the phenomenon of Volunteered Geographic Information, it is initially assumed that it will have the maximum quality level, as Athens is the most populated city of the country.
 

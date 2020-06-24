@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Sustainability and OSM for Development"
+subtitle: "Research Outcomes with Open Cities Africa and GFDRR"
 code: "XAKBJT"
 speaker_names_with_affiliations: ["Erica Hagen"]
 room: "Track 2"
@@ -9,6 +10,7 @@ time: "Saturday, 20:45"
 time_iso: "2020-07-04T20:45:00Z"
 resources: [{ description: "Sustainability in OSM", url: "/attachments/XAKBJT_Sustainability_in_OSM_-_Erica_Hagen_-_OpenDRI_Whit_B4RVJlq.pdf" }]
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/sustainability-and-osm-for-development
 ---
 Two years ago, at SOTM in Milan, I and several colleagues held a panel discussion around sustainability challenges that were common to working with OSM in developing countries. Mappers spoke up about their struggles continuing to map, keeping maps up to date, and growing their mapper communities in places with very few resources. This research has now concluded with a white paper on the topic, and many new learnings along the way. In this talk, I’ll review the outcomes of &#34;Sustainability in OpenStreetMap&#34;, https://opendri.org/resource/sustainability-in-openstreetmap/, a publication under OpenDRI at the World Bank. 
 

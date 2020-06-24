@@ -9,6 +9,7 @@ time: "Sunday, 10:45"
 time_iso: "2020-07-05T10:45:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/osm-deep-facts-in-developing-country-indonesia-cas
 ---
 In many developing countries, the number of OSM contributors tends to increase every year. But the amount of increase has not been directly proportional to the sustainability of contributions to OSM. Indonesia is an interesting example of developing countries with many OSM agendas from various parties (Grab, HOTOSM, RedCross, IFRC, OSM Indonesia, National Disaster Agency, etc.) including training and Mapathon. In general, OSM was introduced in Indonesia by HOT OSM since 2012. Until 8 years later there were not many local mappers who contributed sustainably. It is also interesting to explore as a basis for increasing sustainable contributions to OSM by local mappers or mappers who have a certain area of ​​interest.
 

@@ -1,0 +1,62 @@
+<script src="{{ "/js/moment.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/moment-timezone-with-data-10-year-range.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/timezones.js" | prepend: site.baseurl }}"></script>
+<script>
+    function updateTZ(tz) {
+        $('td > a').each(function() {
+            let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
+            if (m) {
+                let time = moment.utc(m[1]);
+                let timeTZ = moment(time).tz(tz);
+                $(this).html(timeTZ.format(
+                    time.date() == timeTZ.date() ? 'H:mm' : 'H:mm[<br><small>]ddd[</small>]'
+                ));
+            }
+        });
+        let zone = moment().tz(tz).format('z');
+        if (zone[0] == '+' || zone[0] == '-') {
+          zone = 'UTC ' + zone;
+        }
+        $('.scheduleTable > thead > tr > td:first-child').text(tz == 'UTC'
+          ? 'Time (UTC)'
+          : 'Local Time (' + zone + ')'
+        );
+        $('.abstract-time > a').each(function() {
+            let m = /timeanddate\.com.+iso=(.+)$/.exec($(this).attr('href'));
+            if (m) {
+                let time = moment.utc(m[1]);
+                let timeTZ = moment(time).tz(tz);
+                $(this).html(timeTZ.format('dddd, H:mm z'));
+            }
+        });
+        window.localStorage.setItem("tz", tz);
+        return false;
+    }
+
+    function addCities(where) {
+        const userTZ = moment.tz.guess();
+        cityTimeZones.sort(function(a, b) {
+            if (a[2] == userTZ) return -1;
+            if (b[2] == userTZ) return 1;
+            if (a[1] < b[1]) return -1;
+            if (a[1] > b[1]) return 1;
+            return 0;
+        });
+        for (let i = 0; i < cityTimeZones.length; i++) {
+            let tz = cityTimeZones[i];
+            let name = tz[0] ? tz[1] + ' &mdash; ' + tz[0] : tz[1];
+            if (tz[2] == userTZ) {
+              name = '' + name + '*';
+            }
+            where.append($('<option value="' + tz[2] + '">' + name + '</option>'));
+        }
+    }
+    window.addEventListener('DOMContentLoaded', function(e) {
+        addCities($('#city-select'));
+        let tz = window.localStorage.getItem("tz");
+        if (tz) {
+          updateTZ(tz);
+          $('#city-select')[0].selectedIndex = cityTimeZones.indexOf(cityTimeZones.find(ctz => ctz[2] == tz)) + 1;
+        }
+    });
+</script>

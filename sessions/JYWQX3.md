@@ -9,6 +9,7 @@ time: "Sunday, 20:45"
 time_iso: "2020-07-05T20:45:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/trademarks---osmf
 ---
 The purpose of this talk is to give those interested a foundational explanation of what trademark law is and how the OSMF Trademark Policy works. 
 

@@ -9,6 +9,7 @@ time: "Saturday, 12:15"
 time_iso: "2020-07-04T12:15:00Z"
 resources: []
 recording: True
+pad: https://pad.sotm.bitcast.co.za/p/economy-human-and-policy-impact-on-mapping-in-publ
 ---
 In this talk, I will be explaining experiences faced while working on some of the major projects in public sector related to FOSSGIS and where all we could implement OSM into.
 Some of the major projects are as:
