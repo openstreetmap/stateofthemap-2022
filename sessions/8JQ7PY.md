@@ -2,7 +2,7 @@
 layout: session
 title: "Drones for Community Mapping"
 code: "8JQ7PY"
-speaker_names_with_affiliations: ["Leigh"]
+speaker_names_with_affiliations: ["Leigh Lunas"]
 room: "Track 1"
 length: "20"
 time: "Saturday, 10:45"
