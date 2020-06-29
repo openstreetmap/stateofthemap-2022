@@ -20,6 +20,10 @@ color: dark-nav
           <select id="city-select" size="1" onchange="updateTZ(this.value)" style="width:60%">
             <option value="UTC">UTC</option>
           </select></small>
+          <br>
+          <span>
+            Duration: {{page.length}}&nbsp;minutes (plus Q&amp;A)
+          </span>
         </p>
         {% unless page.recording or page.recordings %}
           <p><span class='abstract-no-recording'><img src="/img/novideo-dark.svg" class="noRecordingDark" height="25" alt="no recording" title="This session was not recorded."> This event was not recorded.</span></p>
