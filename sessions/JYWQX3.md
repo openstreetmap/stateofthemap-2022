@@ -6,8 +6,8 @@ code: "JYWQX3"
 speaker_names_with_affiliations: ["Kathleen Lu"]
 room: "Track 1"
 length: "20"
-time: "Sunday, 20:45"
-time_iso: "2020-07-05T20:45:00Z"
+time: "Sunday, 15:45"
+time_iso: "2020-07-05T15:45:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/trademarks---osmf

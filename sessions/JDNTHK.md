@@ -3,10 +3,10 @@ layout: session
 title: "Minutely Extracts: Tools for nimble editing and downloading"
 code: "JDNTHK"
 speaker_names_with_affiliations: ["Brandon Liu"]
-room: "Track 2"
+room: "Track 1"
 length: "20"
-time: "Sunday, 20:45"
-time_iso: "2020-07-05T20:45:00Z"
+time: "Sunday, 17:15"
+time_iso: "2020-07-05T17:15:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/minutely-extracts-tools-for-nimble-editing-and-dow
