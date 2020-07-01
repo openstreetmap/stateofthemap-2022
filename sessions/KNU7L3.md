@@ -3,10 +3,10 @@ layout: session
 title: "Earthquakes and OpenStreetMap"
 code: "KNU7L3"
 speaker_names_with_affiliations: ["Danijel Schorlemmer"]
-room: "Track 2"
+room: "Track 1"
 length: "20"
-time: "Sunday, 20:00"
-time_iso: "2020-07-05T20:00:00Z"
+time: "Sunday, 15:45"
+time_iso: "2020-07-05T15:45:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/earthquakes-and-openstreetmap

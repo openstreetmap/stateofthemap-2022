@@ -4,10 +4,10 @@ title: "Trademarks &amp; OSMF"
 subtitle: "Everything You Wish You Knew About Trademarks But Were Afraid to Ask™️"
 code: "JYWQX3"
 speaker_names_with_affiliations: ["Kathleen Lu"]
-room: "Track 1"
+room: "Track 2"
 length: "20"
-time: "Sunday, 15:45"
-time_iso: "2020-07-05T15:45:00Z"
+time: "Sunday, 20:00"
+time_iso: "2020-07-05T20:00:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/trademarks---osmf
