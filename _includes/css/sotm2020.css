@@ -191,7 +191,8 @@ footer a:focus,
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-image: url(./img/uct-front.jpg);
+    position: relative;
+    background-image: url(./img/uct-front-blurred.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -211,6 +212,35 @@ footer a:focus,
     text-align: center;
     display: inline-block;
     width: 300px;
+    margin-top: 40px;
+}
+
+.intro .intro-body .attending {
+    text-align: center;
+    display: inline-block;
+    width: 80%;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 1.5em 2em;
+    color: black;
+    background-color: {{ site.color.primary-dark }};
+}
+.intro .intro-body .attending img {
+    width: 12em;
+    height: auto;
+    margin-right: 2em;
+    margin-bottom: 1.5em;
+}
+.intro .intro-body .attending a {
+    color: {{ site.color.primary-light }};
+}
+.intro .intro-body ul {
+    list-style-type: '— ';
+    text-align: left;
+}
+.intro .intro-body ul li {
+  margin-bottom: 0.33em;
 }
 
 .credits {
@@ -251,8 +281,11 @@ header.intro .credits {
         padding-bottom: 60px;
         margin-left: 8%;
         float: left;
-        margin-top: 100px;
+        /*margin-top: 100px;*/
         margin-bottom: 100px;
+    }
+    .intro .intro-body .attending img {
+        float: left;
     }
 }
 
