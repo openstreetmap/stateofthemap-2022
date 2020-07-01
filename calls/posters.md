@@ -22,16 +22,7 @@ Your poster could show how well your home region is mapped, it could be a beauti
 
 ## How to enter
 
-* Upload your poster to OSM wiki
+* Upload your poster to OSM wiki, attach to email, or provide a download link.
 * File size maximum 30-40 MB
 * Format PDF
 * Please send an email to sotm@openstreetmap.org with a description of your poster, for the example the background of the project or whatever you find important to mention in the context of the poster - all what you would tell people if you show them your poster. We will publish this text together with the poster at the SotM website.
-* Please mention also the link of the uploaded poster in that email, so that we could know which of the uploaded posters is yours.
-
-## Timeline and Deadlines
-
-* Start: 10 May 2020
-* Deadline: 30 June 2020
-
-**The SotM team hopes to shortlist up to 20 posters that will be published on our website and some other SotM channels under CC BY SA 3.0 (or later)**
-
