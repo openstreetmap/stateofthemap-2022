@@ -40,6 +40,10 @@ div.affix {
   width: 25%;
   max-width: 300px;
   padding-right: 1em;
+  overflow: auto;
+  bottom: 0;
+  height: 80%;
+  height: calc(100% - 120px);
 }
 
 @media(max-width:767px) {
