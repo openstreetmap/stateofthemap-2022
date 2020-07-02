@@ -16,6 +16,8 @@ No, SotM2020 Online is free to attend and no registration is required.
 <h3 id="watch">How can I watch the talks?</h3>
 The talks from the main track and the academic track will be streamed. You'll find the link prominently displayed at the top of the SotM Homepage.
 
+The streams will be hosted on [streaming.media.ccc.de](https://streaming.media.ccc.de/). You can find some [additional information](https://streaming.media.ccc.de/about/#en) on their website.
+
 <h3 id="interact">How can I interact with the speakers and other members of the audience?</h3>
 You can interact with the speakers by asking questions in the Question & Answer sessions. You can interact with others in the self-organized sessions and in the community channels.
 * [https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions)
