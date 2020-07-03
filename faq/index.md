@@ -14,10 +14,7 @@ headings: "for-audience,for-speakers,for-sponsors"
 No, SotM2020 Online is free to attend and no registration is required.
 
 <h3 id="watch">How can I watch the talks?</h3>
-The talks from the main track and the academic track will be streamed. You'll find the link prominently displayed at the top of the SotM Homepage.
-
-<h3 id="stream-check">How can I check in advance if my browser is able to display the stream?</h3>
-The streams will be hosted on [streaming.media.ccc.de](https://streaming.media.ccc.de/), you can find some [additional information](https://streaming.media.ccc.de/about/#en) on their website.
+The talks from the main track and the academic track will be streamed on [streaming.media.ccc.de](https://streaming.media.ccc.de/sotm2020). You'll find the link prominently displayed at the top of the SotM Homepage.
 
 <h3 id="interact">How can I interact with the speakers and other members of the audience?</h3>
 You can interact with the speakers by asking questions in the Question & Answer sessions. You can interact with others in the self-organized sessions and in the community channels.
