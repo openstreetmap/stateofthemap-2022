@@ -30,7 +30,7 @@ How do you get trademark rights?
 Trademark use vs not trademark use
  - Using a term &#34;as a mark&#34;
  - Sponsorship/endorsement
- - What trademark doesn"t protect
+ - What trademark doesn't protect
  - fair uses
 
 OSM trademarks:

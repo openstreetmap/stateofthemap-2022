@@ -21,4 +21,4 @@ For example, a map on a medium scale cannot show all stations or all airports in
 
 This challenge has not been addressed by map styles used for OpenStreetMap data so far. Authors of map styles circumvent the issue by rendering all features at higher scales only or by selectiong features randomly until enough features are rendered.
 
-The talk will present how to add ranking information to train stations and airports from OpenStreetMap using other OpenStreetMap data and/or external datasets. The ranking is applied in the rendering database. The ranking train station is based on the presence of public transport route relations and has been used for train station rendering of OpenRailwayMap"s infrastructure map style since January 2020.
+The talk will present how to add ranking information to train stations and airports from OpenStreetMap using other OpenStreetMap data and/or external datasets. The ranking is applied in the rendering database. The ranking train station is based on the presence of public transport route relations and has been used for train station rendering of OpenRailwayMap's infrastructure map style since January 2020.

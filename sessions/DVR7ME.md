@@ -11,7 +11,7 @@ resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/building-stronger-communities-together--the-local-
 ---
-Attend this talk to learn more about the Local Chapters and Communities Working Group (LCCWG). This talk will share our current initiatives as well as invite ideas from participants, and will precede the annual Local Chapters Congress, so hopefully we"ll see you at both! 
+Attend this talk to learn more about the Local Chapters and Communities Working Group (LCCWG). This talk will share our current initiatives as well as invite ideas from participants, and will precede the annual Local Chapters Congress, so hopefully we'll see you at both! 
 
 Who are the Local Chapters &amp; Communities Working Group? Reformed in November 2019, the LCCWG are a small group of OpenStreetMap enthusiasts and community leaders interested in finding and implementing ways for the Foundation to support the growth of local communities. The LCCWG hopes to facilitate a global exchange of ideas and support among local leaders, and work together to create strong local communities. 
 

@@ -36,7 +36,7 @@ Who cares for the mapmakers who care? I would like to share a story about a geos
 
 For better Geo visualization, we built a website with Geo referenced 360 degree panorama photos. Lagos, Nigeria is our first phase.
 
-## What"s new on OSMCha?
+## What's new on OSMCha?
 *Wille Marcel*
 
 OSMCha is a validation tool for OpenStreetMap. On the last months we added some new features like visualization of relation members and more options of background imagery. Get updated on OSMCha with this talk.
@@ -44,7 +44,7 @@ OSMCha is a validation tool for OpenStreetMap. On the last months we added some 
 ## [GeoLadies PH](https://www.facebook.com/geoladiesph/)
 *Arnalie Vicario*
 
-Brief talk about GeoLadies PH, which was inspired by Maning Sambale"s &#34;How Do We Change the Ratio?&#34; presentation in 2014. GeoLadies PH dvocates incommunity diversity, collaborative participation and affirmative spaces forwomen and under-represented communities in OpenStreetMap and the localgeospatial science community.
+Brief talk about GeoLadies PH, which was inspired by Maning Sambale's &#34;How Do We Change the Ratio?&#34; presentation in 2014. GeoLadies PH dvocates incommunity diversity, collaborative participation and affirmative spaces forwomen and under-represented communities in OpenStreetMap and the localgeospatial science community.
 
 ## Fighting FGM (Female Genital Mutilation) with Maps
 *Janet Chapman*
