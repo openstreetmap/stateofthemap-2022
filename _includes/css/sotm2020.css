@@ -44,6 +44,8 @@ div.affix {
   bottom: 0;
   height: 80%;
   height: calc(100% - 120px);
+  width: calc(25% - 20px);
+  max-width: 280px;
 }
 
 @media(max-width:767px) {
