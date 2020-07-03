@@ -1,7 +1,6 @@
 ---
 layout: session
 title: "The State of OpenStreetMap in Africa"
-subtitle: "The state of OpenStreetMap in Africa"
 code: "M9WYW9"
 speaker_names_with_affiliations: ["Geoffrey Kateregga"]
 room: "Track 2"
