@@ -16,6 +16,9 @@ No, SotM2020 Online is free to attend and no registration is required.
 <h3 id="watch">How can I watch the talks?</h3>
 The talks from the main track and the academic track will be streamed on [streaming.media.ccc.de](https://streaming.media.ccc.de/sotm2020). You'll find the link prominently displayed at the top of the SotM Homepage.
 
+<h3 id="session-structure">How are the sessions structured?</h3>
+Sessions will start with a 20min talk, then Q&A (see below), and a transition into the next talk. 45min in total. 
+
 <h3 id="interact">How can I interact with the speakers and other members of the audience?</h3>
 You can interact with the speakers by asking questions in the Question & Answer sessions. You can interact with others in the self-organized sessions and in the community channels.
 * [https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions)
@@ -104,9 +107,12 @@ You have to join the Jitsi session of your talk and talk with the session host a
 <h2 id="for-sponsors">For Sponsors</h2>
 
 <h3 id="booths">How do sponsor booths work?</h3>
-Platinum, gold and silver sponsors will have promoted channels on a BigBlueButton server. They can provide a detailed schedule in the wiki
+Platinum, gold and silver sponsors will have promoted channels on a BigBlueButton server. There is very good [documentation](https://docs.bigbluebutton.org/overview.html) and [tutorial videos](https://bigbluebutton.org/html5/) available. 
+
+<h3 id="booths">How do sponsors communicate their availability?</h3>
+The sponsor maintain their section in the wiki at this URL: 
 
 * [https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions#Sponsor_Booths](
 https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/self-organized_sessions#Sponsor_Booths)
 
-You will also find that promoted on the SotM Homepage so that it is easy to find for everybody.
+The [sponsors section of 2020.stateofthemap.org](https://2020.stateofthemap.org/#sponsors) will point to the corresponding Wiki heading of the sponsor. So that the sponsor can maintain content, URL, and schedules by themselves. 
