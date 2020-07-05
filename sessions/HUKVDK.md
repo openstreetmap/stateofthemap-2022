@@ -10,5 +10,6 @@ time_iso: "2020-07-05T13:00:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/from-historical-openstreetmap-data-to-customized-t
+doi: 10.5281/zenodo.3923040
 ---
 Recently, OpenStreetMap (OSM) shows great potentials in providing massive and freely accessible training samples to further empower geospatial machine learning activities. We developed a flexible framework to automatically generate customized training samples from historical OSM data, which in the meantime provide the OSM intrinsic quality measurements as an additional feature. Moreover, different satellite imagery APIs and machine learning tasks are supported within the framework.

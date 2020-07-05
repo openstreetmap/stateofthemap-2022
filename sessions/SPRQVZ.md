@@ -10,5 +10,6 @@ time_iso: "2020-07-05T18:00:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/curious-cases-of-corporations-in-openstreetmap
+doi: 10.5281/zenodo.3923050
 ---
 Today, nearly 17% of the global road network was last edited by a corporate data-team member. We further investigate unique editing patterns among three corporations that have specific, localized impacts on the map.

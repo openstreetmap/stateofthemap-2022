@@ -10,5 +10,6 @@ time_iso: "2020-07-05T15:00:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/community-mapping-a-means-to-building-resilience
+doi: 10.5281/zenodo.3923058
 ---
 The study contributes towards some best practices of carrying out community mapping exercise and, distribution of results freely on OSM and spatial data portal like MASDAP for further studies or decision making.  Thus the study focused on preparing for mapping - what to map, how to map and how to record the data; the mapping exercise itself; downloading and digitizing of data in map production; and how to use the maps to aid in decision making.

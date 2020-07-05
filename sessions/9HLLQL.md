@@ -10,5 +10,6 @@ time_iso: "2020-07-05T11:30:00Z"
 resources: []
 recording: True
 pad: https://pad.sotm.bitcast.co.za/p/towards-understanding-the-quality-of-openstreetmap
+doi: 10.5281/zenodo.3923042
 ---
 Contributors of OpenStreetMap data for Mozambique, a country in Southern Africa, were classified into four distinct groups. The most active group included 25% of all contributors, most of them long-term contributors, and most features were last edited by members of this group. One can therefore conclude that the quality of the data is likely to be good, however, it lacks in completeness and the number of edits per feature is low. Even though no absolute statements about data quality can be made, the analysis provides valuable insight into the quality and can inform efforts to further improve the quality.
