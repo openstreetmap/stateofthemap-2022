@@ -12,7 +12,7 @@ recording: True
 pad: https://pad.sotm.bitcast.co.za/p/lightning-talks-ii
 ---
 ## [Divide and map. Now.](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.)
-*Jiri Vlasak*
+*Jiri Vlasak* - [Website](https://www.damn-project.org/), [Slides](https://qeef.gitlab.io/talks/damn-lightning-talk/)
 
 The damn project helps mappers by dividing some big area into smaller squares that a human can map.
 
@@ -27,7 +27,7 @@ Historically black colleges and universities (HBCUs) are schools that were estab
 Introducing the toolset we are building to generate 3D models from OpenStreetMap data, used in our under-development &#34;racing in your own city&#34; game, and sharing some pictures and videos.
 
 ## OSGeo + OSM
-*Enock Seth Nyamador*
+*Enock Seth Nyamador* - [Slides](https://enockseth.github.io/sotm-2020-osgeo-plus-osm-lightning-talk-enyamador/)
 
 Quick introduction to Open Source Geospatial Foundation (OSGeo) and highlighting projects for working with OSM Data.
 
@@ -48,6 +48,8 @@ Interest in open geospatial is growing in Pacific Island countries, where budget
 
 ## Hikar.js - bringing Hikar to the web
 *Nick Whitelegg*
+
+Hikar is an augmented reality app which overlays OSM ways on the camera feed of an Android device, and was presented last year at SOTM Heidelberg. The past year has seen a surge of interest in the three.js and A-Frame based augmented reality library AR.js, which allows AR apps to be developed for the web. This lightning talk summarises efforts so far to port Hikar to the web using AR.js.
 
 ## [Mapathon Keralam](https://wiki.openstreetmap.org/wiki/Kerala_State_IT_Mission)
 *Amitha K Biju*

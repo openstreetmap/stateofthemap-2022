@@ -22,7 +22,7 @@ Map Kibera has launched the Kenya COVID-19 Tracker Ushahidi Instance to document
 This lightning talk will cover Women in GIS, Kenya efforts to map gender issues in Kenya with support of our community, through #DataViz Challenges.
 
 ## Where can you dine like a king?
-*Stefan Keller*
+*Stefan Keller* - [Whitepaper](https://md.coredump.ch/s/H1IQbLzjU), [Slides](https://www.slideshare.net/StefanKeller/where-can-you-dine-like-a-king) 
 
 Synchronizing Local Datasets and OpenStreetMap using QGIS.
 
@@ -32,7 +32,7 @@ Synchronizing Local Datasets and OpenStreetMap using QGIS.
 Who cares for the mapmakers who care? I would like to share a story about a geospatial collective about OSM and FOSS4G that we have been trying to organise in the Philippines during the pandemic.
 
 ## Building the Street View Experience, Lagos, Nigeria
-*Ayo Akinseye*
+*Ayo Akinseye* - [Website](http://www.moriwo.com/), [Slides](https://digitalspatial.com/sotm2020/presentation/)
 
 For better Geo visualization, we built a website with Geo referenced 360 degree panorama photos. Lagos, Nigeria is our first phase.
 
