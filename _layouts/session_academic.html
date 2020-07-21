@@ -42,6 +42,17 @@ color: dark-nav
         <p><span class='abstract-doi'><a href="{{r.url}}">{{r.description}}</a></p>
         {% endif %}{% endfor %}
 
+        {% if page.voc || page.youtube %}
+        <p>
+        {% endif %}
+
+        {% if page.voc %}<a href="{{ page.voc }}">video on media.ccc.de</a><br>{% endif %}
+        {% if page.youtube %}<a href="https://www.youtube.com/watch?v={{ page.youtube }}">video on YouTube</a>{% endif %}
+
+        {% if page.voc || page.youtube %}
+        </p><hr class="space-right4">
+        {% endif %}
+
         <!--<hr class="space-right4">-->
 
         <a href='/programme/#session_{{page.code}}'>Back to schedule</a>
@@ -56,16 +67,12 @@ color: dark-nav
         {{content}}
 
         {% if page.recordings %}
-        <video controls width="100%" poster="/img/video-posters/video-{{ page.code }}.jpeg">
+        <video controls width="100%" poster="/img/video-posters/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
         {% for rec in page.recordings %}
           <source src="{{ rec.recording_url }}" type="{{ rec.mime_type }}">
         {% endfor %}
         </video>
         {% endif %}
-        <p>
-        {% if page.voc %}<a href="{{ page.voc }}">This recording on media.ccc.de</a><br>{% endif %}
-        {% if page.youtube %}<a href="https://www.youtube.com/watch?v={{ page.youtube }}">This recording on YouTube</a>{% endif %}
-        </p>
 
       </section>
     </div>

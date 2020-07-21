@@ -61,17 +61,15 @@ color: dark-nav
       <section class='col9'>
         <ul class='abstract-speaker'><li>{{page.speaker_names_with_affiliations | join: '</li><li>' }}</li></ul>
 
-        {{content}}
-
         {% if page.recordings %}
-        <video controls width="100%" poster="/img/video-posters/video-{{ page.code }}.jpeg">
+        <video controls width="100%" poster="/img/video-posters/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
         {% for rec in page.recordings %}
           <source src="{{ rec.recording_url }}" type="{{ rec.mime_type }}">
         {% endfor %}
         </video>
         {% endif %}
-        <p>
-        </p>
+
+        {{content}}
 
       </section>
     </div>
