@@ -16,4 +16,4 @@ pad: https://pad.sotm.bitcast.co.za/p/osm-quiz
 ---
 Surprise, surprise!
 
-Try the quiz yourself here: https://zverik.github.io/sotm2020-quiz/
+[Play the single-player version of the quiz!](https://zverik.github.io/sotm2020-quiz/)
