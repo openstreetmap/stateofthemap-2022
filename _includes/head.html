@@ -23,8 +23,13 @@
     <meta property="og:image" content="{{ "/img/sotm_2020-logo.png" | prepend: site.baseurl }}">
     <meta property="og:image:height" content="300">
     <meta property="og:image:width" content="300">
-    <meta property="og:title" content="State of the Map 2020 - online">
-    <meta property="og:description" content="The global OpenStreetMap conference. July 4 - 5 July, 2020 online (was planed to take place in Cape Town, South Africa). Join us for a two days event around OpenStreetMap for talks, discussions, workshops and more.">
+    {% if page.layout == "session" or page.layout == "session_academic" %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="Talk at {{ site.title }}. {{ site.description }}">
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    {% endif %}
     <meta property="og:url" content="https://2020.stateofthemap.org">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
