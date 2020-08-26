@@ -1,0 +1,28 @@
+---
+layout: default
+color: no-logo program-page
+color: dark-nav
+---
+<div class='keyline-top pad8y qa-page'>
+  <div class='limiter'>
+    <div class='pad4y col12 clearfix prose min-height'>
+      <h1>Questions & Answers - {{page.title}}</h1>
+
+      <section class='col3'>
+        <p class="disclaimer">
+          Disclaimer: This is an archived version of the once interactive
+          session pad with content from conference attendees. Please note that
+          some information was lost during the transformation (i.e. the edit
+          history, user colours, the chat and some formatting).
+        </p>
+
+        <p>
+          <a href="/sessions/{{page.code}}" title="Page of the session with abstract and video">Back to session page</a>
+        </p>
+      </section>
+      <section class='col9 qa-content'>
+        {{content}}
+      </section>
+    </div>
+  </div>
+</div>

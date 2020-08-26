@@ -910,3 +910,27 @@ h2.abstract-subtitle {
     font-weight: bold;
     padding-bottom: 10px;
 }
+
+/* Q&A
+--------------------------------------*/
+.qa-page .disclaimer {
+    font-style: italic;
+    padding-right: 1em;
+}
+
+@media only screen and (max-width:767px) {
+    .qa-page .disclaimer {
+        padding-right: 0;
+    }
+}
+
+.qa-content ol {
+    list-style-type: none;
+    list-style-position: outside;
+    counter-reset: item;
+}
+
+.qa-content ol > li:before {
+    counter-increment: item;
+    content: counters(item, ".") ". ";
+}
