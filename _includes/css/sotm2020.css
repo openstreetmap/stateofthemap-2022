@@ -14,7 +14,7 @@ html {
 
 .page {
   background-color: {{ site.color.primary-light }};
-  color: {{ site.color.links-white }};
+  color: {{ site.color.text }};
 }
 
 h1,
@@ -94,8 +94,7 @@ a:focus {
     color: {{ site.color.text }};
 }
 
-footer a,
-.page a {
+footer a {
     color: {{ site.color.links-white }};
 }
 
@@ -157,16 +156,23 @@ footer a:focus,
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
         background-color: {{ site.color.primary-dark }};
+        background-image: url(./img/logo_sotm-bg.svg);
+        background-position-x: center;
+        background-position-y: top;
+        background-size: cover;
         border-bottom: 0.5px solid {{ site.color.primary-light }};
     }
 
     .navbar-custom.top-nav-collapse {
         background-color: {{ site.color.primary-dark }};
+        background-image: url(./img/logo_sotm-bg.svg);
+        background-position-x: center;
+        background-position-y: top;
+        background-size: cover;
         border-bottom: 0.5px solid {{ site.color.primary-light }};
     }
 
     .navbar a, .navbar a:hover {
-        color: {{ site.color.primary-dark }};
         filter: drop-shadow(0 0 0.8px black);
     }
 
@@ -198,14 +204,14 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/uct-front.jpg);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-image: url(./img/sotm_2021-logo.png);
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position-y: bottom;
+    background-position-y: center;
 }
 
 .intro .intro-body {
@@ -217,7 +223,7 @@ footer a:focus,
     font-size: 40px;
     text-align: center;
     display: inline-block;
-    width: 300px;
+    width: auto;
     margin-top: 40px;
 }
 
@@ -270,9 +276,15 @@ header.intro .credits {
     header.intro {
         background-attachment: local;
         position: relative;
+        background-position-x: right 20%;
+        height: 420px
     }
     header.intro .credits {
         position: absolute;
+    }
+    header.intro .logo {
+      left: 10%;
+      position: absolute;
     }
 }
 
@@ -538,17 +550,6 @@ h3.small-title:before {
     left: 0px;
 }
 
-@font-face {
-    font-family:'d-din';
-    src:url('fonts/D-Din/D-DIN.otf') format("opentype");
-    font-weight:normal;
-    font-style:normal;
-}
-
-span.numeral {
-    font-family: 'd-din'
-}
-
 .keyline-bottom-thick {
     padding-bottom: 10px;
 }
@@ -575,6 +576,10 @@ span.numeral {
 ------------------------------------------------------- */
 #newsletter, #streaming {
     background-color: {{ site.color.primary-light }};
+    background-image: url(./img/logo_sotm-bg2.svg);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
     color: {{ site.color.text-light }};
 }
 
@@ -619,7 +624,11 @@ input#mce-EMAIL::selection {
 #footer {
     font-size: 15px;
     line-height: 1.75em;
-    background-color: {{ site.color.primary-dark }};
+    background-color: {{ site.color.primary-light }};
+    background-image: url(./img/logo_sotm-bg2.svg);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: bottom;
 }
 
 #footer a {
@@ -685,7 +694,7 @@ nav .navbar-brand {
 
 #sponsors {
     background-color: {{ site.color.primary-dark }};
-    color: {{ site.color.links-white }};
+    color: {{ site.color.text }};
 }
 
 #sponsoring-interested {
@@ -707,7 +716,7 @@ nav .navbar-brand {
 }
 
 #sponsors a {
-    color: {{ site.color.links-white }};
+    color: {{ site.color.text }};
 }
 
 #sponsors a:hover {

@@ -4,15 +4,17 @@ title: Sponsoring
 titlecontent: ""
 ---
 
-# Sponsoring
+# Sponsoring during the State of the Map 2020
+
+> Note that the following information represents the State of the Map 2020 edition. It is left here as a placeholder until the current state for 2021 is published.
 
 The annual global conference of the [OpenStreetMap community](https://www.openstreetmap.org/about), the <em>State of the Map</em> (SotM) brings together the brightest and most active members of the OpenStreetMap (OSM) surveying and development community from around the world for an intense exchange of results and ideas that strengthens the project and ensures its continued success.
 
-SotM 2020 will be an [online conference](https://blog.openstreetmap.org/2020/03/27/sotm-2020-will-be-a-virtual-conference/) happening on 4 and 5 July 2020.
+SotM 2021 was an [online conference](https://blog.openstreetmap.org/2020/03/27/sotm-2020-will-be-a-virtual-conference/) happening on 4 and 5 July 2021.
 
 ## Sponsorship packages
 
-Sponsorship is available in packages. Packages include some or all of the following opportunities:
+Sponsorship in 2020 was available in for of the following packages:
 
 |                                    | Platinum | Gold | Silver | Bronze | Supporter |
 |---------------------------- | ------ | -----  | ----- | ----- | ----- |

@@ -1,9 +1,9 @@
 # Site settings
-title: State of the Map 2020
+title: State of the Map 2021
 email: sotm@openstreetmap.org
-description: "The global OpenStreetMap conference. July 4 - 5 July, 2020 online (was planed to take place in Cape Town, South Africa)."
-url: "http://2020.stateofthemap.org" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+description: "The global OpenStreetMap conference. July 9 - 11 July, 2021 online."
+url: "http://2021.stateofthemap.org" # the base hostname & protocol for your site
+twitter_username: state
 github_username:  jekyll
 
 # Build settings
@@ -11,13 +11,13 @@ markdown: kramdown
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: 'rgb(255, 184, 28)'
-  primary-light: 'rgb(0, 119, 73)'
-  links: '#000'
-  links-light: '#333'
-  links-white: '#333'
-  text: '#030303'
-  background-light: '#fff'
+  primary-dark: '#91cec6'
+  primary-light: '#12b09f'
+  links: '#030304'
+  links-light: '#fff'
+  links-white: '#fff'
+  text: '#030304'
+  background-light: '#91cec6'
   text-light: '#fff'
 
 # Settings for map tiles used in leaflet maps
