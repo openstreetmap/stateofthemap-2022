@@ -205,13 +205,14 @@ footer a:focus,
     color: #fff;
     position: relative;
     background-image: url(./img/sotm_2021-logo.png);
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position-y: center;
+    background-position-x: right;
 }
 
 .intro .intro-body {
