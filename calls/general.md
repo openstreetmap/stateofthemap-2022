@@ -175,7 +175,10 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 * 6 June 2021: Deadline panel submissions
 * June 2021: Lightning talk video production
 * 9-11 July 2021: State of the Map
-<!--* Submit your presentation
-* Please submit your presentation proposal to our submission form.-->
+
+<!--
+* Submit your presentation
+* Please submit your presentation proposal to our submission form.
+-->
 
 The SotM 2021 Program Committee, 21 February 2021
