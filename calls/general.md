@@ -87,7 +87,7 @@ The deadline for panel discussion is some weeks before the conference (i.e. afte
 
 <h3 id="submission-other">Other</h3>
 
-Your submission does not fit into any of these submission types? Please get in touch with the program committee via email (<a hrf="mailto:program-sotm@openstreetmap.org>program-sotm@openstreetmap.org</a>) before the end of the call for participation.
+Your submission does not fit into any of these submission types? Please get in touch with the program committee via email (<a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>) before the end of the call for participation.
 
 
 <h2 id="other-submission">Other session types</h2>
