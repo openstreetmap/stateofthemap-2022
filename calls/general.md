@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "Call for Participation and Submission Guidelines"
 titlecontent: ""
-headings: "tracks,submission,rating,language,publication,travel_costs_visa,committee,timeline_deadlines,submit"
+headings: "tracks,submission,rating,language,publication,committee,timeline_deadlines,submit"
 ---
 
 <h2 id="call">Call for Participation</h2>
@@ -177,8 +177,8 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 * 9-11 July 2021: State of the Map
 
 <!--
-* Submit your presentation
-* Please submit your presentation proposal to our submission form.
+<h2 id="submit">Submit your presentation</h2>
+Please submit your presentation proposal to our <a href="https://pretalx.com/sotm2021/…">submission form</a>.
 -->
 
 The SotM 2021 Program Committee, 21 February 2021
