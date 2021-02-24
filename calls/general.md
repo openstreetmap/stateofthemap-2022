@@ -176,9 +176,8 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 * June 2021: Lightning talk video production
 * 9-11 July 2021: State of the Map
 
-<!--
 <h2 id="submit">Submit your presentation</h2>
-Please submit your presentation proposal to our <a href="https://pretalx.com/sotm2021/…">submission form</a>.
--->
+Please submit your presentation proposal to our <a href="https://pretalx.com/sotm2021/cfp">submission form</a>.
+
 
 The SotM 2021 Program Committee, 21 February 2021
