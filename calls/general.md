@@ -168,7 +168,7 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-* 4 April 2021 23:59:59 UTC: Deadline talk and workshop submissions
+* 11 April 2021 23:59:59 UTC: Deadline talk and workshop submissions
 * TBD: Deadline academic talk submissions
 * End of April 2021: End of review phase, speakers will be informed
 * May 2021: Talk video production (test video and final video)
