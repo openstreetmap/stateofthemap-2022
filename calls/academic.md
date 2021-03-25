@@ -9,4 +9,4 @@ The call for abstracts of the academic track at State of the Map 2021 be opened 
 
 <hr>
 
-_The SotM 2020 Scientific Committee_
+_The SotM 2021 Scientific Committee_
