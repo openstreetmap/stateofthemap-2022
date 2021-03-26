@@ -89,4 +89,4 @@ You can reach the academic track committee via email to <a href="mailto:academic
 
 <hr>
 
-_The SotM 2020 Scientific Committee_
+_The SotM 2021 Scientific Committee_
