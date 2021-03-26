@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "Call for Abstracts: Academic Track"
 titlecontent: ""
-headings: "intro,guidelines,timeline_deadlines,submit,committee,language,recording,travel_costs_visa,proceedings"
+headings: "intro,guidelines,timeline_deadlines,submit,committee"
 ---
 
 <h2 id="intro">Academic Track</h2>
