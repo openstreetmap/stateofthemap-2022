@@ -57,31 +57,31 @@ Please submit your presentation proposal to our **[submission form](https://pret
 
 You can reach the academic track committee via email to <a href="mailto:academic-sotm@openstreetmap.org">academic-sotm@openstreetmap.org</a>.
 
-* <!--<img class="bio-pic" src="../../img/bios/Marco_Minghini.jpg">-->
+* <img class="bio-pic" src="../../img/bios/Marco.jpg">
   <em>Dr. Marco Minghini</em> &ndash;
   European Commission Joint Research Centre, Ispra, Italy. (Co-chair)
 
   Marco studied at [Politecnico di Milano](https://www.polimi.it/en/), where he got a PhD in GIS in 2014. After working as a Postdoc in the [GIS group of GEOlab](https://www.gisgeolab.polimi.it/) at Politecnico di Milano, in 2018 he joined the [European Commission - Joint Research Center (JRC)](https://ec.europa.eu/jrc/en) in Ispra, Italy ([Unit B.6 Digital Economy](https://ec.europa.eu/jrc/en/research-topic/digital-economy)) as a Scientific Project Officer, making applied research on geodata interoperability and helping with the implementation of the [INSPIRE Directive](https://inspire.ec.europa.eu/). Marco is an advocate of open source software an open data and has a long experience in OSM both as a contributor and as a researcher. He is a Charter Member of [OSGeo](https://www.osgeo.org/), Secretary of [ISPRS WG IV/4 “Collaborative Crowdsourced Cloud Mapping (C3M)”](http://www2.isprs.org/commissions/comm4/wg4.html), Member of the [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) and Voting Member of the [Humanitarian OpenStreetMap Team](https://www.hotosm.org/).
 
-* <!--<img class="bio-pic" src="../../img/bios/Yair_Grinberger.jpg">-->
+* <img class="bio-pic" src="../../img/bios/Yair.jpg">
   <em>Dr. A. Yair Grinberger</em> &ndash;
   Department of Geography, The Hebrew University of Jerusalem, Israel (Co-chair)
 
   [Yair](https://en.geography.huji.ac.il/people/yair-grinberger) earned his PhD in Geography from the [Hebrew University of Jerusalem](https://new.huji.ac.il/en), studying human mobility behaviors using GPS traces. During his postdoctoral research at the [GIScience Research Group](http://giscience.uni-hd.de/) in Heidelberg University, Germany he focused on large-scale data production events in OpenStreetMap and their effects. In his current research Yair studies, among other issues, the co-construction of mapping practices and data outputs. His broader research interests include Geographic Information Science, critical GIS, and digital representations of cultural and social phenomena and issues.
 
-* <!--<img class="bio-pic" src="../../img/bios/Peter_Mooney.jpg">-->
+* <img class="bio-pic" src="../../img/bios/Peter.jpg">
   <em>Dr. Peter Mooney</em> &ndash;
   Department of Computer Science, Maynooth University, Ireland
 
   Peter is an Assistant Professor at the Dept. of Computer Science in [Maynooth University](https://www.maynoothuniversity.ie/) and has been working in the domain of geospatial data research for over a decade. He is particularly interested in understanding the processes behind the collection of VGI data and how computing techniques such as machine learning can be applied to these datasets and sources. He is heavily involved in [OSGeo](https://www.osgeo.org/) activities in Ireland. His teaching philosophy sees the exclusive use of FOSS4G (Free and Open Source Software for Geomatics) and Open Data for all student teaching and learning activities. He is currently an editor of the [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) journal.
 
-* <!--<img class="bio-pic" src="../../img/bios/…">-->
+* <img class="bio-pic" src="../../img/bios/Jennings.jpg">
   <em>Dr. Jennings Anderson</em> &ndash;
   Independent Researcher, YetiGeoLabs, Montana, USA
 
   Jennings is a Geo-Information Scientist specializing in the production and maintenance of volunteered geographic information (VGI), especially OpenStreetMap. His work takes a contributor-centric approach to OSM data analysis, prioritizing understanding who is editing the map and how the community is evolving. He earned his PhD in Computer Science from the [University of Colorado Boulder](https://www.colorado.edu/) where he built large scale OSM data analysis systems. He collaborates closely with OSM researchers from all over the world across both academia and industry.
 
-* <!--<img class="bio-pic" src="../../img/bios/…">-->
+* <img class="bio-pic" src="../../img/bios/Christina.jpg">
   <em>Christina Ludwig</em> &ndash;
   PhD Student, GIScience Research Group, Heidelberg University, Germany
 
