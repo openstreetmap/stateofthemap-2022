@@ -74,7 +74,7 @@ If your talk is accepted, we expect a short test video. We will review this vide
 <h3 id="submission-workshop">Workshop (60–90 minutes)</h3>
 
 We appreciate the submission of workshops, especially since visitors of previous SotMs often told us that they would apreciate the possibility to attend more workshops about basic OSM topics as well as about innovative technologies. Further topics could be basic OSM editing workshops using JOSM or iD. How to render a map? How to print a map?
-If you have an idea for a workshop that does not fit into a 90 minutes slot, please contact us (<a href="mailto:program-sotm@openstrrogram-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>).
+If you have an idea for a workshop that does not fit into a 90 minutes slot, please contact us (<a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>).
 
 We are reserving the term “workshop” for sessions in which the participants are actively involved, for example by following some steps on their own devices.
 Please communicate any requirements for participants in order to attend your proposed workshop regarding technical equipment. Please ensure that your participants shouldn’t be told to create an account at a business platform or a platform with user tracking. Or if so communicate that in an exposed way in your submission and provide guest accounts for your participants.
