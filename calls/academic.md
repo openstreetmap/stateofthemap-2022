@@ -42,7 +42,7 @@ The 2019 and 2020 Academic Track resulted in a special issue of the [ISPRS Inter
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
-11 April 2021: Deadline [non-academic talk submissions](]({{site.baseurl}}/calls/general))<br>
+11 April 2021: Deadline [non-academic talk submissions]({{site.baseurl}}/calls/general)<br>
 25 April 2021: Deadline academic talk submissions<br>
 June 2021: Program announcement<br>
 9-11 July 2021: State of the Map 2021
