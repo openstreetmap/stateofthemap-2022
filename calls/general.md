@@ -156,6 +156,7 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 * Satochi Iida (OSMF Japan, Japan)
 * Sidorela Uku (mapper, Albania)
 * Séverin Menard (EOF, France, French-speaking West-African and Caribbean outreach)
+* Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 
 The program committee is aware of possible conflict of interest situations. We try to balance that by having a well balanced composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
