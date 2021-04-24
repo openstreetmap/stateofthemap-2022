@@ -156,6 +156,7 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 * Satochi Iida (OSMF Japan, Japan)
 * Sidorela Uku (mapper, Albania)
 * Séverin Menard (EOF, France, French-speaking West-African and Caribbean outreach)
+* Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 
 The program committee is aware of possible conflict of interest situations. We try to balance that by having a well balanced composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
@@ -169,8 +170,7 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 * 11 April 2021 23:59:59 UTC: Deadline talk and workshop submissions
-* 25 April 2021: Deadline [academic talk submissions]({{site.baseurl}}/calls/academic)<br>
-* TBD: Deadline academic talk submissions
+* 25 April 2021: Deadline [academic talk submissions]({{site.baseurl}}/calls/academic)
 * End of April 2021: End of review phase, speakers will be informed
 * May 2021: Talk video production (test video and final video)
 * 6 June 2021 23:59:59 UTC: Deadline panel submissions
