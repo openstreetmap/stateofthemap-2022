@@ -27,7 +27,7 @@ This year’s State of the Map conference will feature the fourth edition of the
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the State of the Map 2021 Pretalx [submission system](https://pretalx.com/sotm2021-academic/cfp). Deadline for submission is 25 April 2021.
+Authors are invited to submit extended abstracts using the State of the Map 2021 Pretalx [submission system](https://pretalx.com/sotm2021-academic/cfp). Deadline for submission is 5 May 2021.
 
 Abstracts should be between 800 and 1200 words. These limits will be strictly enforced for a fair and balanced review process.
 
