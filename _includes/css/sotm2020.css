@@ -716,6 +716,10 @@ nav .navbar-brand {
     max-width: 100%;
 }
 
+#sponsors .sponsor img {
+  filter: none;
+}
+
 #sponsors a {
     color: {{ site.color.text }};
 }
