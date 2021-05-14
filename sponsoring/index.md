@@ -22,7 +22,7 @@ Sponsorship in 2020 was available in for of the following packages:
 |                             | EUR 2000 | EUR 1000 | EUR 500 |
 | <span title="permanent, prominently shown chatroom in Venueless">Virtual Sponsor Booth</span> | yes | yes | - |
 | Special appreciation during opening session | yes | - | - |
-| stateofthemap.org website | logo | logo | logo |
+| <a href="https://2021.stateofthemap.org/#sponsors">2021.stateofthemap.org</a> website | logo | logo | logo |
 | Conference tickets | 4 | 2 | 1 |
 
 <br>
