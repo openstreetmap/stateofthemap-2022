@@ -575,7 +575,7 @@ h3.small-title:before {
 
 /* Newsletter
 ------------------------------------------------------- */
-#newsletter, #streaming {
+#newsletter, #streaming, #tickets {
     background-color: {{ site.color.primary-light }};
     background-image: url(./img/logo_sotm-bg2.svg);
     background-size: cover;
@@ -597,6 +597,22 @@ h3.small-title:before {
 .dark textarea:focus, .dark input[type=password]:focus, .dark input[type=text]:focus, .dark input[type=date]:focus, .dark input[type=email]:focus, .dark input[type=number]:focus {
     border-color: rgba(255,255,255,0.75);
     color: #7E91FF;
+}
+
+#tickets p {
+  max-width: 66%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tickets .button {
+    background-color: {{ site.color.primary-dark }};
+    font-size: 16px;
+    text-decoration: none;
+    color: {{ site.color.text }};
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #newsletter .button {
@@ -959,4 +975,9 @@ h2.abstract-subtitle {
 .qa-content ol > li:before {
     counter-increment: item;
     content: counters(item, ".") ". ";
+}
+
+/* Pretix ticket widget */
+.pretix-widget-voucher {
+  display: none;
 }
