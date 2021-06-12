@@ -1,0 +1,33 @@
+---
+layout: page-with-toc
+title: Programme
+titlecontent: ""
+headings: "overview,general_Friday,general_Saturday,general_Sunday"
+---
+
+<h2 id="overview">Overview</h2>
+
+<p>State of the Map 2021 is taking place online from <b>July 9 to 11 2021</b>. We have created an exciting program with you – the OpenStreetMap community. The conference will be held on the amazing virtual platform <a href="https://venueless.org/en/"><em>venueless</em></a>. For the duration of the conference, there will be a video-stream of talks, panels, lightning talks and Q&A sessions. Additionally, there will be chat rooms for discussions and virtual sponsor booths, as well as interactive breakout sessions that can be booked by groups of mutual interest or used without prior planning.</p>
+
+<!--todo!
+<ul>
+  <li><a class="page-scroll" href="#general_Saturday">Friday, 9 July</a>: conference begins with an opening session, followed by a day of presentations</li>
+  <li><a class="page-scroll" href="#general_Sunday">Sunday, 5 July</a>: day 2 of more presentations plus a whole track of academic talks selected by our <a href="../cfp/academic#committee">scientific committee</a></li>
+</ul>-->
+
+<!--todo, eventually
+<h2 id="proceedings_academic_track">Proceedings of the Academic Track</h2>
+<p>
+  The academic committee published the conference track's proceedings on zenodo under the following link: <a href="https://zenodo.org/communities/sotm-2020">zenodo.org/communities/sotm-2020</a>. There you can find the full abstracts of all academic talks of this year's state of the map (which are indicated with a 🎓 symbol below), as well as an editorial written by the <a href="../cfp/academic/#committee">scientific committee</a>.
+</p>-->
+
+<h2 id="timezone-switcher">Time Zone</h2>
+<p>Change time zone:
+<select id="city-select" size="1" onchange="updateTZ(this.value)" style="width:10em">
+    <option value="UTC">UTC</option>
+</select>
+</p>
+
+
+{% include schedule/_general.html %}
+{% include _timezoneswitcher.html %}

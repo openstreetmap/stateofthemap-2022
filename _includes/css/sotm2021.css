@@ -846,11 +846,23 @@ p img.bio-pic {
   filter: drop-shadow(0 0 2px white);
 }
 
+/* tables */
+.prose table td,
+.prose table th {
+    border-color: {{ site.color.primary-light }};
+}
+
+.prose table th {
+    vertical-align: top;
+    background-color: {{ site.color.primary-light }};
+}
+
 /* schedule table */
-table.scheduleTable thead td {
-    border-style: none;
-    background-color: {{ site.color.primary-dark }};
-    color: {{ site.color.text-light }};
+table.scheduleTable thead th,
+table.scheduleTable tr td:first-child,
+table.scheduleTable tr td.scheduleBreak {
+    vertical-align: top;
+    background-color: {{ site.color.primary-light }};
 }
 
 table.scheduleTable span.speaker,
