@@ -2,7 +2,7 @@
 layout: session
 title: "Feedback on building OSM communities in the south"
 code: "CSYPDL"
-speaker_names_with_affiliations: ["Nathalie SIDIBE"]
+speaker_names_with_affiliations: ['Nathalie SIDIBE']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Saturday, 17:15"

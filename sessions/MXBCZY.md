@@ -2,7 +2,7 @@
 layout: session
 title: "Improving OSM Data in Coastal Communities"
 code: "MXBCZY"
-speaker_names_with_affiliations: ["Monica Brandeis"]
+speaker_names_with_affiliations: ['Monica Brandeis']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 21:30"

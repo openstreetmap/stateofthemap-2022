@@ -2,7 +2,7 @@
 layout: session
 title: "Towards a framework for measuring local data contribution in OpenStreetMap"
 code: "NTNSQE"
-speaker_names_with_affiliations: ["Maxwell Owusu"]
+speaker_names_with_affiliations: ['Maxwell Owusu']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 11:30"

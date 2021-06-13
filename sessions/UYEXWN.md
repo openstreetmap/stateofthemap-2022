@@ -2,7 +2,7 @@
 layout: session
 title: "Why Does Sexism within OpenStreetMap Matter?"
 code: "UYEXWN"
-speaker_names_with_affiliations: ["Airin Akter", "Courtney Clark"]
+speaker_names_with_affiliations: ['Airin Akter', 'Courtney Clark']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Friday, 17:15"

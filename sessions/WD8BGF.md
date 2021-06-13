@@ -2,7 +2,7 @@
 layout: session
 title: "Making your own MapComplete theme"
 code: "WD8BGF"
-speaker_names_with_affiliations: ["Pieter Vander Vennet"]
+speaker_names_with_affiliations: ['Pieter Vander Vennet']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Sunday, 20:00"

@@ -2,7 +2,7 @@
 layout: session
 title: "With Great Power Comes Great Responsibility"
 code: "GEKXWL"
-speaker_names_with_affiliations: ["Frederik Ramm"]
+speaker_names_with_affiliations: ['Frederik Ramm']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 10:45"

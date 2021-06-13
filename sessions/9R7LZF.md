@@ -2,7 +2,7 @@
 layout: session
 title: "Makina Maps"
 code: "9R7LZF"
-speaker_names_with_affiliations: ["Frédéric Rodrigo"]
+speaker_names_with_affiliations: ['Frédéric Rodrigo']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 20:00"

@@ -2,7 +2,7 @@
 layout: session
 title: "NLMaps Web: A Natural Language Interface to OpenStreetMap"
 code: "GDMBWS"
-speaker_names_with_affiliations: ["Simon Will"]
+speaker_names_with_affiliations: ['Simon Will']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 10:00"

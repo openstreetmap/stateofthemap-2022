@@ -2,7 +2,7 @@
 layout: session
 title: "Involvement of OpenStreetMap in European H2020 Projects"
 code: "DGPAWN"
-speaker_names_with_affiliations: ["Damien Graux", "Thibaud Michel"]
+speaker_names_with_affiliations: ['Damien Graux', 'Thibaud Michel']
 room: "Track 2 - Panels and Workshops"
 length: "20"
 time: "Sunday, 17:15"

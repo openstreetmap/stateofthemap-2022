@@ -2,7 +2,7 @@
 layout: session
 title: "News from osm2pgsql"
 code: "7RWSWA"
-speaker_names_with_affiliations: ["Jochen Topf"]
+speaker_names_with_affiliations: ['Jochen Topf']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 16:30"

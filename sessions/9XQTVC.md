@@ -2,7 +2,7 @@
 layout: session
 title: "Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection"
 code: "9XQTVC"
-speaker_names_with_affiliations: ["Jennings Anderson", "Yinxiao Li"]
+speaker_names_with_affiliations: ['Jennings Anderson', 'Yinxiao Li']
 room: "Track 2 - Panels and Workshops"
 length: "20"
 time: "Sunday, 15:45"

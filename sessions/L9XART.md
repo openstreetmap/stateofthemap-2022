@@ -2,7 +2,7 @@
 layout: session
 title: "Community growth: What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants."
 code: "L9XART"
-speaker_names_with_affiliations: ["Laura Mugeha"]
+speaker_names_with_affiliations: ['Laura Mugeha']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 15:45"

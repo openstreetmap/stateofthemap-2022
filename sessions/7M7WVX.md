@@ -2,7 +2,7 @@
 layout: session
 title: "How StreetComplete handles edits"
 code: "7M7WVX"
-speaker_names_with_affiliations: ["Tobias Zwick"]
+speaker_names_with_affiliations: ['Tobias Zwick']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 15:00"

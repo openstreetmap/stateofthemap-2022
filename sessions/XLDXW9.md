@@ -2,7 +2,7 @@
 layout: session
 title: "From global to local OSM mapping, CartONG’s overall OSM based strategy to support humanitarian response in refugee camp"
 code: "XLDXW9"
-speaker_names_with_affiliations: ["Martin Noblecourt", "Manon Viou", "Olivier Ribiere"]
+speaker_names_with_affiliations: ['Martin Noblecourt', 'Manon Viou', 'Olivier Ribiere']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 11:30"

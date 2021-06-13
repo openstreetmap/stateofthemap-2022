@@ -2,7 +2,7 @@
 layout: session
 title: "Imports and Bulk Edits, Community Style: MapRoulette Cooperative Challenges"
 code: "Z3U8JX"
-speaker_names_with_affiliations: ["Martijn van Exel"]
+speaker_names_with_affiliations: ['Martijn van Exel']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Saturday, 15:00"
@@ -14,4 +14,4 @@ What if you could combine the best parts of data imports, bulk edits and the pow
 
 ---
 
-Everything below this line is filler text. I don"t have any more words than what I wrote above to describe my talk. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Everything below this line is filler text. I don't have any more words than what I wrote above to describe my talk. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

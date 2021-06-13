@@ -2,7 +2,7 @@
 layout: session
 title: "Community Interactions in OSM editing"
 code: "PPSHC3"
-speaker_names_with_affiliations: ["Jennings Anderson", "Dipto Sarkar"]
+speaker_names_with_affiliations: ['Jennings Anderson', 'Dipto Sarkar']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 12:15"

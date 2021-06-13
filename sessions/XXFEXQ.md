@@ -2,7 +2,7 @@
 layout: session
 title: "New Methods for Identifying Organized Editing on OSM"
 code: "XXFEXQ"
-speaker_names_with_affiliations: ["Veniamin Veselovsky"]
+speaker_names_with_affiliations: ['Veniamin Veselovsky']
 room: "Track 2 - Panels and Workshops"
 length: "20"
 time: "Sunday, 16:30"

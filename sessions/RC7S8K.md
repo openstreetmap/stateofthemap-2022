@@ -2,7 +2,7 @@
 layout: session
 title: "MapLibre - community driven Mapbox GL fork"
 code: "RC7S8K"
-speaker_names_with_affiliations: ["Petr Pridal"]
+speaker_names_with_affiliations: ['Petr Pridal']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 18:00"
@@ -16,4 +16,4 @@ As a group of individuals, we coordinate the effort and synchronize contribution
 Multiple releases have been published, the project has CI checks for contribution, regular steering committee meetings, updated support for TypeScript, several bindings such as ReactJS, the Metal rendering on iOS is implemented (as Apple decided to deprecate OpenGL ES), and many issues and bugs has been fixed. There is plenty of ideas what to do next - from implementation of 3D terrain rendering, to support of non-Mercator map projections, or tighter integration with Leaflet, and much more.
 
 
-Let"s explore the current status of the project, learn how to use MapLibre in your own software with practical code samples, and how to join and contribute to the collaborative development and participate on a shared roadmap.
+Let's explore the current status of the project, learn how to use MapLibre in your own software with practical code samples, and how to join and contribute to the collaborative development and participate on a shared roadmap.

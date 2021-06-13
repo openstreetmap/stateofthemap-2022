@@ -2,7 +2,7 @@
 layout: session
 title: "OpenStreetMap Standard Layer: Who uses it?"
 code: "GGLYCK"
-speaker_names_with_affiliations: ["Paul Norman"]
+speaker_names_with_affiliations: ['Paul Norman']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 20:45"
@@ -10,7 +10,7 @@ time_iso: "2021-07-10T20:45:00Z"
 resources: []
 recording: True
 ---
-The OpenStreetMap Standard layer is one of the high profile OpenStreetMap services, but not many people know who uses it, and where. This talk covers the goals of the service, it’s history, how it"s designed, and dives deep into how it"s used. Using improved logging functionality, we’ll get answers to these questions and more.
+The OpenStreetMap Standard layer is one of the high profile OpenStreetMap services, but not many people know who uses it, and where. This talk covers the goals of the service, it’s history, how it's designed, and dives deep into how it's used. Using improved logging functionality, we’ll get answers to these questions and more.
 
 We’ll cover the policy and technical basics of the service, showing how changes make it to your browser through the various elements of the stack and what we set out to do by running the standard layer, including policy and history.
 

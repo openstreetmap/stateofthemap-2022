@@ -2,7 +2,7 @@
 layout: session
 title: "OSM data: Privacy Risks and GDPR compliance"
 code: "RJZRZ8"
-speaker_names_with_affiliations: ["Robert Riemann"]
+speaker_names_with_affiliations: ['Robert Riemann']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 15:00"

@@ -2,7 +2,7 @@
 layout: session
 title: "What has machine learning ever done for us?"
 code: "RHR7Q8"
-speaker_names_with_affiliations: ["Peter Mooney"]
+speaker_names_with_affiliations: ['Peter Mooney']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 10:45"

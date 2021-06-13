@@ -2,7 +2,7 @@
 layout: session
 title: "Understanding the map - OSM-Carto map reading Q&amp;A"
 code: "7SUKCQ"
-speaker_names_with_affiliations: ["Christoph Hormann"]
+speaker_names_with_affiliations: ['Christoph Hormann']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Sunday, 12:15"

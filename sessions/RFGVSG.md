@@ -2,7 +2,7 @@
 layout: session
 title: "OpenStreetMap and the neglected pedestrian"
 code: "RFGVSG"
-speaker_names_with_affiliations: ["Edoardo Neerhut"]
+speaker_names_with_affiliations: ['Edoardo Neerhut']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 20:00"

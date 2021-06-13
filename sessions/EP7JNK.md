@@ -2,7 +2,7 @@
 layout: session
 title: "Dealing with Quantity vs Quality"
 code: "EP7JNK"
-speaker_names_with_affiliations: ["Enock Seth Nyamador"]
+speaker_names_with_affiliations: ['Enock Seth Nyamador']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 15:00"

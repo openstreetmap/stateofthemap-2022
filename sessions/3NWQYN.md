@@ -2,7 +2,7 @@
 layout: session
 title: "Opening"
 code: "3NWQYN"
-speaker_names_with_affiliations: ["SotM Working Group"]
+speaker_names_with_affiliations: ['SotM Working Group']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 10:00"

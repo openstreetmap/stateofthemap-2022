@@ -2,7 +2,7 @@
 layout: session
 title: "OpenStreetMap &amp; Governments"
 code: "LY9GPR"
-speaker_names_with_affiliations: ["Maggie Cawley on behalf of the LCCWG"]
+speaker_names_with_affiliations: ['Maggie Cawley on behalf of the LCCWG']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Friday, 20:00"

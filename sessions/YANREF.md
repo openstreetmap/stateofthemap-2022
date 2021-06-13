@@ -2,7 +2,7 @@
 layout: session
 title: "Acquire and visualise OSM data with R"
 code: "YANREF"
-speaker_names_with_affiliations: ["Stéphane Guillou"]
+speaker_names_with_affiliations: ['Stéphane Guillou']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Sunday, 10:00"

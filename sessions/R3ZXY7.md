@@ -1,8 +1,8 @@
 ---
 layout: session
-title: "How to map a city"s public transport during a pandemic"
+title: "How to map a city's public transport during a pandemic"
 code: "R3ZXY7"
-speaker_names_with_affiliations: ["Christoph Hanser"]
+speaker_names_with_affiliations: ['Christoph Hanser']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 10:00"

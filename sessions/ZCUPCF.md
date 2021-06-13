@@ -2,7 +2,7 @@
 layout: session
 title: "Mapping Heritage in Ireland - A Journey"
 code: "ZCUPCF"
-speaker_names_with_affiliations: ["Anne-Karoline Distel"]
+speaker_names_with_affiliations: ['Anne-Karoline Distel']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 17:15"

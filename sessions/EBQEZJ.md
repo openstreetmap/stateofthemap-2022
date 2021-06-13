@@ -2,7 +2,7 @@
 layout: session
 title: "Building a global outdoor map"
 code: "EBQEZJ"
-speaker_names_with_affiliations: ["Jiri Komarek"]
+speaker_names_with_affiliations: ['Jiri Komarek']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 20:00"

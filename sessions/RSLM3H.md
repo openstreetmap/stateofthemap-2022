@@ -2,7 +2,7 @@
 layout: session
 title: "Linting the map together: Collaborations of Mapbox Data RAVE and OpenStreetMap Communities"
 code: "RSLM3H"
-speaker_names_with_affiliations: ["Vlada Boitsik"]
+speaker_names_with_affiliations: ['Vlada Boitsik']
 room: "Track 1 - Talks"
 length: "20"
 time: "Friday, 20:45"

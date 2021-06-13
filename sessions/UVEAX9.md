@@ -2,7 +2,7 @@
 layout: session
 title: "Ethical Mapping with and for People Living with Vulnerability"
 code: "UVEAX9"
-speaker_names_with_affiliations: ["Courtney Clark"]
+speaker_names_with_affiliations: ['Courtney Clark']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Friday, 15:00"

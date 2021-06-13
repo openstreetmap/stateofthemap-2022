@@ -2,7 +2,7 @@
 layout: session
 title: "Exploring Sound maps using OpenStreetMap data and FOSS through MANILAud: Metro Manila Soundscapes"
 code: "QLVGQK"
-speaker_names_with_affiliations: ["Andi Tabinas"]
+speaker_names_with_affiliations: ['Andi Tabinas']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Saturday, 10:00"
@@ -20,6 +20,6 @@ Proposed Workshop Flow (in minutes):
 01-15: Presentation about the Project (MANILAud: Mapping Soundscapes Through Participatory Data Collection - A case study of Metro Manila)
 16-20: Workshop instructions for submitting soundscapes
 21-35: Workshop proper: for participants to submit their soundscapes
-36-45: (Participant"s Break) to allow the team to add soundscape submissions on the map
+36-45: (Participant's Break) to allow the team to add soundscape submissions on the map
 45-55: Listening to the soundscapes on the map
 56-60: Questions/Feedback from the participants

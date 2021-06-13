@@ -2,7 +2,7 @@
 layout: session
 title: "Why OSM is not known more widely - about consequences of not enforcing attribution requirements"
 code: "PHJ83R"
-speaker_names_with_affiliations: ["Mateusz Konieczny"]
+speaker_names_with_affiliations: ['Mateusz Konieczny']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 18:00"

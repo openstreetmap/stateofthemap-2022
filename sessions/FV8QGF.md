@@ -2,7 +2,7 @@
 layout: session
 title: "Overpass API since 10 years"
 code: "FV8QGF"
-speaker_names_with_affiliations: ["Dr. Roland Olbricht"]
+speaker_names_with_affiliations: ['Dr. Roland Olbricht']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 17:15"

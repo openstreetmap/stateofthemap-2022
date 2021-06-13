@@ -2,7 +2,7 @@
 layout: session
 title: "Closing"
 code: "PRZUTW"
-speaker_names_with_affiliations: ["SotM Working Group"]
+speaker_names_with_affiliations: ['SotM Working Group']
 room: "Track 1 - Talks"
 length: "20"
 time: "Sunday, 21:30"
