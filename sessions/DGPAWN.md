@@ -5,8 +5,8 @@ code: "DGPAWN"
 speaker_names_with_affiliations: ["Damien Graux", "Thibaud Michel"]
 room: "Track 2 - Panels and Workshops"
 length: "20"
-time: "Sunday, 15:00"
-time_iso: "2021-07-11T15:00:00Z"
+time: "Sunday, 17:15"
+time_iso: "2021-07-11T17:15:00Z"
 resources: []
 recording: False
 ---

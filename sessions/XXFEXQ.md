@@ -5,8 +5,8 @@ code: "XXFEXQ"
 speaker_names_with_affiliations: ["Veniamin Veselovsky"]
 room: "Track 2 - Panels and Workshops"
 length: "20"
-time: "Sunday, 15:45"
-time_iso: "2021-07-11T15:45:00Z"
+time: "Sunday, 16:30"
+time_iso: "2021-07-11T16:30:00Z"
 resources: []
 recording: False
 ---
