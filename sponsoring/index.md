@@ -15,8 +15,6 @@ Contact us via email at [sponsor-sotm@openstreetmap.org](mailto:sponsor-sotm@ope
 
 <h2 id="packages">Sponsorship packages</h2>
 
-Sponsorship in 2021 is available in for of the following packages:
-
 |                             | Gold     | Silver   | Bronze  |
 |---------------------------- | -------  | -------- | ------- |
 |                             | EUR 2000 | EUR 1000 | EUR 500 |
