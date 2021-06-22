@@ -10,9 +10,9 @@ time_iso: "2021-07-11T12:15:00Z"
 resources: []
 recording: False
 ---
-This is going to be an interactive session where participants can submit case examples (in the form of links to specific examples on the map) to be discussed.  The focus of the discussion will be on explaining the design of the map and what cartographic and technical considerations stand behind it.  
+This is going to be an interactive session where participants can &lt;a href=&#34;https://wiki.openstreetmap.org/wiki/User:Imagico/Understanding_the_map_SotM2021&#34;&gt;submit case examples&lt;/a&gt; (in the form of links to specific examples on the map - &lt;a href=&#34;https://wiki.openstreetmap.org/wiki/User:Imagico/Understanding_the_map_SotM2021&#34;&gt;on the wiki&lt;/a&gt; or &lt;a href=&#34;https://pads.ccc.de/Understanding-the-map-SotM2021&#34;&gt;on a pad&lt;/a&gt;) to be discussed.  The focus of the discussion will be on explaining the design of the map and what cartographic and technical considerations stand behind it.  
 
-The aim is for participants - both newcomers and experienced mappers - to better learn how to read the map, to better understand the cartographic and social challanges of designing a rich, global, real time updated map based on OpenStreetMap data for a truly diverse international and multi-cultural audience and hopefully to get some participants more interested in community map design and to encourage them to either contribute to OSM-Carto or to contribute to or start their own regional or thematic map design projects.
+The aim is for participants - both newcomers and experienced mappers - to better learn how to read the map, to better understand the cartographic and social challenges of designing a rich, global, real time updated map based on OpenStreetMap data for a truly diverse international and multi-cultural audience and hopefully to get some participants more interested in community map design and to encourage them to either contribute to OSM-Carto or to contribute to or start their own regional or thematic map design projects.
 
 Secondary goal of the session is for OSM-Carto developers to better understand where the map is difficult to read intuitively for the OSM community.
 
