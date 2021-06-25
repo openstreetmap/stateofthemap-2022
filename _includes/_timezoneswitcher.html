@@ -17,7 +17,7 @@
         if (zone[0] == '+' || zone[0] == '-') {
           zone = 'UTC ' + zone;
         }
-        $('.scheduleTable > thead > tr > td:first-child').text(tz == 'UTC'
+        $('.scheduleTable > thead > tr > th:first-child').text(tz == 'UTC'
           ? 'Time (UTC)'
           : 'Local Time (' + zone + ')'
         );
