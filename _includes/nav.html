@@ -32,7 +32,11 @@
                         <a href="https://blog.openstreetmap.org/2020/01/18/sotm2020-applications-for-scholarships-open/">Apply for Scholarship</a>
 		    </li>-->
                     <li>
-                        <a class="{% if page.url contains '/tickets' %}active{% endif %}" href="{{site.baseurl}}/tickets/">Tickets</a>
+                        <a class="{% if page.url contains '/tickets' %}active{% endif %}" href="{{site.baseurl}}/tickets/"><s>Tickets</s></a>
+                    </li>
+
+                    <li>
+                        <a class="{% if page.url contains '/stream' %}active{% endif %}" href="{{site.baseurl}}/stream/">Live Stream</a>
                     </li>
 
                     <!--<li>
@@ -63,13 +67,13 @@
                     <li>
                         <a class="{% if page.url contains '/artwork' %}active{% endif %}" href="{{site.baseurl}}/artwork/">Artwork</a>
                     </li>
-                    <li>
+                    <!--<li>
                       {% if page.role == 'index' %}
                         <a class="page-scroll" href="#newsletter">Newsletter</a>
                       {% else %}
                         <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
                       {% endif %}
-                    </li>
+                    </li>-->
                     <li>
                         <a class="{% if page.url contains '/sponsoring' %}active{% endif %}" href="{{site.baseurl}}/sponsoring/">Sponsoring</a>
                     </li>
