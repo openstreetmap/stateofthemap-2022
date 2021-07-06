@@ -204,7 +204,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/sotm_2021-logo.png);
+    background-image: url(./img/sotm_2021-logo.blurred.png);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -246,7 +246,6 @@ footer a:focus,
     margin-bottom: 1.5em;
 }
 .intro .intro-body .attending a {
-    color: {{ site.color.primary-light }};
 }
 .intro .intro-body ul {
     list-style-type: '— ';
