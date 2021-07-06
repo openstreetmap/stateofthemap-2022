@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Lightning Talk III"
+title: "Lightning Talks III"
 code: "3CZDTS"
 speaker_names_with_affiliations: ['SotM Working Group']
 room: "Track 1 - Talks"

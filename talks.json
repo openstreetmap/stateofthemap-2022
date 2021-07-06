@@ -547,7 +547,7 @@
     },
     {
       "code": "3CZDTS",
-      "title": "Lightning Talk III",
+      "title": "Lightning Talks III",
       "abstract": "Various lightning talks. A detailed program will be published shortly before the conference.",
       "speakers": [
         "YNFKER"
@@ -824,15 +824,15 @@
   ],
   "rooms": [
     {
-      "id": 823,
-      "name": {
-        "en": "Track 2 - Panels and Workshops"
-      }
-    },
-    {
       "id": 822,
       "name": {
         "en": "Track 1 - Talks"
+      }
+    },
+    {
+      "id": 823,
+      "name": {
+        "en": "Track 2 - Panels and Workshops"
       }
     }
   ],
