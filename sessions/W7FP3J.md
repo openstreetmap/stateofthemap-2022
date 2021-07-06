@@ -2,7 +2,7 @@
 layout: session
 title: "Collection and use of data about entrances of buildings"
 code: "W7FP3J"
-speaker_names_with_affiliations: ['Tuukka Hastrup']
+speaker_names_with_affiliations: ['Tuukka Hastrup', 'Johan Lindqvist']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 11:30"

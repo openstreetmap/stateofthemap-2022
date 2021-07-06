@@ -294,7 +294,8 @@
       "title": "Collection and use of data about entrances of buildings",
       "abstract": "We have developed an open source web app, OLMap, to take photos of entrances and map them in OSM and another one, Gatesolve, for delivery drivers to find the route to the right entrance based on this micromapped OSM data. Last year, over 6000 images including 5762 entrances, 1767 flights of steps, 645 barriers and 241 info boards were contributed to the 30000 entrances mapped in Helsinki, Finland. The mapping project will continue this summer.",
       "speakers": [
-        "VHTYYR"
+        "VHTYYR",
+        "XMPZPB"
       ],
       "track": 2202,
       "start": "2021-07-10T11:30:00Z",
@@ -823,15 +824,15 @@
   ],
   "rooms": [
     {
-      "id": 822,
-      "name": {
-        "en": "Track 1 - Talks"
-      }
-    },
-    {
       "id": 823,
       "name": {
         "en": "Track 2 - Panels and Workshops"
+      }
+    },
+    {
+      "id": 822,
+      "name": {
+        "en": "Track 1 - Talks"
       }
     }
   ],
@@ -927,14 +928,19 @@
       "avatar": null
     },
     {
-      "code": "TJ9EBM",
-      "name": "Ilya Zverev",
-      "avatar": "https://www.gravatar.com/avatar/d3b22622ec4a1a39905c599b50f1eab3"
+      "code": "XMPZPB",
+      "name": "Johan Lindqvist",
+      "avatar": null
     },
     {
       "code": "N7K3EE",
       "name": "Vlada Boitsik",
       "avatar": "https://pretalx.com/media/avatars/3c8665d8-ad2c-493e-b7e9-d9517d317723_3i8mMjd.jpeg"
+    },
+    {
+      "code": "TJ9EBM",
+      "name": "Ilya Zverev",
+      "avatar": "https://www.gravatar.com/avatar/d3b22622ec4a1a39905c599b50f1eab3"
     },
     {
       "code": "YZJFGM",
