@@ -26,6 +26,5 @@ Alternatively, we also created a few smaller versions which should be good for s
 
 # T-Shirt
 
-Please take a look at last year's [SotM2020 wiki
-page](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2020/Tshirt_shop_organization)
-regarding conference T-shirts.
+
+Although we are virtual this year, there is still the option to have a conference t-shirt. Everybody has to buy the t-shirt for themselves. To keep shipping costs low and reasonable we are opening it to the community to find shops all over the world. We are organising this on the following [SotM 2021 wiki page](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2021/Tshirt_shop).
