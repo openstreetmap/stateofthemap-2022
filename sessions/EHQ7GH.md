@@ -2,7 +2,7 @@
 layout: session
 title: "Mapping unmapped towns in Turkey by building and enlarging OpenStreetMap Turkey community"
 code: "EHQ7GH"
-speaker_names_with_affiliations: ['Oğuzhan Er']
+speaker_names_with_affiliations: ['Said Turksever', 'Oğuzhan Er']
 room: "Track 1 - Talks"
 length: "20"
 time: "Saturday, 12:15"

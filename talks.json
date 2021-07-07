@@ -307,6 +307,7 @@
       "title": "Mapping unmapped towns in Turkey by building and enlarging OpenStreetMap Turkey community",
       "abstract": "Turkish OpenStreetMap Community has constantly been growing with members from various circles in recent years however the community faces various problems such as insufficient OSM documentation and tools in Turkey and lack of learning materials in Turkish. Yercizenler and Youth Season NGOs kicked-off the Open Source Volunteering Programme to tackle community needs to build and enlarge OpenStreetMap Turkey community by training volunteers, translating OpenStreetMap related documentation/tools and mapping 120 unmapped towns in Turkey.",
       "speakers": [
+        "BZDSBG",
         "DTK9MB"
       ],
       "track": 2199,
@@ -893,6 +894,11 @@
       "avatar": null
     },
     {
+      "code": "BZDSBG",
+      "name": "Said Turksever",
+      "avatar": "https://pretalx.com/media/avatars/pp_small_CV_MfNCLBH.jpg"
+    },
+    {
       "code": "SCPZG9",
       "name": "Allan Mustard",
       "avatar": "https://pretalx.com/media/avatars/AM-square-headshot_O1Z9gMz.jpg"
@@ -1008,6 +1014,11 @@
       "avatar": null
     },
     {
+      "code": "N9ZABZ",
+      "name": "Jean-Marc Liotier",
+      "avatar": null
+    },
+    {
       "code": "VEHRRN",
       "name": "Johannes Kröger",
       "avatar": "https://pretalx.com/media/avatars/fossgis_hannes_jSGhabG.jpg"
@@ -1016,11 +1027,6 @@
       "code": "DY79SZ",
       "name": "Martin Noblecourt",
       "avatar": "https://pretalx.com/media/avatars/photo.jpg"
-    },
-    {
-      "code": "N9ZABZ",
-      "name": "Jean-Marc Liotier",
-      "avatar": null
     },
     {
       "code": "N87VMR",
