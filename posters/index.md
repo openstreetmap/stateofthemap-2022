@@ -38,7 +38,7 @@ Contact: Helga Tauscher, HTW Dresden - University of Applied Sciences
 * Project on Github: https://hlg.github.io/wamap
 * Contact: https://www.htw-dresden.de/en/hochschule/fakultaeten/geoinformation/ueber-uns/personen/translate-to-english-dr-ing-helga-tauscher
 
-[![](Helga_Tauscher_Let s meet at an island-preview.png)](https://example.com/poster.pdf)
+[![](Helga_Tauscher_Let s meet at an island-preview.png)](https://files.osmfoundation.org/s/A637eGiCjHa3eMq)
 
 <h3 id="pudleiner">Éva Pudleiner: "Equine Tooth Fairy visits"</h3>
 
@@ -70,7 +70,7 @@ For the first time I used openrouteservice API that turned out to be a great too
 
 Hereby I express my special thanks to Adam Rousell for his insights and help in the creation of this poster which would not be here without the support and encouragement from our community of OpenStreetMap Hungary.
 
-[![](Eva_Pudleiner_EquineToothFairy_a0_600dpi-preview.png)](https://example.com/poster.pdf)
+[![](Eva_Pudleiner_EquineToothFairy_a0_600dpi-preview.png)](https://files.osmfoundation.org/s/cPKF7yZj2zkxyyB)
 
 <h3 id="nguyen">Minh Nguyen: "Mapping POIs in Santa Clara County, California (Silicon Valley)"</h3>
 
@@ -80,7 +80,7 @@ Join one of the largest POI imports in OpenStreetMap history and help us achieve
 
 My OSM user name is Minh Nguyen.
 
-[![](Minh_Nguyen_Mapping POIs in Santa Clara County-preview.png)](https://example.com/poster.pdf)
+[![](Minh_Nguyen_Mapping POIs in Santa Clara County-preview.png)](https://files.osmfoundation.org/s/CkGg3peXFTHPqXo)
 
 <!--
 <h3 id="openmapchile">Equipo OpenMapChile SPA: OpenMapChileSoftMap2021</h3>
@@ -104,7 +104,7 @@ species:mp (mapudungún name)
 
 A large percentage of the tree species were identified using the Google Street View street visualisation tool, taking into account the year in which they were updated. Considering that trees are static elements of the city's infrastructure that remain over time, it is possible in many cases to present a high degree of certainty in the correct identification.  However, we are aware that the identification has to be done on the ground, which has an associated cost that our organisation is not able to finance at the moment.  It has been voluntary work without monetary compensation.
 
-[![](OpenMapChileSoftMap2021-preview.png)](https://example.com/poster.pdf)
+[![](OpenMapChileSoftMap2021-preview.png)](https://files.osmfoundation.org/s/RbRaodxgtW4jpw9)
 -->
 
 <!--
@@ -112,20 +112,20 @@ A large percentage of the tree species were identified using the Google Street V
 
 This poster describes the activities around Bogota (what we have done since last year-2020 and what we are currently doing). Our purpose is to improve the quality of the data of the capital of Colombia, and at the same time to build a stronger community committed with the map. Until now, we have done these activities like armchair mapping and virtual meetings, all from home, to prevent in-person meetings due to Covid-19.
 
-[![](Andres_Gomez_MaptimeBogota-preview.png)](https://example.com/poster.pdf)
+[![](Andres_Gomez_MaptimeBogota-preview.png)](https://files.osmfoundation.org/s/fCGi4aLgPEqAZN9)
 -->
 
 <h3 id="sahoo">Shreeparna Sahoo: "Accessibility to Hospitals Providing Covid Treatment Using OpenStreetMap"</h3>
 
 Poster titled 'Accessibility to Hospitals Providing Covid Treatment Using OpenStreetMap' which explains accessibility to the hospital whether the covid treatment facility is available or not. In the fight against the current COVID tsunami that’s engulfing us, we, along with a group of amazing volunteers (most of them being young college students and young working professionals), have been trying to respond to SOS tweets and alerts coming in from various parts of the country but still  people are struggling to find the hospitals which provide the covid treatment provision. So adding on to that it will show in the description whether the facility is available or not. And also tags are being added which will make the search more convenient.
 
-[![](Shreeparna Sahoo_Accessibility_to_Hospitals-preview.png)](https://example.com/poster.pdf)
+[![](Shreeparna Sahoo_Accessibility_to_Hospitals-preview.png)](https://files.osmfoundation.org/s/TWA8awGz9SRoKRi)
 
 <h3 id="kaldyrkaev">Sergey Kaldyrkaev "Penza mapping party 2021 poster"</h3>
 
 Cold Russian winters are not a reason to pause map contributions! In our Penza OSM community, we decided to improve the city’s building coverage and organised an online mapping party that lasted for nearly six weeks. The results have exceeded everyone’s expectations, and we are happy to share them with the world.
 
-[![](Sergey_Kaldyrkaev_Penza mapping party 2021 poster-preview.png)](https://example.com/poster.pdf)
+[![](Sergey_Kaldyrkaev_Penza mapping party 2021 poster-preview.png)](https://files.osmfoundation.org/s/FcQbFLEfdi7FxEZ)
 
 <h3 id="huang">Grant Huang: "OSM 15min cities"</h3>
 
@@ -137,19 +137,19 @@ Since the open data is not extensive in most Taiwanese Cities. The OSM plays an 
 We are using Kaohsiung as an example for the project since the city is recently focusing on green transportation policy. The area within the white area means the basic service is within walkable distance.
 Thanks to OSM I can finish my presentation, and find out the walkability of Kaohsiung.
 
-[![](Grant_Huang_OSM-15min-cities-preview.png)](https://example.com/poster.pdf)
+[![](Grant_Huang_OSM-15min-cities-preview.png)](https://files.osmfoundation.org/s/ESGMM2qiaSbErDF)
 
 <h3 id="staniek">Michael Staniek: "Overpass NL"</h3>
 
 OverpassNL is a complex dataset pairing geographical queries to OpenStreetMap (OSM) using the Overpass API with their corresponding natural language counterparts. It is based on nearly 10,000 queries in the Overpass query language that have been issued by Overpass users and saved in Overpass Turbo. The goal of this dataset is to train models that access OSM with natural language questions (semantic parsing), and to generate natural language for existing Overpass queries (interpretation).
 
-[![](Michael_Staniek_Overpass_NL-preview.png)](https://example.com/poster.pdf)
+[![](Michael_Staniek_Overpass_NL-preview.png)](https://files.osmfoundation.org/s/czYxbX8xQXjYLDo)
 
 <h3 id="polimappers">PoliMappers Team: "PoliMappers Poster"</h3>
 
 In 2021 PoliMappers included in their annual activities the innovative teaching course entitled “Collaborative and Humanitarian Mapping”, pursuing the objective to build a responsible student-led community of OSM contributors and Free and Open Source Software (FOSS) users. The programme is structured into seven meetings and aims to introduce university students to the OSM environment, focusing on the potential of its open data and its related geospatial tools, especially in the humanitarian field. The course, officially recognized by the university as an open participation teaching activity, recorded the participation of 61 Politecnico di Milano students. However, the series of webinars and workshops has been conceived as open and freely accessible for interested people from other institutions, with the attendance of different groups of the YouthMappers global network. PoliMappers curated the course programme, choosing the contents, preparing the material of the webinars, and defining the contexts for collaborations with other associations and groups at both the national and international level. Indeed, the course has seen the participation and support of the World Food Programme (WFP), Open Knowledge Foundation, TECHO Colombia, IMM Design Lab, Map for Future, UN Mappers, Spazio Vita Niguarda Onlus, Ledha Milano, AUS Niguarda Onlus and Humanitarian OpenStreetMap Team (HOT).
 
-[![](PoliMappers Poster-preview.png)](https://example.com/poster.pdf)
+[![](PoliMappers Poster-preview.png)](https://files.osmfoundation.org/s/tpoQSSajzzbLnnb)
 
 <!--
 <h3 id="saleem">Muhammad Saleem: "Rethinking temporal-spatial data quality aspects for OpenStreetMap"</h3>
@@ -157,7 +157,7 @@ In 2021 PoliMappers included in their annual activities the innovative teaching 
 Goal of this work is to redefine the temporal quality dimension for OSM, which will facilitate the practical implications in measuring spatial data quality of OSM intrinsically when the external high-quality data is scarce. There are several factors that make our world temporally sensitive.
 These factors are governed by change agents. The most prominent change agents are stressors such as disasters or conflict. Data is usually produced with high speed during such extreme events. It also includes new housing plans, population growth (very prominent in slums), policy shifts and urban transformations etc,. The data in the global south is usually not updated during these events and can cause data in OpenStreetMap to stale .i.e low temporal quality and constitute as incomplete.
 
-[![](Muhammad_Saleem_rethinking temporal-spatial data quality aspects for OpenStreetMap (OSM)-preview)](https://example.com/poster.pdf)
+[![](Muhammad_Saleem_rethinking temporal-spatial data quality aspects for OpenStreetMap (OSM)-preview)](https://files.osmfoundation.org/s/TrWXMz898KTPcWY)
 -->
 
 <!--
@@ -167,9 +167,9 @@ Humanitarian organizations are interested in building up a community of voluntar
 run. Therefore, we developed a new mapathon concept to increase user retention rates among remote mapathon new-comers.
 
 Based on a literature review, we identified event- and participant-related variables which we expect to have an effect on long-term mapping activities. Using questionnaires for organizers and participants, we compare conventional mapathons with this newly developed concept. If your organization wants to participate, either by testing our new concept, or by handing out questionnaires to participants of conventional mapathons, please contact sarah.lohr@heigit.org.
--->
 
-[![](Sarah_Lohr_mapathon_experiment-preview.png)](https://example.com/poster.pdf)
+[![](Sarah_Lohr_mapathon_experiment-preview.png)](https://files.osmfoundation.org/s/yQyfa6CFBXLsMfe)
+-->
 
 <h3 id="takahashi">Ayako Takahashi, YouthMappers AGU, Aoyama Gakuin University, Japan</h3>
 
@@ -178,13 +178,13 @@ We joined some mappathon and worked on mapping promotion activities.
 In April, we welcomed 5 new members and now we have 12members in total which made it possible to plan and carry on some new activities such as holding mapping workshops for students and starting our own YouTube channel.
 Please stay tuned for this year's activities of YouthMappers AGU!
 
-[![](Ayako_Takahashi_YouthMappers AGU-preview.png)](https://example.com/poster.pdf)
+[![](Ayako_Takahashi_YouthMappers AGU-preview.png)](https://files.osmfoundation.org/s/aLYF3oTiG5rLmBQ)
 
 <h3 id="schüssler">Janina Schüssler: "Heigit Healthcare Poster"</h3>
 
 HeiGIT is working with OpenStreetMap (OSM) data in a variety of ways for several years now. An emerging topic is OSM data for healthcare applications. The Corona pandemic is an omnipresent example of how important availability and transparency of data on healthcare capacity is. For example, by knowing the number, location and equipment of health facilities can provide potentially life-saving information and assist in decision-making and planning. This poster looks at the health facility data currently available in OpenStreetMap. The main focus is on the progression over the last years, the current distribution globally and the thematic structure.
 
-[![](Janina_Schüssler_heigit_healthcare_poster-preview.png)](https://example.com/poster.pdf)
+[![](Janina_Schüssler_heigit_healthcare_poster-preview.png)](https://files.osmfoundation.org/s/tLqd7rqgnAMELMn)
 
 <h3 id="vesanto">Heikki Vesanto: "OSM Ireland Buildings"</h3>
 
@@ -198,27 +198,27 @@ The project also includes improving the tagging of buildings. With an initial go
 
 1,666,328 buildings have been mapped so far, with 701,678 added since the start of the project, with an additional 120,356 edited.
 
-[![](Heikki_Vesanto_OSM_Ireland_Buildings-preview.png)](https://example.com/poster.pdf)
+[![](Heikki_Vesanto_OSM_Ireland_Buildings-preview.png)](https://files.osmfoundation.org/s/tLqd7rqgnAMELMn)
 
 <h3 id="üstün">Yusuf Mert Üstün: "Batumi Land-use Development Project"</h3>
 
 Batumi Land-use Development Project" is a personal map detailing the project. And it aims to transfer the land use dynamics of the Georgian city of Batumi on the Black Sea to OpenStreetMap. Thus, much more detailed inferences can be made about the city, which is very important for the analysis of sciences such as geography and city planning. That's why, in this personal project, I'm adding piece-by-piece land use information to the city of Batumi.
 
-[![](Yusuf_Mert_Üstün Batumi-preview.png)](https://example.com/poster.pdf)
+[![](Yusuf_Mert_Üstün Batumi-preview.png)](https://files.osmfoundation.org/s/4akJgXtPQkAnrxm)
 
 <!--
 <h3 id="eguren">Lucas Eguren: "PFI Argentina"</h3>
 
 The Argentine Republic has 158 international border crossings, which are the entry and exit points for people, goods and means of transportation, linking it directly (by river or land means) with its five neighboring countries: Bolivia, Brazil, Chile, Paraguay and Uruguay. Fourteen of them are administered by the Ministry of the Interior, while the remaining 144 are under the orbit of the Ministry of Security, whose control is delegated to the National Gendarmerie and the Argentine Naval Prefecture.
 
-[![](Eguren, Lucas. PFI Argentina-preview.png)](https://example.com/poster.pdf)
+[![](Eguren, Lucas. PFI Argentina-preview.png)](https://files.osmfoundation.org/s/MEdixbPkJTrNJsn)
 -->
 
 <h3 id="schumann">Raphael Schumann: "Natural Language Processing and OpenStreetMap"</h3>
 
 The poster presents a project at the intersection of Natural Language Processing and OpenStreetMap. OSM is used to render small routes within New York City and paid annotators are asked to write natural language navigation instructions that use landmarks instead of distances and street names. A machine learning model is then trained on this data in order to automatically generate navigation instructions that resemble the style of those human written instructions.
 
-[![](Raphael_Schumann_Natural Language-preview.png)](https://example.com/poster.pdf)
+[![](Raphael_Schumann_Natural Language-preview.png)](https://files.osmfoundation.org/s/q7xM6qzKHDmWqd6)
 
 <h3 id="vlasak">Jiri Vlasak: "Divide and map."</h3>
 
@@ -234,4 +234,4 @@ Main points of the damn project philosophy are:
 * Performance and decentralization.
 * Reliability and scalability.
 
-[![](Jiri_Vlasak Damn Poster-preview.png)](https://example.com/poster.pdf)
+[![](Jiri_Vlasak Damn Poster-preview.png)](https://files.osmfoundation.org/s/8pDFaEdzaCLKEta)
