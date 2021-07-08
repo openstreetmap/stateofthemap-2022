@@ -5,8 +5,8 @@ code: "QUHKNR"
 speaker_names_with_affiliations: ['Sarah Hoffmann']
 room: "Track 1 - Talks"
 length: "20"
-time: "Friday, 16:30"
-time_iso: "2021-07-09T16:30:00Z"
+time: "Friday, 15:45"
+time_iso: "2021-07-09T15:45:00Z"
 resources: []
 recording: True
 ---

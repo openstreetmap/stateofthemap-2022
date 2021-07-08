@@ -5,8 +5,8 @@ code: "GGLYCK"
 speaker_names_with_affiliations: ['Paul Norman']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 20:45"
-time_iso: "2021-07-10T20:45:00Z"
+time: "Saturday, 20:00"
+time_iso: "2021-07-10T20:00:00Z"
 resources: []
 recording: True
 ---

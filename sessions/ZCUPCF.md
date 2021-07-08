@@ -5,8 +5,8 @@ code: "ZCUPCF"
 speaker_names_with_affiliations: ['Anne-Karoline Distel']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 17:15"
-time_iso: "2021-07-10T17:15:00Z"
+time: "Saturday, 16:30"
+time_iso: "2021-07-10T16:30:00Z"
 resources: [{ description: "Slideshow Mapping Heritage in Ireland", url: "/attachments/ZCUPCF_Mapping_Heritage_in_Ireland_7fZz9yz.odp" }]
 recording: True
 ---

@@ -5,8 +5,8 @@ code: "7RWSWA"
 speaker_names_with_affiliations: ['Jochen Topf']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 16:30"
-time_iso: "2021-07-10T16:30:00Z"
+time: "Saturday, 15:45"
+time_iso: "2021-07-10T15:45:00Z"
 resources: []
 recording: True
 ---

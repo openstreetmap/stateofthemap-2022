@@ -5,8 +5,8 @@ code: "MXBCZY"
 speaker_names_with_affiliations: ['Monica Brandeis']
 room: "Track 1 - Talks"
 length: "20"
-time: "Friday, 21:30"
-time_iso: "2021-07-09T21:30:00Z"
+time: "Friday, 20:45"
+time_iso: "2021-07-09T20:45:00Z"
 resources: []
 recording: True
 ---

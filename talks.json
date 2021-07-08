@@ -105,18 +105,6 @@
       "room": 822
     },
     {
-      "code": "UVEAX9",
-      "title": "Ethical Mapping with and for People Living with Vulnerability",
-      "abstract": "Today’s world of geospatial technology and data is evolving quickly. However, the lives of those living with vulnerability may not be improving, yet are shaped by new technologies. The communities who stand to benefit most from improving technologies, including mapping, are instead increasingly left out of key conversations, opportunities, and developments that center around their lives and their data. This panel will discuss ethical issues around mapping with and for communities living in vulnerability.",
-      "speakers": [
-        "7MZ3AU"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T15:00:00Z",
-      "end": "2021-07-09T16:00:00Z",
-      "room": 823
-    },
-    {
       "code": "RJZRZ8",
       "title": "OSM data: Privacy Risks and GDPR compliance",
       "abstract": "OSM publishes with its geodata also meta data describing the contribution process and contributor. This talk gives an overview of the actual privacy prospects for OSM consumers, potential privacy risks for OSM contributors, and attempts a preliminary compliance check with respect to the EU’s general data protection regulation (GDPR).",
@@ -129,16 +117,16 @@
       "room": 822
     },
     {
-      "code": "BMTRNL",
-      "title": "Just give me the data! An overview of services and tools for getting tailored data out of OSM",
-      "abstract": "While *using* maps and services based on OSM is easy, acquiring tailored geodata extracts to do research or to create custom visualisations can seem daunting at first.\r\n\r\nThis talk aims to give an overview on available services (e. g. Overpass Turbo, various custom extraction services, osmdata.xyz) and tools (e. g. ogr2ogr, osmium and several QGIS plugins) with a special focus on the usability in QGIS-centric workflows.",
+      "code": "UVEAX9",
+      "title": "Ethical Mapping with and for People Living with Vulnerability",
+      "abstract": "Today’s world of geospatial technology and data is evolving quickly. However, the lives of those living with vulnerability may not be improving, yet are shaped by new technologies. The communities who stand to benefit most from improving technologies, including mapping, are instead increasingly left out of key conversations, opportunities, and developments that center around their lives and their data. This panel will discuss ethical issues around mapping with and for communities living in vulnerability.",
       "speakers": [
-        "VEHRRN"
+        "7MZ3AU"
       ],
-      "track": 2198,
-      "start": "2021-07-09T15:45:00Z",
-      "end": "2021-07-09T16:05:00Z",
-      "room": 822
+      "track": 2199,
+      "start": "2021-07-09T15:00:00Z",
+      "end": "2021-07-09T16:00:00Z",
+      "room": 823
     },
     {
       "code": "QUHKNR",
@@ -148,8 +136,8 @@
         "RD7F9S"
       ],
       "track": 2200,
-      "start": "2021-07-09T16:30:00Z",
-      "end": "2021-07-09T16:50:00Z",
+      "start": "2021-07-09T15:45:00Z",
+      "end": "2021-07-09T16:05:00Z",
       "room": 822
     },
     {
@@ -160,8 +148,8 @@
         "ZZ9DXT"
       ],
       "track": 2200,
-      "start": "2021-07-09T17:15:00Z",
-      "end": "2021-07-09T17:35:00Z",
+      "start": "2021-07-09T16:30:00Z",
+      "end": "2021-07-09T16:50:00Z",
       "room": 822
     },
     {
@@ -176,6 +164,18 @@
       "start": "2021-07-09T17:15:00Z",
       "end": "2021-07-09T18:15:00Z",
       "room": 823
+    },
+    {
+      "code": "9R7LZF",
+      "title": "Makina Maps",
+      "abstract": "Makina Maps is a new stack to produce vectors tiles on request from updated OSM database. The same thing we except from Mapnik, osm2pgsq and mod_tile stack, but for vector tiles.",
+      "speakers": [
+        "VZMGEW"
+      ],
+      "track": 2202,
+      "start": "2021-07-09T17:15:00Z",
+      "end": "2021-07-09T17:35:00Z",
+      "room": 822
     },
     {
       "code": "ZZ39T9",
@@ -206,13 +206,13 @@
       "room": 823
     },
     {
-      "code": "9R7LZF",
-      "title": "Makina Maps",
-      "abstract": "Makina Maps is a new stack to produce vectors tiles on request from updated OSM database. The same thing we except from Mapnik, osm2pgsq and mod_tile stack, but for vector tiles.",
+      "code": "RSLM3H",
+      "title": "Linting the map together: Collaborations of Mapbox Data RAVE and OpenStreetMap Communities",
+      "abstract": "Over the past year, the Mapbox Data RAVE team has worked to improve data quality issues and engaged with various communities according to the Organized Editing Guidelines. The experience has been great and varied significantly from place to place. This talk will share the details and learnings for the community and other editing teams.",
       "speakers": [
-        "VZMGEW"
+        "N7K3EE"
       ],
-      "track": 2202,
+      "track": 2199,
       "start": "2021-07-09T20:00:00Z",
       "end": "2021-07-09T20:20:00Z",
       "room": 822
@@ -230,18 +230,6 @@
       "room": 823
     },
     {
-      "code": "RSLM3H",
-      "title": "Linting the map together: Collaborations of Mapbox Data RAVE and OpenStreetMap Communities",
-      "abstract": "Over the past year, the Mapbox Data RAVE team has worked to improve data quality issues and engaged with various communities according to the Organized Editing Guidelines. The experience has been great and varied significantly from place to place. This talk will share the details and learnings for the community and other editing teams.",
-      "speakers": [
-        "N7K3EE"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T20:45:00Z",
-      "end": "2021-07-09T21:05:00Z",
-      "room": 822
-    },
-    {
       "code": "MXBCZY",
       "title": "Improving OSM Data in Coastal Communities",
       "abstract": "Improving OSM data quality and coastal community resilience with the Map Quality Measurement workflow.",
@@ -249,20 +237,8 @@
         "3NALG3"
       ],
       "track": 2203,
-      "start": "2021-07-09T21:30:00Z",
-      "end": "2021-07-09T21:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "R3ZXY7",
-      "title": "How to map a city's public transport during a pandemic",
-      "abstract": "How to remotely map a city's public transport when due to the pandemic local trainings and community buildings are not possible.",
-      "speakers": [
-        "GFLXVK"
-      ],
-      "track": 2200,
-      "start": "2021-07-10T10:00:00Z",
-      "end": "2021-07-10T10:20:00Z",
+      "start": "2021-07-09T20:45:00Z",
+      "end": "2021-07-09T21:05:00Z",
       "room": 822
     },
     {
@@ -277,6 +253,18 @@
       "start": "2021-07-10T10:00:00Z",
       "end": "2021-07-10T11:00:00Z",
       "room": 823
+    },
+    {
+      "code": "R3ZXY7",
+      "title": "How to map a city's public transport during a pandemic",
+      "abstract": "How to remotely map a city's public transport when due to the pandemic local trainings and community buildings are not possible.",
+      "speakers": [
+        "GFLXVK"
+      ],
+      "track": 2200,
+      "start": "2021-07-10T10:00:00Z",
+      "end": "2021-07-10T10:20:00Z",
+      "room": 822
     },
     {
       "code": "GEKXWL",
@@ -349,7 +337,7 @@
       },
       "start": "2021-07-10T13:45:00Z",
       "end": "2021-07-10T15:00:00Z",
-      "room": 822
+      "room": 823
     },
     {
       "title": {
@@ -357,7 +345,7 @@
       },
       "start": "2021-07-10T13:45:00Z",
       "end": "2021-07-10T15:00:00Z",
-      "room": 823
+      "room": 822
     },
     {
       "code": "7M7WVX",
@@ -384,18 +372,6 @@
       "room": 823
     },
     {
-      "code": "L9XART",
-      "title": "Community growth: What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants.",
-      "abstract": "Between December 2020 to March 2021, the OSM Kenya team ran a project whose focus was on growing the OSM community locally: both in terms of membership and diversity. The project was supported through the Facebook and HOTOSM community impact microgrants. In this session, we will share about the community, project: from ideation(community health), motivation to implementation. This will include the activities involved, our experience, challenges that we encountered, and the lessons learned.",
-      "speakers": [
-        "KEEP87"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T15:45:00Z",
-      "end": "2021-07-10T16:05:00Z",
-      "room": 822
-    },
-    {
       "code": "7RWSWA",
       "title": "News from osm2pgsql",
       "abstract": "The osm2pgsql has been around for a long time. Since 2006 it is used to import OSM data into PostgreSQL/PostGIS databases for rendering and other uses. In the last years there have been a lot of improvements to osm2pgsql. With the new \"Flex\" output, osm2pgsql is now much more versatile which allows new applications.",
@@ -403,8 +379,8 @@
         "LULDTS"
       ],
       "track": 2202,
-      "start": "2021-07-10T16:30:00Z",
-      "end": "2021-07-10T16:50:00Z",
+      "start": "2021-07-10T15:45:00Z",
+      "end": "2021-07-10T16:05:00Z",
       "room": 822
     },
     {
@@ -415,6 +391,18 @@
         "JUMGYU"
       ],
       "track": 2199,
+      "start": "2021-07-10T16:30:00Z",
+      "end": "2021-07-10T16:50:00Z",
+      "room": 822
+    },
+    {
+      "code": "RC7S8K",
+      "title": "MapLibre - community driven Mapbox GL fork",
+      "abstract": "The code samples, status, recent development and roadmap of the open-source community driven project for rendering of (not only) OpenStreetMap vector tiles in a web browser (GL JS) and with native code (Android, iOS, etc).",
+      "speakers": [
+        "VVZ9RM"
+      ],
+      "track": 2202,
       "start": "2021-07-10T17:15:00Z",
       "end": "2021-07-10T17:35:00Z",
       "room": 822
@@ -432,15 +420,23 @@
       "room": 823
     },
     {
-      "code": "RC7S8K",
-      "title": "MapLibre - community driven Mapbox GL fork",
-      "abstract": "The code samples, status, recent development and roadmap of the open-source community driven project for rendering of (not only) OpenStreetMap vector tiles in a web browser (GL JS) and with native code (Android, iOS, etc).",
+      "code": "RFGVSG",
+      "title": "OpenStreetMap and the neglected pedestrian",
+      "abstract": "Pedestrians have been neglected. We’ve seen monumental progress in digital maps, but much of this has been road centric. In this presentation we download data from OpenStreetMap that relates to pedestrians to see how much it differs from the reality on the ground. We contrast different types of cities, seek to understand why pedestrian data is lacking, and look at solutions such as Mapillary that can help make OpenStreetMap more pedestrian friendly.",
       "speakers": [
-        "VVZ9RM"
+        "GBZBUL"
       ],
-      "track": 2202,
+      "track": 2200,
       "start": "2021-07-10T18:00:00Z",
       "end": "2021-07-10T18:20:00Z",
+      "room": 822
+    },
+    {
+      "title": {
+        "en": "Break"
+      },
+      "start": "2021-07-10T18:45:00Z",
+      "end": "2021-07-10T20:00:00Z",
       "room": 822
     },
     {
@@ -452,21 +448,13 @@
       "room": 823
     },
     {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-10T18:45:00Z",
-      "end": "2021-07-10T20:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "RFGVSG",
-      "title": "OpenStreetMap and the neglected pedestrian",
-      "abstract": "Pedestrians have been neglected. We’ve seen monumental progress in digital maps, but much of this has been road centric. In this presentation we download data from OpenStreetMap that relates to pedestrians to see how much it differs from the reality on the ground. We contrast different types of cities, seek to understand why pedestrian data is lacking, and look at solutions such as Mapillary that can help make OpenStreetMap more pedestrian friendly.",
+      "code": "GGLYCK",
+      "title": "OpenStreetMap Standard Layer: Who uses it?",
+      "abstract": "Mappers see the OpenStreetMap Standard layer every time they view OpenStreetMap.org, but who else is using the layer? With usage logs, who is accessing what is broken down for this important OpenStreetMap service.",
       "speakers": [
-        "GBZBUL"
+        "YRRSMU"
       ],
-      "track": 2200,
+      "track": 2199,
       "start": "2021-07-10T20:00:00Z",
       "end": "2021-07-10T20:20:00Z",
       "room": 822
@@ -484,11 +472,11 @@
       "room": 823
     },
     {
-      "code": "GGLYCK",
-      "title": "OpenStreetMap Standard Layer: Who uses it?",
-      "abstract": "Mappers see the OpenStreetMap Standard layer every time they view OpenStreetMap.org, but who else is using the layer? With usage logs, who is accessing what is broken down for this important OpenStreetMap service.",
+      "code": "L9XART",
+      "title": "Community growth: What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants.",
+      "abstract": "Between December 2020 to March 2021, the OSM Kenya team ran a project whose focus was on growing the OSM community locally: both in terms of membership and diversity. The project was supported through the Facebook and HOTOSM community impact microgrants. In this session, we will share about the community, project: from ideation(community health), motivation to implementation. This will include the activities involved, our experience, challenges that we encountered, and the lessons learned.",
       "speakers": [
-        "YRRSMU"
+        "KEEP87"
       ],
       "track": 2199,
       "start": "2021-07-10T20:45:00Z",
@@ -771,16 +759,9 @@
       "room": 823
     }
   ],
-  "version": "0.2",
+  "version": "0.3",
   "timezone": "UTC",
   "tracks": [
-    {
-      "id": 2198,
-      "name": {
-        "en": "OSM Basics"
-      },
-      "color": "#49EC19"
-    },
     {
       "id": 2199,
       "name": {
@@ -870,14 +851,14 @@
       "avatar": null
     },
     {
-      "code": "KEEP87",
-      "name": "Laura Mugeha",
-      "avatar": "https://pretalx.com/media/avatars/Laura_Mugeha_GvSEHM5.jpg"
-    },
-    {
       "code": "YNFKER",
       "name": "SotM Working Group",
       "avatar": null
+    },
+    {
+      "code": "KEEP87",
+      "name": "Laura Mugeha",
+      "avatar": "https://pretalx.com/media/avatars/Laura_Mugeha_GvSEHM5.jpg"
     },
     {
       "code": "KFSX7B",
@@ -1018,11 +999,6 @@
       "code": "N9ZABZ",
       "name": "Jean-Marc Liotier",
       "avatar": null
-    },
-    {
-      "code": "VEHRRN",
-      "name": "Johannes Kröger",
-      "avatar": "https://pretalx.com/media/avatars/fossgis_hannes_jSGhabG.jpg"
     },
     {
       "code": "DY79SZ",

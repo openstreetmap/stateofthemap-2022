@@ -5,8 +5,8 @@ code: "9R7LZF"
 speaker_names_with_affiliations: ['Frédéric Rodrigo']
 room: "Track 1 - Talks"
 length: "20"
-time: "Friday, 20:00"
-time_iso: "2021-07-09T20:00:00Z"
+time: "Friday, 17:15"
+time_iso: "2021-07-09T17:15:00Z"
 resources: []
 recording: True
 ---

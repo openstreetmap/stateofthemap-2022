@@ -5,8 +5,8 @@ code: "L9XART"
 speaker_names_with_affiliations: ['Laura Mugeha']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 15:45"
-time_iso: "2021-07-10T15:45:00Z"
+time: "Saturday, 20:45"
+time_iso: "2021-07-10T20:45:00Z"
 resources: []
 recording: True
 ---

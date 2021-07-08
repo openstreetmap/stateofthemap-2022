@@ -5,8 +5,8 @@ code: "RFGVSG"
 speaker_names_with_affiliations: ['Edoardo Neerhut']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 20:00"
-time_iso: "2021-07-10T20:00:00Z"
+time: "Saturday, 18:00"
+time_iso: "2021-07-10T18:00:00Z"
 resources: []
 recording: True
 ---

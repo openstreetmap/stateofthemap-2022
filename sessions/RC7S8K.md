@@ -5,8 +5,8 @@ code: "RC7S8K"
 speaker_names_with_affiliations: ['Petr Pridal']
 room: "Track 1 - Talks"
 length: "20"
-time: "Saturday, 18:00"
-time_iso: "2021-07-10T18:00:00Z"
+time: "Saturday, 17:15"
+time_iso: "2021-07-10T17:15:00Z"
 resources: [{ description: "MapLibre logo", url: "/attachments/RC7S8K_MapLibre_logo_BLUE-for_white_bg-preview_1_Ga3LPDF.png" }]
 recording: True
 ---

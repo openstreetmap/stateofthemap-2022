@@ -5,8 +5,8 @@ code: "RSLM3H"
 speaker_names_with_affiliations: ['Vlada Boitsik']
 room: "Track 1 - Talks"
 length: "20"
-time: "Friday, 20:45"
-time_iso: "2021-07-09T20:45:00Z"
+time: "Friday, 20:00"
+time_iso: "2021-07-09T20:00:00Z"
 resources: []
 recording: True
 ---
