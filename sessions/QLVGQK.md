@@ -2,7 +2,7 @@
 layout: session
 title: "Exploring Sound maps using OpenStreetMap data and FOSS through MANILAud: Metro Manila Soundscapes"
 code: "QLVGQK"
-speaker_names_with_affiliations: ['Andi Tabinas']
+speaker_names_with_affiliations: ['Andi Tabinas', 'Jewel Templonuevo']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Saturday, 10:00"

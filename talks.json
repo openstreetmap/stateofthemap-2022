@@ -180,7 +180,7 @@
     {
       "code": "ZZ39T9",
       "title": "Lightning Talks I",
-      "abstract": "Various lightning talks. A detailed program will be published shortly before the conference.",
+      "abstract": "This track gathers various lightning talks of 5 minutes each.",
       "speakers": [
         "YNFKER"
       ],
@@ -270,7 +270,8 @@
       "title": "Exploring Sound maps using OpenStreetMap data and FOSS through MANILAud: Metro Manila Soundscapes",
       "abstract": "Our proposed workshop aims to explore sound maps using OpenStreetMap data and free and open-source software (FOSS) through MANILAud: Metro Manila Soundscapes (http://bit.ly/manilaud; http://bit.ly/manilaudday)\r\n\r\nThe 60-minute workshop will be about the project and also enable the participants to experience submitting soundscapes and hearing their soundscapes on the map.",
       "speakers": [
-        "KKUH8S"
+        "KKUH8S",
+        "SDTYZV"
       ],
       "track": 2201,
       "start": "2021-07-10T10:00:00Z",
@@ -333,7 +334,7 @@
     {
       "code": "ZLK9X9",
       "title": "Lightning Talks II",
-      "abstract": "Various lightning talks. A detailed program will be published shortly before the conference.",
+      "abstract": "This track gathers various lightning talks of 5 minutes each.",
       "speakers": [
         "YNFKER"
       ],
@@ -549,7 +550,7 @@
     {
       "code": "3CZDTS",
       "title": "Lightning Talks III",
-      "abstract": "Various lightning talks. A detailed program will be published shortly before the conference.",
+      "abstract": "This track gathers various lightning talks of 5 minutes each.",
       "speakers": [
         "YNFKER"
       ],
@@ -1052,6 +1053,11 @@
       "code": "UPNYKS",
       "name": "Stéphane Guillou",
       "avatar": "https://pretalx.com/media/avatars/2020-07-07-profile_5jbIvA1.jpg"
+    },
+    {
+      "code": "SDTYZV",
+      "name": "Jewel Templonuevo",
+      "avatar": null
     },
     {
       "code": "PWHA8S",

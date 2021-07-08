@@ -10,6 +10,8 @@ time_iso: "2021-07-10T17:15:00Z"
 resources: []
 recording: False
 ---
+Panel guests are Amadou Ndong, Tshedy, Kapay, Fredy, John Rupture, Mikko, Andal Feye, Sana Ibrahim.
+
 This panel focuses on the challenges contributors face in building OSM communities in the South and the strategies they adopt to achieve their goals. It brings together active members of selected OSM communities who will share their experiences and make recommendations for building strong OSM communities.
 
 Contrary to the North, the South has many challenges to face since most of them are poor countries where people are in constant search of daily bread whether they are students or young graduates. 
