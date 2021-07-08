@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "2021 Posters"
 titlecontent: ""
-headings: "tauscher,pudleiner,nguyen,sahoo,kaldyrkaev,huang,staniek,polimappers,takahashi,schüssler,vesanto,üstün,schumann,vlasak"
+headings: "tauscher,pudleiner,nguyen,openmapchile,sahoo,kaldyrkaev,huang,staniek,polimappers,lohr,takahashi,schüssler,vesanto,üstün,schumann,vlasak"
 ---
 
 <style>
@@ -82,7 +82,6 @@ My OSM user name is Minh Nguyen.
 
 [![](Minh_Nguyen_Mapping POIs in Santa Clara County-preview.png)](https://files.osmfoundation.org/s/CkGg3peXFTHPqXo)
 
-<!--
 <h3 id="openmapchile">Equipo OpenMapChile SPA: OpenMapChileSoftMap2021</h3>
 
 Urban trees are one of the main strategic resources for global warming mitigation. The management of any resource begins with a diagnosis of the resource. Urban tree planning is no exception. It is proposed that inventories are essential to provide a current record of the resource to be managed.
@@ -105,7 +104,6 @@ species:mp (mapudungún name)
 A large percentage of the tree species were identified using the Google Street View street visualisation tool, taking into account the year in which they were updated. Considering that trees are static elements of the city's infrastructure that remain over time, it is possible in many cases to present a high degree of certainty in the correct identification.  However, we are aware that the identification has to be done on the ground, which has an associated cost that our organisation is not able to finance at the moment.  It has been voluntary work without monetary compensation.
 
 [![](OpenMapChileSoftMap2021-preview.png)](https://files.osmfoundation.org/s/RbRaodxgtW4jpw9)
--->
 
 <!--
 <h3 id="gomez">Andres Gomez: "Mapping Bogota, Colombia in detail"</h3>
@@ -160,7 +158,6 @@ These factors are governed by change agents. The most prominent change agents ar
 [![](Muhammad_Saleem_rethinking temporal-spatial data quality aspects for OpenStreetMap (OSM)-preview)](https://files.osmfoundation.org/s/TrWXMz898KTPcWY)
 -->
 
-<!--
 <h3 id="lohr">Sarah Lohr: "Mapathon experiment"</h3>
 
 Humanitarian organizations are interested in building up a community of voluntary mappers, either for preventive action or in order to quickly respond to humanitarian disasters. However, Hristova et al. (2013) have shown that mapathons largely fail on engaging new-comers on the long-
@@ -169,7 +166,6 @@ run. Therefore, we developed a new mapathon concept to increase user retention r
 Based on a literature review, we identified event- and participant-related variables which we expect to have an effect on long-term mapping activities. Using questionnaires for organizers and participants, we compare conventional mapathons with this newly developed concept. If your organization wants to participate, either by testing our new concept, or by handing out questionnaires to participants of conventional mapathons, please contact sarah.lohr@heigit.org.
 
 [![](Sarah_Lohr_mapathon_experiment-preview.png)](https://files.osmfoundation.org/s/yQyfa6CFBXLsMfe)
--->
 
 <h3 id="takahashi">Ayako Takahashi, YouthMappers AGU, Aoyama Gakuin University, Japan</h3>
 
