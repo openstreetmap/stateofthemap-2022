@@ -94,7 +94,7 @@
       },
       "start": "2021-07-09T13:45:00Z",
       "end": "2021-07-09T15:00:00Z",
-      "room": 823
+      "room": 822
     },
     {
       "title": {
@@ -102,19 +102,7 @@
       },
       "start": "2021-07-09T13:45:00Z",
       "end": "2021-07-09T15:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "RJZRZ8",
-      "title": "OSM data: Privacy Risks and GDPR compliance",
-      "abstract": "OSM publishes with its geodata also meta data describing the contribution process and contributor. This talk gives an overview of the actual privacy prospects for OSM consumers, potential privacy risks for OSM contributors, and attempts a preliminary compliance check with respect to the EU’s general data protection regulation (GDPR).",
-      "speakers": [
-        "Y8FWWN"
-      ],
-      "track": 2203,
-      "start": "2021-07-09T15:00:00Z",
-      "end": "2021-07-09T15:20:00Z",
-      "room": 822
+      "room": 823
     },
     {
       "code": "UVEAX9",
@@ -127,6 +115,18 @@
       "start": "2021-07-09T15:00:00Z",
       "end": "2021-07-09T16:00:00Z",
       "room": 823
+    },
+    {
+      "code": "RJZRZ8",
+      "title": "OSM data: Privacy Risks and GDPR compliance",
+      "abstract": "OSM publishes with its geodata also meta data describing the contribution process and contributor. This talk gives an overview of the actual privacy prospects for OSM consumers, potential privacy risks for OSM contributors, and attempts a preliminary compliance check with respect to the EU’s general data protection regulation (GDPR).",
+      "speakers": [
+        "Y8FWWN"
+      ],
+      "track": 2203,
+      "start": "2021-07-09T15:00:00Z",
+      "end": "2021-07-09T15:20:00Z",
+      "room": 822
     },
     {
       "code": "QUHKNR",
@@ -153,6 +153,18 @@
       "room": 822
     },
     {
+      "code": "9R7LZF",
+      "title": "Makina Maps",
+      "abstract": "Makina Maps is a new stack to produce vectors tiles on request from updated OSM database. The same thing we except from Mapnik, osm2pgsq and mod_tile stack, but for vector tiles.",
+      "speakers": [
+        "VZMGEW"
+      ],
+      "track": 2202,
+      "start": "2021-07-09T17:15:00Z",
+      "end": "2021-07-09T17:35:00Z",
+      "room": 822
+    },
+    {
       "code": "UYEXWN",
       "title": "Why Does Sexism within OpenStreetMap Matter?",
       "abstract": "Experts estimate that only 2-5% of OSM contributors are women. Panelists will discuss how structural inequalities and individual instances of sexist and misogynistic language and behavior present significant barriers to women’s participation, along with steps that organizations, boards, communities, and individuals can take to be anti-sexist members of the OSM ecosystem. This panel is organized by the Everywhere She Maps program of YouthMappers.\r\n\r\nThe panelists are Hanna Krüger, Chomba Chishala, Dara Carney-Nedelman, Marcela Zeballos",
@@ -164,18 +176,6 @@
       "start": "2021-07-09T17:15:00Z",
       "end": "2021-07-09T18:15:00Z",
       "room": 823
-    },
-    {
-      "code": "9R7LZF",
-      "title": "Makina Maps",
-      "abstract": "Makina Maps is a new stack to produce vectors tiles on request from updated OSM database. The same thing we except from Mapnik, osm2pgsq and mod_tile stack, but for vector tiles.",
-      "speakers": [
-        "VZMGEW"
-      ],
-      "track": 2202,
-      "start": "2021-07-09T17:15:00Z",
-      "end": "2021-07-09T17:35:00Z",
-      "room": 822
     },
     {
       "code": "ZZ39T9",
@@ -437,7 +437,7 @@
       },
       "start": "2021-07-10T18:45:00Z",
       "end": "2021-07-10T20:00:00Z",
-      "room": 822
+      "room": 823
     },
     {
       "title": {
@@ -445,7 +445,7 @@
       },
       "start": "2021-07-10T18:45:00Z",
       "end": "2021-07-10T20:00:00Z",
-      "room": 823
+      "room": 822
     },
     {
       "code": "GGLYCK",
@@ -589,7 +589,7 @@
       },
       "start": "2021-07-11T18:45:00Z",
       "end": "2021-07-11T20:00:00Z",
-      "room": 822
+      "room": 823
     },
     {
       "title": {
@@ -597,7 +597,7 @@
       },
       "start": "2021-07-11T18:45:00Z",
       "end": "2021-07-11T20:00:00Z",
-      "room": 823
+      "room": 822
     },
     {
       "code": "EBQEZJ",
@@ -759,7 +759,7 @@
       "room": 823
     }
   ],
-  "version": "0.3",
+  "version": "0.4",
   "timezone": "UTC",
   "tracks": [
     {
