@@ -192,7 +192,7 @@ The project also includes improving the tagging of buildings. With an initial go
 
 1,666,328 buildings have been mapped so far, with 701,678 added since the start of the project, with an additional 120,356 edited.
 
-[![](Heikki_Vesanto_OSM_Ireland_Buildings-preview.png)](https://files.osmfoundation.org/s/xpS2Pr3JB84P6x3)
+[![](Heikki_Vesanto_OSM_Ireland_Buildings-preview.png)](https://files.osmfoundation.org/s/xpS2Pr3JB84P6x3/download/Heikki_Vesanto_OSM_Ireland_Buildings.pdf)
 
 <h3 id="üstün">Yusuf Mert Üstün: "Batumi Land-use Development Project"</h3>
 
