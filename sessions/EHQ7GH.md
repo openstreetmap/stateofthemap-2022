@@ -27,6 +27,6 @@ In the third phase of the programme, volunteers mapped 120 unmapped towns in Tur
 
 Overall, this talk will highlight key elements of building and enlarging OpenStreetMap communities in developing countries and learnings from Open Source Volunteering Programme. The proof of concept of mapping unmapped towns methodology will be shared with other communities to encourage them to implement similar activities in their local community. 
 
-1 -  https://www.youtube.com/watch?v=fD4fvmJ3Wmk
-2 -  https://resultmaps.neis-one.org/unmapped#5/47.100/9.800
-3 -  https://maproulette.org/browse/challenges/15901
+* (1) [https://www.youtube.com/watch?v=fD4fvmJ3Wmk](https://www.youtube.com/watch?v=fD4fvmJ3Wmk)
+* (2) [https://resultmaps.neis-one.org/unmapped#5/47.100/9.800](https://resultmaps.neis-one.org/unmapped#5/47.100/9.800)
+* (3) [https://maproulette.org/browse/challenges/15901](https://maproulette.org/browse/challenges/15901)
