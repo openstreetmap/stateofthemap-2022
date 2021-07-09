@@ -16,9 +16,7 @@ headings: "tauscher,pudleiner,nguyen,openmapchile,sahoo,kaldyrkaev,huang,staniek
   }
 </style>
 
-Many followed the call for posters and the results are AMAZING. We thank all
-participants for the great work. If you would like to submit more, gladly
-do, [info over here](/calls/posters)
+Many followed the call for posters and the results are AMAZING. We thank all participants for the great work! Some more information can be found on our [call for posters](/calls/posters) page.
 
 *Please click on thumbnail to download PDF*
 
