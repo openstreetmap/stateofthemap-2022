@@ -24,17 +24,13 @@ Many followed the call for posters and the results are AMAZING. We thank all par
 
 Let's meet at an island!
 
-The project has started out as an attempt to create a meeting place for friends and family during the COVID-19 pandemic. A handmade map of our favourite island, Rügen in the Baltic Sea, served as a world for WorkAdventure - an adhoc video-conferencing system or spatial chat tool, where participants navigate their avatars through a retro gaming environment and establish Jitsi meetings once they approach each other.
+The project has started out as an attempt to create a meeting place for friends and family during the COVID-19 pandemic. A handmade map of our favourite island, Rügen in the Baltic Sea, served as a world for [WorkAdventure](https://workadventu.re) - an adhoc video-conferencing system or spatial chat tool, where participants navigate their avatars through a retro gaming environment and establish Jitsi meetings once they approach each other.
 
 Being an artist, software developer and researcher in the area of construction informatics, building and city modelling as well as geospatial information, this initial gimmick led to a deeper investigation of how to populate such worlds for spatial chat tools with real-world data, ideally open data, on an automated basis. The island scenario is one of three scenarios we are investigating in our lab, with the other two being scenarios on the building and city district level
 
 More information, code, test maps, project updates: https://hlg.github.io/wamap
 
-Contact: Helga Tauscher, HTW Dresden - University of Applied Sciences
-
-* WorkAdventure: https://workadventu.re
-* Project on Github: https://hlg.github.io/wamap
-* Contact: https://www.htw-dresden.de/en/hochschule/fakultaeten/geoinformation/ueber-uns/personen/translate-to-english-dr-ing-helga-tauscher
+Contact: [Helga Tauscher](https://www.htw-dresden.de/en/hochschule/fakultaeten/geoinformation/ueber-uns/personen/translate-to-english-dr-ing-helga-tauscher), HTW Dresden - University of Applied Sciences
 
 [![](Helga_Tauscher_Let s meet at an island-preview.png)](https://files.osmfoundation.org/s/A637eGiCjHa3eMq)
 
