@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "2021 Posters"
 titlecontent: ""
-headings: "tauscher,pudleiner,nguyen,openmapchile,sahoo,kaldyrkaev,huang,staniek,polimappers,lohr,takahashi,schüssler,vesanto,üstün,schumann,vlasak"
+headings: "tauscher,pudleiner,nguyen,openmapchile,sahoo,kaldyrkaev,huang,staniek,polimappers,saleem,lohr,takahashi,schüssler,vesanto,üstün,schumann,vlasak"
 ---
 
 <style>
@@ -149,14 +149,12 @@ In 2021 PoliMappers included in their annual activities the innovative teaching 
 
 [![](PoliMappers Poster-preview.png)](https://files.osmfoundation.org/s/tpoQSSajzzbLnnb)
 
-<!--
 <h3 id="saleem">Muhammad Saleem: "Rethinking temporal-spatial data quality aspects for OpenStreetMap"</h3>
 
 Goal of this work is to redefine the temporal quality dimension for OSM, which will facilitate the practical implications in measuring spatial data quality of OSM intrinsically when the external high-quality data is scarce. There are several factors that make our world temporally sensitive.
 These factors are governed by change agents. The most prominent change agents are stressors such as disasters or conflict. Data is usually produced with high speed during such extreme events. It also includes new housing plans, population growth (very prominent in slums), policy shifts and urban transformations etc,. The data in the global south is usually not updated during these events and can cause data in OpenStreetMap to stale .i.e low temporal quality and constitute as incomplete.
 
 [![](Muhammad_Saleem_rethinking temporal-spatial data quality aspects for OpenStreetMap (OSM)-preview)](https://files.osmfoundation.org/s/TrWXMz898KTPcWY)
--->
 
 <h3 id="lohr">Sarah Lohr: "Mapathon experiment"</h3>
 
