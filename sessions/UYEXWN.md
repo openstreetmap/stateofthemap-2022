@@ -14,4 +14,11 @@ Experts estimate that only 2-5% of OSM contributors are women. The results of th
 
 Panelists will discuss how structural inequalities and individual instances of sexist and misogynistic language and behavior present significant barriers to women’s participation. Women experience these inequalities differently depending on their context, privilege, and background, and the panel will address these issues from an intersectional lens. Panelists will also recommend steps that organizations, boards, communities, and individuals can take to be anti-sexist members of the OSM ecosystem.
 
+The panel will be moderated by Maggie Cawley, Executive Director of OSM US. 
+The panelists are: 
+- Airin Akter, Everywhere She Maps Regional Ambassador, YouthMappers
+- Hanna Krüger, member of the German OSM chapter and the OSMF Microgrants Committee
+- Anisa Kuci, member of cOSMopolIT and OSMF LCCWG and Project Manager of OSM for Wikimedia Italy
+- Chomba Chishala, Outreach Ambassador, YouthMappers
+
 This panel is organized by the Everywhere She Maps program of YouthMappers.

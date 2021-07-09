@@ -10,7 +10,15 @@ time_iso: "2021-07-09T15:00:00Z"
 resources: []
 recording: False
 ---
-This panel is organized by the humanitarian Community Working Group and Erica Hagen, EthicalGeo Fellow and author of “The GeoEthics in Vulnerability Principles”. 
+This panel is organized by the humanitarian Community Working Group and Erica Hagen, EthicalGeo Fellow and author of “The GeoEthics in Vulnerability Principles”.  The moderator is Courtney Clark, Program Director for Everywhere She Maps (YouthMappers) and Manager of Sponsored Projects for American Geographical Society. 
+
+The panelists are: 
+- Erica Hagen, Director, GroundTruth Initiative; Founder and Trustee, Map Kibera Trust; EthicalGeo Fellow
+- Rosario Casanova, President of the Academic Network UN-GGIM: Americas
+- Edoardo Neerhut, Program Manager, Facebook (Mapillary)
+- Paromita Basak, Intern, Food and Agriculture Organization Headquarters, Project Assistant, C2M2 Project Bangladesh (Bangladesh Open Innovation Lab)
+- Innocent Maholi, Co-founder and Executive Director, OpenMap Development Tanzania
+
 
 “Today’s world of geospatial technology and data is evolving quickly. However, the lives of those living with vulnerability may not be improving, yet are shaped by these new technologies. The communities who stand to benefit most from improving technologies, including mapping, are instead increasingly left out of key conversations, opportunities, and developments that center around their lives and their data” (Erica Hagen, “The GeoEthics in Vulnerability Principles”). This panel will discuss ethical issues that should be considered while mapping with and for communities living in vulnerability.
 
