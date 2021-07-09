@@ -19,12 +19,8 @@ Secondary goal of the session is for OSM-Carto developers to better understand w
 
 Links for further background information:
 
-https://wiki.openstreetmap.org/wiki/Standard_tile_layer
-
-https://wiki.openstreetmap.org/wiki/Standard_tile_layer/Key
-
-https://wiki.openstreetmap.org/wiki/Featured_tile_layers/Guidelines_for_new_tile_layers
-
-https://github.com/gravitystorm/openstreetmap-carto/
-
-https://github.com/gravitystorm/openstreetmap-carto/blob/master/CARTOGRAPHY.md
+* [https://wiki.openstreetmap.org/wiki/Standard_tile_layer](https://wiki.openstreetmap.org/wiki/Standard_tile_layer)
+* [https://wiki.openstreetmap.org/wiki/Standard_tile_layer/Key](https://wiki.openstreetmap.org/wiki/Standard_tile_layer/Key)
+* [https://wiki.openstreetmap.org/wiki/Featured_tile_layers/Guidelines_for_new_tile_layers](https://wiki.openstreetmap.org/wiki/Featured_tile_layers/Guidelines_for_new_tile_layers)
+* [https://github.com/gravitystorm/openstreetmap-carto/](https://github.com/gravitystorm/openstreetmap-carto/)
+* [https://github.com/gravitystorm/openstreetmap-carto/blob/master/CARTOGRAPHY.md](https://github.com/gravitystorm/openstreetmap-carto/blob/master/CARTOGRAPHY.md)
