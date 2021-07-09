@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "An Automated Approach to Identifying Corporate Editing Activity in OpenStreetMap"
 code: "XXFEXQ"
 speaker_names_with_affiliations: ['Veniamin Veselovsky']

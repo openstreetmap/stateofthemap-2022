@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "What has machine learning ever done for us?"
 code: "RHR7Q8"
 speaker_names_with_affiliations: ['Peter Mooney']

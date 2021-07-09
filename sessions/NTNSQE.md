@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Towards a framework for measuring local data contribution in OpenStreetMap"
 code: "NTNSQE"
 speaker_names_with_affiliations: ['Maxwell Owusu']

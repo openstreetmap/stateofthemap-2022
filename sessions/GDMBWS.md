@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "NLMaps Web: A Natural Language Interface to OpenStreetMap"
 code: "GDMBWS"
 speaker_names_with_affiliations: ['Simon Will']

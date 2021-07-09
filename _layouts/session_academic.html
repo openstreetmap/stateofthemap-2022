@@ -10,7 +10,7 @@ color: dark-nav
       {% if page.subtitle %}<h2 class="abstract-subtitle">{{page.subtitle}}</h2>{% endif %}
 
       <section class='col3'>
-        <p><span class='abstract-room'>Room: {{page.room}}</span><br><span>Academic Track</span></p>
+        <p><span class='abstract-room'>Room: {{page.room}}</span><br><span>Academic Track 🎓</span></p>
         <p>
           <span class='abstract-time'>
             <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg={{page.title}}&iso={{page.time_iso}}">{{page.time}} UTC</a>
@@ -31,7 +31,11 @@ color: dark-nav
 
         <hr class="space-right4">
 
-        {% if page.doi %}<p><span class='abstract-doi'><a href="https://doi.org/{{page.doi}}">full abstract - pdf</a></span></p><hr class="space-right4">{% endif %}
+        {% if page.doi %}
+          <p><span class='abstract-doi'><a href="https://doi.org/{{page.doi}}">full abstract - pdf</a></span></p><hr class="space-right4">
+        {% else %}
+          <p><span class='abstract-doi'><em>Abstract will be published in the conference proceedings</em></span></p><hr class="space-right4">
+        {% endif %}
         {% for r in page.resources %}{% if r.description != 'full abstract' %}
         <p><span class='abstract-doi'><a href="{{r.url}}">{{r.description}}</a></p>
         {% endif %}{% endfor %}

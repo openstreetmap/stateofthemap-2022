@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Community Interactions in OSM editing"
 code: "PPSHC3"
 speaker_names_with_affiliations: ['Jennings Anderson', 'Dipto Sarkar']

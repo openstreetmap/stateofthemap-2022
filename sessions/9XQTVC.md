@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection"
 code: "9XQTVC"
 speaker_names_with_affiliations: ['Jennings Anderson', 'Yinxiao Li']

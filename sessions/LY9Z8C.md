@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Towards understanding the temporal accuracy of OpenStreetMap: A quantitative experiment"
 code: "LY9Z8C"
 speaker_names_with_affiliations: ['Levente Juhász']

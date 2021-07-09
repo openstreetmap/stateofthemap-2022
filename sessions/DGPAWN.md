@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Involvement of OpenStreetMap in European H2020 Projects"
 code: "DGPAWN"
 speaker_names_with_affiliations: ['Damien Graux', 'Thibaud Michel']
