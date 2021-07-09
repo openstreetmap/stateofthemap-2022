@@ -3,7 +3,7 @@
 	const videoSrc = video.dataset.streamUrl;
 	if (Hls.isSupported()) {
 		const hls = new Hls({
-			debug: true
+			debug: false
 		});
 		hls.loadSource(videoSrc);
 		hls.attachMedia(video);
