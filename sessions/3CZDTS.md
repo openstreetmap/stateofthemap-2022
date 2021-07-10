@@ -41,3 +41,8 @@ There are now more than 2,500 active _paid editors_ in the OSM Community. The la
 This is an Initiative for scaling up the OpenStreetMap Project by addition of buildings footprint data for entire region of Tanga,Datasets was developed by Ardhi University Students (ARU) in Collaboration with Tanzania Communication Regulatory Authority (TCRA) in 2021.
 
 Furthermore, There are different community mapping activities as micro-works going on in the region, as the mission of enriching and making freely global spatial data as well as capacity building to the local community on how to use free and open source tools in contributing data to OSM.
+
+## Activities performed by IRDP YouthMappers on 2021 
+*Shabani Magawila* | *[SHABANI MAGAWILA ](https://www.openstreetmap.org/user/SHABANI MAGAWILA)*
+
+[IRDP YouthMappers](https://twitter.com/irdp_mappers) is one of the Active Chapter available in Dodoma, under the supervision of the Institute of rural Development Planning - Dodoma. The chapter has been able to participate in various projects and was able to organize several trainings. With the skills we had we were able to help our fellow students to complete their Field Work Practice.
