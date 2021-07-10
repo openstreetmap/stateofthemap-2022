@@ -2,7 +2,7 @@
 layout: session
 title: "AOSMFBAAAoAAAA"
 code: "HUXHSR"
-speaker_names_with_affiliations: ['Tobias Knerr', 'Allan Mustard', 'R. A. McCann', 'Jean-Marc Liotier']
+speaker_names_with_affiliations: ['Tobias Knerr', 'Guillaume Rischard', 'Allan Mustard', 'R. A. McCann', 'Jean-Marc Liotier']
 room: "Track 2 - Panels and Workshops"
 length: "60"
 time: "Saturday, 12:15"
