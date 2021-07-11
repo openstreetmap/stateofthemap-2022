@@ -28,7 +28,7 @@ The project has started out as an attempt to create a meeting place for friends 
 
 Being an artist, software developer and researcher in the area of construction informatics, building and city modelling as well as geospatial information, this initial gimmick led to a deeper investigation of how to populate such worlds for spatial chat tools with real-world data, ideally open data, on an automated basis. The island scenario is one of three scenarios we are investigating in our lab, with the other two being scenarios on the building and city district level
 
-More information, code, test maps, project updates: https://hlg.github.io/wamap
+More information, code, test maps, project updates: [https://hlg.github.io/wamap](https://hlg.github.io/wamap)
 
 Contact: [Helga Tauscher](https://www.htw-dresden.de/en/hochschule/fakultaeten/geoinformation/ueber-uns/personen/translate-to-english-dr-ing-helga-tauscher), HTW Dresden - University of Applied Sciences
 
@@ -70,7 +70,7 @@ Hereby I express my special thanks to Adam Rousell for his insights and help in 
 
 I’ve uploaded a poster to Nextcloud named “Mapping POIs in Santa Clara County”. The full title is “Mapping points of interest in Santa Clara County, California (Silicon Valley)”. The poster has plenty of context; all I’d add is the following:
 
-Join one of the largest POI imports in OpenStreetMap history and help us achieve complete coverage. Help us show that volunteers can make a better map than proprietary automated methods! https://maproulette.org/browse/projects/42122
+Join one of the largest POI imports in OpenStreetMap history and help us achieve complete coverage. Help us show that volunteers can make a better map than proprietary automated methods! [https://maproulette.org/browse/projects/42122](https://maproulette.org/browse/projects/42122)
 
 My OSM user name is Minh Nguyen.
 

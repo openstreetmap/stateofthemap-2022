@@ -45,6 +45,5 @@ Many words have been said and written about road classification in OSM. In this 
 
 For a long time, I missed the single application for using OpenStreetMap. In this talk I would like to present the universal OpenStreetMap app, OsmAPP for short. After a few years of development, it already offers fast vector maps, clickable POIs, search and even basic editing capabilities. Let's hear the story of this project and discuss the future.
 
-- Link: osmapp.org
-
-- Slides: github.com/zbycz/osmapp-talk
+- Link: [osmapp.org](https://osmapp.org)
+- Slides: [github.com/zbycz/osmapp-talk](https://github.com/zbycz/osmapp-talk)
