@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112234"
 layout: session_academic
 title: "Towards a framework for measuring local data contribution in OpenStreetMap"
 code: "NTNSQE"

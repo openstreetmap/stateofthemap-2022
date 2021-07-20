@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112236"
 layout: session_academic
 title: "Towards understanding the temporal accuracy of OpenStreetMap: A quantitative experiment"
 code: "LY9Z8C"

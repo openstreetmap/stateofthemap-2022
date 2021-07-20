@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112227"
 layout: session_academic
 title: "NLMaps Web: A Natural Language Interface to OpenStreetMap"
 code: "GDMBWS"

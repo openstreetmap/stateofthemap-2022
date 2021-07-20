@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112252"
 layout: session_academic
 title: "Involvement of OpenStreetMap in European H2020 Projects"
 code: "DGPAWN"

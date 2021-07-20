@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112211"
 layout: session_academic
 title: "Community Interactions in OSM editing"
 code: "PPSHC3"

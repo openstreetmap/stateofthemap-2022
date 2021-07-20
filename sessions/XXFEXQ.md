@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112248"
 layout: session_academic
 title: "An Automated Approach to Identifying Corporate Editing Activity in OpenStreetMap"
 code: "XXFEXQ"

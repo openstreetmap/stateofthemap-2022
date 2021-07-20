@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112219"
 layout: session_academic
 title: "What has machine learning ever done for us?"
 code: "RHR7Q8"

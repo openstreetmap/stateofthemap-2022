@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112241"
 layout: session_academic
 title: "Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection"
 code: "9XQTVC"

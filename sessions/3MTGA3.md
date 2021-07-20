@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.5112244"
 layout: session_academic
 title: "A proposal for a QGIS Plugin for Spatio-temporal analysis of OSM data quality: the case study for the city of Salvador, Brazil"
 code: "3MTGA3"
