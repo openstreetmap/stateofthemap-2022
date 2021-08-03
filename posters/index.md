@@ -76,7 +76,7 @@ My OSM user name is Minh Nguyen.
 
 [![](Minh_Nguyen_Mapping POIs in Santa Clara County-preview.png)](https://files.osmfoundation.org/s/CkGg3peXFTHPqXo)
 
-<h3 id="openmapchile">Equipo OpenMapChile SPA: OpenMapChileSoftMap2021</h3>
+<h3 id="openmapchile">OpenMapChile SPA: Map of Urban Trees, Valdivia-Chile 2021</h3>
 
 Urban trees are one of the main strategic resources for global warming mitigation. The management of any resource begins with a diagnosis of the resource. Urban tree planning is no exception. It is proposed that inventories are essential to provide a current record of the resource to be managed.
 
