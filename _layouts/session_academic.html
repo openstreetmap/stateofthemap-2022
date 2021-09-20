@@ -62,15 +62,17 @@ color: dark-nav
               {% endfor %}
           </ul>
 
-        {{content}}
-
         {% if page.recordings %}
-        <video controls width="100%" poster="/img/video-previews/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
-        {% for rec in page.recordings %}
-          <source src="{{ rec.recording_url }}" type="{{ rec.mime_type }}">
-        {% endfor %}
-        </video>
+        <iframe src="{{ page.voc }}/oembed" frameborder="0" allowfullscreen style="width:100%; aspect-ratio: 16/9;" onload="this.style.height=(this.clientWidth*9/16)+'px';">
+          <video controls width="100%" poster="/img/video-previews/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
+          {% for rec in page.recordings %}
+            <source src="{{ rec.recording_url }}" type="{{ rec.mime_type }}">
+          {% endfor %}
+          </video>
+        </iframe>
         {% endif %}
+
+        {{content}}
 
       </section>
     </div>
