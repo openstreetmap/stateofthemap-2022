@@ -29,8 +29,8 @@
       "title": "Journey to improving the Navigation experience for Grab Driver partners using OSM",
       "abstract": "Grab launched a navigation product for Driver partners in 2018 with the help of OSM. We contributed to OSM data in Singapore and made it navigation ready to enable launching in-app navigation for Grab's driver partners. This talk is a glimpse of the journey to get the map data quality and in turn the product experience to be the best suited one for driver partners in Singapore.",
       "speakers": [
-        "ZQN3YT",
-        "DKCRZP"
+        "DKCRZP",
+        "ZQN3YT"
       ],
       "track": 2204,
       "start": "2021-07-09T10:45:00Z",
@@ -42,8 +42,8 @@
       "title": "Identifying Unmapped Highway in OSM",
       "abstract": "This workshop will introduce two methods on how to identify unmapped highways in OSM. First by making a comparison between OSM and government (open) data, second by calculating the distance between population and OSM highway data. This method will assist OSM contributors to understand where are the unmapped highway without having to manually check the imagery and what is on OSM. The workshop will be delivered using open-source GIS software and publicly accessible data.",
       "speakers": [
-        "PSYGBF",
-        "XYHQSA"
+        "XYHQSA",
+        "PSYGBF"
       ],
       "track": 2203,
       "start": "2021-07-09T11:30:00Z",
@@ -55,9 +55,9 @@
       "title": "From global to local OSM mapping, CartONG’s overall OSM based strategy to support humanitarian response in refugee camp",
       "abstract": "From remote mapping to OSM-based analytical tools for decision making, CartONG would like to share its experience on building and implementing step by step since 2017 an overall strategy to support humanitarian response in refugee sites with UNHCR. We will focus on specific technical challenges, like dealing with accurate and precise data on a large number of sites at world scale as well as at site level.",
       "speakers": [
-        "DY79SZ",
         "PM8RDN",
-        "TB3GEF"
+        "TB3GEF",
+        "DY79SZ"
       ],
       "track": 2204,
       "start": "2021-07-09T11:30:00Z",
@@ -169,8 +169,8 @@
       "title": "Why Does Sexism within OpenStreetMap Matter?",
       "abstract": "Experts estimate that only 2-5% of OSM contributors are women. Panelists will discuss how structural inequalities and individual instances of sexist and misogynistic language and behavior present significant barriers to women’s participation, along with steps that organizations, boards, communities, and individuals can take to be anti-sexist members of the OSM ecosystem. This panel is organized by the Everywhere She Maps program of YouthMappers.\r\n\r\nThe panelists are Hanna Krüger, Chomba Chishala, Dara Carney-Nedelman, Marcela Zeballos",
       "speakers": [
-        "CY3TZY",
-        "7MZ3AU"
+        "7MZ3AU",
+        "CY3TZY"
       ],
       "track": 2199,
       "start": "2021-07-09T17:15:00Z",
@@ -296,8 +296,8 @@
       "title": "Mapping unmapped towns in Turkey by building and enlarging OpenStreetMap Turkey community",
       "abstract": "Turkish OpenStreetMap Community has constantly been growing with members from various circles in recent years however the community faces various problems such as insufficient OSM documentation and tools in Turkey and lack of learning materials in Turkish. Yercizenler and Youth Season NGOs kicked-off the Open Source Volunteering Programme to tackle community needs to build and enlarge OpenStreetMap Turkey community by training volunteers, translating OpenStreetMap related documentation/tools and mapping 120 unmapped towns in Turkey.",
       "speakers": [
-        "BZDSBG",
-        "DTK9MB"
+        "DTK9MB",
+        "BZDSBG"
       ],
       "track": 2199,
       "start": "2021-07-10T12:15:00Z",
@@ -309,11 +309,11 @@
       "title": "AOSMFBAAAoAAAA",
       "abstract": "Ask the OSMF Board Almost Anything About our Agenda, Actions And Activities",
       "speakers": [
-        "PDWBJL",
-        "YT7F8M",
-        "SCPZG9",
         "BFX3YR",
-        "N9ZABZ"
+        "N9ZABZ",
+        "PDWBJL",
+        "SCPZG9",
+        "YT7F8M"
       ],
       "track": 2199,
       "start": "2021-07-10T12:15:00Z",
@@ -689,8 +689,8 @@
       "title": "Community Interactions in OSM editing",
       "abstract": "We look at interactions between Corporate and Non-Corporate Editors as reflected through co-editing patterns in the OSM data. We use Social Network Analysis on 12 networks generated from four different locations and 3 different timepoints and our results show the vibrant co-production of OSM data generation. There are interactions between all editors but Corporate Editors tend to interact at a higher rate with each other. The seniority of editors and the interactions also differ between Corporate and Non-Corporate Editors.",
       "speakers": [
-        "LSXXGM",
-        "TXPWSK"
+        "TXPWSK",
+        "LSXXGM"
       ],
       "track": null,
       "start": "2021-07-11T12:15:00Z",
@@ -726,8 +726,8 @@
       "title": "Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection",
       "abstract": "We develop and test user embeddings approaches to vandalism detection in OSM. We successfully demonstrate improvements to previous vandalism detection methods, and additionally how the user embeddings can further be applied to detect different communities of mappers.  We validated the embedding model with a prepared vandalism corpus that we are also releasing to the OSM community.",
       "speakers": [
-        "LSXXGM",
-        "ARS8A7"
+        "ARS8A7",
+        "LSXXGM"
       ],
       "track": null,
       "start": "2021-07-11T15:45:00Z",
