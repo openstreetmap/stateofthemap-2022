@@ -56,7 +56,7 @@ color: dark-nav
         <ul class='abstract-speaker'><li>{{page.speaker_names_with_affiliations | join: '</li><li>' }}</li></ul>
 
         {% if page.recordings %}
-        <video controls width="100%" poster="/img/video-posters/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
+        <video controls width="100%" poster="/img/video-previews/video-{{ page.code }}.jpeg" style="margin-bottom:2em">
         {% for rec in page.recordings %}
           <source src="{{ rec.recording_url }}" type="{{ rec.mime_type }}">
         {% endfor %}
