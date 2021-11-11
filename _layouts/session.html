@@ -44,7 +44,10 @@ color: dark-nav
         {% endif %}
 
         {% if page.voc %}<a href="{{ page.voc }}">video on media.ccc.de</a><br>{% endif %}
-        {% if page.youtube %}<a href="https://www.youtube.com/watch?v={{ page.youtube }}">video on YouTube</a>{% endif %}
+        {% if page.youtube %}<a href="https://www.youtube.com/watch?v={{ page.youtube }}">video on YouTube</a><br>{% endif %}
+        {% if page.youtube_ES %}<a href="https://www.youtube.com/watch?v={{ page.youtube_ES }}">video on YouTube (La traducción española)</a><br>{% endif %}
+        {% if page.youtube_ID %}<a href="https://www.youtube.com/watch?v={{ page.youtube_ID }}">video on YouTube (Terjemahan bahasa Indonesia)</a><br>{% endif %}
+        {% if page.youtube_RU %}<a href="https://www.youtube.com/watch?v={{ page.youtube_RU }}">video on YouTube (Russian (русский) translation)</a><br>{% endif %}
 
         {% if page.voc || page.youtube %}
         </p><hr class="space-right4">
