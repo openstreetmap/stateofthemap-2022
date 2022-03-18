@@ -71,7 +71,7 @@ div.affix {
 }
 
 .navbar, .navbar a, .navbar a:hover {
-    color: {{ site.color.text-light }};
+    color: {{ site.color.links }};
 }
 
 nav a, .nav a {
@@ -156,7 +156,6 @@ footer a:focus,
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
         background-color: {{ site.color.primary-dark }};
-        background-image: url(./img/logo_sotm-bg.svg);
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
@@ -165,7 +164,6 @@ footer a:focus,
 
     .navbar-custom.top-nav-collapse {
         background-color: {{ site.color.primary-dark }};
-        background-image: url(./img/logo_sotm-bg.svg);
         background-position-x: center;
         background-position-y: top;
         background-size: cover;
@@ -173,7 +171,7 @@ footer a:focus,
     }
 
     .navbar a, .navbar a:hover {
-        filter: drop-shadow(0 0 0.8px black);
+        /*filter: drop-shadow(0 0 0.8px black);*/
     }
 
     a.navbar-brand {
@@ -187,7 +185,6 @@ footer a:focus,
     .navbar-custom.top-nav-collapse a:hover, .stay-collapsed a:hover {
         opacity: 1;
         width: auto;
-        color: {{ site.color.text-light }};
         filter: none;
     }
 }
@@ -204,7 +201,7 @@ footer a:focus,
     text-align: center;
     color: #fff;
     position: relative;
-    background-image: url(./img/sotm_2021-logo.blurred.jpg);
+    /*background-image: url(./img/.jpg);*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -512,6 +509,10 @@ body {
 #about.keyline-bottom {
 }
 
+#about .logo {
+  text-align: center;
+}
+
 .dotted {
   opacity: 0.4;
   height: 100%;
@@ -576,7 +577,6 @@ h3.small-title:before {
 ------------------------------------------------------- */
 #newsletter, #streaming, #tickets {
     background-color: {{ site.color.primary-light }};
-    background-image: url(./img/logo_sotm-bg2.svg);
     background-size: cover;
     background-position-x: center;
     background-position-y: center;
@@ -618,14 +618,11 @@ h3.small-title:before {
     background-color: {{ site.color.primary-dark }};
     color: {{ site.color.links-white }};
     font-size: 17px;
-    -webkit-transition: background .3s ease-in-out, color .3s ease-in-out;
-    -moz-transition: background .3s ease-in-out, color .3s ease-in-out;
-    transition: background .3s ease-in-out, color .3s ease-in-out;
 }
 
 #newsletter .button:hover, #newsletter .button.active {
-    background-color: #baad11;
-    color: white;
+    opacity: 0.9;
+    color: {{ site.color.links }};
 }
 
 input#mce-EMAIL::selection {
@@ -641,7 +638,6 @@ input#mce-EMAIL::selection {
     font-size: 15px;
     line-height: 1.75em;
     background-color: {{ site.color.primary-light }};
-    background-image: url(./img/logo_sotm-bg2.svg);
     background-size: cover;
     background-position-x: center;
     background-position-y: bottom;
