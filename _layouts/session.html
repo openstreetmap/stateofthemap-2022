@@ -39,7 +39,7 @@ color: dark-nav
         <hr class="space-right4">
         {% endif %}
 
-        {% if page.voc || page.youtube %}
+        {% if page.voc or page.youtube %}
         <p>
         {% endif %}
 
@@ -49,7 +49,7 @@ color: dark-nav
         {% if page.youtube_ID %}<a href="https://www.youtube.com/watch?v={{ page.youtube_ID }}">video on YouTube (Terjemahan bahasa Indonesia)</a><br>{% endif %}
         {% if page.youtube_RU %}<a href="https://www.youtube.com/watch?v={{ page.youtube_RU }}">video on YouTube (Russian (русский) translation)</a><br>{% endif %}
 
-        {% if page.voc || page.youtube %}
+        {% if page.voc or page.youtube %}
         </p><hr class="space-right4">
         {% endif %}
 
