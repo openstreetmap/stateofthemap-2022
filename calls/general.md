@@ -167,6 +167,7 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 * 25 April 2022 23:59:59 UTC: Deadline talk, workshop and panel submissions
+* 10 May 2022: Deadline [academic talk submissions]({{site.baseurl}}/calls/academic)
 * End of May 2022: End of review phase, speakers will be informed
 * June 2022: Talk video production (test video and final video)
 * August 2022: Lightning talk video production
