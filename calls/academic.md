@@ -34,7 +34,7 @@ Abstracts should be between 800 and 1200 words. These limits will be strictly en
 
 Abstracts must be scientifically rigorous and the content should be logically structured as follows (without the need to include subsections): introduction/background, where the problem addressed is introduced; main aim or purpose of the study; brief description of the methodology and findings achieved; final discussion highlighting the scientific contribution of the study and its practical benefits/implications.
 
-In the evaluation of proposals, the scientific committee will pay attention to the reproducibility of the research (where this is applicable). Reproducibility is ensured when the research makes all artifacts (input data, computational steps, methods and code) openly available to obtain consistent results. When available, the code shall be released under an open source license.
+In the evaluation of proposals, the [scientific committee](#committee) will pay attention to the reproducibility of the research (where this is applicable). Reproducibility is ensured when the research makes all artifacts (input data, computational steps, methods and code) openly available to obtain consistent results. When available, the code shall be released under an open source license.
 
 Abstracts are to be submitted online in plain-text format (no images or figures).
 
