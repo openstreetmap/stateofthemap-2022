@@ -38,7 +38,7 @@ In the evaluation of proposals, the [scientific committee](#committee) will pay 
 
 Abstracts are to be submitted online in plain-text format (no images or figures).
 
-Abstracts will be evaluated by the scientific committee. Authors of selected abstracts will be invited to deliver an oral presentation during the Academic Track sessions at the online conference or to present a poster (in case a poster session will be organised). Building on top of the successful Proceedings of the Academic Track at [State of the Map 2019](https://zenodo.org/record/3405431#.XiXKJ3VKgQ8), [State of the Map 2020](https://zenodo.org/record/3928675#.YFix5ud7lPY), and [State of the Map 2021](https://zenodo.org/record/5116434#.YisB5npBy00), selected abstracts will be published as a collection, each with a distinct Digital Object Identifier (DOI) in [Zenodo](https://zenodo.org/), an open access online repository.
+Abstracts will be evaluated by the scientific committee. Authors of selected abstracts will be invited to deliver an oral presentation during the Academic Track sessions at the conference or to present a poster (in case a poster session will be organised). Building on top of the successful Proceedings of the Academic Track at [State of the Map 2019](https://zenodo.org/record/3405431#.XiXKJ3VKgQ8), [State of the Map 2020](https://zenodo.org/record/3928675#.YFix5ud7lPY), and [State of the Map 2021](https://zenodo.org/record/5116434#.YisB5npBy00), selected abstracts will be published as a collection, each with a distinct Digital Object Identifier (DOI) in [Zenodo](https://zenodo.org/), an open access online repository.
 
 The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.com/journal/ijgi/special_issues/OpenStreetMap) of the [ISPRS International Journal of Geo-Information](https://www.mdpi.com/journal/ijgi). Similarly, the scientific committee may seek to further disseminate the contributions to this conference by investigating the organization of a special issue in a relevant, open access, scientific journal. In such a case, authors of the selected abstracts will be invited to submit a full paper to this special issue. Successful submissions may benefit from partial or full waiver of publication fees.
 
@@ -92,4 +92,4 @@ You can reach the academic track committee via email to <a href="mailto:academic
 
 <hr>
 
-_The SotM 2021 Scientific Committee_
+_The SotM 2022 Scientific Committee_
