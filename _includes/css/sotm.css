@@ -36,6 +36,10 @@ h6 {
   margin-top: -80px;
 }
 
+.prose table + p {
+  margin-top: 20px;
+}
+
 div.affix {
   width: 25%;
   max-width: 300px;
