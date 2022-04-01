@@ -19,7 +19,7 @@ The Travel Grant will include a full conference ticket and a lump-sum contributi
 
 There will be 3 different sizes of travel grants available:
 
-| Grant size | Likely Used For |
+| Grant Size | Likely Used For |
 | ---------- | --------------- |
 | 200 €      | Applicants from Italy |
 | 400 €      | Applicants from [Schengen area](https://ec.europa.eu/home-affairs/schengen-borders-and-visa/schengen-visa_en), European Union countries and the UK |
@@ -31,7 +31,7 @@ Any person applying for more than one grant will be excluded from the applicatio
 
 <h2 id="online">Online Attendance Support Grant</h2>
 
-For those who are interested in attending the conference remotely, but have limited internet connectivity, smaller grants will be made available to subsidize the cost of purchasing mobile data passes. The amount of each grant will vary depending on the country and mobile data packages available, but it’s expected to not exceed 50€.
+For those who are interested in attending the conference remotely, but have limited internet connectivity, smaller grants will be made available to subsidize the cost of purchasing mobile data passes. The size of each grant will vary depending on the country and mobile data packages available, but it’s expected to not exceed 50€.
 
 With an estimate of 1GB per hour of streaming videos in HD quality (720p), it’s expected that a maximum of 40GB will be sufficient to cover the entire conference. Arrangements will be made with grant recipients to purchase the data packages directly or to transfer the amount needed via mobile-money.
 
@@ -49,17 +49,17 @@ The allocation of points is based on the [World Bank country rating by income](h
 
 * Applicants from Low-income economies receive 1.5 points.
 * Applicants from Lower-middle-income economies receive 1 point.
-* Applicants from Upper-middle-income economies receive 0.5 point.
-* Applicants from High-income economies receive 0 point.
+* Applicants from Upper-middle-income economies receive 0.5 points.
+* Applicants from High-income economies receive 0 points.
 
 ### Residence
 
-The allocation of points is based on the World Bank country rating by income (https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html).
+The allocation of points is based on the [World Bank country rating by income](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html).
 
 * Applicants who are currently living in Low-income economies receive 1.5 points.
 * Applicants who are currently living in Lower-middle-income economies receive 1 point.
-* Applicants who are currently living in Upper-middle-income economies receive 0.5 point.
-* Applicants who are currently living in High-income economies receive 0 point.
+* Applicants who are currently living in Upper-middle-income economies receive 0.5 points.
+* Applicants who are currently living in High-income economies receive 0 points.
 
 ### Gender and Minorities
 
@@ -67,7 +67,7 @@ In order to create a more diverse community, women and applicants from other und
 
 ### Students
 
-Students receive 1 point. Phd students are considered as students.
+Students, including PhD students, receive 1 point.
 
 ### OpenStreetMap and Community
 
