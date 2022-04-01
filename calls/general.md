@@ -176,5 +176,6 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 <h2 id="submit">Submit your presentation</h2>
 Please submit your presentation proposal to our <a href="https://pretalx.com/sotm2022/submit/">submission form</a>.
 
+<hr>
 
-The SotM 2022 Program Committee, 14 March 2022
+_The SotM 2022 Program Committee, 14 March 2022_
