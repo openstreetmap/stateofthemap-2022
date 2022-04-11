@@ -8,10 +8,10 @@ headings: "tracks,submission,rating,language,publication,committee,timeline_dead
 <h2 id="call">Call for Participation</h2>
 
 
-The State of the Map (SotM) conference is the annual OpenStreetMap (OSM) conference run by the OpenStreetMap Foundation (OSMF). It is organised by the SotM Working Group, a team of volunteers. This year, SotM 2022 conference will be a hybrid event, held in person in Firenze, Italy and online!
+The State of the Map (SotM) conference is the annual OpenStreetMap (OSM) conference run by the OpenStreetMap Foundation (OSMF). It is organised by the SotM Working Group, a team of volunteers. This year, SotM 2022 will be a hybrid event, held in person in Firenze, Italy and online!
 
 
-State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a widespread OpenStreetMap related program that covers all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between  listeners and speakers so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the program virtually as well and give the virtual visitors the opportunity to participate and interact.
+State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a program that covers all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between listeners and speakers, so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the program virtually as well and give the virtual visitors the opportunity to participate and interact.
 
 We would love to see your submission for one or more of these tracks:
 
@@ -25,13 +25,13 @@ We would love to see your submission for one or more of these tracks:
 
 <h2 id="tracks">Tracks</h2>
 
-Don’t worry too much about the track categories; they are there to  help us organise the conference, but if you find it difficult to select the right track for your talk, choose the one that fits best and we are  willing to make adjustments if necessary.
+Don’t worry too much about the track categories; they are there to help us organise the conference, but if you find it difficult to select the right track for your talk, choose the one that fits best and we are willing to make adjustments if necessary.
 
 <h3 id="track-basics" class="trackicon">OSM Basics</h3>
 
-OSM has grown a lot. Many newcomers or “newbies” have a great thirst for knowledge in areas that may seem uninteresting and basic to existing contributors. We reserve a number of slots for talks that help to satisfy this need. Considering we have a variety of participants from across the globe, it is important that you are an expert in the subject you want to talk about and are able to make it understandable.  Please note in the submission what approximate level of previous knowledge is required for the participants.
+OSM has grown a lot. Many newcomers or “newbies” have a great thirst for knowledge in areas that may seem uninteresting and basic to existing contributors. We reserve a number of slots for talks that help to satisfy this need. Considering we have a variety of participants from across the globe, it is important that you are an expert in the subject you want to talk about and are able to make it understandable. Please note in the submission what approximate level of previous knowledge is required for the participants.
 
-Examples for this kind of talk are: Explaining the OSM data model; Education in OSM Editors or cartography tools; and Becoming a working  group member. There is also a great interest in beginner's workshops: OSM editing in JOSM and iD, using data with Overpass. How to render a map? How to print a map?
+Examples for this kind of talk are: Explaining the OSM data model; Education in OSM Editors or cartography tools; and Becoming a working group member. There is also a great interest in beginner's workshops: OSM editing in JOSM and iD, using data with Overpass. How to render a map? How to print a map?
 
 <h3 id="track-community" class="trackicon">Community and Foundation</h3>
 
@@ -43,7 +43,7 @@ This track is all about mapping, surveying, data collection, tagging; tips and r
 
 <h3 id="track-cartography" class="trackicon">Cartography</h3>
 
-Possible topics can include cartography and data visualisation, rendering raster and vector maps, map styles, CartoCSS, usage of Kosmtik, maps with QGIS, printing maps and more. All your ideas on how  to create a beautiful, fun, quirky and out-of-this-world map!
+Possible topics can include cartography and data visualisation, rendering raster and vector maps, map styles, CartoCSS, usage of Kosmtik, maps with QGIS, printing maps and more. All your ideas on how to create a beautiful, fun, quirky and out-of-this-world map!
 
 <h3 id="track-software" class="trackicon">Software Development</h3>
 
@@ -55,7 +55,7 @@ This track is dedicated to OSM data itself: analysis of OSM data quality; reflec
 
 <h3 id="track-experiences" class="trackicon">User Experiences</h3>
 
-This track is all about the usage of OSM. Examples are how OSM is used in government, public transport, humanitarian response, and scientific context, among others, as well as OSM as an education tool in classrooms. You can present citizen projects that are using OSM data to understand and manage their environment. It also provides a space to present your artistic and creative projects that use OSM data or theme to eg. create clothing, jewellery, 3D printed objects, engravings, visualizations, computer or mobile  games, virtual worlds, augmented reality, flyers, postcards, etc.
+This track is all about the usage of OSM. Examples are how OSM is used in government, public transport, humanitarian response, and scientific context, among others, as well as OSM as an education tool in classrooms. You can present citizen projects that are using OSM data to understand and manage their environment. It also provides a space to present your artistic and creative projects that use OSM data or theme to eg. create clothing, jewellery, 3D printed objects, engravings, visualizations, computer or mobile games, virtual worlds, augmented reality, flyers, postcards, etc.
 
 
 <h2 id="submission">Submission Types</h2>
@@ -74,7 +74,7 @@ An extended talk with 40 minutes for the talk and 15 minutes for questions. Thes
 
 Workshops are sessions in which the participants are actively involved, for example by following some steps on their own devices. We welcome workshops that cover basic beginners's topics as well as innovative technologies.
 
-Please communicate any requirements for participants in order to attend  your proposed workshop regarding technical equipment. Please ensure that your participants shouldn’t be told to create an account at a business platform or a platform with user tracking. Or if so communicate that in an exposed way in your submission and provide guest accounts for your participants.
+Please communicate any requirements for participants in order to attend your proposed workshop regarding technical equipment. Please ensure that your participants shouldn’t be told to create an account at a business platform or a platform with user tracking. Or if so communicate that in an exposed way in your submission and provide guest accounts for your participants.
 
 Workshops will be held either in-person or virtually, not with a mixed audience. If you want to offer the workshop for both audiences, you are welcome to hold it twice. For virtual workshops, we will provide video conference rooms. Online workshops will have a limited number of places to ensure a successful session.
 
@@ -97,7 +97,7 @@ Lightning talks will be short 5 minute talks. There will be some spaces for last
 
 <h3 id="submission-bof">Birds of a Feather</h3>
 
-Birds of a Feather sessions are informal, spontaneous discussion rounds centered around a specific topic. It is not possible to submit a BoF session in advance. BoFs will usually be held in person only.
+Birds of a Feather (BoF) sessions are informal, spontaneous discussion rounds centered around a specific topic. It is not possible to submit a BoF session in advance. BoFs will usually be held in person only.
 
 <h3 id="submission-free_spaces">Free Spaces</h3>
 
@@ -108,11 +108,11 @@ We will provide free spaces for working groups, local chapters, local groups, us
 
 In rating submissions, we will apply the following criteria:
 
-* OSM as the subject: A submission where OSM is the main subject or an important ingredient will be rated higher than one that is more  generic (e.g. a general talk about GIS software).
+* OSM as the subject: A submission where OSM is the main subject or an important ingredient will be rated higher than one that is more generic (e.g. a general talk about GIS software).
 * Preference of “open”: A submission about open data and open source software will be preferred over one that deals with proprietary data or proprietary software and closed platforms.
 * Preference of innovation: A submission about something new, or something not discussed at previous conferences, will be preferred over one that discusses more widely known issues (exception: OSM Basics).
 * We are hoping for talks from a multitude of speakers and hence we would prefer accepting a talk from a „new“ speaker over accepting a second talk from someone who has already an accepted talk.
-* We will also try to avoid accepting many talks from members of the same organisation.
+* We will also try to avoid accepting too many talks from members of the same organisation.
 * We prefer talks from members of underrepresented groups.
 * We value transparency. We prefer submissions that disclose affiliations and sponsors of their work.
 
@@ -120,12 +120,12 @@ In rating submissions, we will apply the following criteria:
 Sometimes we will make some changes or have suggestions:
 
 * We might ask if several speakers can merge their talks.
-* We might also ask if a change of format would be possible (for example we might suggest the lightning talk format instead of talk when we find it is not enough content for a complete talk, but an interesting subject).
+* We might also ask if a change of format would be possible (for example we might suggest the lightning talk format instead of a regular talk when we find it is not enough content for a complete talk, but an interesting subject).
 
 
 <h2 id="language">Language</h2>
 
-The conference language of State of the Map is English. All presentations shall be held in English. It is an important aspect of the conference that participants can interact with the speakers for questions and discussions. Non-English speaking participants are welcome to meet in Bird of Feather sessions (BoF).
+The conference language of State of the Map is English. All presentations shall be held in English. It is an important aspect of the conference that participants can interact with the speakers for questions and discussions. Non-English speaking participants are welcome to meet in the Birds of a Feather sessions.
 
 <h2 id="publication">Publication</h2>
 
@@ -133,7 +133,7 @@ Video recordings and slides of the lectures will be published under the Creative
 
 <h2 id="conference-tickets">Tickets</h2>
 
-State of the Map is a non-commercial event where neither the organisers nor the speakers are being paid. Speakers have to get a conference ticket just like everyone else. Details will be announced  later.
+State of the Map is a non-commercial event where neither the organisers nor the speakers are being paid. Speakers have to get a conference ticket just like everyone else. Details will be announced later.
 
 <h2 id="committee">Program Committee</h2>
 
@@ -155,10 +155,10 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 * Séverin Menard (EOF, France, French-speaking West-African and Caribbean outreach)
 * Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 
-The program committee is aware of possible conflict of interest situations. We try to balance that by having a well balanced composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
+The program committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
 * We do not rate submissions from our workmates, clients or relatives.
-* We act carefully and are aware about possible conflicts (especially the situation of horse trading). We act particularly carefully in cases we are related to a sponsor.
+* We act carefully and are aware about possible conflicts (especially the situation of horse trading). We act particularly carefully in cases associated to a sponsor.
 * We communicate to other Program Committee members when we are in a conflict of interest situation.
 * We report any outside attempt of influencing their decisions to the chair of the SotM Working Group.
 
@@ -176,5 +176,6 @@ We hope this detailed “Call for Presentations” helps to increase the transpa
 <h2 id="submit">Submit your presentation</h2>
 Please submit your presentation proposal to our <a href="https://pretalx.com/sotm2022/submit/">submission form</a>.
 
+<hr>
 
-The SotM 2022 Program Committee, 14 March 2022
+_The SotM 2022 Program Committee, 14 March 2022_
