@@ -11,7 +11,7 @@ headings: "tracks,submission,rating,language,publication,committee,timeline_dead
 The State of the Map (SotM) conference is the annual OpenStreetMap (OSM) conference run by the OpenStreetMap Foundation (OSMF). It is organised by the SotM Working Group, a team of volunteers. This year, SotM 2022 will be a hybrid event, held in person in Firenze, Italy and online!
 
 
-State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a wide variety of activities that cover all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between listeners and speakers, so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the program virtually as well and give the virtual visitors the opportunity to participate and interact.
+State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a program that covers all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between listeners and speakers, so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the program virtually as well and give the virtual visitors the opportunity to participate and interact.
 
 We would love to see your submission for one or more of these tracks:
 
@@ -120,7 +120,7 @@ In rating submissions, we will apply the following criteria:
 Sometimes we will make some changes or have suggestions:
 
 * We might ask if several speakers can merge their talks.
-* We might also ask if a change of format would be possible (for example we might suggest a lightning talk instead of a regular talk when we find it is not enough content for a complete talk, but an interesting subject).
+* We might also ask if a change of format would be possible (for example we might suggest the lightning talk format instead of a regular talk when we find it is not enough content for a complete talk, but an interesting subject).
 
 
 <h2 id="language">Language</h2>
@@ -158,7 +158,7 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 The program committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
 * We do not rate submissions from our workmates, clients or relatives.
-* We act carefully and are aware about possible conflicts (especially the situation of horse trading). We act particularly carefully in cases connected to a sponsor.
+* We act carefully and are aware about possible conflicts (especially the situation of horse trading). We act particularly carefully in cases associated to a sponsor.
 * We communicate to other Program Committee members when we are in a conflict of interest situation.
 * We report any outside attempt of influencing their decisions to the chair of the SotM Working Group.
 
