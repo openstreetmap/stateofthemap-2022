@@ -85,9 +85,9 @@ If you wish to be considered for a SotM travel grant please fill out this form: 
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored as the selection committee may wish to seek clarification of responses.
 
-Applications must be received by ….
+Applications must be received by May 6, 2022.
 
-The selection committee will aim to notify recipients of grants by ….
+The selection committee will aim to notify recipients of grants by May 13.
 
 ## Supporting the Travel Grant Programme
 
