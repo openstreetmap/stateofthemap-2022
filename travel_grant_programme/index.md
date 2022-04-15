@@ -73,6 +73,11 @@ Students, including PhD students, receive 1 point.
 
 * Details of their past contributions to OpenStreetMap projects or community activities: up to 4 points
 
+### First State of the Map
+
+* Applicants that attend SotM for the first time receive 1 point.
+
+
 <h2 id="payment">Payment</h2>
 
 You must be able to fund the direct costs of your travel to SotM and be in possession of a valid entry visa and immunization documents (if required). Successful applicants will receive a conference pass and become eligible for reimbursement of expenses up to the limit of the travel grant when they check-in at the conference registration desk. Reimbursement of expenses will be by electronic means (details to be advised).
@@ -81,7 +86,7 @@ Only in the case of demonstrated needs and exceptional cases, the travel grant a
 
 <h2 id="apply">How to Apply</h2>
 
-If you wish to be considered for a SotM travel grant please fill out this form: <a href="…">link to application form to be specified</a>
+If you wish to be considered for a SotM travel grant please fill out the <a href="https://survey.wikimedia.it/index.php/749259?lang=en">application form</a>.
 
 All data will be held confidential and only used for assessing TGP applications. Please ensure that the email address that you provide is regularly monitored as the selection committee may wish to seek clarification of responses.
 
