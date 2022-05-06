@@ -28,7 +28,7 @@ In an effort to improve the interaction and collaboration between the academic a
 
 <h2 id="guidelines">Submission Guidelines</h2>
 
-Authors are invited to submit extended abstracts using the State of the Map 2022 [Pretalx submission system](https://pretalx.com/state-of-the-map-2022-academic-track/cfp). Deadline for submission is 10 May 2022.
+Authors are invited to submit extended abstracts using the State of the Map 2022 [Pretalx submission system](https://pretalx.com/state-of-the-map-2022-academic-track/cfp). Deadline for submission is 22 May 2022.
 
 Abstracts should be between 800 and 1200 words. These limits will be strictly enforced for a fair and balanced review process.
 
@@ -47,7 +47,7 @@ The 2019 and 2020 Academic Track resulted in a [special issue](https://www.mdpi.
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
 * 25 April 2022: Deadline [non-academic talk submissions]({{site.baseurl}}/calls/general)
-* 10 May 2022: Deadline academic talk submissions
+* ~~10~~ 22 May 2022: Deadline academic talk submissions
 * 19-21 August 2022: State of the Map 2022
 
 
