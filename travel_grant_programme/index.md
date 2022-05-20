@@ -5,13 +5,13 @@ titlecontent: ""
 headings: "for-applicants,online,criteria,payment,apply"
 ---
 
-The State of the Map Organizing Commitee provides a Travel Grant Program (TGP) to facilitate accessibility and diversity at the global SotM 2022 Conference, which will happen in Firenze, Italy, August 19-21. This will be the first in-person OSM global event since the disruptions caused by COVID-19, and while the pandemic is still not over, we hope to bring as many participants together as the funds and health regulations will allow. Given the circumstances, the program will also dedicate a portion of the budget available to support remote attendance (e.g. by providing access to reliable internet connection) for those who will not be able to travel to Italy because of imposed restrictions, travel costs, or other reasons.
+The State of the Map Organizing Committee provides a Travel Grant Programme (TGP) to facilitate accessibility and diversity at the global SotM 2022 Conference, which will happen in Firenze, Italy, August 19-21. This will be the first in-person OSM global event since the disruptions caused by COVID-19, and while the pandemic is still not over, we hope to bring as many participants together as the funds and health regulations will allow. Given the circumstances, the programme will also dedicate a portion of the budget available to support remote attendance (e.g. by providing access to reliable internet connection) for those who will not be able to travel to Italy because of imposed restrictions, travel costs, or other reasons.
 
-The call for applications to the Travel Grant Program opens today.
+The call for applications to the Travel Grant Programme was opens until May 6, 2022.
 
 <h2 id="for-applicants">For applicants</h2>
 
-This section sets out the process for a Travel Grant to attend SotM 2022 and the process and criteria by which applicants will be selected. The TGP is administered by the State of the Map Organizing Commitee.
+This section sets out the benefits of a Travel Grant to attend SotM 2022 and the process and criteria by which applicants will be selected. The TGP is administered by the State of the Map Organizing Committee.
 
 ### Travel Grants
 
@@ -25,9 +25,9 @@ There will be 3 different sizes of travel grants available:
 | 400 €      | Applicants from [Schengen area](https://ec.europa.eu/home-affairs/schengen-borders-and-visa/schengen-visa_en), European Union countries and the UK |
 | 800 €      | Applicants from other countries |
 
-The size and number of grants may be adjusted, at the discretion of the Organizing Commitee, depending upon the level of funding raised and the number of applications received. Applicants will only be able to apply for one size of travel grant and are encouraged to apply for the smallest grant that will enable them to attend SotM 2022.
+The size and number of grants may be adjusted, at the discretion of the Organizing Committee, depending upon the level of funding raised and the number of applications received. Applicants will only be able to apply for one size of travel grant and are encouraged to apply for the smallest grant that will enable them to attend SotM 2022.
 
-Any person applying for more than one grant will be excluded from the application process.
+Anyone applying for more than one grant will be excluded from the application process.
 
 <h2 id="online">Online Attendance Support Grant</h2>
 
@@ -63,7 +63,7 @@ The allocation of points is based on the [World Bank country rating by income](h
 
 ### Gender and Minorities
 
-In order to create a more diverse community, women and applicants from other under-represented groups will receive 1 point.
+In order to create a more diverse community, women and applicants from other underrepresented groups will receive 1 point.
 
 ### Students
 
@@ -80,7 +80,7 @@ Students, including PhD students, receive 1 point.
 
 <h2 id="payment">Payment</h2>
 
-You must be able to fund the direct costs of your travel to SotM and be in possession of a valid entry visa and immunization documents (if required). Successful applicants will receive a conference pass and become eligible for reimbursement of expenses up to the limit of the travel grant when they check-in at the conference registration desk. Reimbursement of expenses will be by electronic means (details to be advised).
+You must be able to fund the direct costs of your travel to SotM and be in possession of a valid entry visa and immunization documents (if required). Successful applicants will receive a conference pass and become eligible for reimbursement of expenses up to the limit of the travel grant when they check in at the conference registration desk. Reimbursement of expenses will be by electronic means (details to be advised).
 
 Only in the case of demonstrated needs and exceptional cases, the travel grant amount will be provided in advance or used to cover specific travel costs directly.
 
