@@ -28,7 +28,7 @@ Florence is a major stop on the Italian high speed rail network. It's easy to re
 
 <h2 class='space-bottom1' id='sights'>Florence – Sights and Attractions</h2>
 
-Florence (Italian: Firenze) is a popular tourist destination because of its high density of important historic, cultural, religious and artistic sights. The city is known as the <em>cradle of the Renaissance</em> and hosts world-famous attractions like the <em>Galleria degli Uffizi</em>, the <em>Duomo</em>, <em>Ponte Vecchio (Old Bridge)</em> or the <em>Palazzo Vecchio</em>. The historic centre of Florence is recognized as a World Heritage Site by the UNESCO. Head over to FOSS4G's conference website for [further information](https://2022.foss4g.org/tourism.php) about the city and its surroundings.
+Florence (Italian: Firenze) is a popular tourist destination because of its high density of important historic, cultural, religious and artistic sights. The city is known as the <em>cradle of the Renaissance</em> and hosts world-famous attractions like the <em>Galleria degli Uffizi</em>, the <em>Duomo</em>, <em>Ponte Vecchio (Old Bridge)</em> or the <em>Palazzo Vecchio</em>. The historic centre of Florence is recognized as a World Heritage Site by the UNESCO. For further information about the city and its surroundings, head over to [FOSS4G's conference website for](https://2022.foss4g.org/tourism.php) or the [official tourist website of the City of Florence](https://www.feelflorence.it/en).
 
 
 
