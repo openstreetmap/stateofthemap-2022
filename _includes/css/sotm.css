@@ -521,6 +521,23 @@ footer img::-moz-selection,
     background: 0 0;
 }
 
+footer img.logo {
+  width: auto;
+  height: 200px;
+  filter: brightness(100);
+  margin-top: -30px;
+  margin-bottom: -10px;
+}
+
+@media only screen and (max-width: 767px) {
+    footer img.logo {
+        margin-top: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
