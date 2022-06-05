@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "How to kill OSM ? Above all, change nothing"
+subtitle: "Constructive and uncompromising critique of OSM's structural problems from a longtime contributor’s point-of-view"
 code: "A8JLUY"
 speaker_names_with_affiliations: ['Florian Lainez (OpenStreetMap France)']
 room: "Auditorium A - A001"

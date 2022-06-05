@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Electrifying OSM with RapiD and Mapillary"
+subtitle: "Mapping Utility Poles and Street Lights with Mapillary and RapiD"
 code: "SBZXTS"
 speaker_names_with_affiliations: ['Patricia Solis (Meta/Mapillary, Youthmappers, Arizona State University)', 'Christopher Beddow (Meta/Mapillary, Youthmappers, Arizona State University)']
 room: "Online Workshops"

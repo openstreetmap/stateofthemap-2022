@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Entry-level Mobile Mapping"
+subtitle: "Making OSM contribution accessible"
 code: "UWHAME"
 speaker_names_with_affiliations: ['Kristen Tonga (HOT)']
 room: "Auditorium A - A001"

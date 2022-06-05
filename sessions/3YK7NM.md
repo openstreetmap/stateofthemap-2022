@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Engaging in OSM"
+subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
 speaker_names_with_affiliations: ['Heather Leson']
 room: "Online Workshops"

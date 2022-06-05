@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Linking OpenStreetMap and Wikidata: Case study of Taiwan's villages and river dataset"
+subtitle: "Taiwan dataset import history"
 code: "TJMAQT"
 speaker_names_with_affiliations: ['Dennis Raylin Chen (OpenStreetMap Taiwan)']
 room: "Auditorium B - A101"

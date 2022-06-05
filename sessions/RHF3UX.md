@@ -1,6 +1,7 @@
 ---
 layout: session
 title: "Exploring Human Bias and Effects of Training  in OSM mapping: A Behavioral Experiment in Singapore"
+subtitle: "Exploring Human Bias and Effects of Training  in OSM mapping: A Behavioral Experiment in Singapore"
 code: "RHF3UX"
 speaker_names_with_affiliations: ['Shiyue Zhong (Urban Analytics Lab, National University of Singapore)']
 room: "Auditorium A - A001"
