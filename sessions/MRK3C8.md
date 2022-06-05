@@ -1,0 +1,14 @@
+---
+layout: session
+title: "Wikimedia Italia - What is doing for the Italian OSM community?"
+code: "MRK3C8"
+speaker_names_with_affiliations: ['Anisa Kuci (Wikimedia Italia)']
+room: "Auditorium A - A001"
+length: "20"
+time: "Sunday, 15:30"
+time_iso: "2022-08-21T15:30:00Z"
+resources: []
+recording: True
+---
+The presentation will go through different areas of the Local Chapter’s activities. The recently updated infrastructure, composed by the Tasking Manager and the OSM extracts for Italy. Those tools are available and used by the Italian OSM community. Moreover, the official new Italian OSM website, the OSM licences tracking process and other tools developed to support the community will be presented.
+Other experiences that will be shared are the collaborations with local institutions, with the scope of strengthening local communities and increase the data in OSM. The keys to success are the volunteer coordinators. They are a point of contact important to establishing collaborations with individuals and institutions throughout the national territory

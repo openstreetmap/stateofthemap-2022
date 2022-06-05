@@ -1,840 +1,866 @@
 {
   "talks": [
     {
-      "code": "3NWQYN",
-      "title": "Opening",
-      "abstract": "SotM Working group welcome the OpenStreetMap community to SotM 2021. There will also be some explanations about the virtual conference, the interaction in Q&A and the beside sessions.",
-      "speakers": [
-        "N87VMR"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T10:00:00Z",
-      "end": "2021-07-09T10:20:00Z",
-      "room": 822
-    },
-    {
-      "code": "BWLNAC",
-      "title": "Map-Less Map Editors",
-      "abstract": "The common theme for OSM editors is presenting a map for moving things around. But for attribute editing, a map is too distracting. Let's see how getting rid of it improves the editing experience.",
-      "speakers": [
-        "TJ9EBM"
-      ],
-      "track": 2200,
-      "start": "2021-07-09T10:20:00Z",
-      "end": "2021-07-09T10:40:00Z",
-      "room": 822
-    },
-    {
-      "code": "D7JREJ",
-      "title": "Journey to improving the Navigation experience for Grab Driver partners using OSM",
-      "abstract": "Grab launched a navigation product for Driver partners in 2018 with the help of OSM. We contributed to OSM data in Singapore and made it navigation ready to enable launching in-app navigation for Grab's driver partners. This talk is a glimpse of the journey to get the map data quality and in turn the product experience to be the best suited one for driver partners in Singapore.",
-      "speakers": [
-        "DKCRZP",
-        "ZQN3YT"
-      ],
-      "track": 2204,
-      "start": "2021-07-09T10:45:00Z",
-      "end": "2021-07-09T11:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "JDKBXY",
-      "title": "Identifying Unmapped Highway in OSM",
-      "abstract": "This workshop will introduce two methods on how to identify unmapped highways in OSM. First by making a comparison between OSM and government (open) data, second by calculating the distance between population and OSM highway data. This method will assist OSM contributors to understand where are the unmapped highway without having to manually check the imagery and what is on OSM. The workshop will be delivered using open-source GIS software and publicly accessible data.",
-      "speakers": [
-        "XYHQSA",
-        "PSYGBF"
-      ],
-      "track": 2203,
-      "start": "2021-07-09T11:30:00Z",
-      "end": "2021-07-09T12:30:00Z",
-      "room": 823
-    },
-    {
-      "code": "XLDXW9",
-      "title": "From global to local OSM mapping, CartONG’s overall OSM based strategy to support humanitarian response in refugee camp",
-      "abstract": "From remote mapping to OSM-based analytical tools for decision making, CartONG would like to share its experience on building and implementing step by step since 2017 an overall strategy to support humanitarian response in refugee sites with UNHCR. We will focus on specific technical challenges, like dealing with accurate and precise data on a large number of sites at world scale as well as at site level.",
-      "speakers": [
-        "PM8RDN",
-        "TB3GEF",
-        "DY79SZ"
-      ],
-      "track": 2204,
-      "start": "2021-07-09T11:30:00Z",
-      "end": "2021-07-09T11:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "TPKBQ9",
-      "title": "MapaTanda: Mapping for and with the Ageing Population",
-      "abstract": "This talk will focus on the MapaTanda Project (a portmanteau of Mapa -- which means a map -- and Tanda -- which can mean older adult but can also mean remember) and why we need to build an age-friendly society through OSM. This is a project that seeks to improve the number and quality of data in OpenStreetMap that are important and relevant to older adults (senior citizens) and the ageing population (60+ years old).",
-      "speakers": [
-        "GU8RUB"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T12:15:00Z",
-      "end": "2021-07-09T12:35:00Z",
-      "room": 822
-    },
-    {
-      "code": "ZVL93H",
-      "title": "3D Rendering with OSM2World",
-      "abstract": "The open-source 3D renderer OSM2World turns OpenStreetMap data into detailed 3D models of the world around us.",
-      "speakers": [
-        "PDWBJL"
-      ],
-      "track": 2201,
-      "start": "2021-07-09T13:00:00Z",
-      "end": "2021-07-09T13:20:00Z",
-      "room": 822
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-09T13:45:00Z",
-      "end": "2021-07-09T15:00:00Z",
-      "room": 822
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-09T13:45:00Z",
-      "end": "2021-07-09T15:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "UVEAX9",
-      "title": "Ethical Mapping with and for People Living with Vulnerability",
-      "abstract": "Today’s world of geospatial technology and data is evolving quickly. However, the lives of those living with vulnerability may not be improving, yet are shaped by new technologies. The communities who stand to benefit most from improving technologies, including mapping, are instead increasingly left out of key conversations, opportunities, and developments that center around their lives and their data. This panel will discuss ethical issues around mapping with and for communities living in vulnerability.\r\n\r\nThe panalists are Edoardo Neerhut, Paromita Basak,  Innocent Maholi,  Rosario Casanova, Erica Hagen",
-      "speakers": [
-        "7MZ3AU"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T15:00:00Z",
-      "end": "2021-07-09T16:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "RJZRZ8",
-      "title": "OSM data: Privacy Risks and GDPR compliance",
-      "abstract": "OSM publishes with its geodata also meta data describing the contribution process and contributor. This talk gives an overview of the actual privacy prospects for OSM consumers, potential privacy risks for OSM contributors, and attempts a preliminary compliance check with respect to the EU’s general data protection regulation (GDPR).",
-      "speakers": [
-        "Y8FWWN"
-      ],
-      "track": 2203,
-      "start": "2021-07-09T15:00:00Z",
-      "end": "2021-07-09T15:20:00Z",
-      "room": 822
-    },
-    {
-      "code": "QUHKNR",
-      "title": "Boundaries, Places and the Future of Tagging",
-      "abstract": "Nominatim, the well-know OSM search engine,\r\nhas recently received a major update of the algorithm that computes addresses\r\nfrom the boundaries and places in OSM. This talk first introduces the new\r\nalgorithm, explains the background and how it translates to tagging.\r\nWe'll then take a step back and explore the larger\r\npicture what the evolution of tagging scheme of OpenStreetMap means for the users\r\nof the data.",
-      "speakers": [
-        "RD7F9S"
-      ],
-      "track": 2200,
-      "start": "2021-07-09T15:45:00Z",
-      "end": "2021-07-09T16:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "3E98CC",
-      "title": "Introduction and review of MapComplete",
-      "abstract": "MapComplete is a newly created, easy-to-use web editor. In this talk, the developer will talk about the editor, how it came to be, how it already performed and what could possible come - especially with your help.",
-      "speakers": [
-        "ZZ9DXT"
-      ],
-      "track": 2200,
-      "start": "2021-07-09T16:30:00Z",
-      "end": "2021-07-09T16:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "9R7LZF",
-      "title": "Makina Maps",
-      "abstract": "Makina Maps is a new stack to produce vectors tiles on request from updated OSM database. The same thing we except from Mapnik, osm2pgsq and mod_tile stack, but for vector tiles.",
-      "speakers": [
-        "VZMGEW"
-      ],
-      "track": 2202,
-      "start": "2021-07-09T17:15:00Z",
-      "end": "2021-07-09T17:35:00Z",
-      "room": 822
-    },
-    {
-      "code": "UYEXWN",
-      "title": "Why Does Sexism within OpenStreetMap Matter?",
-      "abstract": "Experts estimate that only 2-5% of OSM contributors are women. Panelists will discuss how structural inequalities and individual instances of sexist and misogynistic language and behavior present significant barriers to women’s participation, along with steps that organizations, boards, communities, and individuals can take to be anti-sexist members of the OSM ecosystem. This panel is organized by the Everywhere She Maps program of YouthMappers.\r\n\r\nThe panelists are Hanna Krüger, Chomba Chishala, Dara Carney-Nedelman, Marcela Zeballos",
-      "speakers": [
-        "7MZ3AU",
-        "CY3TZY"
-      ],
-      "track": 2199,
-      "start": "2021-07-09T17:15:00Z",
-      "end": "2021-07-09T18:15:00Z",
-      "room": 823
-    },
-    {
-      "code": "ZZ39T9",
-      "title": "Lightning Talks I",
-      "abstract": "This track gathers various lightning talks of 5 minutes each.",
+      "code": "QFUTA7",
+      "title": "Opening Session",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
       "speakers": [
         "YNFKER"
       ],
-      "track": 2199,
-      "start": "2021-07-09T18:00:00Z",
-      "end": "2021-07-09T18:20:00Z",
-      "room": 822
+      "track": null,
+      "start": "2022-08-19T10:00:00+02:00",
+      "end": "2022-08-19T10:20:00+02:00",
+      "room": 1531
     },
     {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-09T18:45:00Z",
-      "end": "2021-07-09T20:00:00Z",
-      "room": 822
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-09T18:45:00Z",
-      "end": "2021-07-09T20:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "RSLM3H",
-      "title": "Linting the map together: Collaborations of Mapbox Data RAVE and OpenStreetMap Communities",
-      "abstract": "Over the past year, the Mapbox Data RAVE team has worked to improve data quality issues and engaged with various communities according to the Organized Editing Guidelines. The experience has been great and varied significantly from place to place. This talk will share the details and learnings for the community and other editing teams.",
+      "code": "URUJH8",
+      "title": "State of Independence",
+      "abstract": "OpenStreetMap is the human-made map of the world. But how can one tiny human still make a difference in a project used by megacorps and crucial to millions of app and website users every day? How does OSM retain its individualism in a world that wants it to be consistent, orderly and predictable? Is it game over for the experimental, iconoclastic, independent map? Richard Fairhurst offers a challenging but upbeat look at the changing landscape for the OpenStreetMap mapper, user and developer.",
       "speakers": [
-        "N7K3EE"
+        "JJSJAA"
       ],
-      "track": 2199,
-      "start": "2021-07-09T20:00:00Z",
-      "end": "2021-07-09T20:20:00Z",
-      "room": 822
+      "track": 2817,
+      "start": "2022-08-19T10:30:00+02:00",
+      "end": "2022-08-19T10:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "LY9GPR",
-      "title": "OpenStreetMap & Governments Around the World",
-      "abstract": "Hear members of the Local Chapters & Communities Working Group share how they are collaborating with their local and federal governments.\r\n\r\nThe panelists are Maggie Cawley (OSM US), Jez Nicholson (OSM UK), Joost Schouppe (OSM Belgium), Stefan Keller (OSM Switzerland), Eugene Villar (OSM Philippines), Naveen Francis (OSM India), Anisa Kuci (OSM Italy)\r\nModerator is Allan Mustard (OSMF Chair)",
+      "code": "UWHAME",
+      "title": "Entry-level Mobile Mapping",
+      "abstract": "By 2025, HOT aims that communities in 94 countries vulnerable to disaster or experiencing multidimensional poverty are equipped and able to map the locations where they live and work. We believe that accessible mobile mapping tools are key to this effort. Since I started working for HOT in January 2022, I have done informal interviews, observations, focus groups and experiments with more than 100 regional users, primarily in East Africa, looking at the accessibility of current OSM mobile editing tools. Sharing this research with the wider community will help everyone build technology that fits the needs on the ground.",
       "speakers": [
-        "MWBC7T"
+        "QTT389"
       ],
-      "track": 2199,
-      "start": "2021-07-09T20:00:00Z",
-      "end": "2021-07-09T21:00:00Z",
-      "room": 823
+      "track": 2822,
+      "start": "2022-08-19T11:30:00+02:00",
+      "end": "2022-08-19T11:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "MXBCZY",
-      "title": "Improving OSM Data in Coastal Communities",
-      "abstract": "Improving OSM data quality and coastal community resilience with the Map Quality Measurement workflow.",
+      "code": "C83AGN",
+      "title": "Carto-OSC: Activating Performance Spaces with Real Time Cartography",
+      "abstract": "First there were DJs and VJs. Enter the MJ (map jockey).\r\n\r\nCarto-OSC leverages open source libraries, data, and protocols to activate performance spaces – theaters, galleries, nightclubs – with projected, real time cartography. The Open Sound Control (OSC) protocol couples with a touch surface to control layer coloring and patterning, zoom/pitch/bearing effects, label typography, transits along road networks, and a variety of transitions purloined from cinema and visual music.\r\n\r\nWritten in modern JavaScript, Carto-OSC would be unthinkable without a foundation of Open Stage Control, MapLibre, chroma.js, and OpenStreetMap data. This presentation describes its architecture, the impulses behind its creation, and includes documentation of its use in performance.",
       "speakers": [
-        "3NALG3"
+        "QNSYGN"
       ],
-      "track": 2203,
-      "start": "2021-07-09T20:45:00Z",
-      "end": "2021-07-09T21:05:00Z",
-      "room": 822
+      "track": 2819,
+      "start": "2022-08-19T11:30:00+02:00",
+      "end": "2022-08-19T11:50:00+02:00",
+      "room": 1532
     },
     {
-      "code": "QLVGQK",
-      "title": "Exploring Sound maps using OpenStreetMap data and FOSS through MANILAud: Metro Manila Soundscapes",
-      "abstract": "Our proposed workshop aims to explore sound maps using OpenStreetMap data and free and open-source software (FOSS) through MANILAud: Metro Manila Soundscapes (http://bit.ly/manilaud; http://bit.ly/manilaudday)\r\n\r\nThe 60-minute workshop will be about the project and also enable the participants to experience submitting soundscapes and hearing their soundscapes on the map.",
+      "code": "D7BFKR",
+      "title": "JOSM: Beyond Basic Editing",
+      "abstract": "Having made your first edits with JOSM, there are a couple of tips and  tricks to learn  to make your daily mapping life in this JOSM easier. JOSM, considered an advanced mappers tool, is an easy-to-use OSM software that makes mapping in OSM easier and more interesting using plugins and various mapping tools.",
       "speakers": [
-        "KKUH8S",
-        "SDTYZV"
+        "USJFC9",
+        "EC8YHV"
       ],
-      "track": 2201,
-      "start": "2021-07-10T10:00:00Z",
-      "end": "2021-07-10T11:00:00Z",
-      "room": 823
+      "track": 2816,
+      "start": "2022-08-19T11:30:00+02:00",
+      "end": "2022-08-19T12:30:00+02:00",
+      "room": 1533
     },
     {
-      "code": "R3ZXY7",
-      "title": "How to map a city's public transport during a pandemic",
-      "abstract": "How to remotely map a city's public transport when due to the pandemic local trainings and community buildings are not possible.",
+      "code": "HBBZKV",
+      "title": "The MapOSMatic APIs - generate printable maps from your own application",
+      "abstract": "The MapOSMatic web frontend allows to create printable maps from OSM\r\ndata interactively. This is not the only way to use its rendering\r\nbackend, it is also possible to directly use its ocitysmap Python\r\nlibrary to render maps from your own Python code and a local\r\nstylesheet and database setup, or to use the REST-like API of the web\r\nfrontend to send automated render requests to a MapOSMatic web\r\ninstance from almost any programming language without any local setup\r\neffort.\r\n\r\nThe presentation will give a short overview of both API variants,\r\nshowing the different options to interact with the MapOSMatic render\r\ninfrastructure programmatically.\r\n\r\nAs example applications an alternative neighbourhood",
       "speakers": [
-        "GFLXVK"
+        "HMT7H7"
       ],
-      "track": 2200,
-      "start": "2021-07-10T10:00:00Z",
-      "end": "2021-07-10T10:20:00Z",
-      "room": 822
+      "track": 2820,
+      "start": "2022-08-19T12:30:00+02:00",
+      "end": "2022-08-19T12:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "GEKXWL",
-      "title": "With Great Power Comes Great Responsibility",
-      "abstract": "The mapping of access restrictions is often neglected, but access restrictions (and default assumptions about whether a path without any such information is usable or not) are important to make OSM safe to use.",
-      "speakers": [
-        "9GGAN8"
-      ],
-      "track": 2200,
-      "start": "2021-07-10T10:45:00Z",
-      "end": "2021-07-10T11:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "W7FP3J",
-      "title": "Collection and use of data about entrances of buildings",
-      "abstract": "We have developed an open source web app, OLMap, to take photos of entrances and map them in OSM and another one, Gatesolve, for delivery drivers to find the route to the right entrance based on this micromapped OSM data. Last year, over 6000 images including 5762 entrances, 1767 flights of steps, 645 barriers and 241 info boards were contributed to the 30000 entrances mapped in Helsinki, Finland. The mapping project will continue this summer.",
-      "speakers": [
-        "VHTYYR",
-        "XMPZPB"
-      ],
-      "track": 2202,
-      "start": "2021-07-10T11:30:00Z",
-      "end": "2021-07-10T11:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "EHQ7GH",
-      "title": "Mapping unmapped towns in Turkey by building and enlarging OpenStreetMap Turkey community",
-      "abstract": "Turkish OpenStreetMap Community has constantly been growing with members from various circles in recent years however the community faces various problems such as insufficient OSM documentation and tools in Turkey and lack of learning materials in Turkish. Yercizenler and Youth Season NGOs kicked-off the Open Source Volunteering Programme to tackle community needs to build and enlarge OpenStreetMap Turkey community by training volunteers, translating OpenStreetMap related documentation/tools and mapping 120 unmapped towns in Turkey.",
-      "speakers": [
-        "DTK9MB",
-        "BZDSBG"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T12:15:00Z",
-      "end": "2021-07-10T12:35:00Z",
-      "room": 822
-    },
-    {
-      "code": "HUXHSR",
-      "title": "AOSMFBAAAoAAAA",
-      "abstract": "Ask the OSMF Board Almost Anything About our Agenda, Actions And Activities",
-      "speakers": [
-        "BFX3YR",
-        "N9ZABZ",
-        "PDWBJL",
-        "SCPZG9",
-        "YT7F8M"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T12:15:00Z",
-      "end": "2021-07-10T13:15:00Z",
-      "room": 823
-    },
-    {
-      "code": "ZLK9X9",
-      "title": "Lightning Talks II",
-      "abstract": "This track gathers various lightning talks of 5 minutes each.",
+      "code": "ZVLDMZ",
+      "title": "Lightning talks I",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
       "speakers": [
         "YNFKER"
       ],
-      "track": 2199,
-      "start": "2021-07-10T13:00:00Z",
-      "end": "2021-07-10T13:20:00Z",
-      "room": 822
+      "track": null,
+      "start": "2022-08-19T14:30:00+02:00",
+      "end": "2022-08-19T14:50:00+02:00",
+      "room": 1532
     },
     {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-10T13:45:00Z",
-      "end": "2021-07-10T15:00:00Z",
-      "room": 823
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-10T13:45:00Z",
-      "end": "2021-07-10T15:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "7M7WVX",
-      "title": "How StreetComplete handles edits",
-      "abstract": "A deep dive into how StreetComplete stores edits and syncs them with OpenStreetMap, including persistence, solving conflicts and allowing users to revert their edits.",
-      "speakers": [
-        "MFWF9P"
-      ],
-      "track": 2202,
-      "start": "2021-07-10T15:00:00Z",
-      "end": "2021-07-10T15:20:00Z",
-      "room": 822
-    },
-    {
-      "code": "Z3U8JX",
-      "title": "Imports and Bulk Edits, Community Style: MapRoulette Cooperative Challenges",
-      "abstract": "Martijn van Exel will demonstrate in an interactive workshop how you can make use of MapRoulette's advanced capabilities to create tasks that mappers can solve with as little as one click.",
-      "speakers": [
-        "PWHA8S"
-      ],
-      "track": 2200,
-      "start": "2021-07-10T15:00:00Z",
-      "end": "2021-07-10T16:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "7RWSWA",
-      "title": "News from osm2pgsql",
-      "abstract": "The osm2pgsql has been around for a long time. Since 2006 it is used to import OSM data into PostgreSQL/PostGIS databases for rendering and other uses. In the last years there have been a lot of improvements to osm2pgsql. With the new \"Flex\" output, osm2pgsql is now much more versatile which allows new applications.",
-      "speakers": [
-        "LULDTS"
-      ],
-      "track": 2202,
-      "start": "2021-07-10T15:45:00Z",
-      "end": "2021-07-10T16:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "ZCUPCF",
-      "title": "Mapping Heritage in Ireland - A Journey",
-      "abstract": "Since moving to Ireland from Germany in December 2016, I have been mapping heritage features on the island increasingly. During lockdown, I started a YouTube channel to enable other people who are interested in Irish history to learn about OpenStreetmap, because it is still quite unknown in those circles.",
-      "speakers": [
-        "JUMGYU"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T16:30:00Z",
-      "end": "2021-07-10T16:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "RC7S8K",
-      "title": "MapLibre - community driven Mapbox GL fork",
-      "abstract": "The code samples, status, recent development and roadmap of the open-source community driven project for rendering of (not only) OpenStreetMap vector tiles in a web browser (GL JS) and with native code (Android, iOS, etc).",
-      "speakers": [
-        "VVZ9RM"
-      ],
-      "track": 2202,
-      "start": "2021-07-10T17:15:00Z",
-      "end": "2021-07-10T17:35:00Z",
-      "room": 822
-    },
-    {
-      "code": "CSYPDL",
-      "title": "Feedback on building OSM communities in the south",
-      "abstract": "This panel focuses on the challenges contributors face in building OSM communities in the South and the strategies they adopt to achieve their goals. It brings together active members of selected OSM communities who will share their experiences and make recommendations for building strong OSM communities.\r\n\r\nPanel guests are Amadou Ndong, Tshedy, Kapay, Fredy, John Rupture, Mikko, Andal Feye, Sana Ibrahim.",
-      "speakers": [
-        "M8PHEG"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T17:15:00Z",
-      "end": "2021-07-10T18:15:00Z",
-      "room": 823
-    },
-    {
-      "code": "RFGVSG",
-      "title": "OpenStreetMap and the neglected pedestrian",
-      "abstract": "Pedestrians have been neglected. We’ve seen monumental progress in digital maps, but much of this has been road centric. In this presentation we download data from OpenStreetMap that relates to pedestrians to see how much it differs from the reality on the ground. We contrast different types of cities, seek to understand why pedestrian data is lacking, and look at solutions such as Mapillary that can help make OpenStreetMap more pedestrian friendly.",
-      "speakers": [
-        "GBZBUL"
-      ],
-      "track": 2200,
-      "start": "2021-07-10T18:00:00Z",
-      "end": "2021-07-10T18:20:00Z",
-      "room": 822
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-10T18:45:00Z",
-      "end": "2021-07-10T20:00:00Z",
-      "room": 823
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-10T18:45:00Z",
-      "end": "2021-07-10T20:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "GGLYCK",
-      "title": "OpenStreetMap Standard Layer: Who uses it?",
-      "abstract": "Mappers see the OpenStreetMap Standard layer every time they view OpenStreetMap.org, but who else is using the layer? With usage logs, who is accessing what is broken down for this important OpenStreetMap service.",
-      "speakers": [
-        "YRRSMU"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T20:00:00Z",
-      "end": "2021-07-10T20:20:00Z",
-      "room": 822
-    },
-    {
-      "code": "MDD8PE",
-      "title": "Paid-Editing, Open Datasets, and AI-Mapping Tools: A Panel Discussion with Corporations Active in OpenStreetMap",
-      "abstract": "This panel will bring together a few major corporations active in the OSM Community to talk about their mapping activity and larger involvement within OSM. We will cover the release of datasets, development of mapping tools, and the increasing amount of paid-editing in OSM. Companies include ESRI, Facebook, among others yet to be confirmed.\r\n\r\nThe panelists are Deane Kensock (Esri), Ben Clark (Facebook), Jinal Foflia (Grab), Lukas Martinelli (Mapbox)",
-      "speakers": [
-        "LSXXGM"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T20:00:00Z",
-      "end": "2021-07-10T21:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "L9XART",
-      "title": "Community growth: What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants.",
-      "abstract": "Between December 2020 to March 2021, the OSM Kenya team ran a project whose focus was on growing the OSM community locally: both in terms of membership and diversity. The project was supported through the Facebook and HOTOSM community impact microgrants. In this session, we will share about the community, project: from ideation(community health), motivation to implementation. This will include the activities involved, our experience, challenges that we encountered, and the lessons learned.",
-      "speakers": [
-        "KEEP87"
-      ],
-      "track": 2199,
-      "start": "2021-07-10T20:45:00Z",
-      "end": "2021-07-10T21:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "YANREF",
-      "title": "Acquire and visualise OSM data with R",
-      "abstract": "Learn how to use a variety of R packages to get and visualise OSM data.",
-      "speakers": [
-        "UPNYKS"
-      ],
-      "track": 2201,
-      "start": "2021-07-11T10:00:00Z",
-      "end": "2021-07-11T11:00:00Z",
-      "room": 823
-    },
-    {
-      "code": "7SUKCQ",
-      "title": "Understanding the map - OSM-Carto map reading Q&A",
-      "abstract": "Everyone knows the \"standard\" map style on openstreetmap.org and most also know at least a bit how to read it.  But hardly anyone is familiar with everything the map shows.  Based on examples from the map submitted by community members this session is going to explain the design of the map and what those things you can see in it mean.",
-      "speakers": [
-        "YZJFGM"
-      ],
-      "track": 2201,
-      "start": "2021-07-11T12:15:00Z",
-      "end": "2021-07-11T13:15:00Z",
-      "room": 823
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-11T13:45:00Z",
-      "end": "2021-07-11T15:00:00Z",
-      "room": 823
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-11T13:45:00Z",
-      "end": "2021-07-11T15:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "EP7JNK",
-      "title": "Dealing with Quantity vs Quality",
-      "abstract": "Organized mapping and institution / corporate based mapping keeps rising in the OpenStreetMap community. This talk is inspired by my observations whilst performing Quality Assurance as part of my personal OSM contributions in Ghana; highlighting some problems, solutions and recommendations.",
-      "speakers": [
-        "EYWYDV"
-      ],
-      "track": 2200,
-      "start": "2021-07-11T15:00:00Z",
-      "end": "2021-07-11T15:20:00Z",
-      "room": 822
-    },
-    {
-      "code": "3CZDTS",
-      "title": "Lightning Talks III",
-      "abstract": "This track gathers various lightning talks of 5 minutes each.",
-      "speakers": [
-        "YNFKER"
-      ],
-      "track": 2199,
-      "start": "2021-07-11T15:45:00Z",
-      "end": "2021-07-11T16:05:00Z",
-      "room": 822
-    },
-    {
-      "code": "JGF9WA",
-      "title": "A new map renderer for OSM? Rasters, vectors, language and internationalization",
-      "abstract": "I explore the spectrum of web map rendering techniques between raster and vector, and outline new approaches towards making universal map applications with OSM.",
+      "code": "VXECJQ",
+      "title": "Innovating on derivative OpenStreetMap datasets",
+      "abstract": "OpenStreetMap consists of tagged nodes, ways and relations. Many use cases of geographic data, however, need a tabular dataset of points, lines and polygons. Processing OSM into derivative datasets is a crucial task that can benefit from new tools and formats. This talk will cover several topics around this theme, including:\r\n\r\n* Existing approaches such as the Export Tool\r\n* Why FlatGeobuf is a suitable forwards-thinking format\r\n* Computational challenges for processing global-scale relations\r\n* A new open-source program, Protoshapes, to generate admin polygons in FlatGeobuf format\r\n* Efficient approaches for global datasets such as coastlines, oceans, and road connectivity\r\n* Frequently updating datasets using the open-source OSM Express database",
       "speakers": [
         "PYCDW7"
       ],
-      "track": 2201,
-      "start": "2021-07-11T16:30:00Z",
-      "end": "2021-07-11T16:50:00Z",
-      "room": 822
+      "track": 2820,
+      "start": "2022-08-19T14:30:00+02:00",
+      "end": "2022-08-19T14:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "FV8QGF",
-      "title": "Overpass API since 10 years",
-      "abstract": "Since now 10 years, the Overpass API allows to query the OpenStreetMap data. This is reason enough to show how OpenStreetMap and the Overpass API have changed over that timespan. I will present and overview over user statistics, technical challenges and all kinds of requests to me as the developer.",
+      "code": "HTEZJY",
+      "title": "Local Chapters Congress",
+      "abstract": "Join the Local Chapters Congress to learn about what other chapters are doing. Even if you are not on a Chapter but are a local organizer, feel free to join!\r\n\r\nWe will focus on:\r\n- how to turn actions that work locally in projects that can be ran globally\r\n- how local groups can best help each other",
       "speakers": [
-        "KBTFX7"
+        "FFQRER",
+        "TT3D7M",
+        "JJSTJT",
+        "MWBC7T"
       ],
-      "track": 2202,
-      "start": "2021-07-11T17:15:00Z",
-      "end": "2021-07-11T17:35:00Z",
-      "room": 822
+      "track": 2817,
+      "start": "2022-08-19T14:30:00+02:00",
+      "end": "2022-08-19T15:30:00+02:00",
+      "room": 1533
     },
     {
-      "code": "PHJ83R",
-      "title": "Why OSM is not known more widely - about consequences of not enforcing attribution requirements",
-      "abstract": "Describes current situation of people using and appreciating OpenStreetMap data without being aware at all about its source.\r\n\r\nDescribes how it violates OpenStreetMap license and proposes to start enforcing it.",
+      "code": "HZUFPQ",
+      "title": "None: a story of data that isn't there.",
+      "abstract": "Understanding the limitations of data is hard.\r\n\r\nSome tags are missing, and some tend to be present only when others are. Is the missing tag saying something, is it just unknown? When tags take yes/no values, is a missing tag an implicit \"no\", maybe the tag \"does not apply\", or something else…?\r\n\r\nThis talk doesn’t have answers. It’s the journey we took through an investigation of road data in London. What we found, what we think about what we found, and ideas of things to compute and visualise, before performing an analysis - or to decide if the data is just not suitable for this analysis.",
       "speakers": [
-        "ZBGMZE"
+        "LLFYTY",
+        "GKPC8H"
       ],
-      "track": 2199,
-      "start": "2021-07-11T18:00:00Z",
-      "end": "2021-07-11T18:20:00Z",
-      "room": 822
+      "track": 2821,
+      "start": "2022-08-19T15:00:00+02:00",
+      "end": "2022-08-19T15:20:00+02:00",
+      "room": 1531
     },
     {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-11T18:45:00Z",
-      "end": "2021-07-11T20:00:00Z",
-      "room": 823
-    },
-    {
-      "title": {
-        "en": "Break"
-      },
-      "start": "2021-07-11T18:45:00Z",
-      "end": "2021-07-11T20:00:00Z",
-      "room": 822
-    },
-    {
-      "code": "EBQEZJ",
-      "title": "Building a global outdoor map",
-      "abstract": "Global dataset and a map style for hiking and biking developed from OpenStreetMap - that's MapTiler Outdoor. During development, we have to solve multiple challenges originating from a lack of international standardization in trail marking.",
+      "code": "FABJFJ",
+      "title": "Integrating OpenStreetMap (OSM) in the local governance of Nepal",
+      "abstract": "Through open mapping, we hope to inspire local youths and leaders to use technology to improve and create sustainable local governance system. We engaged 44 youths from 3 municipalities to participate in open mapping in first phase. In second phase, we gathered 10 IT officials from province 2 and highlighted OSM to connect geospatial elements for better local-level administration. \r\n\r\nHere, we will discuss our methodological framework, challenges, how we gained support from local units to coordinate with community youth, and impacts we successfully created. This talk will be relevant to those interested in laying a strong foundation not only for better governance but also for engaging youths.",
       "speakers": [
-        "E9R3GY"
+        "3MZ9U7",
+        "RSA9NY"
       ],
-      "track": 2202,
-      "start": "2021-07-11T20:00:00Z",
-      "end": "2021-07-11T20:20:00Z",
-      "room": 822
+      "track": 2822,
+      "start": "2022-08-19T15:30:00+02:00",
+      "end": "2022-08-19T15:50:00+02:00",
+      "room": 1532
     },
     {
-      "code": "WD8BGF",
-      "title": "Making your own MapComplete theme",
-      "abstract": "In this workshop, I will assist you on how to create your own MapComplete theme.",
+      "code": "W3AGY8",
+      "title": "Evolving the OSM Data Model",
+      "abstract": "The OSM data model with its nodes, ways, and relations has done an amazing job for us over the years. It has seen very little changes since relations were introduced 15 years ago. But there are some real problems with the data model. With the experience of those 15 years behind us, its time to tackle some improvements.\r\n\r\nThis talk will outline the problems with the data model, show ideas for improvements, and discuss possible ways that can move us forward step by step.",
       "speakers": [
-        "ZZ9DXT"
+        "LULDTS"
       ],
-      "track": 2200,
-      "start": "2021-07-11T20:00:00Z",
-      "end": "2021-07-11T21:00:00Z",
-      "room": 823
+      "track": 2821,
+      "start": "2022-08-19T15:30:00+02:00",
+      "end": "2022-08-19T15:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "JNVWZS",
-      "title": "A/B Street: Using OSM for transportation advocacy",
-      "abstract": "A/B Street is an open source traffic simulator built on OSM and public census data, easy for the general public to use. This talk will cover some case studies of A/B Street being used to advocate for cycling infrastructure in Seattle, and describe how to use it anywhere.",
+      "code": "SA77RH",
+      "title": "Mapping a Small Town",
+      "abstract": "Christopher Beddow takes us on a journey of how to map a small town using a variety of tools. The goal was to test and prove how much OpenStreetMap can be enriched using RapiD buildings and roads, and Mapillary map features, traffic signs, and imagery.\r\n\r\nHe evaluates a small town in the western United States that is far from any mapping community and has very little data, and demonstrates how a vivid dataset can be added to OSM. In addition, he compares this to a small town in Switzerland, demonstrating how new details can still be added to a place that is heavily mapped by a strong local community.",
+      "speakers": [
+        "SBCW7W"
+      ],
+      "track": 2818,
+      "start": "2022-08-19T16:30:00+02:00",
+      "end": "2022-08-19T16:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "NAF9EN",
+      "title": "What you map is not always what you get",
+      "abstract": "OSM has an unrestricted tagging model. Mappers can invent and use any tags.\r\nWhile this is part of OSM's success story, it has lead to a database where\r\nthe globe is described in ever greater detail. In this talk we want to\r\nexplore how users of OSM data handle a tagging model with so few constraints.\r\nRichard, the owner of cycle.travel, and Sarah, maintainer of Nominatim, team\r\nup to share their experiences of a decade of working with, and occasionally\r\nfighting against, OSM's ever evolving tagging schema.",
+      "speakers": [
+        "RD7F9S",
+        "JJSJAA"
+      ],
+      "track": 2818,
+      "start": "2022-08-19T16:30:00+02:00",
+      "end": "2022-08-19T17:10:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "DKLT7X",
+      "title": "A review of Mapillary generated map data and how accuracy compares across devices",
+      "abstract": "Mapping is time-consuming and requires a high workforce when it comes to keeping maps up-to-date. Mapillary brings a different approach to geospatial data collection with street-level imagery. This approach allows communities to collect geospatial data faster and cheaper. But can Mapillary generated data be useful for enriching OpenStreetMap? In this study, Mapillary extracted map data will be examined against ground truth to assess data quality on contributing to OpenStreetMap.",
+      "speakers": [
+        "BZDSBG"
+      ],
+      "track": 2818,
+      "start": "2022-08-19T17:00:00+02:00",
+      "end": "2022-08-19T17:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "VECREV",
+      "title": "maplibre-rs: Cross-platform Map Rendering using Rust",
+      "abstract": "Digital maps are ubiquitous tools in our everyday life. In the early 90s, the idea of browsing the world digitally and visiting any place was groundbreaking. The first solution to this problem is known as \"TerraVision\", which was breathtaking. Today, the idea of exploring your surroundings using digital maps has become normal.\r\n\r\nBut how do these maps work? In this talk, I want to provide an overview of the foundations of digital mapping solutions. Differences between maps which use vector data and rasterized satellite imaginary will be outlined. Furthermore, a new and open-source map renderer called maplibre-rs will be presented, which is created using Rust and WebGPU.",
+      "speakers": [
+        "JYAKPA"
+      ],
+      "track": 2819,
+      "start": "2022-08-19T17:05:00+02:00",
+      "end": "2022-08-19T17:25:00+02:00",
+      "room": 1535
+    },
+    {
+      "code": "VJMH9U",
+      "title": "Lightning talks II",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": null,
+      "start": "2022-08-19T17:30:00+02:00",
+      "end": "2022-08-19T17:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "YWH3XD",
+      "title": "Inferring default speed limits",
+      "abstract": "Coverage of `maxspeed` data in OpenStreetMap is very sketchy (about 12%). This situation is unlikely to change because the limits are often not signed explicitly. So, data consumers such as router software need to compensate huge holes in the data with more or less rough estimates based on other data.\r\n\r\nThis talk shall explore a method how to infer default speed limits for different vehicle and road types more precisely for each country.",
+      "speakers": [
+        "MFWF9P"
+      ],
+      "track": 2820,
+      "start": "2022-08-19T17:30:00+02:00",
+      "end": "2022-08-19T17:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "SBZXTS",
+      "title": "Electrifying OSM with RapiD and Mapillary",
+      "abstract": "RapiD is the OpenStreetMap editor that enables users to access a wide variety of shared open data and a machine learning generated predictions that can bring new detail to the map. In 2022, the team at Meta upgraded RapiD to enable users to validate and verify Mapillary detections from images and add data to OpenStreetMap. Join us in an instructional workshop and mapathon where we will learn how Youthmappers in Sierra Leone are using Mapillaryto map the power grid across the country, and how the same workflow can be applied to map electricity availability and lighting around the world, anywhere users capture Mapillary and utilize RapiD to enrich OpenStreetMap.",
+      "speakers": [
+        "SBCW7W",
+        "ZNEQGS"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T10:30:00+02:00",
+      "room": 1534
+    },
+    {
+      "code": "TJMAQT",
+      "title": "Linking OpenStreetMap and Wikidata: Case study of Taiwan's villages and river dataset",
+      "abstract": "Open data is a trend in Taiwan, and some community members of OpenStreetMap or Wikidata are importing or merging information they obtain from government sources into the corresponding OpenStreetMap and Wikidata Database. The village dataset is available by sharp file and detains metadata with reference numbers, and the river dataset covered big rivers in Taiwan. In this talk, I will talk about the process of importing data, maintaining data, and linking each data not only with the government source but also to OpenStreetMap and Wikidata.",
+      "speakers": [
+        "DWDVZS"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T09:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "HEHHCH",
+      "title": "OpenStreetMap in the Cloud",
+      "abstract": "The geospatial world is moving to cloud-first and cloud-native approaches. Movements like STAC and COG have transformed how people use raster data in the last couple of years. OpenStreetMap has much to gain from thinking about different cloud infrastructure architectures. This talk will discuss what it takes to run the OpenStreetMap ecosystem in the cloud and present the history and work on a project called [OSM Seed](https://github.com/developmentseed/osm-seed/). We learned so much while building OSM Seed and think it can be a blueprint for running OpenStreetMap on cloud infrastructure.",
+      "speakers": [
+        "YLTSXP"
+      ],
+      "track": 2820,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T09:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "3YK7NM",
+      "title": "Engaging in OSM",
+      "abstract": "Across OpenStreetMap there are ways to get involved from working groups to events to boards. How can we increase and deepen participation across the world? What is the current state of engagement/governance in OSM? What do we need to do to improve? What are some of the lessons from other open organizations?",
+      "speakers": [
+        "BNGFHZ"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T10:30:00+02:00",
+      "room": 1533
+    },
+    {
+      "code": "HGFY7Z",
+      "title": "Admin Boundary Conflation Tool",
+      "abstract": "Boundary conflation is a sensitive and difficult problem to solve. When administrative boundary data is available from authoritative sources for OSM, it is imperative that we have the ability to analyze boundaries for import and deduce if conflation with OSM ways can be done hopefully in a semi-automatic fashion. \"Admin Boundary Conflation\" is a special-purpose tool made for the purpose and this talk will introduce the workings of the tool to the audience along with the various output statistics available during the process. Currently, the tool is utilized for reporting geometric area differences of 0.01% in the 99th percentile of 5000 municipalities in Serbia within 20 minutes.",
+      "speakers": [
+        "JT3E3G"
+      ],
+      "track": 2820,
+      "start": "2022-08-20T10:00:00+02:00",
+      "end": "2022-08-20T10:20:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "PJBGXZ",
+      "title": "Using Openstreetmap in the case of the social and economic infrastructure mapping project of Togo",
+      "abstract": "Since twelve years OSM has become a database that is heavily used around the world by various actors for various goals. We can mention navigation through mobile GIS application, map production, Geoportal deployment and others. In Togo, OpenStreetMap by its data and its tools were increasingly used in the framework of the national social and economic facilities Census project. This presentation will show how OSM was useful in this country-scale mapping project.",
+      "speakers": [
+        "YE7RU8"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T10:00:00+02:00",
+      "end": "2022-08-20T10:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "YAYNSB",
+      "title": "Pedestrian and Bike Mapping in New York City",
+      "abstract": "This talk will cover the growing New York City OpenStreetMap community and our efforts at coordinating mapping our cities’ quirks into the OSM data model. New York City (and much of America) has sidewalks that end abruptly, intersections without proper pedestrian control, uncontrolled slip lanes, bike paths that lead into stairways, crossings without curb cuts. Mapping these features helps NYC pedestrians analyze conditions, report and advocate for changes.",
+      "speakers": [
+        "JECVJN"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T10:30:00+02:00",
+      "end": "2022-08-20T10:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "U77MUX",
+      "title": "Building an OpenStreetMap Community Playbook",
+      "abstract": "Every day hundreds of people sign up for OpenStreetMap. We have several active OpenStreetMap communities, communities that are struggling to sustain themselves and at the same time,  there are countries with no existing OpenStreetMap communities despite having contributors from those countries. \r\nThis idea of a community playbook is to act as a guide for persons interested in starting up an OSM community and sustaining OSM communities with  lessons drawn from existing communities.\r\n\r\nThe community playbook is based on 4 themes; Identifying local community issues, attracting and engaging students, Connecting contributors motivation to mapping and Training",
+      "speakers": [
+        "USJFC9"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T10:30:00+02:00",
+      "end": "2022-08-20T10:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "GCLYZE",
+      "title": "OpenStreetMap in schools. The case study of Bari.",
+      "abstract": "OpenStreetMap has proven to be a really interesting and valuable classroom instrument.  Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a \"Liceo Economico-Sociale\", a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.",
+      "speakers": [
+        "GHZLN8",
+        "UHUTU3"
+      ],
+      "track": 2822,
+      "start": "2022-08-20T11:30:00+02:00",
+      "end": "2022-08-20T11:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "C9AKZK",
+      "title": "10 Years iD Editor – The Road Ahead",
+      "abstract": "The last 10 years were quite turbulent for the iD editor: After the initial idea from Richard Fairhurst  was quickly picked up by a developer team at Mapbox, the editor became OSM’s default map editor almost exactly 9 years ago today. Since then, different Maintainers have managed the project, constantly enhancing its functionality and data models like iD’s built in tagging presets.\r\n\r\nThis talk will present a condensed overview of the evolution of the iD editor since 2012 and, more importantly, showcase what still lies ahead of it: Small and large improvements to the user interface, performance, data validation, customization, integration of external services and more.",
+      "speakers": [
+        "3LA7XB"
+      ],
+      "track": 2822,
+      "start": "2022-08-20T12:00:00+02:00",
+      "end": "2022-08-20T12:20:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "SCBZ9Q",
+      "title": "Educational initiatives and platforms on OpenStreetMap: making open data more accessible",
+      "abstract": "OpenStreetMap is a huge repository of geographic information – but how accessible is it? This panel aims at enlighting existing educational activities and platforms around OpenStreetMap topics, including editing, data usage and community governance, with the goal of exploring how new users and data consumers can approach OpenStreetMap in an easier way, and eventually widespread its adoption. During the panel we will discuss and share educational practices, experiences and tools and challenges.",
+      "speakers": [
+        "BCLAGF"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T12:00:00+02:00",
+      "end": "2022-08-20T13:00:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "ACCWJY",
+      "title": "Every Door and the Future of POI in OpenStreetMap",
+      "abstract": "OpenStreetMap is a collector's dream. While there is a finite set of stamps or coins, there are millions of shops and beauty salons, and new ones are opened every day. Yay, collect them all for the map! (And make the map better in the process, of course.) Alas, this task was made tedious, virtually impossible by our current tools. Not as much for adding — but for updating the data we've already collected, and finding what's missing. I've talked many times of this problem, and this year I think I've fixed it. This year changes everything for how POI are handled in OpenStreetMap.",
+      "speakers": [
+        "TJ9EBM"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T12:30:00+02:00",
+      "end": "2022-08-20T12:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "A8JLUY",
+      "title": "How to kill OSM ? Above all, change nothing",
+      "abstract": "OSM is almost 20 years old and we already achieved so much. What if the governance of the project as well as our relationship to time and money were the biggest obstacles to ensure a bright future?\r\nLet’s discuss the priorities to unleash the full potential of our community.",
+      "speakers": [
+        "FPCAKN"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T14:30:00+02:00",
+      "end": "2022-08-20T14:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "FJWKRV",
+      "title": "Digital Champions fighting Gender Based Violence in rural Tanzania with maps",
+      "abstract": "Our digital champions project in Tanzania has transformed the lives of 353 women who had never used a smartphone before into confident advocates of mapping in their extremely marginalised communities. They have delivered training to over 9000 women in these villages and reported over 470 cases of gender based violence in their villages to the police and social services who have then used the maps to find and protect these women. Giving local women and youth the digital tools to protect their sisters in their communities is an extremely cost effective, long term solution to build up our mapping community and make it more inclusive, and share lessons learnt",
+      "speakers": [
+        "8FRMT8"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T14:30:00+02:00",
+      "end": "2022-08-20T14:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "JEXYHK",
+      "title": "OSM for sustainable transport planning: getting started",
+      "abstract": "This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.",
+      "speakers": [
+        "QLGPWP",
+        "JKFJUJ"
+      ],
+      "track": 2821,
+      "start": "2022-08-20T14:30:00+02:00",
+      "end": "2022-08-20T15:30:00+02:00",
+      "room": 1533
+    },
+    {
+      "code": "AT3YM7",
+      "title": "OSMF Board AMA",
+      "abstract": "OpenStreetMap Foundation Board Ask Us Anything (i.e. AMA). We will take questions from the audience, or other questions that people can submit before the event, and we will talk about and answer them. We can talk about the past actions of the board, and what future plans we have.",
+      "speakers": [
+        "BFX3YR"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T15:00:00+02:00",
+      "end": "2022-08-20T16:00:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "ZUEAUV",
+      "title": "Women Leadership in Mapping Riverside Communities in the Amazon Forest Using OSM",
+      "abstract": "The Amazon Forest, its traditional peoples, and riverside communities represent an immense challenge for official cartography, due to scale and extension factors. This presentation aims to show the experiences of the Unificar Ações e Informações Geoespaciais (UAIGeo) chapter of the Brazilian YouthMappers in mapping riverside communities in the Amazon rainforest region, focusing on the city of Tefé and its islands. Due to its female leadership role and the goals of empowering young women in geospatial and technical skills, the presentation emphasizes the importance of engaging and encouraging female students to link mapping and female empowerment.",
+      "speakers": [
+        "UNLEZN",
+        "AHPGZT",
+        "YBHAQV"
+      ],
+      "track": 2822,
+      "start": "2022-08-20T15:00:00+02:00",
+      "end": "2022-08-20T15:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "YXMUVT",
+      "title": "UX for hyperlocal map in Southeast Asia",
+      "abstract": "Designing hyperlocal maps starts with understanding the users in their day-to-day journey through some user research method and why the current digital maps experience does not provide a complete experience for them to navigate and explore the neighborhood. This talk will provide the audience the insights into the mobility lifestyle of the local people in tier 2 cities and how the Grab Geo design team translates into a design for consumption.",
+      "speakers": [
+        "U7JDZS",
+        "EQJMP8"
+      ],
+      "track": 2822,
+      "start": "2022-08-20T15:30:00+02:00",
+      "end": "2022-08-20T15:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "FGDY3F",
+      "title": "Lightning talks III",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "speakers": [
+        "YNFKER"
+      ],
+      "track": null,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T16:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "R7GW3X",
+      "title": "Analyzing changes in OSM over time - full history access to OSM data through the ohsome framework",
+      "abstract": "What is the state of the map in 2022 and how did we get here? Everyone who has used and contributed to OSM knows that the map is constantly evolving: new objects are added, existing data is adjusted and eventually gets deleted. In this workshop we want to explain and show hands-on how you can analyze mapping activity over time through the ohsome framework and how you can interpret the changes, e.g. in respect to data quality, and by combining the ohsome approach with other tools.",
+      "speakers": [
+        "E8WPXD",
+        "JWED7P"
+      ],
+      "track": 2821,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T17:30:00+02:00",
+      "room": 1533
+    },
+    {
+      "code": "AKYJPG",
+      "title": "State of OSM in QGIS",
+      "abstract": "QGIS is one of the most used Opensource GIS software with some native functionalities to work with OSM data. Either with raster layer as a basemap, or with vector, QGIS can deal with OSM data. Depending on the amount of data to work with, the need to \"refresh\" the data (from the main OSM database), the extent of the coverage, different plugins or technologies are possible.\r\nThis presentation will try to give an overview how it's possible to use OpenStreetMap data according to different situations (Geocoding, TMS/WMS, OverpassAPI, PostgreSQL…). The presentation will show how you can contribute to QuickOSM to add some default « mappreset » to QuickOSM on GitHub.",
+      "speakers": [
+        "YJZEAY"
+      ],
+      "track": 2819,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T16:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "3YK7NM",
+      "title": "Engaging in OSM",
+      "abstract": "Across OpenStreetMap there are ways to get involved from working groups to events to boards. How can we increase and deepen participation across the world? What is the current state of engagement/governance in OSM? What do we need to do to improve? What are some of the lessons from other open organizations?",
+      "speakers": [
+        "BNGFHZ"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T17:30:00+02:00",
+      "room": 1534
+    },
+    {
+      "code": "GNEJ9G",
+      "title": "Satellite Imagery for Social Good - Our Reflections",
+      "abstract": "During the 2019-2020 pilot supported by Microsoft, 18 million building footprints were automatically extracted from satellite imagery for all of Tanzania and Uganda. HOT found that on average, mappers working without AI assistance could map between 1000-1500 buildings per working day. For areas with high-quality AI output, providing mappers with AI-generated building footprint suggestions increased this rate to up to 2500-3000 buildings per day approximately doubling the rate at which building data could be added to OpenStreetMap, which is the crucial link for making it available to the humanitarian information management community.",
+      "speakers": [
+        "KK8RUR"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T17:00:00+02:00",
+      "end": "2022-08-20T17:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "D8XYDN",
+      "title": "Running OpenStreetMap.org - Today and Tomorrow",
+      "abstract": "This session will provide an introduction to the OpenStreetMap operations team, what OpenStreetMap.org services we are responsible for building and maintaining.\r\n\r\nGrant recently became the OpenStreetMap Foundation's first full time employee. Grant will present how he is helping improve reliability and security of the project's technology and infrastructure.\r\n\r\nIf you’re interested in what powers OpenStreetMap and make it tick, come to this session.",
+      "speakers": [
+        "8NNAW9"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T17:00:00+02:00",
+      "end": "2022-08-20T17:20:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "3MMV93",
+      "title": "Localization as an inclusion and participatory enabler research",
+      "abstract": "Language barrier and the default to English puts non-English speakers at a systemic disadvantage throughout open mapping communities and humanitarian open mapping activities resulting in significant missed participation and impact. We held experimentation on language translations of key resources identified by collaborators coming from local OSM communities and we hope to share the findings in this talk.",
+      "speakers": [
+        "NVNLET"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T17:30:00+02:00",
+      "end": "2022-08-20T17:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "CFVMU7",
+      "title": "Public Domain Map: Crowdsourcing the Future of Government Data",
+      "abstract": "It’s easy to see how OpenStreetMap could be leveraged to improve the completeness and freshness of government geospatial datasets. So why aren’t all governments using OpenStreetMap? In the US, the ODbL license has prevented government agencies from using the data. Public Domain Map aims to resolve this (and other challenges) by providing a workflow that allows contributions to be used in both OpenStreetMap and public domain US Government databases. We will share the journey of Public Domain Map, how the project is bringing together US federal agencies and open source contributors to meet this goal, and how this might change how governments use OSM around the world.",
+      "speakers": [
+        "ZMQP8B"
+      ],
+      "track": 2820,
+      "start": "2022-08-20T17:30:00+02:00",
+      "end": "2022-08-20T17:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "JEXYHK",
+      "title": "OSM for sustainable transport planning: getting started",
+      "abstract": "This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.",
+      "speakers": [
+        "QLGPWP",
+        "JKFJUJ"
+      ],
+      "track": 2821,
+      "start": "2022-08-21T09:30:00+02:00",
+      "end": "2022-08-21T10:30:00+02:00",
+      "room": 1534
+    },
+    {
+      "code": "GNG37Y",
+      "title": "Crowdsourcing and virtual reality applications for peacekeeping: study cases in Mogadishu and Tripoli",
+      "abstract": "The United Nations Global Service Center (UNGSC) is developing Virtual Reality applications utilizing OpenStreetMap data. Through a Virtual Reality (VR)   pilot project, UNGSC aims to provide UN peacekeepers on the field with 3D digital replicas of the cities in which they are operating, building a sandbox that enhances operational planning with simulations. In order to develop such applications, OpenStreetMap buildings are collaboratively edited, validated and ingested. Field mapping and street-level imagery are also extremely important to add details to the rendered buildings. There could be the possibility to organise a live demo through VR headset.",
+      "speakers": [
+        "BCLAGF"
+      ],
+      "track": 2820,
+      "start": "2022-08-21T09:30:00+02:00",
+      "end": "2022-08-21T09:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "RHF3UX",
+      "title": "Exploring Human Bias and Effects of Training  in OSM mapping: A Behavioral Experiment in Singapore",
+      "abstract": "Human factor is one of the most crucial elements in crowdsourced mapping. This research explores how human bias affects the mapping process and whether such effects can be mitigated through targeted training with a behavioral experiment. The experiment uses a two-group randomized design. The treatment group receives more advanced training than the control group. There are two goals for the experiment. First, we aim to identify the common types of bias that amateurs from a specific demographic community have when using OSM. Second, we plan to explore whether training is helpful for reducing those biases and improve the quality of mapping.",
+      "speakers": [
+        "UMM3LE"
+      ],
+      "track": 2818,
+      "start": "2022-08-21T10:00:00+02:00",
+      "end": "2022-08-21T10:20:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "9NHQQM",
+      "title": "osm2streets: Street networks with detailed geometry",
+      "abstract": "OpenStreetMap has many details about streets, but applications rendering or simulating lane-level detail face many challenges: determining lane properties along one street, calculating geometry of streets and junctions, handling motorway entrances, dual carriageways, dog-leg intersections, placement tags, and parallel sidewalks and cycleways. osm2streets is a new effort to produce a cleaned-up street network graph with geometry. It's a Rust library, designed to be integrated with browser apps like iD or native/Java apps like JOSM. The goal is to consolidate community efforts to solve these data transformation problems, and to produce high-detail vector maps and apps for improving lane tagging with immediate visual feedback.",
       "speakers": [
         "KFSX7B"
       ],
-      "track": 2202,
-      "start": "2021-07-11T20:45:00Z",
-      "end": "2021-07-11T21:05:00Z",
-      "room": 822
+      "track": 2820,
+      "start": "2022-08-21T10:30:00+02:00",
+      "end": "2022-08-21T10:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "PRZUTW",
-      "title": "Closing",
-      "abstract": "SotM Working group say thank you to all volunteers and attendees and good bye until next year.",
+      "code": "SBZXTS",
+      "title": "Electrifying OSM with RapiD and Mapillary",
+      "abstract": "RapiD is the OpenStreetMap editor that enables users to access a wide variety of shared open data and a machine learning generated predictions that can bring new detail to the map. In 2022, the team at Meta upgraded RapiD to enable users to validate and verify Mapillary detections from images and add data to OpenStreetMap. Join us in an instructional workshop and mapathon where we will learn how Youthmappers in Sierra Leone are using Mapillaryto map the power grid across the country, and how the same workflow can be applied to map electricity availability and lighting around the world, anywhere users capture Mapillary and utilize RapiD to enrich OpenStreetMap.",
       "speakers": [
-        "N87VMR"
+        "SBCW7W",
+        "ZNEQGS"
       ],
-      "track": 2199,
-      "start": "2021-07-11T21:30:00Z",
-      "end": "2021-07-11T21:50:00Z",
-      "room": 822
+      "track": 2818,
+      "start": "2022-08-21T11:30:00+02:00",
+      "end": "2022-08-21T12:30:00+02:00",
+      "room": 1533
     },
     {
-      "code": "GDMBWS",
-      "title": "NLMaps Web: A Natural Language Interface to OpenStreetMap",
-      "abstract": "NLMaps Web is a web interface for querying OSM with natural language questions such as “Show me where I can find drinking water within 500m of the Louvre in Paris”. They are first parsed into a custom query language, which is then used to retrieve the answer by queries to Nominatim and Overpass.",
+      "code": "LKZYJ7",
+      "title": "Routing not only for Prams",
+      "abstract": "What must be mapped to make routing for prams and wheelchairs practical? Three years ago, the local meet-up in Dortmund, Germany, started a campaign to make step-free routing available for the general public.\r\n\r\nThe lessons learned mean that such routing is possible, but there is a lot missing to map - both in Dortmund and in all other parts of the world.\r\n\r\nMap the essential where fellow mappers are sparse. And codify the full ground truth where the passion allows it. I hope to encourage mappers for the quest to get their neighbourhood ready for wheelchairs, prams and all the other pedestrians!",
       "speakers": [
-        "VCPAUA"
+        "VNDWRP"
       ],
-      "track": null,
-      "start": "2021-07-11T10:00:00Z",
-      "end": "2021-07-11T10:20:00Z",
-      "room": 822
+      "track": 2818,
+      "start": "2022-08-21T11:30:00+02:00",
+      "end": "2022-08-21T11:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "RHR7Q8",
-      "title": "What has machine learning ever done for us?",
-      "abstract": "Machine Learning is incredibly popular at this time among researchers working with OSM data and on OSM-related problems. But what impact has this work on ML had on the OSM database or OSM community? We investigate the impact on OSM, if any, the ML work within the academic research community has had over the last few years.",
+      "code": "CUV9H7",
+      "title": "OSM & Trails: New Collaborations for Responsible Recreation",
+      "abstract": "Sparked by concerns about OpenStreetMap's role in how the public accesses and recreates on protected lands, OpenStreetMap US volunteers, navigation app developers, national agencies and public land managers formed the OpenStreetMap US Trails Working Group in 2021. Bringing together a diversity of perspectives on trail mapping practices, trail safety, and protecting the environment, this group is working to address on-the-ground challenges, tagging schemes, authoritative data, and other topics related to mapping trails in OSM. Learn how this group is collaboratively developing solutions for responsible trail mapping in OpenStreetMap.",
       "speakers": [
-        "UNDQDX"
+        "MWBC7T"
       ],
-      "track": null,
-      "start": "2021-07-11T10:45:00Z",
-      "end": "2021-07-11T11:05:00Z",
-      "room": 822
+      "track": 2822,
+      "start": "2022-08-21T12:00:00+02:00",
+      "end": "2022-08-21T12:20:00+02:00",
+      "room": 1531
     },
     {
-      "code": "NTNSQE",
-      "title": "Towards a framework for measuring local data contribution in OpenStreetMap",
-      "abstract": "OpenStreetMap (OSM) constitutes a new open geographic database and offers several possibilities of adding local knowledge. While the importance of local knowledge is largely acknowledged in the OSM community, relatively few scientific studies have evaluated them. This study presents a framework to measure local data contribution in OSM in three case studies. The results highlight a framework for measuring local data in OSM as well as the distinct mapping stories of local OSM communities.",
+      "code": "NNKX8K",
+      "title": "Lightning talks IV",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
       "speakers": [
-        "JT79L3"
-      ],
-      "track": null,
-      "start": "2021-07-11T11:30:00Z",
-      "end": "2021-07-11T11:50:00Z",
-      "room": 822
-    },
-    {
-      "code": "PPSHC3",
-      "title": "Community Interactions in OSM editing",
-      "abstract": "We look at interactions between Corporate and Non-Corporate Editors as reflected through co-editing patterns in the OSM data. We use Social Network Analysis on 12 networks generated from four different locations and 3 different timepoints and our results show the vibrant co-production of OSM data generation. There are interactions between all editors but Corporate Editors tend to interact at a higher rate with each other. The seniority of editors and the interactions also differ between Corporate and Non-Corporate Editors.",
-      "speakers": [
-        "TXPWSK",
-        "LSXXGM"
+        "YNFKER"
       ],
       "track": null,
-      "start": "2021-07-11T12:15:00Z",
-      "end": "2021-07-11T12:35:00Z",
-      "room": 822
+      "start": "2022-08-21T12:30:00+02:00",
+      "end": "2022-08-21T12:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "LY9Z8C",
-      "title": "Towards understanding the temporal accuracy of OpenStreetMap: A quantitative experiment",
-      "abstract": "This talk presents results of an experiment conducted on the temporal accuracy of OpenStreetMap, and provides insights into the temporal dynamics with which changes in real-life appear in OSM.",
+      "code": "HEKRDY",
+      "title": "OSM and indoor data",
+      "abstract": "OpenIndoor is an open source SaaS that uses OpenStreetMap indoor data to display a 3D graphical rendering of building interiors. The resulting map offers a gamified experience to meet different types of needs: indoor navigation, data representation, immersive tour etc.\r\nWe will discuss how we use the available open data and the Maplibre engine to address these different use cases.",
       "speakers": [
-        "KW8XBC"
+        "MJXQZY"
       ],
-      "track": null,
-      "start": "2021-07-11T13:00:00Z",
-      "end": "2021-07-11T13:20:00Z",
-      "room": 822
+      "track": 2820,
+      "start": "2022-08-21T14:30:00+02:00",
+      "end": "2022-08-21T14:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "3MTGA3",
-      "title": "A proposal for a QGIS Plugin for Spatio-temporal analysis of OSM data quality: the case study for the city of Salvador, Brazil",
-      "abstract": "It Consists in a proposal for a QGIS Plugin for Spatio-temporal analysis of OSM data quality in an area of Brazil.",
+      "code": "VKDYN7",
+      "title": "Creating your own MapComplete theme",
+      "abstract": "In this workshop, you'll learn the basics of setting up your own mapcomplete theme.\r\n\r\nAfter a short introduction, explanation of some common pitfalls and a technical explanation, you're invited to open up your laptop (or tablet) and can try it out yourself while I'm around to answer some questions.",
       "speakers": [
-        "AX3SKY"
+        "ZZ9DXT"
       ],
-      "track": null,
-      "start": "2021-07-11T15:00:00Z",
-      "end": "2021-07-11T15:20:00Z",
-      "room": 823
+      "track": 2818,
+      "start": "2022-08-21T14:35:00+02:00",
+      "end": "2022-08-21T15:35:00+02:00",
+      "room": 1533
     },
     {
-      "code": "9XQTVC",
-      "title": "Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection",
-      "abstract": "We develop and test user embeddings approaches to vandalism detection in OSM. We successfully demonstrate improvements to previous vandalism detection methods, and additionally how the user embeddings can further be applied to detect different communities of mappers.  We validated the embedding model with a prepared vandalism corpus that we are also releasing to the OSM community.",
+      "code": "XJZBFH",
+      "title": "The OpenStreetMap Use for Medical Humanitarian Operations by Médecins Sans Frontières",
+      "abstract": "Follow the OSM journey of the Médecins Sans Frontières (MSF) from a mapathon in Berlin in 2014 to creating and contributing geodata for numerous MSF operations through the Missing Maps project. This talk will be about how MSF uses OpenStreetMap internally and how we contribute through remote and field mapping. We will also share the lessons learned and reflect on the biggest challenges for MSF in creating and using the OSM data.",
       "speakers": [
-        "ARS8A7",
-        "LSXXGM"
+        "PCTYUF"
       ],
-      "track": null,
-      "start": "2021-07-11T15:45:00Z",
-      "end": "2021-07-11T16:05:00Z",
-      "room": 823
+      "track": 2822,
+      "start": "2022-08-21T15:00:00+02:00",
+      "end": "2022-08-21T15:20:00+02:00",
+      "room": 1531
     },
     {
-      "code": "XXFEXQ",
-      "title": "An Automated Approach to Identifying Corporate Editing Activity in OpenStreetMap",
-      "abstract": "The rise of organized editing practices in the OpenStreetMap community has outpaced research methods for identifying mappers participating in these efforts and evaluating their work. This research uses machine-learning to improve upon prior approaches to estimating corporate editing on OSM, contributing both a novel methodology as well as summary statistics that shed light on corporate editing behavior in OSM.",
+      "code": "MRK3C8",
+      "title": "Wikimedia Italia - What is doing for the Italian OSM community?",
+      "abstract": "Wikimedia Italia, the Italian OpenStreetMap Local Chapter of the OSM Foundation, presents its activities,  online infrastructure developed to support OpenStreetMap in Italy and the Italian community. The talk will share the experience, situations and factors that have influenced agreat collaboration with the local contributors and institutions during the last years.",
       "speakers": [
-        "KEKRDB"
+        "N7KVVH"
       ],
-      "track": null,
-      "start": "2021-07-11T16:30:00Z",
-      "end": "2021-07-11T16:50:00Z",
-      "room": 823
+      "track": 2817,
+      "start": "2022-08-21T15:30:00+02:00",
+      "end": "2022-08-21T15:50:00+02:00",
+      "room": 1531
     },
     {
-      "code": "DGPAWN",
-      "title": "Involvement of OpenStreetMap in European H2020 Projects",
-      "abstract": "During the past decades, the European Commission has invested billions in research through various programmes, such as H2020. In this study, we review exhaustively all the H2020 open deliverables to analyse how these public european projects are relying on OpenStreetMap.",
+      "code": "LX3EGF",
+      "title": "Closing Session",
+      "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
       "speakers": [
-        "LRHBHK",
-        "VPSNRV"
+        "YNFKER"
       ],
       "track": null,
-      "start": "2021-07-11T17:15:00Z",
-      "end": "2021-07-11T17:35:00Z",
-      "room": 823
+      "start": "2022-08-21T16:00:00+02:00",
+      "end": "2022-08-21T16:20:00+02:00",
+      "room": 1531
     }
   ],
-  "version": "0.4",
-  "timezone": "UTC",
+  "version": "0.1.0-beta1",
+  "timezone": "Europe/Rome",
   "tracks": [
     {
-      "id": 2199,
+      "id": 2817,
       "name": {
         "en": "Community and Foundation"
       },
       "color": "#F10863"
     },
     {
-      "id": 2200,
+      "id": 2816,
       "name": {
-        "en": "Mapping"
+        "en": "OSM Basics"
       },
-      "color": "#DF69CA"
+      "color": "#49EC19"
     },
     {
-      "id": 2201,
+      "id": 2819,
       "name": {
         "en": "Cartography"
       },
       "color": "#43CCDF"
     },
     {
-      "id": 2202,
+      "id": 2820,
       "name": {
         "en": "Software Development"
       },
       "color": "#E9ED1C"
     },
     {
-      "id": 2203,
+      "id": 2821,
       "name": {
         "en": "Data Analysis & Data Model"
       },
       "color": "#F6AF23"
     },
     {
-      "id": 2204,
+      "id": 2822,
       "name": {
         "en": "User Experiences"
       },
       "color": "#571079"
+    },
+    {
+      "id": 2818,
+      "name": {
+        "en": "Mapping"
+      },
+      "color": "#DF69CA"
     }
   ],
   "rooms": [
     {
-      "id": 822,
+      "id": 1531,
       "name": {
-        "en": "Track 1 - Talks"
+        "en": "Auditorium A - A001"
       }
     },
     {
-      "id": 823,
+      "id": 1532,
       "name": {
-        "en": "Track 2 - Panels and Workshops"
+        "en": "Auditorium B - A101"
+      }
+    },
+    {
+      "id": 1533,
+      "name": {
+        "en": "Workshops - A108"
+      }
+    },
+    {
+      "id": 1534,
+      "name": {
+        "en": "Online Workshops"
+      }
+    },
+    {
+      "id": 1535,
+      "name": {
+        "en": "\"Loop Cinema\" - A109"
       }
     }
   ],
   "speakers": [
     {
-      "code": "VHTYYR",
-      "name": "Tuukka Hastrup",
-      "avatar": "https://pretalx.com/media/avatars/tuukka_hastrup_5qhfk0Q.jpeg"
+      "code": "FFQRER",
+      "name": "Local Chapters & Communities working group",
+      "avatar": null
     },
     {
-      "code": "GU8RUB",
-      "name": "Kris Libunao",
+      "code": "JJSJAA",
+      "name": "Richard Fairhurst",
+      "avatar": "https://pretalx.com/media/avatars/richard_map_novXcvH.jpg"
+    },
+    {
+      "code": "QLGPWP",
+      "name": "Greta Timaite",
       "avatar": null
+    },
+    {
+      "code": "MJXQZY",
+      "name": "Clement Igonet",
+      "avatar": null
+    },
+    {
+      "code": "FPCAKN",
+      "name": "Florian Lainez",
+      "avatar": "https://pretalx.com/media/avatars/Profil_Florian_Lainez_mini_qnKJev5.jpg"
+    },
+    {
+      "code": "E8WPXD",
+      "name": "Benjamin Herfort",
+      "avatar": "https://pretalx.com/media/avatars/herfort_fern_az1GcNq.jpg"
+    },
+    {
+      "code": "UMM3LE",
+      "name": "Shiyue Zhong",
+      "avatar": null
+    },
+    {
+      "code": "RSA9NY",
+      "name": "Sushma Ghimire",
+      "avatar": null
+    },
+    {
+      "code": "JECVJN",
+      "name": "Ariel Kadouri",
+      "avatar": null
+    },
+    {
+      "code": "QTT389",
+      "name": "Kristen Tonga",
+      "avatar": "https://pretalx.com/media/avatars/computer_profile_a8LnQ4R.jpg"
+    },
+    {
+      "code": "BNGFHZ",
+      "name": "Heather Leson",
+      "avatar": "https://pretalx.com/media/avatars/profile_image_sept_2019_1i0I4C1.jpg"
     },
     {
       "code": "ZZ9DXT",
       "name": "Pieter Vander Vennet",
-      "avatar": null
+      "avatar": "https://pretalx.com/media/avatars/Pieter2Cropped_avh1ThZ.jpg"
+    },
+    {
+      "code": "HMT7H7",
+      "name": "Hartmut Holzgraefe",
+      "avatar": "https://pretalx.com/media/avatars/hartmut.jpeg"
+    },
+    {
+      "code": "YLTSXP",
+      "name": "Sajjad Anwar",
+      "avatar": "https://www.gravatar.com/avatar/47a791fc28ce8881aca2912e090c0cf5"
+    },
+    {
+      "code": "PCTYUF",
+      "name": "Jana Bauerova",
+      "avatar": "https://pretalx.com/media/avatars/JB.mmbackground_i4wXffo.jpg"
     },
     {
       "code": "LULDTS",
@@ -842,24 +868,44 @@
       "avatar": "https://www.gravatar.com/avatar/2d4dfcdcde73aa5e2ffa4a9b3a7cb51d"
     },
     {
+      "code": "TT3D7M",
+      "name": "Charles Chilufya",
+      "avatar": null
+    },
+    {
+      "code": "NVNLET",
+      "name": "Arnalie",
+      "avatar": null
+    },
+    {
+      "code": "3MZ9U7",
+      "name": "Aishworya Shrestha",
+      "avatar": "https://pretalx.com/media/avatars/IMG_20200718_114509_891_ybKiqhg.jpg"
+    },
+    {
       "code": "MFWF9P",
       "name": "Tobias Zwick",
-      "avatar": null
+      "avatar": "https://pretalx.com/media/avatars/tobias_z_square_oQ84kp0.jpg"
     },
     {
       "code": "MWBC7T",
-      "name": "The Local Chapters and Communities Working Group",
+      "name": "Maggie Cawley",
+      "avatar": "https://pretalx.com/media/avatars/040122StateofTheMap-p141_2_r125kuT.jpg"
+    },
+    {
+      "code": "ZNEQGS",
+      "name": "Patricia Solis",
+      "avatar": "https://pretalx.com/media/avatars/Headshot_SOLIS_2021_MJhD8Qf.jpg"
+    },
+    {
+      "code": "JKFJUJ",
+      "name": "James Hulse",
       "avatar": null
     },
     {
-      "code": "YNFKER",
-      "name": "SotM Working Group",
-      "avatar": null
-    },
-    {
-      "code": "KEEP87",
-      "name": "Laura Mugeha",
-      "avatar": "https://pretalx.com/media/avatars/Laura_Mugeha_GvSEHM5.jpg"
+      "code": "JYAKPA",
+      "name": "Max Ammann",
+      "avatar": "https://pretalx.com/media/avatars/profil_qmzmSoQ.jpg"
     },
     {
       "code": "KFSX7B",
@@ -867,14 +913,14 @@
       "avatar": "https://pretalx.com/media/avatars/london_face_8CgRPvZ.jpg"
     },
     {
-      "code": "PYCDW7",
-      "name": "Brandon Liu",
-      "avatar": "https://pretalx.com/media/avatars/snackbear_darker_600_aoALZco.png"
+      "code": "GKPC8H",
+      "name": "Simona Ciocoiu",
+      "avatar": "https://pretalx.com/media/avatars/Simona_01_bsrvI9Z.jpg"
     },
     {
-      "code": "JUMGYU",
-      "name": "Anne-Karoline Distel",
-      "avatar": null
+      "code": "PYCDW7",
+      "name": "Brandon Liu",
+      "avatar": "https://pretalx.com/media/avatars/weird_pic_QHwqLZ5.jpg"
     },
     {
       "code": "BZDSBG",
@@ -882,14 +928,14 @@
       "avatar": "https://pretalx.com/media/avatars/pp_small_CV_MfNCLBH.jpg"
     },
     {
-      "code": "SCPZG9",
-      "name": "Allan Mustard",
-      "avatar": "https://pretalx.com/media/avatars/AM-square-headshot_O1Z9gMz.jpg"
+      "code": "KK8RUR",
+      "name": "Shamilah Nassozi",
+      "avatar": "https://pretalx.com/media/avatars/IMG_0961_noYjHDW.jpg"
     },
     {
-      "code": "PM8RDN",
-      "name": "Manon Viou",
-      "avatar": "https://pretalx.com/media/avatars/photo_portrait_CartONG_fUnqtB3.png"
+      "code": "JJSTJT",
+      "name": "Naveen Francis",
+      "avatar": null
     },
     {
       "code": "RD7F9S",
@@ -897,34 +943,9 @@
       "avatar": null
     },
     {
-      "code": "TB3GEF",
-      "name": "Olivier Ribiere",
-      "avatar": "https://pretalx.com/media/avatars/1600358306981_8Tr5diE.jpg"
-    },
-    {
-      "code": "PSYGBF",
-      "name": "Yantisa Akhadi",
-      "avatar": "https://www.gravatar.com/avatar/4e95a5b0e07270cc5eab19b9ff443544"
-    },
-    {
-      "code": "E9R3GY",
-      "name": "Jiri Komarek",
-      "avatar": null
-    },
-    {
-      "code": "XYHQSA",
-      "name": "Emiliani Dewi",
-      "avatar": null
-    },
-    {
-      "code": "XMPZPB",
-      "name": "Johan Lindqvist",
-      "avatar": null
-    },
-    {
-      "code": "N7K3EE",
-      "name": "Vlada Boitsik",
-      "avatar": "https://pretalx.com/media/avatars/3c8665d8-ad2c-493e-b7e9-d9517d317723_3i8mMjd.jpeg"
+      "code": "8NNAW9",
+      "name": "Grant Slater",
+      "avatar": "https://www.gravatar.com/avatar/23a8a6bd4ec8158471d022f208b69858"
     },
     {
       "code": "TJ9EBM",
@@ -932,204 +953,129 @@
       "avatar": "https://www.gravatar.com/avatar/d3b22622ec4a1a39905c599b50f1eab3"
     },
     {
-      "code": "YZJFGM",
-      "name": "Christoph Hormann",
-      "avatar": "https://pretalx.com/media/avatars/globe_europe_summer_thumb_IfkTrlA.png"
+      "code": "USJFC9",
+      "name": "Sharon Omoja",
+      "avatar": "https://www.gravatar.com/avatar/1cf9aa70b6ae73930e2a33394e8126cf"
     },
     {
-      "code": "KBTFX7",
-      "name": "Dr. Roland Olbricht",
+      "code": "VNDWRP",
+      "name": "Roland Olbricht",
       "avatar": null
     },
     {
-      "code": "GFLXVK",
-      "name": "Christoph Hanser",
+      "code": "UNLEZN",
+      "name": "Ana Luísa Teixeira",
       "avatar": null
     },
     {
-      "code": "VVZ9RM",
-      "name": "Petr Pridal",
+      "code": "AHPGZT",
+      "name": "Silvia Elena Ventorini",
+      "avatar": "https://pretalx.com/media/avatars/foto_perfil_q8AsHQV.jpg"
+    },
+    {
+      "code": "ZMQP8B",
+      "name": "Jess Beutler",
+      "avatar": "https://pretalx.com/media/avatars/jess_photo_xkJAtac.jpg"
+    },
+    {
+      "code": "YBHAQV",
+      "name": "Natalia da Silveira Arruda",
+      "avatar": "https://pretalx.com/media/avatars/Natalia_pic_TZcQplr.PNG"
+    },
+    {
+      "code": "EQJMP8",
+      "name": "Sriram Iyer",
       "avatar": null
     },
     {
-      "code": "M8PHEG",
-      "name": "Nathalie SIDIBE",
+      "code": "EC8YHV",
+      "name": "Michael Heißmeier",
       "avatar": null
     },
     {
-      "code": "CY3TZY",
-      "name": "Airin Akter",
-      "avatar": "https://pretalx.com/media/avatars/107423331_281967183140549_2423405993744966333_n_30A4FKi.jpg"
-    },
-    {
-      "code": "LSXXGM",
-      "name": "Jennings Anderson",
-      "avatar": "https://www.gravatar.com/avatar/95d4cabead873e4b3f9f900a729f59ff"
-    },
-    {
-      "code": "7MZ3AU",
-      "name": "Courtney Clark",
-      "avatar": "https://pretalx.com/media/avatars/Courtney.Clark_Headshot_MG3t054.PNG"
-    },
-    {
-      "code": "3NALG3",
-      "name": "Monica Brandeis",
-      "avatar": "https://www.gravatar.com/avatar/3040cf7e8cff2430ac9370b845f60f83"
-    },
-    {
-      "code": "9GGAN8",
-      "name": "Frederik Ramm",
+      "code": "N7KVVH",
+      "name": "Anisa Kuci",
       "avatar": null
     },
     {
-      "code": "ZQN3YT",
-      "name": "Jinal Foflia",
+      "code": "QNSYGN",
+      "name": "Eric Theise",
+      "avatar": "https://www.gravatar.com/avatar/57301ca3885f9ae0a4718b3ff8862a7b"
+    },
+    {
+      "code": "UHUTU3",
+      "name": "Rosa Colacicco",
+      "avatar": "https://pretalx.com/media/avatars/51407536_1455789187897383_3572539331362947072_o_6Z8wTj4.jpg"
+    },
+    {
+      "code": "DWDVZS",
+      "name": "Dennis Raylin Chen",
+      "avatar": "https://pretalx.com/media/avatars/Dennis-Chen-2021_vy9YVlt.jpg"
+    },
+    {
+      "code": "GHZLN8",
+      "name": "Ferdinando Traversa",
+      "avatar": "https://pretalx.com/media/avatars/Intervista_KMoX9bm.jpg"
+    },
+    {
+      "code": "3LA7XB",
+      "name": "Martin Raifer",
       "avatar": null
     },
     {
-      "code": "GBZBUL",
-      "name": "Edoardo Neerhut",
-      "avatar": "https://pretalx.com/media/avatars/Ethiopia_5se9w1i.jpeg"
+      "code": "8FRMT8",
+      "name": "Janet Chapman",
+      "avatar": "https://www.gravatar.com/avatar/ea14aec14483fe40c47c584443535543"
     },
     {
       "code": "BFX3YR",
-      "name": "R. A. McCann",
+      "name": "Amanda McCann",
+      "avatar": "https://pretalx.com/media/avatars/me-2022-04_uFpxZ94.jpg"
+    },
+    {
+      "code": "SBCW7W",
+      "name": "Christopher Beddow",
+      "avatar": "https://pretalx.com/media/avatars/cbeddow_3N9dSFI.jpg"
+    },
+    {
+      "code": "BCLAGF",
+      "name": "Michael Montani",
+      "avatar": "https://pretalx.com/media/avatars/w06kBkZV_KVjMSCL.jpg"
+    },
+    {
+      "code": "YJZEAY",
+      "name": "Etienne Trimaille",
       "avatar": null
     },
     {
-      "code": "N9ZABZ",
-      "name": "Jean-Marc Liotier",
+      "code": "U7JDZS",
+      "name": "Low Ko Wee",
       "avatar": null
     },
     {
-      "code": "DY79SZ",
-      "name": "Martin Noblecourt",
-      "avatar": "https://pretalx.com/media/avatars/photo.jpg"
+      "code": "LLFYTY",
+      "name": "Gala",
+      "avatar": "https://pretalx.com/media/avatars/gala_Qd8RYLJ.png"
     },
     {
-      "code": "N87VMR",
+      "code": "YE7RU8",
+      "name": "Ata Franck AKOUETE",
+      "avatar": "https://pretalx.com/media/avatars/picture_akouete.png"
+    },
+    {
+      "code": "JT3E3G",
+      "name": "Branko Kokanovic",
+      "avatar": "https://pretalx.com/media/avatars/2018-02-24_16.45.06-2_y1j2CFl.jpg"
+    },
+    {
+      "code": "YNFKER",
       "name": "SotM Working Group",
       "avatar": null
     },
     {
-      "code": "PDWBJL",
-      "name": "Tobias Knerr",
+      "code": "JWED7P",
+      "name": "Rafael Troilo",
       "avatar": null
-    },
-    {
-      "code": "DKCRZP",
-      "name": "aparna alla",
-      "avatar": "https://pretalx.com/media/avatars/Screen_Shot_2021-02-24_at_8.01.10_AM_9CE6xS1.png"
-    },
-    {
-      "code": "YRRSMU",
-      "name": "Paul Norman",
-      "avatar": null
-    },
-    {
-      "code": "UPNYKS",
-      "name": "Stéphane Guillou",
-      "avatar": "https://pretalx.com/media/avatars/2020-07-07-profile_5jbIvA1.jpg"
-    },
-    {
-      "code": "SDTYZV",
-      "name": "Jewel Templonuevo",
-      "avatar": null
-    },
-    {
-      "code": "YT7F8M",
-      "name": "Guillaume Rischard",
-      "avatar": "https://pretalx.com/media/avatars/00100dPORTRAIT_00100_BURST20171119135059417_COVER-edit-github.jpg"
-    },
-    {
-      "code": "PWHA8S",
-      "name": "Martijn van Exel",
-      "avatar": "https://www.gravatar.com/avatar/acea3c9fd5908d7ff09596d16b8724d8"
-    },
-    {
-      "code": "EYWYDV",
-      "name": "Enock Seth Nyamador",
-      "avatar": "https://www.gravatar.com/avatar/c9f1c8414921232387d9db66e7646282"
-    },
-    {
-      "code": "Y8FWWN",
-      "name": "Robert Riemann",
-      "avatar": "https://pretalx.com/media/avatars/portrait-2019_CC94600.jpg"
-    },
-    {
-      "code": "DTK9MB",
-      "name": "Oğuzhan Er",
-      "avatar": null
-    },
-    {
-      "code": "ZBGMZE",
-      "name": "Mateusz Konieczny",
-      "avatar": null
-    },
-    {
-      "code": "VZMGEW",
-      "name": "Frédéric Rodrigo",
-      "avatar": null
-    },
-    {
-      "code": "KKUH8S",
-      "name": "Andi Tabinas",
-      "avatar": null
-    },
-    {
-      "code": "AX3SKY",
-      "name": "Elias Nasr Naim Elias",
-      "avatar": "https://pretalx.com/media/avatars/771_3NXzRDM.jpg"
-    },
-    {
-      "code": "KEKRDB",
-      "name": "Veniamin Veselovsky",
-      "avatar": "https://pretalx.com/media/avatars/pictureofme2_DohsZR6.jpg"
-    },
-    {
-      "code": "LRHBHK",
-      "name": "Damien Graux",
-      "avatar": null
-    },
-    {
-      "code": "UNDQDX",
-      "name": "Peter Mooney",
-      "avatar": "https://pretalx.com/media/avatars/peter_zD14e0m.jpg"
-    },
-    {
-      "code": "KW8XBC",
-      "name": "Levente Juhász",
-      "avatar": "https://pretalx.com/media/avatars/levente-screenshot_resize_WYEh2co.jpg"
-    },
-    {
-      "code": "ARS8A7",
-      "name": "Yinxiao Li",
-      "avatar": "https://pretalx.com/media/avatars/yl_YL8al3p.png"
-    },
-    {
-      "code": "VPSNRV",
-      "name": "Thibaud Michel",
-      "avatar": "https://pretalx.com/media/avatars/1_QV6Ozq3JqlIQRuBy693k2Q_2_jMOIdrh.jpeg"
-    },
-    {
-      "code": "TXPWSK",
-      "name": "Dipto Sarkar",
-      "avatar": null
-    },
-    {
-      "code": "VCPAUA",
-      "name": "Simon Will",
-      "avatar": null
-    },
-    {
-      "code": "LSXXGM",
-      "name": "Jennings Anderson",
-      "avatar": "https://www.gravatar.com/avatar/95d4cabead873e4b3f9f900a729f59ff"
-    },
-    {
-      "code": "JT79L3",
-      "name": "Maxwell Owusu",
-      "avatar": "https://pretalx.com/media/avatars/owusu_passport_picture_4WG501F.jpg"
     }
   ]
 }
