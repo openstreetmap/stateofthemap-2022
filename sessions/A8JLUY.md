@@ -10,4 +10,5 @@ time_iso: "2022-08-20T14:30:00Z"
 resources: []
 recording: True
 ---
-
+OSM is almost 20 years old and we already achieved so much. What if the governance of the project as well as our relationship to time and money were the biggest obstacles to ensure a bright future?
+Let’s discuss the priorities to unleash the full potential of our community.
