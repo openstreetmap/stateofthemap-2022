@@ -10,6 +10,7 @@ time_iso: "2022-08-19T12:30:00Z"
 resources: []
 recording: True
 ---
+
 The MapOSMatic web frontend allows to create printable maps from OSM
 data interactively. This is not the only way to use its rendering
 backend, it is also possible to directly use its ocitysmap Python
@@ -24,3 +25,4 @@ showing the different options to interact with the MapOSMatic render
 infrastructure programmatically.
 
 As example applications an alternative neighbourhood
+

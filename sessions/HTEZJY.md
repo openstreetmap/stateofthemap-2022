@@ -10,6 +10,15 @@ time_iso: "2022-08-19T14:30:00Z"
 resources: []
 recording: False
 ---
+
+Join the Local Chapters Congress to learn about what other chapters are doing. Even if you are not on a Chapter but are a local organizer, feel free to join!
+
+We will focus on:
+- how to turn actions that work locally in projects that can be ran globally
+- how local groups can best help each other
+
+<hr>
+
 Join the Local Chapters Congress to learn about what other chapters are doing. Even if you are not on a Chapter but are a local organizer, feel free to join!
 
 This session is organized by the Local Chapters and Communities Working Group, which is is tasked with finding and implementing ways for the Foundation to support the growth of local communities and potentially encourage established communities to further organise themselves and eventually formally affiliate with the Foundation as one of its Local Chapters. Aside from that, the LCCWG facilitates a global exchange of ideas and support among Local Chapters and communities and review and suggest improvements to the Local Chapters affiliation scheme. 
@@ -21,3 +30,4 @@ OSMF is an organisation is incorporated in Great Britain. It wants to support th
 Some of these goals (such as handling financial matters or providing a point of contact for government or media) can also be handled by totally independent organisations supporting OSM but not associated with OSMF in any way. But working together helps OSM and makes it clear that we are all part of the same community.
 
 For more about Local Chapters, check out the wiki. https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters
+

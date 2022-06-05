@@ -10,6 +10,11 @@ time_iso: "2022-08-19T17:00:00Z"
 resources: []
 recording: True
 ---
+
+Mapping is time-consuming and requires a high workforce when it comes to keeping maps up-to-date. Mapillary brings a different approach to geospatial data collection with street-level imagery. This approach allows communities to collect geospatial data faster and cheaper. But can Mapillary generated data be useful for enriching OpenStreetMap? In this study, Mapillary extracted map data will be examined against ground truth to assess data quality on contributing to OpenStreetMap.
+
+<hr>
+
 Mapping is time-consuming and requires a high workforce when it comes to keeping maps up-to-date. Mapillary brings a different approach to geospatial data collection with street-level imagery. This approach allows communities to collect geospatial data faster and cheaper. But can Mapillary generated data be useful for enriching OpenStreetMap? In this study, Mapillary extracted map data will be examined against ground truth to assess data quality on contributing to OpenStreetMap.
 
 In this case study the positional accuracy and completeness are assessed by benchmarking Mapillary generated data against ground truth for street light provided by Ordu Metropolitan Municipality in the borough of Altinordu, which covers an area of 9 km2. A total number of 323 street lights were recorded in the authoritative dataset.  
@@ -23,3 +28,4 @@ In terms of positional accuracy, our experiment shows GoPro MAX captured street-
 This experimental study shows that positioning accuracy is highly related to the GPS accuracy of the capture device, and in general, a large part of the final positional error can be attributed to this. Mapillary's  3D reconstruction is able to mitigate some of these effects. Additionally, capturing with a large field of view has a positive effect on accuracy. In this study we also validate that positional accuracy depends on various factors of the capture process; precision of GPS receiver and additionally positioning hardware, resolution and quality of the images, image capture frequency of the camera, imagery density in the working area and type of photo such as  flat or 360.
 
 The overall positional accuracies are under 5m which can be a promising solution for enriching street lights data on OpenStreetMap and collecting streetlights inventory for the municipalities and governmental bodies if this data will not be used for surveying purposes or reference data, however Mapillary generated data can be useful and time effective as complementary data with low cost collection expenses.
+
