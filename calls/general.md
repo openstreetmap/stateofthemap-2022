@@ -60,7 +60,7 @@ This track is all about the usage of OSM. Examples are how OSM is used in govern
 
 <h2 id="submission">Submission Types</h2>
 
-You may choose for most submission types whether you attend in person or participate virtually. We will try to make all events available for online and offline attendence. Exceptions are noted below. Please keep in mind that the conference will take place in the CEST timezone. We will try to take into account the timezone of participants as much as possible when scheduling events but we will be restricted to the usual conference hours between 9am and 6pm.
+You may choose for most submission types whether you attend in person or participate virtually. We will try to make all events available for online and offline attendance. Exceptions are noted below. Please keep in mind that the conference will take place in the CEST timezone. We will try to take into account the timezone of participants as much as possible when scheduling events but we will be restricted to the usual conference hours between 9am and 6pm.
 
 <h3 id="submission-talk">Talk (20 minutes)</h3>
 
@@ -141,7 +141,7 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 
 * Sarah Hoffmann (lead program committee, developer, Germany)
 * Manfred Stock (lead program committee, mapper, Switzerland)
-* Arun Ganesh (mapper and carthographer, India)
+* Arun Ganesh (mapper and cartographer, India)
 * Christine Karch (chairwoman SotM Working Group, Germany)
 * Gregory Marler (SotM Working Group, United Kingdom)
 * Ilya Zverev (forum moderator, Russia)
