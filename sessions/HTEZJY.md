@@ -2,7 +2,7 @@
 layout: session
 title: "Local Chapters Congress"
 code: "HTEZJY"
-speaker_names_with_affiliations: ['Naveen Francis (OSMF)', 'Local Chapters &amp; Communities working group (OSMF)', 'Maggie Cawley (OpenStreetMap US)', 'Charles Chilufya (OSMF)']
+speaker_names_with_affiliations: ['Naveen Francis (OpenStreetMap Foundation)', 'Local Chapters &amp; Communities Working Group (OpenStreetMap Foundation)', 'Maggie Cawley (OpenStreetMap Foundation)', 'Charles Chilufya (OpenStreetMap Foundation)']
 room: "Workshops - A108"
 length: "60"
 time: "Friday, 14:30"

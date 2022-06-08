@@ -13,13 +13,11 @@ recording: True
 
 This session will provide an introduction to the OpenStreetMap operations team, what OpenStreetMap.org services we are responsible for building and maintaining.
 
-Grant recently became the OpenStreetMap Foundation's first full time employee. Grant will present how he is helping improve reliability and security of the project's technology and infrastructure.
-
-If you’re interested in what powers OpenStreetMap and make it tick, come to this session.
+Grant recently became the OpenStreetMap Foundation's first full-time employee. Grant will present how he is helping improve reliability and security of the project's technology and infrastructure.
 
 <hr>
 
-Grant recently became the OpenStreetMap Foundation's first full time employee. Grant will present how he is helping improve reliability and security of the project's technology and infrastructure.
+Grant will detail how the Operations team are modernising the project's infrastructure by reducing complexity, paying-down [technical debt](https://en.wikipedia.org/wiki/Technical_debt), while reducing the need to maintain [undifferentiated heavy lifting](https://www.factoftheday1.com/p/december-23-undifferentiated-heavy).
 
-He will details how the Operations team are modernising the project's infrastructure by reducing complexity, paying-down [technical debt](https://en.wikipedia.org/wiki/Technical_debt), while reducing our need to maintain [undifferentiated heavy lifting][https://www.factoftheday1.com/p/december-23-undifferentiated-heavy]).
+If you’re interested in what powers OpenStreetMap and make it tick, come to this session.
 

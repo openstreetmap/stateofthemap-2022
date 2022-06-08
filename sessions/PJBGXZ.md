@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Using Openstreetmap in the case of the social and economic infrastructure mapping project of Togo"
+title: "Using OpenStreetMap in the case of the social and economic infrastructure mapping project of Togo"
 code: "PJBGXZ"
 speaker_names_with_affiliations: ['Ata Franck AKOUETE (OpenStreetMap Togo)']
 room: "Auditorium B - A101"

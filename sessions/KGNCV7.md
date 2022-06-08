@@ -1,7 +1,7 @@
 ---
 layout: session
 title: "Learning OpenStreetMap easily with a chatbot"
-subtitle: "Making access to information easier with OSM chatbot"
+subtitle: "Making access to information easier with OSM Chatbot"
 code: "KGNCV7"
 speaker_names_with_affiliations: ['Aadesh Baral (Kathmandu Living Labs)']
 room: "Auditorium B - A101"

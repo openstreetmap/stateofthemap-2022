@@ -1,6 +1,6 @@
 ---
 layout: session
-title: "Wikimedia Italia - What is doing for the Italian OSM community?"
+title: "Wikimedia Italia - What is it doing for the Italian OSM community?"
 code: "MRK3C8"
 speaker_names_with_affiliations: ['Anisa Kuci (Wikimedia Italia)']
 room: "Auditorium A - A001"
