@@ -11,7 +11,7 @@ headings: "tracks,submission,rating,language,publication,committee,timeline_dead
 The State of the Map (SotM) conference is the annual OpenStreetMap (OSM) conference run by the OpenStreetMap Foundation (OSMF). It is organised by the SotM Working Group, a team of volunteers. This year, SotM 2022 will be a hybrid event, held in person in Firenze, Italy and online!
 
 
-State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a program that covers all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between listeners and speakers, so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the program virtually as well and give the virtual visitors the opportunity to participate and interact.
+State of the Map is intended as an opportunity for the OpenStreetMap community to get to know each other, both personally and regarding their work in OpenStreetMap. We want to offer a programme that covers all topics relevant to OpenStreetMap. Sharing OpenStreetMap knowledge is the essence of SotM. Apart from presentations, we value the interaction between listeners and speakers, so we want to create an environment that boosts critical and healthy discussions, including contentious topics. This year we shall have the opportunity again to meet in person. At the same time we recognise that many people may not be able to travel due to personal reasons or governmental restrictions. Therefore, we intend to share the programme virtually as well and give the virtual visitors the opportunity to participate and interact.
 
 We would love to see your submission for one or more of these tracks:
 
@@ -84,7 +84,7 @@ Panels are for hot, controversial discussions around OSM community, mapping and 
 
 <h3 id="submission-other">Other</h3>
 
-Your submission does not fit into any of these submission types? Please get in touch with the program committee via email (<a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>) before the end of the call for participation.
+Your submission does not fit into any of these submission types? Please get in touch with the programme committee via email (<a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>) before the end of the call for participation.
 
 
 <h2 id="other-submission">Other session types</h2>
@@ -135,12 +135,12 @@ Video recordings and slides of the lectures will be published under the Creative
 
 State of the Map is a non-commercial event where neither the organisers nor the speakers are being paid. Speakers have to get a conference ticket just like everyone else. Details will be announced later.
 
-<h2 id="committee">Program Committee</h2>
+<h2 id="committee">Programme Committee</h2>
 
-Your submissions will be reviewed by a program committee consisting of OpenStreetMap community members from various parts of the world.
+Your submissions will be reviewed by a programme committee consisting of OpenStreetMap community members from various parts of the world.
 
-* Sarah Hoffmann (lead program committee, developer, Germany)
-* Manfred Stock (lead program committee, mapper, Switzerland)
+* Sarah Hoffmann (lead programme committee, developer, Germany)
+* Manfred Stock (lead programme committee, mapper, Switzerland)
 * Arun Ganesh (mapper and cartographer, India)
 * Christine Karch (chairwoman SotM Working Group, Germany)
 * Gregory Marler (SotM Working Group, United Kingdom)
@@ -155,14 +155,14 @@ Your submissions will be reviewed by a program committee consisting of OpenStree
 * Séverin Menard (EOF, France, French-speaking West-African and Caribbean outreach)
 * Stefan Keller (Geometa Lab Campus Rapperswil, Eastern Switzerland University of Applied Sciences (FH OST), Switzerland)
 
-The program committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
+The programme committee is aware of possible conflict of interest situations. We try to balance that in the composition of the committee. Nevertheless, we have imposed some rules upon ourselves to handle conflict of interest situations:
 
 * We do not rate submissions from our workmates, clients or relatives.
 * We act carefully and are aware about possible conflicts (especially the situation of horse trading). We act particularly carefully in cases associated to a sponsor.
-* We communicate to other Program Committee members when we are in a conflict of interest situation.
+* We communicate to other Programme Committee members when we are in a conflict of interest situation.
 * We report any outside attempt of influencing their decisions to the chair of the SotM Working Group.
 
-We hope this detailed “Call for Presentations” helps to increase the transparency of our program selection process. Questions are welcome. You can reach us at the following email address: <a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>.
+We hope this detailed “Call for Presentations” helps to increase the transparency of our programme selection process. Questions are welcome. You can reach us at the following email address: <a href="mailto:program-sotm@openstreetmap.org">program-sotm@openstreetmap.org</a>.
 
 <h2 id="timeline_deadlines">Timeline and Deadlines</h2>
 
@@ -178,4 +178,4 @@ Please submit your presentation proposal to our <a href="https://pretalx.com/sot
 
 <hr>
 
-_The SotM 2022 Program Committee, 14 March 2022_
+_The SotM 2022 Programme Committee, 14 March 2022_
