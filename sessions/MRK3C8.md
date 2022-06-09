@@ -11,7 +11,7 @@ resources: []
 recording: True
 ---
 
-Wikimedia Italia, the Italian OpenStreetMap Local Chapter of the OSM Foundation, presents its activities,  online infrastructure developed to support OpenStreetMap in Italy and the Italian community. The talk will share the experience, situations and factors that have influenced agreat collaboration with the local contributors and institutions during the last years.
+Wikimedia Italia, the Italian OpenStreetMap Local Chapter of the OSM Foundation, presents its activities, online infrastructure developed to support OpenStreetMap in Italy and the Italian community. The talk will share the experience, situations and factors that have influenced agreat collaboration with the local contributors and institutions during the last years.
 
 <hr>
 

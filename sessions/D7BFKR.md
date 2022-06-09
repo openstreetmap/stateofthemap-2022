@@ -11,7 +11,7 @@ resources: []
 recording: False
 ---
 
-Having made your first edits with JOSM, there are a couple of tips and  tricks to learn  to make your daily mapping life in this JOSM easier. JOSM, considered an advanced mappers tool, is an easy-to-use OSM software that makes mapping in OSM easier and more interesting using plugins and various mapping tools.
+Having made your first edits with JOSM, there are a couple of tips and tricks to learn to make your daily mapping life in this JOSM easier. JOSM, considered an advanced mappers tool, is an easy-to-use OSM software that makes mapping in OSM easier and more interesting using plugins and various mapping tools.
 
 <hr>
 

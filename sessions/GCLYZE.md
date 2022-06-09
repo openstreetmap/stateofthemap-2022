@@ -11,7 +11,7 @@ resources: []
 recording: True
 ---
 
-OpenStreetMap has proven to be a really interesting and valuable classroom instrument.  Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a &#34;Liceo Economico-Sociale&#34;, a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.
+OpenStreetMap has proven to be a really interesting and valuable classroom instrument. Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a &#34;Liceo Economico-Sociale&#34;, a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.
 
 <hr>
 

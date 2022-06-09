@@ -11,7 +11,7 @@ resources: []
 recording: True
 ---
 
-The last 10 years were quite turbulent for the iD editor: After the initial idea from Richard Fairhurst  was quickly picked up by a developer team at Mapbox, the editor became OSM’s default map editor almost exactly 9 years ago today. Since then, different Maintainers have managed the project, constantly enhancing its functionality and data models like iD’s built in tagging presets.
+The last 10 years were quite turbulent for the iD editor: After the initial idea from Richard Fairhurst was quickly picked up by a developer team at Mapbox, the editor became OSM’s default map editor almost exactly 9 years ago today. Since then, different Maintainers have managed the project, constantly enhancing its functionality and data models like iD’s built in tagging presets.
 
 This talk will present a condensed overview of the evolution of the iD editor since 2012 and, more importantly, showcase what still lies ahead of it: Small and large improvements to the user interface, performance, data validation, customization, integration of external services and more.
 

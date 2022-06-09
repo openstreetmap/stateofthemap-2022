@@ -51,7 +51,7 @@
     {
       "code": "D7BFKR",
       "title": "JOSM: Beyond Basic Editing",
-      "abstract": "Having made your first edits with JOSM, there are a couple of tips and  tricks to learn  to make your daily mapping life in this JOSM easier. JOSM, considered an advanced mappers tool, is an easy-to-use OSM software that makes mapping in OSM easier and more interesting using plugins and various mapping tools.",
+      "abstract": "Having made your first edits with JOSM, there are a couple of tips and tricks to learn to make your daily mapping life in this JOSM easier. JOSM, considered an advanced mappers tool, is an easy-to-use OSM software that makes mapping in OSM easier and more interesting using plugins and various mapping tools.",
       "speakers": [
         "USJFC9",
         "EC8YHV"
@@ -360,7 +360,7 @@
     {
       "code": "GCLYZE",
       "title": "OpenStreetMap in schools: The case study of Bari",
-      "abstract": "OpenStreetMap has proven to be a really interesting and valuable classroom instrument.  Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a \"Liceo Economico-Sociale\", a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.",
+      "abstract": "OpenStreetMap has proven to be a really interesting and valuable classroom instrument. Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a \"Liceo Economico-Sociale\", a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.",
       "speakers": [
         "GHZLN8",
         "UHUTU3"
@@ -385,7 +385,7 @@
     {
       "code": "C9AKZK",
       "title": "10 Years iD Editor – The Road Ahead",
-      "abstract": "The last 10 years were quite turbulent for the iD editor: After the initial idea from Richard Fairhurst  was quickly picked up by a developer team at Mapbox, the editor became OSM’s default map editor almost exactly 9 years ago today. Since then, different Maintainers have managed the project, constantly enhancing its functionality and data models like iD’s built in tagging presets.\r\n\r\nThis talk will present a condensed overview of the evolution of the iD editor since 2012 and, more importantly, showcase what still lies ahead of it: Small and large improvements to the user interface, performance, data validation, customization, integration of external services and more.",
+      "abstract": "The last 10 years were quite turbulent for the iD editor: After the initial idea from Richard Fairhurst was quickly picked up by a developer team at Mapbox, the editor became OSM’s default map editor almost exactly 9 years ago today. Since then, different Maintainers have managed the project, constantly enhancing its functionality and data models like iD’s built in tagging presets.\r\n\r\nThis talk will present a condensed overview of the evolution of the iD editor since 2012 and, more importantly, showcase what still lies ahead of it: Small and large improvements to the user interface, performance, data validation, customization, integration of external services and more.",
       "speakers": [
         "3LA7XB"
       ],
@@ -716,7 +716,7 @@
     {
       "code": "MRK3C8",
       "title": "Wikimedia Italia - What is it doing for the Italian OSM community?",
-      "abstract": "Wikimedia Italia, the Italian OpenStreetMap Local Chapter of the OSM Foundation, presents its activities,  online infrastructure developed to support OpenStreetMap in Italy and the Italian community. The talk will share the experience, situations and factors that have influenced agreat collaboration with the local contributors and institutions during the last years.",
+      "abstract": "Wikimedia Italia, the Italian OpenStreetMap Local Chapter of the OSM Foundation, presents its activities, online infrastructure developed to support OpenStreetMap in Italy and the Italian community. The talk will share the experience, situations and factors that have influenced agreat collaboration with the local contributors and institutions during the last years.",
       "speakers": [
         "N7KVVH"
       ],
