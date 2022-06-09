@@ -2,9 +2,7 @@
 
 This repo is the Jekyll configuration, styles and content powering https://2022.stateofthemap.org
 
-<!--
 Note that the SotM program is managed through our submission system at https://pretalx.com/sotm2022. If you change it on the submission system, it will be updated on the website automatically. Do that rather than making pull requests on the "session" files here.
--->
 
 ## Local installation
 
