@@ -4,12 +4,12 @@ title: "Engaging in OSM"
 subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
 speaker_names_with_affiliations: ['Heather Leson']
-room: "Workshops - A108"
+room: "Online Workshops"
 length: "60"
-time: "Saturday, 09:30"
-time_iso: "2022-08-20T09:30:00Z"
+time: "Saturday, 16:30"
+time_iso: "2022-08-20T16:30:00Z"
 resources: []
-recording: False
+recording: True
 ---
 
 Across OpenStreetMap there are ways to get involved from working groups to events to boards. How can we increase and deepen participation across the world? What is the current state of engagement/governance in OSM? What do we need to do to improve? What are some of the lessons from other open organizations?

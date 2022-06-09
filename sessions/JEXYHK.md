@@ -3,12 +3,12 @@ layout: session
 title: "OSM for sustainable transport planning: getting started"
 code: "JEXYHK"
 speaker_names_with_affiliations: ['Greta Timaite', 'James Hulse']
-room: "Online Workshops"
+room: "Workshops - A108"
 length: "60"
-time: "Sunday, 09:30"
-time_iso: "2022-08-21T09:30:00Z"
+time: "Saturday, 14:30"
+time_iso: "2022-08-20T14:30:00Z"
 resources: []
-recording: True
+recording: False
 ---
 
 This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.
