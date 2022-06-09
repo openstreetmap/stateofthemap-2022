@@ -96,4 +96,4 @@ The selection committee will aim to notify recipients of grants by May 13.
 
 ## Supporting the Travel Grant Programme
 
-The travel grant program is funded through the State of the Map Sponsors.
+The travel grant programme is funded through the State of the Map Sponsors.
