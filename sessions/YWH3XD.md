@@ -2,7 +2,8 @@
 layout: session
 title: "Inferring default speed limits"
 code: "YWH3XD"
-speaker_names_with_affiliations: ['Tobias Zwick (-)']
+speaker_names: ['Tobias Zwick']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 17:30"

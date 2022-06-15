@@ -2,7 +2,8 @@
 layout: session
 title: "Creating your own MapComplete theme"
 code: "VKDYN7"
-speaker_names_with_affiliations: ['Pieter Vander Vennet']
+speaker_names: ['Pieter Vander Vennet']
+affiliations: None
 room: "Workshops - A108"
 length: "60"
 time: "Sunday, 14:30"

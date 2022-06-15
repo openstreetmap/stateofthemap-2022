@@ -2,7 +2,8 @@
 layout: session
 title: "Integrating OpenStreetMap in the local governance of Nepal"
 code: "FABJFJ"
-speaker_names_with_affiliations: ['Aishworya Shrestha (Kathmandu Living Labs)', 'Sushma Ghimire (Kathmandu Living Labs)']
+speaker_names: ['Aishworya Shrestha', 'Sushma Ghimire']
+affiliations: Kathmandu Living Labs
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 15:30"

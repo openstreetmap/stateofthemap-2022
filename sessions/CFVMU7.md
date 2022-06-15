@@ -2,7 +2,8 @@
 layout: session
 title: "Public Domain Map: Crowdsourcing the Future of Government Data"
 code: "CFVMU7"
-speaker_names_with_affiliations: ['Jess Beutler (OpenStreetMap US)']
+speaker_names: ['Jess Beutler']
+affiliations: OpenStreetMap US
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 17:30"

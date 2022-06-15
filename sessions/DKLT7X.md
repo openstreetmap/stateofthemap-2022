@@ -2,7 +2,8 @@
 layout: session
 title: "A review of Mapillary-generated map data and how accuracy compares across devices"
 code: "DKLT7X"
-speaker_names_with_affiliations: ['Said Turksever (Meta/Mapillary)']
+speaker_names: ['Said Turksever']
+affiliations: Meta/Mapillary
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 17:00"

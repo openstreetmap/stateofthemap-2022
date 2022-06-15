@@ -3,7 +3,8 @@ layout: session
 title: "Pedestrian and Bike Mapping in New York City"
 subtitle: "An Advocate Approach to Mapping Sidewalks, Crossings, Bike lanes, Bus stops and More."
 code: "YAYNSB"
-speaker_names_with_affiliations: ['Ariel Kadouri']
+speaker_names: ['Ariel Kadouri']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 10:30"

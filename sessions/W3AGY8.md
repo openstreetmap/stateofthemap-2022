@@ -2,7 +2,8 @@
 layout: session
 title: "Evolving the OSM Data Model"
 code: "W3AGY8"
-speaker_names_with_affiliations: ['Jochen Topf']
+speaker_names: ['Jochen Topf']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 15:30"

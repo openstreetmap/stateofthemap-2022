@@ -2,7 +2,8 @@
 layout: session
 title: "Building an OpenStreetMap Community Playbook"
 code: "U77MUX"
-speaker_names_with_affiliations: ['Sharon Omoja (OpenStreetMap Kenya, HOT Training Working Group)', 'Geoffrey Kateregga']
+speaker_names: ['Sharon Omoja', 'Geoffrey Kateregga']
+affiliations: None
 room: "Auditorium B - A101"
 length: "20"
 time: "Saturday, 10:30"

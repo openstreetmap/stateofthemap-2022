@@ -3,7 +3,8 @@ layout: session
 title: "Innovating on derivative OpenStreetMap datasets"
 subtitle: "GIS datasets, FlatGeobuf, coastlines, admin boundaries and more"
 code: "VXECJQ"
-speaker_names_with_affiliations: ['Brandon Liu (Protomaps)']
+speaker_names: ['Brandon Liu']
+affiliations: Protomaps
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 14:30"

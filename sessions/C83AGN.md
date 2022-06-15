@@ -2,7 +2,8 @@
 layout: session
 title: "Carto-OSC: Activating Performance Spaces with Real Time Cartography"
 code: "C83AGN"
-speaker_names_with_affiliations: ['Eric Theise']
+speaker_names: ['Eric Theise']
+affiliations: None
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 11:30"

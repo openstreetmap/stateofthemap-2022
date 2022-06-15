@@ -2,7 +2,8 @@
 layout: session
 title: "The MapOSMatic APIs - generate printable maps from your own application"
 code: "HBBZKV"
-speaker_names_with_affiliations: ['Hartmut Holzgraefe']
+speaker_names: ['Hartmut Holzgraefe']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 12:30"

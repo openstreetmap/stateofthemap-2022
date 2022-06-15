@@ -2,7 +2,8 @@
 layout: session
 title: "osm2streets: Street networks with detailed geometry"
 code: "9NHQQM"
-speaker_names_with_affiliations: ['Dustin Carlino (the Alan Turing Institute)']
+speaker_names: ['Dustin Carlino']
+affiliations: the Alan Turing Institute
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 10:30"

@@ -2,7 +2,8 @@
 layout: session
 title: "OpenStreetMap in the Cloud"
 code: "HEHHCH"
-speaker_names_with_affiliations: ['Sajjad Anwar (Development Seed)']
+speaker_names: ['Sajjad Anwar']
+affiliations: Development Seed
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 09:30"

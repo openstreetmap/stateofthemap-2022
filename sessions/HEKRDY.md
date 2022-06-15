@@ -2,7 +2,8 @@
 layout: session
 title: "OSM and indoor data"
 code: "HEKRDY"
-speaker_names_with_affiliations: ['Clement Igonet (OpenIndoor)']
+speaker_names: ['Clement Igonet']
+affiliations: OpenIndoor
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 14:30"

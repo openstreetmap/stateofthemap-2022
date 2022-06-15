@@ -3,7 +3,8 @@ layout: session
 title: "Engaging in OSM"
 subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
-speaker_names_with_affiliations: ['Heather Leson']
+speaker_names: ['Heather Leson']
+affiliations: None
 room: "Workshops - A108"
 length: "60"
 time: "Saturday, 09:30"

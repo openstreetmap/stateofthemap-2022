@@ -3,7 +3,8 @@ layout: session
 title: "Mapping a Small Town"
 subtitle: "A Full Test of AI-Assisted OSM Tools"
 code: "SA77RH"
-speaker_names_with_affiliations: ['Christopher Beddow (Meta/Mapillary, Youthmappers, Arizona State University)']
+speaker_names: ['Christopher Beddow']
+affiliations: None
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 16:30"

@@ -2,7 +2,8 @@
 layout: session
 title: "OSM for sustainable transport planning: getting started"
 code: "JEXYHK"
-speaker_names_with_affiliations: ['Greta Timaite', 'James Hulse']
+speaker_names: ['Greta Timaite', 'James Hulse']
+affiliations: None
 room: "Workshops - A108"
 length: "60"
 time: "Saturday, 14:30"

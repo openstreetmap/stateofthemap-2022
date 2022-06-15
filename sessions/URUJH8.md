@@ -2,7 +2,8 @@
 layout: session
 title: "State of Independence"
 code: "URUJH8"
-speaker_names_with_affiliations: ['Richard Fairhurst (cycle.travel)']
+speaker_names: ['Richard Fairhurst']
+affiliations: cycle.travel
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 10:30"

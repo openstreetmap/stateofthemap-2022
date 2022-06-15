@@ -2,7 +2,8 @@
 layout: session
 title: "What you map is not always what you get"
 code: "NAF9EN"
-speaker_names_with_affiliations: ['Sarah Hoffmann', 'Richard Fairhurst (cycle.travel)']
+speaker_names: ['Sarah Hoffmann', 'Richard Fairhurst']
+affiliations: None
 room: "Auditorium A - A001"
 length: "40"
 time: "Friday, 16:30"

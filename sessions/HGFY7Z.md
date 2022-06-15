@@ -2,7 +2,8 @@
 layout: session
 title: "Admin Boundary Conflation Tool"
 code: "HGFY7Z"
-speaker_names_with_affiliations: ['Branko Kokanovic']
+speaker_names: ['Branko Kokanovic']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 10:00"

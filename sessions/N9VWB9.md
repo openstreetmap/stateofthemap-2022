@@ -3,7 +3,8 @@ layout: session
 title: "OpenStreetMap data for climate change response initiatives"
 subtitle: "OpenStreetMap data for climate change adaptation projects"
 code: "N9VWB9"
-speaker_names_with_affiliations: ['Luc Kpogbe (CartONG)']
+speaker_names: ['Luc Kpogbe']
+affiliations: CartONG
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 15:00"

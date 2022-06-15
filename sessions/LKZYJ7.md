@@ -2,7 +2,8 @@
 layout: session
 title: "Routing not only for Prams"
 code: "LKZYJ7"
-speaker_names_with_affiliations: ['Roland Olbricht']
+speaker_names: ['Roland Olbricht']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 11:30"

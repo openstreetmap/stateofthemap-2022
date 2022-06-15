@@ -2,7 +2,8 @@
 layout: session
 title: "OSM &amp; Trails: New Collaborations for Responsible Recreation"
 code: "CUV9H7"
-speaker_names_with_affiliations: ['Maggie Cawley (OpenStreetMap Foundation)']
+speaker_names: ['Maggie Cawley']
+affiliations: OpenStreetMap US
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 12:00"

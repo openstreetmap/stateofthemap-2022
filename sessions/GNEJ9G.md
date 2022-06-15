@@ -2,7 +2,8 @@
 layout: session
 title: "Satellite Imagery for Social Good - Our Reflections"
 code: "GNEJ9G"
-speaker_names_with_affiliations: ['Shamilah Nassozi (Humanitarian OpenStreetMap Team)']
+speaker_names: ['Shamilah Nassozi']
+affiliations: Humanitarian OpenStreetMap Team
 room: "Auditorium B - A101"
 length: "20"
 time: "Saturday, 17:00"

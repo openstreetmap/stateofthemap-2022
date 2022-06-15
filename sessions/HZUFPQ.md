@@ -3,7 +3,8 @@ layout: session
 title: "None: a story of data that isn't there"
 subtitle: "Exploring road data tags in London"
 code: "HZUFPQ"
-speaker_names_with_affiliations: ['Gala (Diagonal (https://diagonal.works))', 'Simona Ciocoiu (Diagonal (https://diagonal.works))']
+speaker_names: ['Gala', 'Simona Ciocoiu']
+affiliations: Diagonal (https://diagonal.works)
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 15:00"

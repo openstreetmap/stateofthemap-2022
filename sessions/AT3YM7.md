@@ -3,7 +3,8 @@ layout: session
 title: "OSMF Board AMA"
 subtitle: "OpenStreetMap Foundation Ask Us Anything"
 code: "AT3YM7"
-speaker_names_with_affiliations: ['Amanda McCann (OpenStreetMap Foundation)']
+speaker_names: ['Amanda McCann']
+affiliations: OpenStreetMap Foundation
 room: "Auditorium A - A001"
 length: "60"
 time: "Saturday, 15:00"

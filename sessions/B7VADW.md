@@ -2,7 +2,8 @@
 layout: session
 title: "MapBuilder - The simplest OSM editorial tool"
 code: "B7VADW"
-speaker_names_with_affiliations: ['Nemanja Bracko']
+speaker_names: ['Nemanja Bracko']
+affiliations: None
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 11:30"
