@@ -25,7 +25,7 @@ For inspiration, see the posters from previous State of the Maps (e.g. [SotM 202
 * File size maximum 30-40 MB
 * Format: PDF
 
-Please email sotm@openstreetmap.org with a description of your poster. For example, the background of the project or whatever you consider important to mention in the context of the poster – all that you would tell people if you show them your poster. We will publish this text together with the poster on the SotM website.
+Please email [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org) with a description of your poster. For example, the background of the project or whatever you consider important to mention in the context of the poster – all that you would tell people if you show them your poster. We will publish this text together with the poster on the SotM website.
 
 Please also mention the filename of the uploaded poster in your email, so that we can know which of the uploaded posters is yours.
 
