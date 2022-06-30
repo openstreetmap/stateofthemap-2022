@@ -2,7 +2,7 @@
 layout: session
 title: "Local Chapters Congress"
 code: "HTEZJY"
-speaker_names: ['Naveen Francis', 'Local Chapters &amp; Communities Working Group', 'Maggie Cawley', 'Charles Chilufya']
+speaker_names: ['Naveen Francis', 'Local Chapters &amp; Communities Working Group', 'Maggie Cawley']
 affiliations: OpenStreetMap Foundation
 room: "Workshops - A108"
 length: "60"
