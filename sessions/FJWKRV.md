@@ -7,7 +7,7 @@ affiliations: Tanzania Development Trust/Crowd2Map Tanzania
 room: "Auditorium B - A101"
 length: "20"
 time: "Saturday, 14:30"
-time_iso: "2022-08-20T14:30:00Z"
+time_iso: "2022-08-20T12:30:00Z"
 resources: []
 recording: True
 ---

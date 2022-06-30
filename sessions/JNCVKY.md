@@ -7,7 +7,7 @@ affiliations: None
 room: "Auditorium B - A101"
 length: "5"
 time: "Sunday, 14:00"
-time_iso: "2022-08-21T14:00:00Z"
+time_iso: "2022-08-21T12:00:00Z"
 resources: []
 recording: True
 ---

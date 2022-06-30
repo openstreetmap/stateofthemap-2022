@@ -7,7 +7,7 @@ affiliations: United Nations Global Service Center / UN Mappers
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 09:30"
-time_iso: "2022-08-21T09:30:00Z"
+time_iso: "2022-08-21T07:30:00Z"
 resources: []
 recording: True
 ---

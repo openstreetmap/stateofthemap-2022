@@ -7,7 +7,7 @@ affiliations: cycle.travel
 room: "Auditorium A - A001"
 length: "20"
 time: "Friday, 10:30"
-time_iso: "2022-08-19T10:30:00Z"
+time_iso: "2022-08-19T08:30:00Z"
 resources: []
 recording: True
 ---

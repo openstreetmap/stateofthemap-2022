@@ -8,7 +8,7 @@ affiliations: OpenStreetMap Foundation
 room: "Auditorium A - A001"
 length: "60"
 time: "Saturday, 15:00"
-time_iso: "2022-08-20T15:00:00Z"
+time_iso: "2022-08-20T13:00:00Z"
 resources: []
 recording: True
 ---

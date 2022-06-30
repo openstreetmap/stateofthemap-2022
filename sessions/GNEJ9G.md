@@ -7,7 +7,7 @@ affiliations: Humanitarian OpenStreetMap Team
 room: "Auditorium B - A101"
 length: "20"
 time: "Saturday, 17:00"
-time_iso: "2022-08-20T17:00:00Z"
+time_iso: "2022-08-20T15:00:00Z"
 resources: []
 recording: True
 ---

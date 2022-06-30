@@ -7,7 +7,7 @@ affiliations: OpenStreetMap US
 room: "Auditorium A - A001"
 length: "20"
 time: "Saturday, 17:30"
-time_iso: "2022-08-20T17:30:00Z"
+time_iso: "2022-08-20T15:30:00Z"
 resources: []
 recording: True
 ---

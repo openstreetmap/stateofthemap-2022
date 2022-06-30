@@ -8,7 +8,7 @@ affiliations: Kathmandu Living Labs
 room: "Auditorium B - A101"
 length: "20"
 time: "Friday, 12:30"
-time_iso: "2022-08-19T12:30:00Z"
+time_iso: "2022-08-19T10:30:00Z"
 resources: []
 recording: True
 ---

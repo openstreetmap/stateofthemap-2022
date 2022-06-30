@@ -8,7 +8,7 @@ affiliations: Meta/Mapillary, Youthmappers, Arizona State University
 room: "Online Workshops"
 length: "60"
 time: "Saturday, 09:30"
-time_iso: "2022-08-20T09:30:00Z"
+time_iso: "2022-08-20T07:30:00Z"
 resources: []
 recording: True
 ---

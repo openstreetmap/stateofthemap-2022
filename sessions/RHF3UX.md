@@ -8,7 +8,7 @@ affiliations: Urban Analytics Lab, National University of Singapore
 room: "Auditorium A - A001"
 length: "20"
 time: "Sunday, 10:00"
-time_iso: "2022-08-21T10:00:00Z"
+time_iso: "2022-08-21T08:00:00Z"
 resources: []
 recording: True
 ---

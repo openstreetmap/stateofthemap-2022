@@ -7,7 +7,7 @@ affiliations: OpenStreetMap Foundation
 room: "Workshops - A108"
 length: "60"
 time: "Friday, 14:30"
-time_iso: "2022-08-19T14:30:00Z"
+time_iso: "2022-08-19T12:30:00Z"
 resources: []
 recording: False
 ---

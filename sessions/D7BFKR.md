@@ -7,7 +7,7 @@ affiliations: OpenStreetMap Kenya, HOT Training Working Group
 room: "Workshops - A108"
 length: "60"
 time: "Friday, 11:30"
-time_iso: "2022-08-19T11:30:00Z"
+time_iso: "2022-08-19T09:30:00Z"
 resources: []
 recording: False
 ---

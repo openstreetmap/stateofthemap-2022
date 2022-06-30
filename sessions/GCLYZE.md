@@ -7,7 +7,7 @@ affiliations: Wikimedia Italy, YouthMappers@UniBA
 room: "Auditorium B - A101"
 length: "20"
 time: "Saturday, 11:30"
-time_iso: "2022-08-20T11:30:00Z"
+time_iso: "2022-08-20T09:30:00Z"
 resources: []
 recording: True
 ---
