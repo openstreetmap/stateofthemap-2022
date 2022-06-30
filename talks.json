@@ -735,6 +735,104 @@
       "start": "2022-08-21T16:00:00+02:00",
       "end": "2022-08-21T16:20:00+02:00",
       "room": 1531
+    },
+    {
+      "code": "JRN9DN",
+      "title": "Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness",
+      "abstract": "A recent release of new scientific datasets generated from OpenStreetMap exemplifies the need for analysis-ready repositories of OSM data that require minimal pre-processing. We created the  Analysis-Ready Daylight OpenStreetMap Distribution to provide researchers with the opportunity for simple cloud-based SQL queries of nearly 1B OSM features. We demonstrate the capabilities with intrinsic and extrinsic data coverage assessments of OSM buildings globally.",
+      "speakers": [
+        "LSXXGM",
+        "ZTSLB3"
+      ],
+      "track": null,
+      "start": "2022-08-21T09:00:00+02:00",
+      "end": "2022-08-21T09:30:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "JNJKYR",
+      "title": "OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM",
+      "abstract": "Sidewalks are a relevant part of the living space in urban environments, but there are still few mapped sidewalks. In recent years, the mapping of sidewalks has grown in importance among the OSM and academic communities. To cover up this gap, we propose a Github-hosted, fully open-source QGIS Plugin entitled \"OSM SidewalKreator\" to automatically draw for OSM the geometries of sidewalks crossings and kerb crossing interfaces. Furthermore, the tool gives the user the capacity to control the process. Then, deepen, improve, and increase the amount of sidewalk mapping in OpenStreetMap to improve accessibility and mobility worldwide.",
+      "speakers": [
+        "7RKZCJ"
+      ],
+      "track": null,
+      "start": "2022-08-21T09:30:00+02:00",
+      "end": "2022-08-21T10:00:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "YU9JHN",
+      "title": "Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations",
+      "abstract": "In this work, we present analyses using a series of comparative data insights that help to better understand the potential and implications of integration between knowledge graphs and OSM.",
+      "speakers": [
+        "9GZ9SL"
+      ],
+      "track": null,
+      "start": "2022-08-21T10:00:00+02:00",
+      "end": "2022-08-21T10:30:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "ASADTB",
+      "title": "Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap.",
+      "abstract": "Urban green spaces serve people for active and passive recreation. On the basis of OpenStreetMap data, suitable green spaces are to be derived in order to incorporate them as recreation destinations in a location-based service (the “meinGruen” app) as polygons. The modelling approach focuses on activity-related barriers in the context of urban green, transitions between different land use classes, and public accessibility. The case study was implemented for the city of Dresden in Germany.",
+      "speakers": [
+        "XM3JTL"
+      ],
+      "track": null,
+      "start": "2022-08-21T11:30:00+02:00",
+      "end": "2022-08-21T12:00:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "CEMMTQ",
+      "title": "OSM for sustainable transport planning",
+      "abstract": "OpenStreetMap (OSM) data has the potential to facilitate bottom-up approach to transport planning which is essential for localized data-driven policy interventions. Given this, OpenInfra project is exploring the potential of OSM data in transport research with a focus on active travel. The exploration showed that currently missing data limits the applicability of OSM data. Nevertheless, we argue that the potential and relevance of OSM data can be demonstrated by recategorizing OSM data to provide more actionable insights to policy-makers. This, therefore, could encourage the uptake of open data leading to more transparent, reproducible, and participatory transport planning.",
+      "speakers": [
+        "QLGPWP",
+        "JKFJUJ"
+      ],
+      "track": null,
+      "start": "2022-08-21T12:00:00+02:00",
+      "end": "2022-08-21T12:30:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "MXS9R8",
+      "title": "Leveraging OpenStreetMap to investigate urban accessibility and safety of visually impaired pedestrians",
+      "abstract": "Cities worldwide encourage urban active mobility by advocating policy and planning. Although contribution is evident, in practice, these actions disregard population parts that have mobility impairments. This research suggests using OpenStreetMap data in customized analytical models to assess the accessibility level of the urban environment for visually impaired pedestrians. Models results show the existence and spatial distribution of existing accessibility problems, including challenging street network connectivity and dangerous walking areas. These models can be used to enable decision makers, city stakeholders and practitioners to enrich management, monitoring and development of their cities, and support sustainable, livable lifestyles and walkability equality.",
+      "speakers": [
+        "HXJM9Z"
+      ],
+      "track": null,
+      "start": "2022-08-21T14:15:00+02:00",
+      "end": "2022-08-21T14:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "3YQRDX",
+      "title": "Landmarks for accessible space – promoting geo-literacy through geospatial citizen science",
+      "abstract": "Geo-literacy provides skills to read, interpret and use geospatial information, where little evidence exists regarding the potential and capacity of new education programs in advancing these skills. We present a citizen science project held in 13 high schools in Israel, where the students practice participatory mapping with OpenStreetMap to map features relevant to the navigation of visually impaired pedestrians. We show that students improve their geospatial thinking and reasoning skills, including their self-esteem. We believe that this research contributes to various pedagogic and education levels, in terms of theoretical knowledge about the integration of innovative geo-literacy programs.",
+      "speakers": [
+        "HXJM9Z"
+      ],
+      "track": null,
+      "start": "2022-08-21T14:30:00+02:00",
+      "end": "2022-08-21T14:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "THYCMA",
+      "title": "YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities",
+      "abstract": "The YouthMappers experience lends itself to explore interesting questions about the cultural and organizational aspects of data production and usage practices in OpenStreetMap, in order to improve them. First, this study aims to identify what are some of the qualitative and quantitative characteristics distinguishing the performance of YouthMappers as an academic-based community within OSM. Second, this study aims to better understand how the design approach taken by and on behalf of YouthMappers reinforces an identity as unique contributors.",
+      "speakers": [
+        "ZNEQGS"
+      ],
+      "track": null,
+      "start": "2022-08-21T15:00:00+02:00",
+      "end": "2022-08-21T15:30:00+02:00",
+      "room": 1532
     }
   ],
   "version": "0.1.0-beta3",
@@ -1127,6 +1225,51 @@
       "code": "JWED7P",
       "name": "Rafael Troilo",
       "avatar": null
+    },
+    {
+      "code": "HXJM9Z",
+      "name": "Sagi Dalyot",
+      "avatar": "https://pretalx.com/media/avatars/Commission_3_chair_elect_index_3cb1fLF.png"
+    },
+    {
+      "code": "JKFJUJ",
+      "name": "James Hulse",
+      "avatar": null
+    },
+    {
+      "code": "QLGPWP",
+      "name": "Greta Timaite",
+      "avatar": null
+    },
+    {
+      "code": "ZNEQGS",
+      "name": "Patricia Solis",
+      "avatar": "https://pretalx.com/media/avatars/Headshot_SOLIS_2021_MJhD8Qf.jpg"
+    },
+    {
+      "code": "ZTSLB3",
+      "name": "Timmera Whaley Omidire",
+      "avatar": null
+    },
+    {
+      "code": "7RKZCJ",
+      "name": "Kauê de Moraes Vestena",
+      "avatar": "https://pretalx.com/media/avatars/IMG_20200704_143021_LpJ2RVB.jpg"
+    },
+    {
+      "code": "XM3JTL",
+      "name": "Theodor Rieche",
+      "avatar": "https://pretalx.com/media/avatars/rieche_theodor-b4_MEXA9Jm.png"
+    },
+    {
+      "code": "LSXXGM",
+      "name": "Jennings Anderson",
+      "avatar": "https://www.gravatar.com/avatar/95d4cabead873e4b3f9f900a729f59ff"
+    },
+    {
+      "code": "9GZ9SL",
+      "name": "Alishiba Dsouza",
+      "avatar": "https://pretalx.com/media/avatars/Photo_Alishiba_7SZ1XrO.jpg"
     }
   ]
 }
