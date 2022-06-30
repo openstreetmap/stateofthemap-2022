@@ -774,6 +774,42 @@
       "room": 1532
     },
     {
+      "code": "9HBH3X",
+      "title": "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach",
+      "abstract": "The quality of OSM data is dependent on many different factors and is quite heterogeneous. Therefore, in both intrinsic and extrinsic quality parameter analyses, a common practice is subdividing the study areas into subareas. In this paper, we worked on a method for obtaining the optimal grid cell size for OSM data quality analysis. Furthermore, we proposed that if the quality is homogeneous in a region, it can be estimated using an IDW interpolation. . In this summary, we have done a preliminary analysis for a Brazilian city, Curitiba, with about 28,000 points of known accuracy.",
+      "speakers": [
+        "YLANUK"
+      ],
+      "track": null,
+      "start": "2022-08-21T10:30:00+02:00",
+      "end": "2022-08-21T10:35:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "EZPVPB",
+      "title": "Corporate editing and its impact on network navigability within OpenStreetMap",
+      "abstract": "Using intrinsic quality indicators we explore how network quality, in terms of its suitability for navigation, varies across areas with relatively high and low corporate editing in OpenSteetMap. Our work shows areas with relatively high rates of corporate editing exhibit not only an overall increase in data quality, but also increased rates at which quality improves.",
+      "speakers": [
+        "DZHREX"
+      ],
+      "track": null,
+      "start": "2022-08-21T10:45:00+02:00",
+      "end": "2022-08-21T10:50:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "EKEZ7R",
+      "title": "Returning the favor - Leveraging quality insights of OpenStreetMap-based land-use/land-cover multi-label modeling to the community",
+      "abstract": "The fitness of OSM for multi-label classification is proven. A workflow to enhance OSM-based multi-labels using machine learning is established. The results are provided to the OSM community via the HOT Tasking Manager.",
+      "speakers": [
+        "3JDZE9"
+      ],
+      "track": null,
+      "start": "2022-08-21T10:50:00+02:00",
+      "end": "2022-08-21T10:55:00+02:00",
+      "room": 1532
+    },
+    {
       "code": "ASADTB",
       "title": "Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap.",
       "abstract": "Urban green spaces serve people for active and passive recreation. On the basis of OpenStreetMap data, suitable green spaces are to be derived in order to incorporate them as recreation destinations in a location-based service (the “meinGruen” app) as polygons. The modelling approach focuses on activity-related barriers in the context of urban green, transitions between different land use classes, and public accessibility. The case study was implemented for the city of Dresden in Germany.",
@@ -799,6 +835,43 @@
       "room": 1532
     },
     {
+      "code": "LTA77E",
+      "title": "Null Island - a node of contention in OpenStreetMap",
+      "abstract": "Null Island is where the prime meridian meets the equator at (0,0) longitude and latitude. While Null Island is a fictitious, dimensionless, point object, its existence stimulates vigorous debate making it worthy of serious consideration. Many examples exists illustrating how Null Island impacts OSM discourse. Our study considers what the geographic oddity of Null Island means for OSM. The main contribution is a structured knowledge-based resource facilitating understanding of Null Island’s impact on OSM. This socio-technical and philosophical investigation of Null Island can become a catalyst for deeper discussions and debates in OSM around mapping practices.",
+      "speakers": [
+        "UNDQDX",
+        "KW8XBC"
+      ],
+      "track": null,
+      "start": "2022-08-21T12:30:00+02:00",
+      "end": "2022-08-21T13:00:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "JNCVKY",
+      "title": "Combining Volunteered Geographic Information and WPdx standards to Improve Mapping of Rural Water Infrastructure in Uganda.",
+      "abstract": "The lack of data on the distribution of the water resources, possess a great challenge for the water resource investment and AI/ML-enabled advancements in the water sector compared to all other sectors like heath. This paper describes the methodology for combining different water mapping schemas to create comprehensive multi-platform water infrastructure data and enhance rapid updates to support a suite of water resource analytics and extended advanced technology explorations towards improved decision-making.",
+      "speakers": [
+        "PCBWXG"
+      ],
+      "track": null,
+      "start": "2022-08-21T14:00:00+02:00",
+      "end": "2022-08-21T14:05:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "TA9VAF",
+      "title": "Understanding and modelling accessibility to public green in large urban centers using OpenStreetMap data",
+      "abstract": "OpenStreetMap data represents a valuable source of information for public green areas in large urban centers and effectively measures the United Nations' Sustainable Development Goal 11.7. Our study provides a threefold contribution in this direction. First, we validate land-use-related tags in OpenStreetMap, through a comparison with satellite data from the European Urban Atlas. We then propose a framework and an interactive tool to measure access to public green areas through several established indices. Finally, we show how the framework can be used to simulate the impact of new green areas and help policymakers design effective interventions.",
+      "speakers": [
+        "TBJRGL"
+      ],
+      "track": null,
+      "start": "2022-08-21T14:10:00+02:00",
+      "end": "2022-08-21T14:15:00+02:00",
+      "room": 1532
+    },
+    {
       "code": "MXS9R8",
       "title": "Leveraging OpenStreetMap to investigate urban accessibility and safety of visually impaired pedestrians",
       "abstract": "Cities worldwide encourage urban active mobility by advocating policy and planning. Although contribution is evident, in practice, these actions disregard population parts that have mobility impairments. This research suggests using OpenStreetMap data in customized analytical models to assess the accessibility level of the urban environment for visually impaired pedestrians. Models results show the existence and spatial distribution of existing accessibility problems, including challenging street network connectivity and dangerous walking areas. These models can be used to enable decision makers, city stakeholders and practitioners to enrich management, monitoring and development of their cities, and support sustainable, livable lifestyles and walkability equality.",
@@ -808,6 +881,18 @@
       "track": null,
       "start": "2022-08-21T14:15:00+02:00",
       "end": "2022-08-21T14:20:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "HSSWBD",
+      "title": "OpenStreetMap as a tool for skill building",
+      "abstract": "This talk explores the effects of OpenStreetMapping on the mappers. These effects also infer that OSM mapping can be used as a tool for skill-building.",
+      "speakers": [
+        "3MZ9U7"
+      ],
+      "track": null,
+      "start": "2022-08-21T14:20:00+02:00",
+      "end": "2022-08-21T14:25:00+02:00",
       "room": 1532
     },
     {
@@ -1227,9 +1312,24 @@
       "avatar": null
     },
     {
-      "code": "HXJM9Z",
-      "name": "Sagi Dalyot",
-      "avatar": "https://pretalx.com/media/avatars/Commission_3_chair_elect_index_3cb1fLF.png"
+      "code": "PCBWXG",
+      "name": "Stellamaris Nakacwa",
+      "avatar": "https://pretalx.com/media/avatars/IMG-20211002-WA0027_2_IrzHBac.jpg"
+    },
+    {
+      "code": "3MZ9U7",
+      "name": "Aishworya Shrestha",
+      "avatar": "https://pretalx.com/media/avatars/IMG_20200718_114509_891_ybKiqhg.jpg"
+    },
+    {
+      "code": "YLANUK",
+      "name": "Silvana Philippi Camboim",
+      "avatar": null
+    },
+    {
+      "code": "DZHREX",
+      "name": "Corey Dickinson",
+      "avatar": "https://pretalx.com/media/avatars/greencrop_BdznTCO.jpg"
     },
     {
       "code": "JKFJUJ",
@@ -1242,9 +1342,29 @@
       "avatar": null
     },
     {
+      "code": "HXJM9Z",
+      "name": "Sagi Dalyot",
+      "avatar": "https://pretalx.com/media/avatars/Commission_3_chair_elect_index_3cb1fLF.png"
+    },
+    {
       "code": "ZNEQGS",
       "name": "Patricia Solis",
       "avatar": "https://pretalx.com/media/avatars/Headshot_SOLIS_2021_MJhD8Qf.jpg"
+    },
+    {
+      "code": "UNDQDX",
+      "name": "Peter Mooney",
+      "avatar": "https://pretalx.com/media/avatars/Screenshot_from_2022-05-20_23-42-11_pAo6Omb.png"
+    },
+    {
+      "code": "KW8XBC",
+      "name": "Levente Juhász",
+      "avatar": "https://pretalx.com/media/avatars/levente-screenshot_resize_WYEh2co.jpg"
+    },
+    {
+      "code": "TBJRGL",
+      "name": "Alice Battiston",
+      "avatar": "https://pretalx.com/media/avatars/IMG_7485_GkXUmaA.JPG"
     },
     {
       "code": "ZTSLB3",
@@ -1260,6 +1380,11 @@
       "code": "XM3JTL",
       "name": "Theodor Rieche",
       "avatar": "https://pretalx.com/media/avatars/rieche_theodor-b4_MEXA9Jm.png"
+    },
+    {
+      "code": "3JDZE9",
+      "name": "Moritz Schott",
+      "avatar": "https://pretalx.com/media/avatars/_MG_7538_uV0m6Se.jpg"
     },
     {
       "code": "LSXXGM",

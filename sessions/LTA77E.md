@@ -12,7 +12,7 @@ resources: []
 recording: True
 ---
 
-The name Null Island refers to the location on Earth where the prime meridian meets the equator at 0 longitude and 0 latitude.  Even though Null Island is a fictitious, dimensionless, point object, its existence stimulates debate that elevates Null Island into a global issue worthy of serious consideration. The primary purpose of this study is to consider both qualitatively and quantitatively what the geographic oddity of Null Island means for OSM. This work will produce a structured knowledge-based resource for the community to understand Null Island’s impact on OSM.
+Null Island is where the prime meridian meets the equator at (0,0) longitude and latitude. While Null Island is a fictitious, dimensionless, point object, its existence stimulates vigorous debate making it worthy of serious consideration. Many examples exists illustrating how Null Island impacts OSM discourse. Our study considers what the geographic oddity of Null Island means for OSM. The main contribution is a structured knowledge-based resource facilitating understanding of Null Island’s impact on OSM. This socio-technical and philosophical investigation of Null Island can become a catalyst for deeper discussions and debates in OSM around mapping practices.
 
 <hr>
 
