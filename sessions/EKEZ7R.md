@@ -47,3 +47,10 @@ The high quality but diverse nature of OSM has been proven for the use-case of m
 
 Another major benefit is the usage of local OSM data for modeling, thus making regionalised models the standard procedure. This is required for OSM LULC information as regional data structures and communities exist, that need to be preserved. The model can lead to regional homogenisation and data cohesion within these regional communities.
 
+<hr>
+
+[1] Fonte, C., Milcineski, G., Bovelli, M., Patriarca, J., See, L., Antoniou, V., &amp; Minghini, M. (2016). Automated methodology for converting OSM data into a land use/cover map. In 6th International Conference on Cartography &amp; GIS. Albena. 
+[2] Jokar Arsanjani, J., Mooney, P., Zipf, A., &amp; Schauss, A. (2015). Quality Assessment of the contributed land use information from openstreetmap versus authoritative datasets. Lecture Notes in Geoinformation and Cartography, 37–58. https://doi.org/10.1007/978-3-319-14280-7_3 
+[3] Fonte, C. C., Bastin, L., See, L., Foody, G., &amp; Lupia, F. (2015). Usability of VGI for validation of land cover maps. International Journal of Geographical Information Science, 29(7), 1269–1291. https://doi.org/10.1080/13658816.2015.1018266 
+[4] Zhang, X., Wei, Y., Yang, Y., &amp; Wu, F. (2020, June 13). Rethinking Localization Map: Towards Accurate Object Perception with Self-Enhancement Maps. Cornell University arXiv. Retrieved May 20, 2022, from https://arxiv.org/abs/2006.05220v2
+

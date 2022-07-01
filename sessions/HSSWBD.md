@@ -32,3 +32,11 @@ Our findings build upon the studies of the use of OSM in high schools, which was
 
 There is still a huge scope of investigation left in this area, ideally through a longitudinal study with a bigger and more diverse sample and comparisons between different program designs, to fully understand the wide array of effects of OSM mapping on the mappers, as well as the potential to deepen positive outcomes via associated youth learning and leadership programs. There are undoubtedly other categories of benefits of OSM mapping that are yet to be identified. Hence, it is worthwhile to reconsider the idea of participatory mapping and related programs, and their effects on the contributing mappers.
 
+<hr>
+
+[1] Statistics of the free wiki world map. (n.d.). Retrieved from https://osmstats.neis-one.org/
+[2] Coetzee, S., Minghini, M., Solis, P., Rautenbach, V., &amp; Green, C. (2018). TOWARDS Undersanding the impacts of mapathons reflecting on YouthMappers experience. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W8, 35-42. doi:10.5194/isprs-archives-xlii-4-w8-35-2018
+[3]Ebrahim, M., Minghini, M., Molinari, M. E., &amp; Torrebruno, A. (2016). Minimapathon - Mapping The World At 10 Years Old. EDULEARN16 Proceedings. doi:10.21125/edulearn.2016.2018
+[4]Hite, R., Solís, P., Wargo, L., &amp; Larsen, T. (2018). Exploring Affective Dimensions of Authentic Geographic Education Using a Qualitative Document Analysis of Students’ YouthMappers Blogs. Education Sciences, 8(4), 173. doi:10.3390/educsci8040173
+[5]Price, M., Berdnyk, A., &amp; Brown, S. (2019). Open Source Mapping in Latin America: Collaborative Approaches in the Classroom and Field. Journal of Latin American Geography, 18(2), 13-32. doi:10.1353/lag.2019.0032
+

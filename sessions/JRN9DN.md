@@ -44,3 +44,27 @@ This case study cheaply and easily reproduced popular methods for both intrinsic
 
 The release of OSM-based datasets, such as Nirandjan et al. [6], shows a desire for more researchers to  use OSM data. While OSM data is freely and openly available, researchers must take many steps to download, transform, and ingest the data into an analysis workflow. To solve this, we have made ARD-OSM available in RODA. This analysis-ready dataset contains 1B features—nearly every OpenStreetMap object—in common geospatial feature types such as points, lines, and polygons. To additionally aid researchers, features are enriched with additional metadata describing their location and physical attributes such as length or surface area. From a data accessibility perspective, we anticipate ARD-OSM in future research and innovation, curated by a wide range of end-users, to readily integrate OSM data for decision-making processes which bring communities closer together.
 
+<hr>
+
+1. Open Data Charter. (n.d.) Principles. Open Data Charter. https://opendatacharter.net/principles/
+
+2. Keenan, P.B. &amp; Jankowski, P. (2018). Spatial decision support systems: Three decades on. Decision Support Systems, 116(2019), 64-76. https://doi.org/10.1016/j.dss.2018.10.010 
+
+3. Johnson, P.A. (2017) Models of direct editing of government spatial data: challenges and constraints to the acceptance of contributed data, Cartography and Geographic Information Science, 44:2, 128-138, DOI: 10.1080/15230406.2016.1176536
+
+4. Palen, L., Soden, R., Anderson, T.J., &amp; Barrenechea, M. (2015). Success &amp; Scale in a Data-Producing Organization: The Socio-Technical Evolution of OpenStreetMap in Response to Humanitarian Events. In Proceedings of ACM CHI ‘15. 4113-4122.
+
+5. Maidin, M.A.A., Ahmad, F., Abidin, N.I., Suhaili, J., Awang, M., Rahman, M.A.A., Musa, M.K., Hamidon, N., Yusop, F.M., Syazwan, M.M.S., Harun, H., Hamid, N.H.A., &amp; Kamil, N.A. (2021). Design campus map using OpenStreetMap digital software. In Zaini, M.A.A., Jusoh, M., Othman, N. (Eds.), Proceedings of the 3rd International Conference on Separation Technology. Lecture Notes in Mechanical Engineering (113-129). Springer.  DOI:10.1007/978-981-16-0742-4_8
+
+6. Nirandjan, S., Koks, E.E., Ward, P.J. &amp; Aerts, J.C.J.H. (2022). A spatially-explicit harmonized global dataset of critical infrastructure. Sci Data 9(150). DOI:10.1038/s41597-022-01218-4 
+
+7. National Academy of Sciences, National Academy of Engineering and Institute of Medicine Committee on Ensuring the Utility and Integrity of Research Data in a Digital Age (2009). Ensuring the integrity, accessibility, and stewardship of research data in the digital age. National Academies Press.
+
+8. Daylight Map Distribution of OpenStreetMap was accessed on 2022-04-06 from https://registry.opendata.aws/daylight-osm.
+
+9. Yeboah G, Porto de Albuquerque J, Troilo R, Tregonning G, Perera S, Ahmed SAKS, Ajisola M, Alam O, Aujla N, Azam SI, Azeem K, Bakibinga P, Chen Y-F, Choudhury NN, Diggle PJ, Fayehun O, Gill P, Griffiths F, Harris B, Iqbal R, Kabaria C, … Yusuf R. (2021). Analysis of OpenStreetMap Data Quality at Different Stages of a Participatory Mapping Process: Evidence from Slums in Africa and Asia. ISPRS International Journal of Geo-Information. 10(4):265. DOI:10.3390/ijgi10040265
+
+10. Herfort, B., Lautenbach, S., Porto de Albuquerque, J., Anderson, J., &amp; Zipf, A. (2021). The evolution of humanitarian mapping within the OpenStreetMap community. Nature Scientific Reports 11(3037). DOI:10.1038/s41598-021-82404-z
+
+The rest of the bibliography is here: https://docs.google.com/document/d/1bd1fdidmHWPSNw4lFlRbHpMOtQXsn_rJmR5aam7vfAM/edit?usp=sharing
+

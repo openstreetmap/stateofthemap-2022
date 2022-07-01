@@ -35,3 +35,21 @@ These findings help to begin to build a case for understanding the potential of 
 
 These findings offer insights for how other types of communities could leverage their existing milieu in ways that strengthens OSM broadly. Ultimately, the idea of hybrid movements encourages OSM to embrace a pluralistic, inclusive and diverse set of communities that not only bring individual contributions but leverages other systems like the landscape of academia was systematically enlisted via the YouthMappers design.
 
+<hr>
+
+Andal, F., M. Islam, A.R. Shaheen, and J. Anderson. (2022).  Understanding YouthMappers Contributions to Building Resilient Communities in Asia. In Solís &amp; Zeballos (Eds.) Open Mapping towards Sustainable Development Goals. Springer.
+Anderson, J. (2022). YouthMappers Activity. https://activity.youthmappers.org. 
+Bawakyillenuo, S., Osei-Akoto, I., Ahiadeke, C., Aryeetey, E. B.-D., &amp; Agbe, E. K. (2013). Tertiary education and industrial development in Ghana. Policy brief. International Growth Center.
+Boateng, E.N.K., Z. Manyungwa, and J. Anderson. (2022). Assessing YouthMappers Contributions to the Generation of Open Geospatial Data in Africa. In Solís &amp; Zeballos (Eds.) Open Mapping towards Sustainable Development Goals. Springer.
+Brovelli, M.A., M. Ponte, S. Shade, and P. Solís. (2019). Citizen Science in Support of Digital Earth. In Guo, Goodchild, &amp; Annoni (Eds.) Manual of Digital Earth. International Society for Digital Earth. Springer. DOI: 10.1007/978-981-32-9915-3.
+Heaney, M., and F. Rojas. (2014). Hybrid activism: Social movement mobilization in a multimovement environment. American Journal of Sociology, 119(4), 1047–1103. DOI: 10.1086/674897.
+Hite, R., P. Solís, L. Wargo, and T.B. Larsen. (2018). Exploring Affective Dimensions of Authentic Geographic Education using a Qualitative Document Analysis of Students’ YouthMappers Blogs. Education Sciences 8(4):173. DOI:10.3390/educsci8040173.
+Mahmud, Z., A. Chauhan, D. Sarkar, and R. Soden. (2022). Revisiting Engagement in Humanitarian Mapping: An Updated Analysis of Contributor Retention in OpenStreetMap. CHI ’22 Extended Abstracts, April 29-May 5, 2022, New Orleans, LA, USA. Association for Computing Machinery. DOI:10.1145/3491101.3519728.
+Soja, E. (1996). Thirdspace: Journeys to Los Angeles and other real-and-imagined places. Oxford.
+Solís, P. (2016). YouthMappers: Open Mapping for Resilience Network of Universities. Invited presentation, Humanitarian OpenStreetMap Summit. September, Brussels, Belgium.
+Solís, P., B. McCusker, N. Menkiti, N. Cowan, and C. Blevins. (2018). Engaging Global Youth in Participatory Spatial Data Creation for the UN Sustainable Development Goals: The Case of Open Mapping for Malaria Prevention. Applied Geography 98:143-155.  DOI: 10.1016/j.apgeog.2018.07.013. 
+Solís, P., J. Anderson, and S. Rajagopalan. (2020). Open Geospatial Tools for Humanitarian Data Creation, Analysis, and Learning through the Global Lens of YouthMappers. Journal of Geographical Systems 23(4):599-625. DOI: 10.1007/s10109-020-00339-x.
+Solís, P., S. Rajagopalan, L. Villa, M.B. Mohiuddin, B. Boateng, S. Wavamunno Nakacwa, and M.F. Peña Valencia. (2022). Digital Humanitarians for the Sustainable Development Goals: YouthMappers as a Hybrid Movement. Journal of Geography in Higher Education 46(1):80-100.  DOI: 10.1080/03098265.2020.1849067.
+Solís, P. and M. Zeballos (Eds.). (2022, forthcoming). Open Mapping towards Sustainable Development Goals: Voices of YouthMappers on Community Engaged Scholarship. Springer Nature Sustainable Development Goals Series. 
+Walachosky, N., C. Gómez, K. Martínez, M. Amaya, M. Rodríguez, M. Centeno, and J. Anderson. (2022). Visualizing YouthMappers Contributions to Environmental Resilience in Latin America. In Solís &amp; Zeballos (Eds.) Open Mapping towards Sustainable Development Goals. Springer.
+

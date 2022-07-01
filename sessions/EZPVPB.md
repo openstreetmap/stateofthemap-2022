@@ -28,3 +28,17 @@ After mapping these metrics, we analyzed how they correlate with each other and 
 
 While this presentation highlights the trends of data quality increase, it does not tease apart the quality assessment of contributions by corporate teams versus other mapping groups. As a crowdsourcing platform, data in OSM is co-produced by repeated editing of data objects by different members of the community [9]. The appearance of CEs in OSM represents the arrival of another community of ‘produsers’ in the OSM ecosystem, and thus a new evolution in its overall trajectory [2,10,11]. Consequently, there is significant interaction between CEs and non-CEs in data co-production in OSM, further reinforcing the idea that OSM is a ‘community of communities’ [11]. Each location has their own patterns regarding editing communities, what they edit, and the sociopolitical and economic ground truth in the real world.  Each of these factors impact the data, and may make comparing editing patterns difficult, especially given the diversity of motivations both with CE communities and within other OSM communities. Hence, we do not try to pry apart the differences in trends between individual countries. Instead, we focus on the overall trend between our test and control locations. With these caveats, we find that the quality of the network has increased in these areas across all tracked metrics at a faster rate than it has in areas with low rates of corporate edits, indicating that corporate editing may have a positive effect on the overall quality of the map.
 
+<hr>
+
+1. Budhathoki, N.R.; Haythornthwaite, C. (2013) Motivation for Open Collaboration. Am. Behav. Sci. 57, 548–575, doi:10.1177/0002764212469364.
+2. Anderson, J.; Sarkar, D.; Palen, L. (2019) Corporate Editors in the Evolving Landscape of OpenStreetMap. ISPRS Int. J. Geo-Inf. 8, 232, doi:10.3390/ijgi8050232.
+3. Dickinson, C. (2021) Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence. Bloomberg.com.
+4. Coast, S. (2015) The Book of OSM; CreateSpace Independent Publishing Platform: California, United States of America; ISBN 1-5142-3274-X.
+5. Barron, C.; Neis, P.; Zipf, A. (2014) A Comprehensive Framework for Intrinsic OpenStreetMap Quality Analysis. Trans. GIS 18, 877–895, doi:10.1111/tgis.12073.
+6. Senaratne, H.; Mobasheri, A.; Ali, A.L.; Capineri, C.; Haklay, M. (2017) A Review of Volunteered Geographic Information Quality Assessment Methods. Int. J. Geogr. Inf. Sci. 31, 139–167, doi:10.1080/13658816.2016.1189556.
+7. Antoniou, V.; Skopeliti, A. (2015) MEASURES AND INDICATORS OF VGI QUALITY: AN OVERVIEW. ISPRS Ann. Photogramm. Remote Sens. Spat. Inf. Sci. II-3/W5, 345–351, doi:10.5194/isprsannals-II-3-W5-345-2015.
+8. R Core Team (2022) R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/
+9. Mooney, P.; Corcoran, P. (2014) Analysis of Interaction and Co-Editing Patterns amongst Openstreetmap Contributors. Trans. GIS 18, 633–659, doi:10.1111/tgis.12051.
+10. Coleman, D.J.; Georgiadou, Y.; Labonte, J.; Observation, E.; Canada, N.R. (2009)Volunteered Geographic Information : The Nature and Motivation of Produsers. Int. J. Spat. Data Infrastruct. Res. 4, 332–358, doi:10.2902/1725-0463.2009.04.art16.
+11.  Solis, P. (2017) Building Mappers Not Just Maps: Challenges and Opportunities from YouthMappers on Scaling up the Crowd in Crowd-Sourced Open Mapping for Development. In Proceedings of the Annual Meeting of the Association of American Geographers; Boston, Massachusetts.
+

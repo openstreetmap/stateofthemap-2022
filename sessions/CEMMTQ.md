@@ -32,3 +32,45 @@ One potential application of the IM function could be to explore the existence a
 
 The following steps of the OpenInfra project are focused on scaling up. The goal is to produce ‘OSM transport infrastructure data packs’ for transport authorities in England to support the uptake of open-access data, such as OSM, in transport planning. We believe that the utilization of open-access data could make transport planning more transparent, reproducible, and participatory which, consequently, would support an uptake of sustainable modes of travel. OSM specifically has the potential to provide localized insights on the existing transport infrastructure and facilitate more inclusive and accessible transport planning.
 
+<hr>
+
+1. Jokar Arsanjani, J., Zipf, A., Mooney, P., &amp; Helbich, M. (2015). An Introduction to OpenStreetMap in Geographic Information Science: Experiences, Research, and Applications. In J. Jokar Arsanjani, A. Zipf, P. Mooney, &amp; M. Helbich (Eds.), OpenStreetMap in GIScience: Experiences, Research, and Applications. Springer International Publishing.  
+
+2. Ziemke, D., Kaddoura, I., &amp; Nagel, K. (2019). The MATSim Open Berlin Scenario: A multimodal agent-based transport simulation scenario based on synthetic demand modeling and open data. Procedia Computer Science, 151, 870–877.  
+
+3. Luxen, D., &amp; Vetter, C. (2011). Real-time routing with OpenStreetMap data. Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 513–516.  
+
+4. Yeboah, G., &amp; Alvanides, S. (2015). Route Choice Analysis of Urban Cycling Behaviors Using OpenStreetMap: Evidence from a British Urban Environment. In J. Jokar Arsanjani, A. Zipf, P. Mooney, &amp; M. Helbich (Eds.), OpenStreetMap in GIScience: Experiences, Research, and Applications. Springer International Publishing.  
+
+5. Zielstra, D., &amp; Hochmair, H. H. (2012). Using Free and Proprietary Data to Compare Shortest-Path Lengths for Effective Pedestrian Routing in Street Networks. Transportation Research Record, 2299(1), 41–47.  
+
+6. Neis, P. (2015). Measuring the Reliability of Wheelchair User Route Planning based on Volunteered Geographic Information. Transactions in GIS, 19(2), 188–201.  
+
+7. Cohen, A., &amp; Dalyot, S. (2021). Route planning for blind pedestrians using OpenStreetMap. Environment and Planning B: Urban Analytics and City Science, 48(6), 1511–1526.  
+
+8. Nelson, T., Ferster, C., Laberee, K., Fuller, D., &amp; Winters, M. (2021). Crowdsourced data for bicycling research and practice. Transport Reviews, 41(1), 97–114.  
+
+9. Basiri, A., Haklay, M., Foody, G., &amp; Mooney, P. (2019). Crowdsourced geospatial data quality: Challenges and future directions. International Journal of Geographical Information Science, 33(8), 1588–1593.  
+
+10. Haklay, M. (2010). How Good is Volunteered Geographical Information? A Comparative Studyof OpenStreetMap and Ordnance Survey Datasets. Environment and Planning B: Planning and Design, 37(4), 682–703.  
+
+11. Barrington-Leigh, C., &amp; Millard-Ball, A. (2017). The world’s user-generated road map is more than 80% complete. PLOS ONE, 12(8).  
+
+12. Ferster, C., Fischer, J., Manaugh, K., Nelson, T., &amp; Winters, M. (2020). Using OpenStreetMapto inventory bicycle infrastructure: A comparison with open data from cities. International Journal of Sustainable Transportation, 14(1), 64–73.  
+
+13. BEIS. (2021). Net Zero Strategy: Build Back Greener. 
+
+14. Department for Transport. (2020). Cycle infrastructure design. 
+
+15. Department for Transport. (2021). Inclusive mobility. 
+
+16. Aldred, R., Woodcock, J., &amp; Goodman, A. (2016). Does More Cycling Mean More Diversity in Cycling? Transport Reviews, 36(1), 28–44.  
+
+17. Boularouk, S., Josselin, D., &amp; Altman, E. (2017). Ontology for a voice transcription of OpenStreetMap data: The case of space apprehension by visually impaired persons. World Academy of Science, Engineering and Technology. 
+
+18. Gilardi, A., &amp; Lovelace, R. (2021). Osmextract: Download and Import Open Street Map Data Extracts.  
+
+19. Timaite, G., Lovelace, R., &amp; Houlden, V. (2022). The potential of OpenStreetMap for (accessible) active travel planning. 30th Annual Geographical Information Science Research UK.  
+
+20. Leeds City Council. (2021). Leeds City Council Footfall Camera Aggregated Data. CDRC.
+
