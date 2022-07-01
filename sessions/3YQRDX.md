@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Landmarks for accessible space – promoting geo-literacy through geospatial citizen science"
 code: "3YQRDX"
 speaker_names: [

@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Combining Volunteered Geographic Information and WPdx standards to Improve Mapping of Rural Water Infrastructure in Uganda."
 code: "JNCVKY"
 speaker_names: [

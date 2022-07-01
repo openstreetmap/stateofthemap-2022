@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Null Island - a node of contention in OpenStreetMap"
 code: "LTA77E"
 speaker_names: [

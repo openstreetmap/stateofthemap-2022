@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap."
 code: "ASADTB"
 speaker_names: [

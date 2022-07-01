@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Mapping crises, communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain"
 code: "NWB9QF"
 speaker_names: [

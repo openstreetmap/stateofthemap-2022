@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Corporate editing and its impact on network navigability within OpenStreetMap"
 code: "EZPVPB"
 speaker_names: [

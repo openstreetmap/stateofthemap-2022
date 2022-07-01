@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Understanding and modelling accessibility to public green in large urban centers using OpenStreetMap data"
 code: "TA9VAF"
 speaker_names: [

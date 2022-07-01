@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Returning the favor - Leveraging quality insights of OpenStreetMap-based land-use/land-cover multi-label modeling to the community"
 code: "EKEZ7R"
 speaker_names: [

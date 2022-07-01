@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "OSM for sustainable transport planning"
 code: "CEMMTQ"
 speaker_names: [

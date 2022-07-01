@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "OpenStreetMap as a tool for skill building"
 code: "HSSWBD"
 speaker_names: [

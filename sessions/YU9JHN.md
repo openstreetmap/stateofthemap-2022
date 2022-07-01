@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations"
 code: "YU9JHN"
 speaker_names: [

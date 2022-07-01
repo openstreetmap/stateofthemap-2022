@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM"
 code: "JNJKYR"
 speaker_names: [

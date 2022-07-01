@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach"
 code: "9HBH3X"
 speaker_names: [

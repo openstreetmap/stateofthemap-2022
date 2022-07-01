@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness"
 code: "JRN9DN"
 speaker_names: [

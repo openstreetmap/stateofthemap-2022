@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: session_academic
 title: "YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities"
 code: "THYCMA"
 speaker_names: [
