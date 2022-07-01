@@ -2,7 +2,10 @@
 layout: session
 title: "Understanding and modelling accessibility to public green in large urban centers using OpenStreetMap data"
 code: "TA9VAF"
-speaker_names: ['Alice Battiston']
+speaker_names: [
+  'Alice Battiston (University of Turin)',
+  'Rossano Schifanella (Univeristy of Turin and ISI Foundation)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

@@ -2,7 +2,11 @@
 layout: session
 title: "Landmarks for accessible space – promoting geo-literacy through geospatial citizen science"
 code: "3YQRDX"
-speaker_names: ['Sagi Dalyot']
+speaker_names: [
+  'Dalit Lan (Education in science and technology, The Technion)',
+  'Sagi Dalyot (Mapping and geoinformation engineering, The Technion)',
+  'Ayelet Baram-Tsabari (Education in science and technology, The Technion)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

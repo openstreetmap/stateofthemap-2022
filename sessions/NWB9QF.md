@@ -2,7 +2,9 @@
 layout: session
 title: "Mapping crises, communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain"
 code: "NWB9QF"
-speaker_names: ['Anne Lee Steele']
+speaker_names: [
+  'Anne Lee Steele (The Alan Turing Institute, Internet Society, Fellow)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

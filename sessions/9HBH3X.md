@@ -2,7 +2,14 @@
 layout: session
 title: "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach"
 code: "9HBH3X"
-speaker_names: ['Silvana Philippi Camboim']
+speaker_names: [
+  'Silvana Philippi Camboim (UFPR)',
+  'Caio Dos Anjos Paiva (UFPR)',
+  'Marcio Augusto Reolon Schmidt (UFPR)',
+  'Elias Nasr Naim Elias (UFPR)',
+  'Everton Bortolini (UFPR)',
+  'Guilherme Silva Neivas (UFPR)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

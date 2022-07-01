@@ -2,7 +2,10 @@
 layout: session
 title: "Null Island - a node of contention in OpenStreetMap"
 code: "LTA77E"
-speaker_names: ['Peter Mooney', 'Levente Juhász']
+speaker_names: [
+  'Peter Mooney (Department of Computer Science, Maynooth University, Ireland)',
+  'Levente Juhász (Geographic Information Systems Center, Florida International University, Miami, USA)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

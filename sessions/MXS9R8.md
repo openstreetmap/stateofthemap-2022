@@ -2,7 +2,11 @@
 layout: session
 title: "Leveraging OpenStreetMap to investigate urban accessibility and safety of visually impaired pedestrians"
 code: "MXS9R8"
-speaker_names: ['Sagi Dalyot']
+speaker_names: [
+  'Achituv Cohen (University of California, Santa Barbara)',
+  'Asya Natapov (Loughborough University)',
+  'Sagi Dalyot (The Technion)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

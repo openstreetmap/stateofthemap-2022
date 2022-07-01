@@ -2,7 +2,11 @@
 layout: session
 title: "Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations"
 code: "YU9JHN"
-speaker_names: ['Alishiba Dsouza']
+speaker_names: [
+  'Alishiba Dsouza (Data Science & Intelligent Systems, University of Bonn, Germany)',
+  'Moritz Schott (Institute of Geography, GIScience, Heidelberg University, Germany)',
+  'Sven Lautenbach (Institute of Geography, GIScience, Heidelberg University, Germany)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

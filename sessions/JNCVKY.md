@@ -2,7 +2,13 @@
 layout: session
 title: "Combining Volunteered Geographic Information and WPdx standards to Improve Mapping of Rural Water Infrastructure in Uganda."
 code: "JNCVKY"
-speaker_names: ['Stellamaris Nakacwa']
+speaker_names: [
+  'Stellamaris Nakacwa (Department of Geology and Geography, West Virginia University)',
+  'Brent McCusker (Department of Geology and Geography, West Virginia University)',
+  'Courtney Clark (Everywhere She Maps, YouthMappers)',
+  'Katy Sill (Water Point Data Exchange, Global Water Challenge)',
+  'Rory Nealon (USAID GeoCentre)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

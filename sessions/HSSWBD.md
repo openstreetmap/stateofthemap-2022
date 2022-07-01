@@ -2,7 +2,11 @@
 layout: session
 title: "OpenStreetMap as a tool for skill building"
 code: "HSSWBD"
-speaker_names: ['Aishworya Shrestha']
+speaker_names: [
+  'Aishworya Shrestha (Kathmandu Living Labs)',
+  'Nama Budhathoki (Kathmandu Living Labs​)',
+  'Nancy Erbstein (Institute for Global Health and Faculty of Pop Health Sciences, University of California, Davis)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

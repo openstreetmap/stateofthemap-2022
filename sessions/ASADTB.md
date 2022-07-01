@@ -2,7 +2,10 @@
 layout: session
 title: "Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap."
 code: "ASADTB"
-speaker_names: ['Theodor Rieche']
+speaker_names: [
+  'Theodor Rieche (Leibniz Institute of Ecological Urban and Regional Development (IOER))',
+  'Robert Hecht (Leibniz Institute of Ecological Urban and Regional Development (IOER))'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

@@ -2,7 +2,13 @@
 layout: session
 title: "Returning the favor - Leveraging quality insights of OpenStreetMap-based land-use/land-cover multi-label modeling to the community"
 code: "EKEZ7R"
-speaker_names: ['Moritz Schott']
+speaker_names: [
+  'Moritz Schott (Institute of Geography, GIScience, Heidelberg University)',
+  'Adina Zell (Faculty of Electrical Engineering and Computer Science, Remote Sensing Image Analysis Group, Technische Universität Berlin)',
+  'Sven Lautenbach (Institute of Geography, GIScience, Heidelberg University)',
+  'Begüm Demir (Faculty of Electrical Engineering and Computer Science, Remote Sensing Image Analysis Group, Technische Universität Berlin)',
+  'Alexander Zipf (Institute of Geography, GIScience, Heidelberg University)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

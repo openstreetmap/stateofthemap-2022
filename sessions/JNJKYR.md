@@ -2,7 +2,11 @@
 layout: session
 title: "OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM"
 code: "JNJKYR"
-speaker_names: ['Kauê de Moraes Vestena']
+speaker_names: [
+  'Kauê de Moraes Vestena (Universidade Federal do Paraná)',
+  'Silvana Phillipi Camboim  (Universidade Federal do Paraná)',
+  'Daniel Rodrigues dos Santos (Instituto Militar de Engenharia)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

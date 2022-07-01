@@ -2,7 +2,11 @@
 layout: session
 title: "Corporate editing and its impact on network navigability within OpenStreetMap"
 code: "EZPVPB"
-speaker_names: ['Corey Dickinson']
+speaker_names: [
+  'Corey Dickinson (Mcgill University, Geography)',
+  'Jugal Patel (Mcgill University, Geography)',
+  'Dipto Sarkar (Carlton University, Geography)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "5"

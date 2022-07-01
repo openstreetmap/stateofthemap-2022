@@ -2,7 +2,10 @@
 layout: session
 title: "Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness"
 code: "JRN9DN"
-speaker_names: ['Jennings Anderson', 'Timmera Whaley Omidire']
+speaker_names: [
+  'Jennings Anderson (Meta)',
+  'Timmera Whaley Omidire (Meta)'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"

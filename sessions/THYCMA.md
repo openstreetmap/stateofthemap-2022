@@ -2,7 +2,9 @@
 layout: session
 title: "YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities"
 code: "THYCMA"
-speaker_names: ['Patricia Solis']
+speaker_names: [
+  'Patricia Solís'
+]
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"
