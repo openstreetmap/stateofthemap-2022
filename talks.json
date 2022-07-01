@@ -827,7 +827,8 @@
       "abstract": "OpenStreetMap (OSM) data has the potential to facilitate bottom-up approach to transport planning which is essential for localized data-driven policy interventions. Given this, OpenInfra project is exploring the potential of OSM data in transport research with a focus on active travel. The exploration showed that currently missing data limits the applicability of OSM data. Nevertheless, we argue that the potential and relevance of OSM data can be demonstrated by recategorizing OSM data to provide more actionable insights to policy-makers. This, therefore, could encourage the uptake of open data leading to more transparent, reproducible, and participatory transport planning.",
       "speakers": [
         "QLGPWP",
-        "JKFJUJ"
+        "JKFJUJ",
+        "WCZYCM"
       ],
       "track": null,
       "start": "2022-08-21T12:00:00+02:00",
@@ -917,6 +918,18 @@
       "track": null,
       "start": "2022-08-21T15:00:00+02:00",
       "end": "2022-08-21T15:30:00+02:00",
+      "room": 1532
+    },
+    {
+      "code": "NWB9QF",
+      "title": "Mapping crises, communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain",
+      "abstract": "This proposal expands an understanding of humanitarian mapping from an ethnographic perspective, seeking to understand the complex mechanics behind this confluence of humanitarianism, technology, and crowdsourced labor. It seeks to scaffold a notion of the “open source mapping supply chain”, situating both humanitarian mapping and OpenStreetMap itself within a larger ecosystem of commercial, humanitarian, open source, government, and other actors in developing geospatial-related technologies.",
+      "speakers": [
+        "CBRUZQ"
+      ],
+      "track": null,
+      "start": "2022-08-21T15:30:00+02:00",
+      "end": "2022-08-21T16:00:00+02:00",
       "room": 1532
     }
   ],
@@ -1312,34 +1325,9 @@
       "avatar": null
     },
     {
-      "code": "PCBWXG",
-      "name": "Stellamaris Nakacwa",
-      "avatar": "https://pretalx.com/media/avatars/IMG-20211002-WA0027_2_IrzHBac.jpg"
-    },
-    {
-      "code": "3MZ9U7",
-      "name": "Aishworya Shrestha",
-      "avatar": "https://pretalx.com/media/avatars/IMG_20200718_114509_891_ybKiqhg.jpg"
-    },
-    {
-      "code": "YLANUK",
-      "name": "Silvana Philippi Camboim",
-      "avatar": null
-    },
-    {
       "code": "DZHREX",
       "name": "Corey Dickinson",
       "avatar": "https://pretalx.com/media/avatars/greencrop_BdznTCO.jpg"
-    },
-    {
-      "code": "JKFJUJ",
-      "name": "James Hulse",
-      "avatar": null
-    },
-    {
-      "code": "QLGPWP",
-      "name": "Greta Timaite",
-      "avatar": null
     },
     {
       "code": "HXJM9Z",
@@ -1347,9 +1335,9 @@
       "avatar": "https://pretalx.com/media/avatars/Commission_3_chair_elect_index_3cb1fLF.png"
     },
     {
-      "code": "ZNEQGS",
-      "name": "Patricia Solis",
-      "avatar": "https://pretalx.com/media/avatars/Headshot_SOLIS_2021_MJhD8Qf.jpg"
+      "code": "QLGPWP",
+      "name": "Greta Timaite",
+      "avatar": null
     },
     {
       "code": "UNDQDX",
@@ -1377,14 +1365,14 @@
       "avatar": "https://pretalx.com/media/avatars/IMG_20200704_143021_LpJ2RVB.jpg"
     },
     {
-      "code": "XM3JTL",
-      "name": "Theodor Rieche",
-      "avatar": "https://pretalx.com/media/avatars/rieche_theodor-b4_MEXA9Jm.png"
+      "code": "WCZYCM",
+      "name": "Robin Lovelace",
+      "avatar": "https://pretalx.com/media/avatars/rl-in-munster_0u0XUXS.jpg"
     },
     {
-      "code": "3JDZE9",
-      "name": "Moritz Schott",
-      "avatar": "https://pretalx.com/media/avatars/_MG_7538_uV0m6Se.jpg"
+      "code": "CBRUZQ",
+      "name": "Anne Lee Steele",
+      "avatar": "https://www.gravatar.com/avatar/89ad545dc495c8404390fbf1656395a7"
     },
     {
       "code": "LSXXGM",
@@ -1395,6 +1383,41 @@
       "code": "9GZ9SL",
       "name": "Alishiba Dsouza",
       "avatar": "https://pretalx.com/media/avatars/Photo_Alishiba_7SZ1XrO.jpg"
+    },
+    {
+      "code": "PCBWXG",
+      "name": "Stellamaris Nakacwa",
+      "avatar": "https://pretalx.com/media/avatars/IMG-20211002-WA0027_2_IrzHBac.jpg"
+    },
+    {
+      "code": "3MZ9U7",
+      "name": "Aishworya Shrestha",
+      "avatar": "https://pretalx.com/media/avatars/IMG_20200718_114509_891_ybKiqhg.jpg"
+    },
+    {
+      "code": "YLANUK",
+      "name": "Silvana Philippi Camboim",
+      "avatar": null
+    },
+    {
+      "code": "JKFJUJ",
+      "name": "James Hulse",
+      "avatar": null
+    },
+    {
+      "code": "ZNEQGS",
+      "name": "Patricia Solis",
+      "avatar": "https://pretalx.com/media/avatars/Headshot_SOLIS_2021_MJhD8Qf.jpg"
+    },
+    {
+      "code": "XM3JTL",
+      "name": "Theodor Rieche",
+      "avatar": "https://pretalx.com/media/avatars/rieche_theodor-b4_MEXA9Jm.png"
+    },
+    {
+      "code": "3JDZE9",
+      "name": "Moritz Schott",
+      "avatar": "https://pretalx.com/media/avatars/_MG_7538_uV0m6Se.jpg"
     }
   ]
 }

@@ -2,7 +2,7 @@
 layout: session
 title: "OSM for sustainable transport planning"
 code: "CEMMTQ"
-speaker_names: ['Greta Timaite', 'James Hulse']
+speaker_names: ['Robin Lovelace', 'Greta Timaite', 'James Hulse']
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"
