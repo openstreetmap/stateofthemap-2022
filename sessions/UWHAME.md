@@ -7,8 +7,8 @@ speaker_names: ['Kristen Tonga']
 affiliations: HOT
 room: "Auditorium A - A001"
 length: "20"
-time: "Friday, 11:30"
-time_iso: "2022-08-19T09:30:00Z"
+time: "Friday, 12:00"
+time_iso: "2022-08-19T10:00:00Z"
 resources: []
 recording: True
 ---
