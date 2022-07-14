@@ -10,8 +10,8 @@ speaker_names: [
 affiliations: None
 room: "Auditorium B - A101"
 length: "20"
-time: "Sunday, 12:00"
-time_iso: "2022-08-21T10:00:00Z"
+time: "Sunday, 12:30"
+time_iso: "2022-08-21T10:30:00Z"
 resources: []
 recording: True
 ---

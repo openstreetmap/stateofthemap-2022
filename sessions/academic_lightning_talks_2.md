@@ -13,10 +13,15 @@ recording: True
 
 The following lighting talks are presented in this session of the academic track:
 
-## [OpenStreetMap as a tool for skill building](/sessions/HSSWBD)
-### Aishworya Shrestha (Research Assistant, Kathmandu Living Labs)<br>Nama Budhathoki (Founder and Chair, Kathmandu Living Labs​)<br>Nancy Erbstein (Senior Research Associate, Institute for Global Health and Faculty of Pop Health Sciences, University of California, Davis)
+## [Combining Volunteered Geographic Information and WPdx standards to Improve Mapping of Rural Water Infrastructure in Uganda.](/sessions/JNCVKY)
+### Stellamaris Nakacwa (Department of Geology and Geography, West Virginia University)<br>Brent McCusker (Department of Geology and Geography, West Virginia University)<br>Courtney Clark (Everywhere She Maps, YouthMappers)<br>Katy Sill (Water Point Data Exchange, Global Water Challenge)<br>Rory Nealon (USAID GeoCentre)
 
-This talk explores the effects of OpenStreetMapping on the mappers. These effects also infer that OSM mapping can be used as a tool for skill-building.
+The lack of data on the distribution of the water resources, possess a great challenge for the water resource investment and AI/ML-enabled advancements in the water sector compared to all other sectors like heath. This paper describes the methodology for combining different water mapping schemas to create comprehensive multi-platform water infrastructure data and enhance rapid updates to support a suite of water resource analytics and extended advanced technology explorations towards improved decision-making.
+
+## [Floor plan extraction from digital building models](/sessions/ZUXTN8)
+### Helga Tauscher (Bauhaus-Universität Weimar)
+
+As part of a larger endeavour to make floor plan representations from building models available for indoor map and navigation services, we study the integration of  IFC and OSM.
 
 ## [Leveraging OpenStreetMap to investigate urban accessibility and safety of visually impaired pedestrians](/sessions/MXS9R8)
 ### Achituv Cohen (University of California, Santa Barbara)<br>Asya Natapov (Loughborough University)<br>Sagi Dalyot (The Technion)
@@ -28,12 +33,7 @@ Cities worldwide encourage urban active mobility by advocating policy and planni
 
 OpenStreetMap data represents a valuable source of information for public green areas in large urban centers and effectively measures the United Nations' Sustainable Development Goal 11.7. Our study provides a threefold contribution in this direction. First, we validate land-use-related tags in OpenStreetMap, through a comparison with satellite data from the European Urban Atlas. We then propose a framework and an interactive tool to measure access to public green areas through several established indices. Finally, we show how the framework can be used to simulate the impact of new green areas and help policymakers design effective interventions.
 
-## [Floor plan extraction from digital building models](/sessions/ZUXTN8)
-### Helga Tauscher (Bauhaus-Universität Weimar)
+## [OpenStreetMap as a tool for skill building](/sessions/HSSWBD)
+### Aishworya Shrestha (Research Assistant, Kathmandu Living Labs)<br>Nama Budhathoki (Founder and Chair, Kathmandu Living Labs​)<br>Nancy Erbstein (Senior Research Associate, Institute for Global Health and Faculty of Pop Health Sciences, University of California, Davis)
 
-As part of a larger endeavour to make floor plan representations from building models available for indoor map and navigation services, we study the integration of  IFC and OSM.
-
-## [Combining Volunteered Geographic Information and WPdx standards to Improve Mapping of Rural Water Infrastructure in Uganda.](/sessions/JNCVKY)
-### Stellamaris Nakacwa (Department of Geology and Geography, West Virginia University)<br>Brent McCusker (Department of Geology and Geography, West Virginia University)<br>Courtney Clark (Everywhere She Maps, YouthMappers)<br>Katy Sill (Water Point Data Exchange, Global Water Challenge)<br>Rory Nealon (USAID GeoCentre)
-
-The lack of data on the distribution of the water resources, possess a great challenge for the water resource investment and AI/ML-enabled advancements in the water sector compared to all other sectors like heath. This paper describes the methodology for combining different water mapping schemas to create comprehensive multi-platform water infrastructure data and enhance rapid updates to support a suite of water resource analytics and extended advanced technology explorations towards improved decision-making.
+This talk explores the effects of OpenStreetMapping on the mappers. These effects also infer that OSM mapping can be used as a tool for skill-building.
