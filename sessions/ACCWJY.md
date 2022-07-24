@@ -4,7 +4,7 @@ title: "Every Door and the Future of POI in OpenStreetMap"
 code: "ACCWJY"
 speaker_names: ['Ilya Zverev']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 12:30"
 time_iso: "2022-08-20T10:30:00Z"

@@ -8,7 +8,7 @@ speaker_names: [
   'Daniel Rodrigues dos Santos (Instituto Militar de Engenharia)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2022-08-21T07:30:00Z"

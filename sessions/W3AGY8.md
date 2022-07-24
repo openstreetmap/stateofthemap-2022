@@ -4,7 +4,7 @@ title: "Evolving the OSM Data Model"
 code: "W3AGY8"
 speaker_names: ['Jochen Topf']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2022-08-19T13:30:00Z"

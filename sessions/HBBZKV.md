@@ -4,7 +4,7 @@ title: "The MapOSMatic APIs - generate printable maps from your own application"
 code: "HBBZKV"
 speaker_names: ['Hartmut Holzgraefe']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2022-08-19T10:30:00Z"

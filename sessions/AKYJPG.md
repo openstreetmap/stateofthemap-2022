@@ -4,7 +4,7 @@ title: "State of OSM in QGIS"
 code: "AKYJPG"
 speaker_names: ['Etienne Trimaille']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2022-08-20T14:30:00Z"

@@ -4,10 +4,10 @@ title: "UX for hyperlocal map in Southeast Asia"
 code: "YXMUVT"
 speaker_names: ['Low Ko Wee', 'Sriram Iyer']
 affiliations: Grab
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
-time: "Saturday, 15:30"
-time_iso: "2022-08-20T13:30:00Z"
+time: "Friday, 17:00"
+time_iso: "2022-08-19T15:00:00Z"
 resources: []
 recording: True
 ---

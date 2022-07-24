@@ -4,7 +4,7 @@ title: "Routing not only for Prams"
 code: "LKZYJ7"
 speaker_names: ['Roland Olbricht']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2022-08-21T09:30:00Z"

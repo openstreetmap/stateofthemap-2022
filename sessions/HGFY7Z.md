@@ -4,7 +4,7 @@ title: "Admin Boundary Conflation Tool"
 code: "HGFY7Z"
 speaker_names: ['Branko Kokanovic']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2022-08-20T08:00:00Z"

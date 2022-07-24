@@ -4,7 +4,7 @@ title: "Running OpenStreetMap.org - Today and Tomorrow"
 code: "D8XYDN"
 speaker_names: ['Grant Slater']
 affiliations: OpenStreetMap Foundation
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 17:00"
 time_iso: "2022-08-20T15:00:00Z"

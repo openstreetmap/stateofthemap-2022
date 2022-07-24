@@ -7,7 +7,7 @@ speaker_names: [
   'Timmera Whaley Omidire (Meta)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 09:00"
 time_iso: "2022-08-21T07:00:00Z"

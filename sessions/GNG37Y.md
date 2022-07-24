@@ -4,7 +4,7 @@ title: "Crowdsourcing and virtual reality applications for peacekeeping: study c
 code: "GNG37Y"
 speaker_names: ['Michael Montani']
 affiliations: United Nations Global Service Center / UN Mappers
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2022-08-21T07:30:00Z"

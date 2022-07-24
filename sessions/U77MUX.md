@@ -4,10 +4,10 @@ title: "Building an OpenStreetMap Community Playbook"
 code: "U77MUX"
 speaker_names: ['Sharon Omoja', 'Geoffrey Kateregga']
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
-time: "Saturday, 10:30"
-time_iso: "2022-08-20T08:30:00Z"
+time: "Saturday, 10:00"
+time_iso: "2022-08-20T08:00:00Z"
 resources: []
 recording: True
 ---

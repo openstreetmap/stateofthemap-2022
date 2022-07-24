@@ -7,7 +7,7 @@ speaker_names: [
   'Rossano Schifanella (Univeristy of Turin and ISI Foundation)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:15"
 time_iso: "2022-08-21T12:15:00Z"

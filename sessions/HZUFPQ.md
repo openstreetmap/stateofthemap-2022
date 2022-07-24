@@ -5,7 +5,7 @@ subtitle: "Exploring road data tags in London"
 code: "HZUFPQ"
 speaker_names: ['Gala', 'Simona Ciocoiu']
 affiliations: Diagonal (https://diagonal.works)
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2022-08-19T13:00:00Z"

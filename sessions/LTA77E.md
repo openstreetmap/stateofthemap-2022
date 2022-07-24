@@ -7,7 +7,7 @@ speaker_names: [
   'Levente Juhász (Geographic Information Systems Center, Florida International University, Miami, USA)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2022-08-21T10:00:00Z"

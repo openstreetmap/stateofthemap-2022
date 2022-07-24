@@ -4,7 +4,7 @@ title: "Local Chapters Congress"
 code: "HTEZJY"
 speaker_names: ['Naveen Francis', 'Local Chapters &amp; Communities Working Group', 'Maggie Cawley']
 affiliations: OpenStreetMap Foundation
-room: "Workshops - A108"
+room: "Workshops/&#34;Loop Cinema&#34; - Room 103"
 length: "60"
 time: "Friday, 14:30"
 time_iso: "2022-08-19T12:30:00Z"

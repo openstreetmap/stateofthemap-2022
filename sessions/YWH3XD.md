@@ -4,7 +4,7 @@ title: "Inferring default speed limits"
 code: "YWH3XD"
 speaker_names: ['Tobias Zwick']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2022-08-19T15:30:00Z"

@@ -5,10 +5,10 @@ subtitle: "Taiwan dataset import history"
 code: "TJMAQT"
 speaker_names: ['Dennis Raylin Chen']
 affiliations: OpenStreetMap Taiwan
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
-time: "Saturday, 09:30"
-time_iso: "2022-08-20T07:30:00Z"
+time: "Saturday, 10:30"
+time_iso: "2022-08-20T08:30:00Z"
 resources: []
 recording: True
 ---

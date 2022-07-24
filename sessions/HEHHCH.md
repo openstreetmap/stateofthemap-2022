@@ -4,7 +4,7 @@ title: "OpenStreetMap in the Cloud"
 code: "HEHHCH"
 speaker_names: ['Sajjad Anwar']
 affiliations: Development Seed
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 09:30"
 time_iso: "2022-08-20T07:30:00Z"

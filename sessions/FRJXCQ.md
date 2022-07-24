@@ -4,7 +4,7 @@ title: "Investigating the capability of UAV imagery in AI-assisted mapping of Re
 code: "FRJXCQ"
 speaker_names: ['Christopher Chan']
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:40"
 time_iso: "2022-08-21T08:40:00Z"

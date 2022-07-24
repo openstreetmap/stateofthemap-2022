@@ -4,7 +4,7 @@ title: "State of Independence"
 code: "URUJH8"
 speaker_names: ['Richard Fairhurst']
 affiliations: cycle.travel
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 10:30"
 time_iso: "2022-08-19T08:30:00Z"

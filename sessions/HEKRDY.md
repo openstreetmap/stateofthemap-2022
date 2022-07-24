@@ -4,7 +4,7 @@ title: "OSM and indoor data"
 code: "HEKRDY"
 speaker_names: ['Clement Igonet']
 affiliations: OpenIndoor
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2022-08-21T12:30:00Z"

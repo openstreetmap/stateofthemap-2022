@@ -4,7 +4,7 @@ title: "OSM for sustainable transport planning: getting started"
 code: "JEXYHK"
 speaker_names: ['Greta Timaite', 'James Hulse']
 affiliations: None
-room: "Workshops - A108"
+room: "Workshops/&#34;Loop Cinema&#34; - Room 103"
 length: "60"
 time: "Saturday, 14:30"
 time_iso: "2022-08-20T12:30:00Z"

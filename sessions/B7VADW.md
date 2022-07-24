@@ -4,7 +4,7 @@ title: "MapBuilder - The simplest OSM editorial tool"
 code: "B7VADW"
 speaker_names: ['Nemanja Bracko']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 11:30"
 time_iso: "2022-08-20T09:30:00Z"

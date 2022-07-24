@@ -4,10 +4,10 @@ title: "Using OpenStreetMap in the case of the social and economic infrastructur
 code: "PJBGXZ"
 speaker_names: ['Ata Franck AKOUETE']
 affiliations: OpenStreetMap Togo
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
-time: "Saturday, 10:00"
-time_iso: "2022-08-20T08:00:00Z"
+time: "Saturday, 09:30"
+time_iso: "2022-08-20T07:30:00Z"
 resources: []
 recording: True
 ---

@@ -5,7 +5,7 @@ subtitle: "An Advocate Approach to Mapping Sidewalks, Crossings, Bike lanes, Bus
 code: "YAYNSB"
 speaker_names: ['Ariel Kadouri']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Saturday, 10:30"
 time_iso: "2022-08-20T08:30:00Z"

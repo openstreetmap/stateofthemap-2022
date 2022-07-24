@@ -8,7 +8,7 @@ speaker_names: [
   'Dipto Sarkar (Carlton University, Geography)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:45"
 time_iso: "2022-08-21T08:45:00Z"

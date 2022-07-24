@@ -4,10 +4,10 @@ title: "A review of Mapillary-generated map data and how accuracy compares acros
 code: "DKLT7X"
 speaker_names: ['Said Turksever']
 affiliations: Meta/Mapillary
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
-time: "Friday, 17:00"
-time_iso: "2022-08-19T15:00:00Z"
+time: "Saturday, 15:30"
+time_iso: "2022-08-20T13:30:00Z"
 resources: []
 recording: True
 ---

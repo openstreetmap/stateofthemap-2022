@@ -4,7 +4,7 @@ title: "Inequalities in the completeness of OpenStreetMap buildings in urban cen
 code: "GPMSLW"
 speaker_names: ['Benjamin Herfort']
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:35"
 time_iso: "2022-08-21T08:35:00Z"

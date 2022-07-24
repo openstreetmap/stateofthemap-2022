@@ -7,7 +7,7 @@ speaker_names: [
   'Robert Hecht (Leibniz Institute of Ecological Urban and Regional Development (IOER))'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2022-08-21T09:30:00Z"

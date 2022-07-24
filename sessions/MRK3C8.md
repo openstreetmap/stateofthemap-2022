@@ -4,7 +4,7 @@ title: "Wikimedia Italia - What is it doing for the Italian OSM community?"
 code: "MRK3C8"
 speaker_names: ['Anisa Kuci']
 affiliations: Wikimedia Italia
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Sunday, 15:30"
 time_iso: "2022-08-21T13:30:00Z"

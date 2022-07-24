@@ -4,7 +4,7 @@ title: "10 Years Of MapRoulette"
 code: "RRUH8S"
 speaker_names: ['Martijn van Exel']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 11:30"
 time_iso: "2022-08-19T09:30:00Z"

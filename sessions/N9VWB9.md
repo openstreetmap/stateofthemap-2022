@@ -5,7 +5,7 @@ subtitle: "OpenStreetMap data for climate change adaptation projects"
 code: "N9VWB9"
 speaker_names: ['Luc Kpogbe']
 affiliations: CartONG
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2022-08-19T13:00:00Z"

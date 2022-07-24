@@ -8,7 +8,7 @@ speaker_names: [
   'Ayelet Baram-Tsabari (Education in science and technology, The Technion)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 15:00"
 time_iso: "2022-08-21T13:00:00Z"

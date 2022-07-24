@@ -4,7 +4,7 @@ title: "Satellite Imagery for Social Good - Our Reflections"
 code: "GNEJ9G"
 speaker_names: ['Shamilah Nassozi']
 affiliations: Humanitarian OpenStreetMap Team
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Saturday, 17:00"
 time_iso: "2022-08-20T15:00:00Z"

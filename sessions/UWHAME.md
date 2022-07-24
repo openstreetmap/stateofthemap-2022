@@ -5,7 +5,7 @@ subtitle: "Making OSM contribution accessible"
 code: "UWHAME"
 speaker_names: ['Kristen Tonga']
 affiliations: HOT
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 12:00"
 time_iso: "2022-08-19T10:00:00Z"

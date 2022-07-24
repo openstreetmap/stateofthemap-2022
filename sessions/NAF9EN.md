@@ -4,7 +4,7 @@ title: "What you map is not always what you get"
 code: "NAF9EN"
 speaker_names: ['Sarah Hoffmann', 'Richard Fairhurst']
 affiliations: None
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "40"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"

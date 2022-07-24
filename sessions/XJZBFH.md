@@ -4,7 +4,7 @@ title: "The OpenStreetMap Use for Medical Humanitarian Operations by Médecins S
 code: "XJZBFH"
 speaker_names: ['Jana Bauerova']
 affiliations: Médecins Sans Frontières
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Sunday, 15:00"
 time_iso: "2022-08-21T13:00:00Z"

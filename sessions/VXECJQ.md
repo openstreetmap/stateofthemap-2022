@@ -5,7 +5,7 @@ subtitle: "GIS datasets, FlatGeobuf, coastlines, admin boundaries and more"
 code: "VXECJQ"
 speaker_names: ['Brandon Liu']
 affiliations: Protomaps
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2022-08-19T12:30:00Z"

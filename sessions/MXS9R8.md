@@ -8,7 +8,7 @@ speaker_names: [
   'Sagi Dalyot (The Technion)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:10"
 time_iso: "2022-08-21T12:10:00Z"

@@ -11,7 +11,7 @@ speaker_names: [
   'Guilherme Silva Neivas (UFPR)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:30"
 time_iso: "2022-08-21T08:30:00Z"

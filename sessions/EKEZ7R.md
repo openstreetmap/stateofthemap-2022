@@ -10,7 +10,7 @@ speaker_names: [
   'Alexander Zipf (Institute of Geography, GIScience, Heidelberg University)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:50"
 time_iso: "2022-08-21T08:50:00Z"

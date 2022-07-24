@@ -5,7 +5,7 @@ subtitle: "A Full Test of AI-Assisted OSM Tools"
 code: "SA77RH"
 speaker_names: ['Christopher Beddow']
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"

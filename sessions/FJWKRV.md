@@ -4,7 +4,7 @@ title: "Digital Champions fighting Gender Based Violence in rural Tanzania with 
 code: "FJWKRV"
 speaker_names: ['Janet Chapman']
 affiliations: Tanzania Development Trust/Crowd2Map Tanzania
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2022-08-20T12:30:00Z"

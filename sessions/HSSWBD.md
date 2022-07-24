@@ -8,7 +8,7 @@ speaker_names: [
   'Nancy Erbstein (Institute for Global Health and Faculty of Pop Health Sciences, University of California, Davis)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:20"
 time_iso: "2022-08-21T12:20:00Z"

@@ -4,7 +4,7 @@ title: "Analyzing changes in OSM over time - full history access to OSM data thr
 code: "R7GW3X"
 speaker_names: ['Benjamin Herfort', 'Rafael Troilo']
 affiliations: HeiGIT
-room: "Workshops - A108"
+room: "Workshops/&#34;Loop Cinema&#34; - Room 103"
 length: "60"
 time: "Saturday, 16:30"
 time_iso: "2022-08-20T14:30:00Z"

@@ -10,7 +10,7 @@ speaker_names: [
   'Rory Nealon (USAID GeoCentre)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:00"
 time_iso: "2022-08-21T12:00:00Z"

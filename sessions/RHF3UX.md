@@ -5,10 +5,10 @@ subtitle: "Exploring Human Bias and Effects of Training in OSM mapping: A Behavi
 code: "RHF3UX"
 speaker_names: ['Shiyue Zhong']
 affiliations: Urban Analytics Lab, National University of Singapore
-room: "Auditorium A - A001"
+room: "Auditorium A"
 length: "20"
-time: "Sunday, 10:00"
-time_iso: "2022-08-21T08:00:00Z"
+time: "Sunday, 10:30"
+time_iso: "2022-08-21T08:30:00Z"
 resources: []
 recording: True
 ---

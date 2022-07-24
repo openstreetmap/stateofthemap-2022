@@ -6,7 +6,7 @@ speaker_names: [
   'Anne Lee Steele (The Alan Turing Institute, Internet Society, Fellow)'
 ]
 affiliations: None
-room: "Auditorium B - A101"
+room: "Auditorium B"
 length: "20"
 time: "Sunday, 15:30"
 time_iso: "2022-08-21T13:30:00Z"

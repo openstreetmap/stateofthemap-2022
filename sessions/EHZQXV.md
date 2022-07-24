@@ -3,8 +3,8 @@ layout: session
 title: "usability testing with three people - how to discover why mappers are confused by your software"
 code: "EHZQXV"
 speaker_names: ['Mateusz Konieczny']
-affiliations: none
-room: "Auditorium B - A101"
+affiliations: None
+room: "Auditorium B"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2022-08-19T10:30:00Z"
