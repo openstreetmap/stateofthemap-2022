@@ -17,9 +17,42 @@ color: dark-nav
           </span>
           <br>
           <span>
-            Duration: {{page.length}}&nbsp;minutes (plus Q&amp;A)
+            Duration: {{page.length}}&nbsp;minutes{% unless page.noQA %} (plus Q&amp;A){% endunless %}
           </span>
         </p>
+
+        {% if page.extra_time_1 %}
+        <hr class="space-right4">
+        {% if page.extra_room_1 %}
+        <p><span class='abstract-room'>Room: {{page.extra_room_1}}</span></p>
+        {% endif %}
+        <p>
+          <span class='abstract-time'>
+            <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg={{page.title}}&iso={{page.extra_time_1_iso}}">{{page.extra_time_1}}</a>
+          </span>
+          <br>
+          <span>
+            Duration: {{page.length}}&nbsp;minutes{% unless page.noQA %} (plus Q&amp;A){% endunless %}
+          </span>
+        </p>
+        {% endif %}
+
+        {% if page.extra_time_2 %}
+        <hr class="space-right4">
+        {% if page.extra_room_2 %}
+        <p><span class='abstract-room'>Room: {{page.extra_room_2}}</span></p>
+        {% endif %}
+        <p>
+          <span class='abstract-time'>
+            <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg={{page.title}}&iso={{page.extra_time_2_iso}}">{{page.extra_time_2}}</a>
+          </span>
+          <br>
+          <span>
+            Duration: {{page.length}}&nbsp;minutes{% unless page.noQA %} (plus Q&amp;A){% endunless %}
+          </span>
+        </p>
+        {% endif %}
+
         {% unless page.recording or page.recordings %}
           <p><span class='abstract-no-recording'><img src="/img/novideo-dark.svg" class="noRecordingDark" height="25" alt="no recording" title="This session will not be recorded."> This event will not be recorded.</span></p>
         {% endunless %}
