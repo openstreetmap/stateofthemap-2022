@@ -2,7 +2,7 @@
 layout: session
 title: "Lightning talks III"
 code: "FGDY3F"
-speaker_names: ['SotM Working Group']
+speaker_names: ['Various Speakers']
 affiliations: None
 room: "Auditorium B"
 length: "20"

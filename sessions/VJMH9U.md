@@ -2,7 +2,7 @@
 layout: session
 title: "Lightning talks II"
 code: "VJMH9U"
-speaker_names: ['SotM Working Group']
+speaker_names: ['Various Speakers']
 affiliations: None
 room: "Auditorium B"
 length: "20"
@@ -12,5 +12,5 @@ resources: []
 recording: True
 ---
 
-
+Lighting Talks
 

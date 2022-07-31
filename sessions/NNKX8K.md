@@ -2,7 +2,7 @@
 layout: session
 title: "Lightning talks IV"
 code: "NNKX8K"
-speaker_names: ['SotM Working Group']
+speaker_names: ['Various Speakers']
 affiliations: None
 room: "Auditorium A"
 length: "20"
@@ -12,5 +12,13 @@ resources: []
 recording: True
 ---
 
+Lightning talks
 
+<hr>
+
+## Wrong Mapping Practices in OSM
+
+_by Samaila Alio_
+
+OSM has become a geospatial database par excellence and this thanks to the contribution of volunteers and its open character. Some are experienced in the field and others are novices. This makes it possible to encounter bad mapping practices that need to be corrected to make the database reliable and credible. During this lighting talk we will expose you to these bad mapping practices and methods of problem solving related to bad practices and conflict resolutions.
 
