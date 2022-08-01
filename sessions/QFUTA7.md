@@ -12,5 +12,5 @@ resources: []
 recording: True
 ---
 
-
+The opening session of the State of the Map 2022 conference.
 

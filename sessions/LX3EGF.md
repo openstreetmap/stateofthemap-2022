@@ -12,5 +12,5 @@ resources: []
 recording: True
 ---
 
-
+The closing session of the State of the Map 2022 conference.
 
