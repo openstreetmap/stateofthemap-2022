@@ -13,7 +13,7 @@ extra_room_1: "Workshops/\"Loop Cinema\" - Room 103"
 extra_time_1: "Sunday, 11:30"
 extra_time_1_iso: "2022-08-21T09:30:00Z"
 resources: []
-recording: True
+recording: False
 ---
 
 RapiD is the OpenStreetMap editor that enables users to access a wide variety of shared open data and a machine learning generated predictions that can bring new detail to the map. In 2022, the team at Meta upgraded RapiD to enable users to validate and verify Mapillary detections from images and add data to OpenStreetMap. Join us in an instructional workshop and mapathon where we will learn how Youthmappers in Sierra Leone are using Mapillaryto map the power grid across the country, and how the same workflow can be applied to map electricity availability and lighting around the world, anywhere users capture Mapillary and utilize RapiD to enrich OpenStreetMap.
