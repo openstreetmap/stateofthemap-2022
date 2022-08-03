@@ -2,18 +2,20 @@
 layout: page-with-toc
 #title: Venue &amp; Transportation
 title: Venue
-headings: "conference-venue,getting-to,sights"
+headings: "covid19,conference-venue,getting-to,sights"
 ---
+
+<h2 class='space-bottom1' id='covid19'>Covid19 regulations</h2>
+
+Currently, there are no Covid19 vaccination requirements in place for entering Italy. The use of masks remains mandatory on public transport and in healthcare facilities. Further information can be found on [salute.giv.it](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=english&menu=notizie&p=dalministero&id=5893).
+
+We recommend that everyone wear masks indoors during the conference.
 
 <h2 class='space-bottom1' id='conference-venue'>Venue</h2>
 
 State of the Map 2022 will take place at the University of Florence. It was founded in 1321 and It's one of the oldest in Italy. It cooperates with International research institutions and welcomes students and teachers all over the world, promoting research, study programmes and conferences.
 
 The conference is going to take place in the Morgagni Campus (Careggi District, Address: Viale Giovan Battista Morgagni 40, 50127 Firenze). The Centro Didattico Morgagni is a learning centre opened in 2005 with a multifunctional building for Firenze University. It houses lecture halls, meeting rooms and an auditorium. Around the full height central hall face several rooms, with good internet connection and all the needed facilities.
-
-<h3>Covid19 regulations</h3>
-
-We will abide to all [rules and regulations](https://www.unifi.it/changelang-eng.html) which are in place at the conference venue during the event.
 
 <div id="map" style="height:420px; width:100%"></div>
 
