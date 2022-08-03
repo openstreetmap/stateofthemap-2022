@@ -19,7 +19,7 @@ The conference is going to take place in the Morgagni Campus (Careggi District, 
 
 <h3>How to get there</h3>
 
-<em>Tramway:</em> Centro Didattico Morgagni is served by the T1 tram line. From Santa Maria Novella train station you can take the T1 line towards "Careggi-Ospedale" and stop to "Morgagni Università" (frequency every 5 to 10 mins). For information on this line and other routes you can directly consult the website [https://www.gestramvia.it/orari/](https://www.gestramvia.it/orari/).
+<em>Tramway:</em> Centro Didattico Morgagni is served by the T1 tram line. From Santa Maria Novella train station you can take the T1 line towards "Careggi-Ospedale" and stop to "Morgagni Università" (frequency every 5 to 10 mins). For information on this line and other routes you can directly consult the website [www.gestramvia.it](https://www.gestramvia.it/timetables/?lang=en).
 
 <div id="map" style="height:420px; width:100%"></div>
 
