@@ -17,6 +17,10 @@ State of the Map 2022 will take place at the University of Florence. It was foun
 
 The conference is going to take place in the Morgagni Campus (Careggi District, Address: Viale Giovan Battista Morgagni 40, 50127 Firenze). The Centro Didattico Morgagni is a learning centre opened in 2005 with a multifunctional building for Firenze University. It houses lecture halls, meeting rooms and an auditorium. Around the full height central hall face several rooms, with good internet connection and all the needed facilities.
 
+<h3>How to get there</h3>
+
+<em>Tramway:</em> Centro Didattico Morgagni is served by the T1 tram line. From Santa Maria Novella train station you can take the T1 line towards "Careggi-Ospedale" and stop to "Morgagni Università" (frequency every 5 to 10 mins). For information on this line and other routes you can directly consult the website [https://www.gestramvia.it/orari/](https://www.gestramvia.it/orari/).
+
 <div id="map" style="height:420px; width:100%"></div>
 
 <h2 class='space-bottom1' id='getting-to'>Getting To Florence</h2>
