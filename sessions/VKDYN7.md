@@ -4,7 +4,7 @@ title: "Creating your own MapComplete theme"
 code: "VKDYN7"
 speaker_names: ['Pieter Vander Vennet']
 affiliations: None
-room: "Workshops/&#34;Loop Cinema&#34; - Room 103"
+room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
 length: "60"
 time: "Sunday, 14:30"
 time_iso: "2022-08-21T12:30:00Z"
