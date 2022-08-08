@@ -12,7 +12,7 @@ extra_time_1: "Friday, 16:30"
 extra_time_1_iso: "2022-08-19T14:30:00Z"
 noQA: True
 resources: []
-recording: False
+recording: True
 ---
 
 This birds of a feather session is dedicated to humanitarian topics, and will be provided to you by the Humanitarian OpenStreetMap Team (HOT) as part of their [_unSummit_](https://unsummit.hotosm.org/) event series.
