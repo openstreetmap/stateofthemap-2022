@@ -54,7 +54,7 @@ Florence (Italian: Firenze) is a popular tourist destination because of its high
     L.marker([43.80104, 11.24515], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_2022-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
-      iconAnchor: [20, 20]
+      iconAnchor: [20, 40]
     })}).bindPopup("<h3>Centro Didattico Morgagni</h3><p>Conference Venue. <a href='https://www.openstreetmap.org/?mlat=43.80104&mlon=11.24516#map=18/43.80104/11.24516' target='_blank'>Open location on osm.org</a>.</p>").addTo(map);
   }, false);
 </script>
