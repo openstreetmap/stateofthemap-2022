@@ -13,7 +13,7 @@ The party will take place on Saturday, August 20, starting at 8pm. The venue is 
 
 ## How it works
 
-You will be provided with a special voucher card with which you can get food from the different stalls in the Mercato. There are all kinds of food and drinks <a href="https://www.mercatocentrale.com/florence/artisans/">offered</a>, from local Italian food to various international specialities. You will also be able to find many vegetarian and vegan dishes.
+You will be provided with a special voucher card with which you can get food from the different stalls in the Mercato. There are all kinds of food and drinks <a href="https://www.mercatocentrale.com/florence/artisans/">offered</a>, from local Italian food to various international specialities. You will also be able to find many vegetarian and vegan dishes. If you have any special dietary requirements (for example uncommon food allergies), let us know via an email to [sotm@openstreetmap.org](mailto:sotm@openstreetmap.org), such that we can check for you if there will be adequate options available for you at the venue.
 
 The venue is not exclusively booked for State of the Map, so please expect that there will also be non-SotM-attendees at the Mercato. There will however be tables reserved for us in a dedicated section of the seating area of the venue: Look out for SotM signs and people in SotM shirts. Please also bring your conference badge with you, such that the staff can easily direct you to our space.
 
