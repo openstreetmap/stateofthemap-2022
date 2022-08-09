@@ -7,15 +7,15 @@ This year's State of the Map is complemented with a get-together where you can h
 
 The social event is hosted at <a href="https://www.mercatocentrale.com/florence/">Mercato&nbsp;Centrale</a> in the centre of Florence.
 
-The party will take place on Saturday, August 20, starting at 8pm.
+The party will take place on Saturday, August 20, starting at 8pm. The venue is open until midnight.
 
 <div id="map" style="height:420px; width:100%"></div>
 
 ## How it works
 
-You will be provided with a special voucher card with which you can get food from the different stalls in the Mercato. There are all kinds of food and drinks offered, from local Italian food to various international specialities.
+You will be provided with a special voucher card with which you can get food from the different stalls in the Mercato. There are all kinds of food and drinks <a href="https://www.mercatocentrale.com/florence/artisans/">offered</a>, from local Italian food to various international specialities. You will also be able to find many vegetarian and vegan dishes.
 
-The venue will not be exclusively booked for the State of the Map only, so please expect that there are also non-SotM attendees at the Mercato. There will however be tables reserved for us in a dedicated section of the seating area of the venue: Look out for SotM signs and people in SotM shirts. Please also bring your conference badge with you, such that the staff can easily direct you to our space.
+The venue is not exclusively booked for State of the Map, so please expect that there will also be non-SotM-attendees at the Mercato. There will however be tables reserved for us in a dedicated section of the seating area of the venue: Look out for SotM signs and people in SotM shirts. Please also bring your conference badge with you, such that the staff can easily direct you to our space.
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
