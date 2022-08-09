@@ -3,11 +3,11 @@ layout: page
 title: Social Event
 ---
 
-This year's State of the Map is complemented with a get-together where you can have some nice foods and drinks, have a chat with friends, make new contacts and more.
+This year's State of the Map is complemented with a get-together where you can have some nice food and drinks, have a chat with friends, make new contacts and more.
 
 The social event is hosted at <a href="https://www.mercatocentrale.com/florence/">Mercato&nbsp;Centrale</a> in the centre of Florence.
 
-The party will start on Saturday, August 20, starting at 8pm.
+The party will take place on Saturday, August 20, starting at 8pm.
 
 <div id="map" style="height:420px; width:100%"></div>
 
