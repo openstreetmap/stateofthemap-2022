@@ -3,7 +3,7 @@ layout: session
 title: "Engaging in OSM"
 subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
-speaker_names: ['Heather Leson']
+speaker_names: ['Heather Leson', 'Miriam Gonzalez', 'Geoffrey Kateregga', 'Chad Blevins', 'Kate Chapman', 'Allan Mustard', 'Liz Barry']
 affiliations: None
 room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
 length: "60"
@@ -20,13 +20,20 @@ Across OpenStreetMap there are ways to get involved from working groups to event
 
 <hr>
 
+In person hosts - session 9:30 CEST - Kate Chapman, Allan Mustard, Geoffrey Kateregga, Chad Blevins, and Miriam Gonzalez
+
+Online/Virtual Session hosts - 4:30 CEST - Heather Leson and special guest, Liz Barry, Community Council Member, GOSH (Gathering Open Science Hardware) and 
+Director of Community Development, Public Lab 
+https://publiclab.org/wiki/plots-staff
+https://openhardware.science/
+
 Proposed Outcomes
  
--Inspire people to join play a bigger role in OSM - working groups, boards, governance
+-Inspire people to join and play a more significant role in OSM - working groups, boards, governance
 -Engage a larger discussion about diversity, equity, and inclusion with a shared leadership approach 
 -Infuse the OSM network with insights from other ‘open projects’ on their insights
  
 Notes
-We want to make this as accessible and inclusive as possible. Thus - calling it ‘governance’ won’t build participation. For years, there has been sessions on ‘working groups’ and ‘meet the board’ or meet ‘weeklyosm’. These are valuable, but we need to go wider and deeper. 
+We want to make this as accessible and inclusive as possible. Thus - calling it ‘governance’ won’t build participation. For years, there have been sessions on ‘working groups’ and ‘meet the board’ or ‘weeklyosm’. These are valuable, but we need to go broader and deeper. 
 How can we learn about our shared network and build momentum in participation /engagement and leadership?
 

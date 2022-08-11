@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Saturday, 15:00"
 time_iso: "2022-08-20T13:00:00Z"
-resources: []
+resources: [{ description: "slides", url: "/attachments/ZUEAUV_Woman_leadership_Ana_Natalia_Silvia_bQMVOK3.pdf" }]
 recording: True
 ---
 
