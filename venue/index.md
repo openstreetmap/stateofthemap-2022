@@ -7,7 +7,7 @@ headings: "covid19,conference-venue,getting-to,sights"
 
 <h2 class='space-bottom1' id='covid19'>Covid19 regulations</h2>
 
-Currently, there are no Covid19 vaccination requirements in place for entering Italy. The use of masks remains mandatory on public transport and in healthcare facilities. Further information can be found on [salute.giv.it](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=english&menu=notizie&p=dalministero&id=5893).
+Currently, there are no Covid19 vaccination requirements in place for entering Italy. The use of masks remains mandatory on public transport and in healthcare facilities. Further information can be found on [salute.gov.it](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=english&menu=notizie&p=dalministero&id=5893).
 
 We recommend that everyone wear masks indoors during the conference.
 
