@@ -1,0 +1,94 @@
+---
+layout: page-with-toc
+title: Live Stream
+titlecontent: "Watch the SotM 2022 live stream. The following streams are available:"
+headings: "auditorium-A,auditorium-B,loop-cinema"
+#headings: "auditorium-A,auditorium-B,loop-cinema,hot-unsummit"
+---
+
+<p>The main tracks of the State of the Map with most talks of the general and academic <a href="../programme">programme</a> can be watched live here. Note that if you have a <em>“venueless”</em> conference [ticket](https://2022.stateofthemap.org/tickets/), you can watch all talks, ask questions and interact with other attendees on the conference platform at <a href="https://sotm2022.venueless.events/">https://sotm2022.venueless.events/</a>.</p>
+
+<h2 id="auditorium-A">Auditorium A</h2>
+
+<video id="video-auditorium-A" style="width:100%" controls data-stream-url="https://cache.amilis.ch/live/sotm-2022-auditorium-a.m3u8"></video>
+
+<p>Audio-only version: <audio id="audio-auditorium-A" controls src="https://cache.amilis.ch/live/sotm-2022-auditorium-a.mp3"></audio></p>
+
+<h2 id="auditorium-B">Auditorium B</h2>
+
+<video id="video-auditorium-B" style="width:100%" controls data-stream-url="https://cache.amilis.ch/live/sotm-2022-auditorium-b.m3u8"></video>
+
+<p>Audio-only version: <audio id="audio-auditorium-B" controls src="https://cache.amilis.ch/live/sotm-2022-auditorium-b.mp3"></audio></p>
+
+<h2 id="loop-cinema">Loop-Cinema</h2>
+
+<video id="video-loop-cinema" style="width:100%" controls data-stream-url="https://cache.amilis.ch/live/sotm-2022-loop-cinema.m3u8"></video>
+
+<p>Audio-only version: <audio id="audio-loop-cinema" controls src="https://cache.amilis.ch/live/sotm-2022-loop-cinema.mp3"></audio></p>
+
+
+
+<script src="./hls.js"></script>
+<script>
+(function () {
+  const rooms = ['auditorium-A', 'auditorium-B', 'loop-cinema'];
+  rooms.forEach(function(room) {
+    const video = document.getElementById('video-'+room);
+    const videoSrc = video.dataset.streamUrl;
+    if (Hls.isSupported()) {
+      const hls = new Hls({
+        debug: false
+      });
+      hls.loadSource(videoSrc);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.ERROR, function (event, data) {
+        if (data.fatal) {
+          switch (data.type) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+              console.log('Fatal network error encountered, try to recover');
+              hls.startLoad();
+              break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+              console.log('fatal media error encountered, try to recover');
+              hls.recoverMediaError();
+              break;
+            default:
+              console.log('fatal, unrecoverable error encountered, freeing resources');
+              hls.destroy();
+              break;
+          }
+        }
+      });
+    }
+    else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = videoSrc;
+    }
+  });
+})();
+</script>
+
+<h2>Alternative watching methods</h2>
+<p>
+  If you prefer watching the live stream using a dedicated player instead of the embedded one on this page, you can use the following URLs:
+</p>
+
+<ul>
+  <li>Auditorium A
+    <ul>
+      <li>Video: <a href="https://cache.amilis.ch/live/sotm-2022-auditorium-a.m3u8">https://cache.amilis.ch/live/sotm-2022-auditorium-a.m3u8</a></li>
+      <li>Audio only: <a href="https://cache.amilis.ch/live/sotm-2022-auditorium-a.mp3">https://cache.amilis.ch/live/sotm-2022-auditorium-a.mp3</a></li>
+    </ul>
+  </li>
+  <li>Auditorium B
+    <ul>
+      <li>Video: <a href="https://cache.amilis.ch/live/sotm-2022-auditorium-b.m3u8">https://cache.amilis.ch/live/sotm-2022-auditorium-b.m3u8</a></li>
+      <li>Audio only: <a href="https://cache.amilis.ch/live/sotm-2022-auditorium-b.mp3">https://cache.amilis.ch/live/sotm-2022-auditorium-b.mp3</a></li>
+    </ul>
+  </li>
+  <li>Loop Cinema
+    <ul>
+      <li>Video: <a href="https://cache.amilis.ch/live/sotm-2022-loop-cinema.m3u8">https://cache.amilis.ch/live/sotm-2022-loop-cinema.m3u8</a></li>
+      <li>Audio only: <a href="https://cache.amilis.ch/live/sotm-2022-loop-cinema.mp3">https://cache.amilis.ch/live/sotm-2022-loop-cinema.mp3</a></li>
+    </ul>
+  </li>
+</ul>
