@@ -7,7 +7,7 @@ affiliations: None
 room: "HOT unSummit Sessions - Room 102"
 length: "90"
 time: "Friday, 14:30"
-time_iso: "2022-08-19T14:30:00Z"
+time_iso: "2022-08-19T12:30:00Z"
 extra_time_1: "Friday, 16:30"
 extra_time_1_iso: "2022-08-19T14:30:00Z"
 noQA: True
