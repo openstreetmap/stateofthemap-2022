@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 17:30"
 time_iso: "2022-08-19T15:30:00Z"
-resources: []
+resources: [{ description: "Presentation as PDF", url: "/attachments/YWH3XD_Inferring_Default_Speed_Limits_-_Tobias_Zwick_3YzEqob.pdf" },{ description: "Presentation as PPTX", url: "/attachments/YWH3XD_Inferring_Default_Speed_Limits_-_Tobias_Zwick_dx4AAi2.pptx" },{ description: "Presentation as ODP", url: "/attachments/YWH3XD_Inferring_Default_Speed_Limits_-_Tobias_Zwick_pR77kSk.odp" },{ description: "If no internet: France", url: "/attachments/YWH3XD_plan_b_france_pcaQpyx.png" },{ description: "If  no internet: Germany", url: "/attachments/YWH3XD_plan_b_germany_8BSg9Yr.png" },{ description: "If no internet: Vietnam", url: "/attachments/YWH3XD_plan_b_vietnam_rkF4gSK.png" }]
 recording: True
 ---
 

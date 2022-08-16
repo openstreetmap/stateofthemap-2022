@@ -20,6 +20,8 @@ RapiD is the OpenStreetMap editor that enables users to access a wide variety of
 
 <hr>
 
+Please bring your own personal laptop if possible!
+
 Goals:
 - Introduce the project for utility pole/power line mapping in Sierra Leone
 - demo how to capture Mapillary imagery

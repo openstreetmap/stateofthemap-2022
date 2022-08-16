@@ -11,7 +11,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2022-08-21T10:00:00Z"
-resources: []
+resources: [{ description: "Null Island - a node of contention in OpenStreetMap SLIDES", url: "/attachments/LTA77E_Null_Island_-_a_node_o_lteSKYq.pdf" }]
 recording: True
 ---
 

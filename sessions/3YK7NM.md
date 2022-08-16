@@ -3,7 +3,7 @@ layout: session
 title: "Engaging in OSM"
 subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
-speaker_names: ['Heather Leson', 'Miriam Gonzalez', 'Geoffrey Kateregga', 'Chad Blevins', 'Kate Chapman', 'Allan Mustard', 'Liz Barry']
+speaker_names: ['Heather Leson', 'Kate Chapman', 'Chad Blevins', 'Allan Mustard', 'Miriam Gonzalez', 'Geoffrey Kateregga', 'Liz Barry']
 affiliations: None
 room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
 length: "60"

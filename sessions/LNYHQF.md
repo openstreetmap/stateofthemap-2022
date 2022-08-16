@@ -42,3 +42,4 @@ This birds of a feather session is dedicated to humanitarian topics, and will be
 * Introducing Galaxy - OpenStreetMap (OSM) Data Outputs Platform – Ramya Ragupathy (HOT)
 
 ### Open slots for humanitarian BoFs
+
