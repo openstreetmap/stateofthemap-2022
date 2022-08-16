@@ -29,7 +29,7 @@ This birds of a feather session is dedicated to humanitarian topics, and will be
 
 ### Humanitarian OSM Talks
 
-* Hazard / Disaster Preparedness) Community Mapping to Improve Flood Preparedness in Nigeria – Taiwo Ogunwumi (Nigeria)
+* Community Mapping to Improve Flood Preparedness in Nigeria – Taiwo Ogunwumi (Nigeria)
 * “WASM” - Use of OSM to improve access to water and sanitation facilities in informal settlements – Maria Gorret Nabuwembo (Uganda)
 * COVID-19 Control - Mapping Uganda Border Points – Ronald (Uganda)
 * Mapping for Community Resilience Towards Poor Solid Waste Management (a case study of Bwaise slum) – Henry Sseruwagi (Uganda)
