@@ -6,8 +6,8 @@ speaker_names: ['Branko Kokanovic']
 affiliations: None
 room: "Auditorium A"
 length: "20"
-time: "Saturday, 10:00"
-time_iso: "2022-08-20T08:00:00Z"
+time: "Friday, 12:30"
+time_iso: "2022-08-19T10:30:00Z"
 resources: []
 recording: True
 ---

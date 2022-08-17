@@ -12,7 +12,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2022-08-21T07:30:00Z"
-resources: []
+resources: [{ description: "Slides_for_presentation", url: "/attachments/JNJKYR_vestena_et_al_sotm2022_4FR9eti.pdf" }]
 recording: True
 ---
 
