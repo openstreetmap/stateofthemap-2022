@@ -14,7 +14,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:50"
 time_iso: "2022-08-21T08:50:00Z"
-resources: []
+resources: [{ description: "presentation_slides", url: "/attachments/EKEZ7R_2022_08_21_schott_ligh_Bl93pVn.pdf" }]
 recording: True
 ---
 

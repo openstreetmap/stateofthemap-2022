@@ -14,7 +14,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:00"
 time_iso: "2022-08-21T12:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/JNCVKY_SOTM_2022_Stellamaris_S8xbiW2.pdf" }]
 recording: True
 ---
 

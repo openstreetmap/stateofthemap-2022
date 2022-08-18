@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004523"
 layout: session_academic
 title: "OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM"
 code: "JNJKYR"

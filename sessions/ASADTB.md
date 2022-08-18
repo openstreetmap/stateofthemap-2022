@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004458"
 layout: session_academic
 title: "Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap."
 code: "ASADTB"

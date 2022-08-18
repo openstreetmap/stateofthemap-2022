@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004483"
 layout: session_academic
 title: "Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations"
 code: "YU9JHN"
@@ -12,7 +13,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 10:00"
 time_iso: "2022-08-21T08:00:00Z"
-resources: []
+resources: [{ description: "Presentation", url: "/attachments/YU9JHN_Comparative_Wikidata_D_QErzpl1.pdf" }]
 recording: True
 ---
 

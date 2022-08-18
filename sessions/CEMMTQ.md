@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004509"
 layout: session_academic
 title: "OSM for sustainable transport planning"
 code: "CEMMTQ"

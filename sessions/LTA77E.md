@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004488"
 layout: session_academic
 title: "Null Island - a node of contention in OpenStreetMap"
 code: "LTA77E"

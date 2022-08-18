@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 10:30"
 time_iso: "2022-08-19T08:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/URUJH8_SOTM_2022_slides_low-res_fsVQWtT.pdf" }]
 recording: True
 ---
 

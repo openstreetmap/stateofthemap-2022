@@ -9,7 +9,7 @@ room: "Auditorium B"
 length: "20"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"
-resources: []
+resources: [{ description: "Slides for my presentation", url: "/attachments/SA77RH_PROGP17326_SotM2022_SlideRedesign_UUBoiiA.pdf" }]
 recording: True
 ---
 

@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004476"
 layout: session_academic
 title: "Landmarks for accessible space – promoting geo-literacy through geospatial citizen science"
 code: "3YQRDX"

@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004448"
 layout: session_academic
 title: "YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities"
 code: "THYCMA"

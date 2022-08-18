@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2022-08-20T08:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/HBBZKV_2022-SOTM-Print-Maps-API.plain_Uya0cD4.pdf" },{ description: "Presentation Handout", url: "/attachments/HBBZKV_2022-SOTM-Print-Maps-API.handout_Lqn71dq.pdf" }]
 recording: True
 ---
 

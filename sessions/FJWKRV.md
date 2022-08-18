@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2022-08-20T12:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/FJWKRV_SOTM_Crowd2Map__Aig_22_Q1ufvo0.pdf" }]
 recording: True
 ---
 

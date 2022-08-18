@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004501"
 layout: session_academic
 title: "Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness"
 code: "JRN9DN"
