@@ -13,7 +13,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:10"
 time_iso: "2022-08-21T12:10:00Z"
-resources: []
+resources: [{ description: "Presentation", url: "/attachments/MXS9R8_osm_rU5nTwd.pptx" }]
 recording: True
 ---
 

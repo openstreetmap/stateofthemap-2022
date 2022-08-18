@@ -11,7 +11,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 14:30"
 time_iso: "2022-08-21T12:30:00Z"
-resources: []
+resources: [{ description: "Presentation SOLIS", url: "/attachments/THYCMA_SOTM2022-SOLIS-PDFv_y2HmZ09.pdf" }]
 recording: True
 ---
 
