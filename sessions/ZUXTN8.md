@@ -1,6 +1,6 @@
 ---
 doi: "10.5281/zenodo.7004634"
-layout: session
+layout: session_academic
 title: "Floor plan extraction from digital building models"
 code: "ZUXTN8"
 speaker_names: ['Helga Tauscher']

@@ -1,6 +1,6 @@
 ---
 doi: "10.5281/zenodo.7004534"
-layout: session
+layout: session_academic
 title: "Inequalities in the completeness of OpenStreetMap buildings in urban centers"
 code: "GPMSLW"
 speaker_names: ['Benjamin Herfort']
