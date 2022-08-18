@@ -12,7 +12,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:15"
 time_iso: "2022-08-21T12:15:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/TA9VAF_Battiston_SotM2022_FjNBS8U.pdf" }]
 recording: True
 ---
 

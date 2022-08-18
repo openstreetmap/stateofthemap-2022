@@ -28,5 +28,5 @@ Participants will be introduced to methods for getting started with OSM for tran
 
 Besides practical examples, participants will be encouraged to think critically about the advantages and disadvantages of OSM data in  sustainable transport planning  with a particular focus on accessibility. By the end of the workshop, you will be able to apply the methods introduced in the workshop to your own unique contexts, potentially going beyond transport planning.
 
-Participants are not expected to be familiar with Python, R, A/B Street, osm2streets or active travel planning but experience with programming and an interest in active travel (walking, cycling, wheeling) will be advantageous. Before the workshop, everyone will be sent out installation instructions to complete before the start of the workshop.
+Participants are not expected to be familiar with Python, R, A/B Street, osm2streets or active travel planning but experience with programming and an interest in active travel (walking, cycling, wheeling) will be advantageous. However, it is expected that the participants will have R, RStudio, and required package installed. Preparation instructions can be found here: https://udsleeds.github.io/openinfra/articles/SOTM_workshop.html#preparation
 

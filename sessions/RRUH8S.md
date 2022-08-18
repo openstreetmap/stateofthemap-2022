@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 11:30"
 time_iso: "2022-08-19T09:30:00Z"
-resources: []
+resources: [{ description: "slides", url: "/attachments/RRUH8S_10_Years_Of_MapRoulette_-_SOTM_2022_-_Final_tqVqCb6.pdf" }]
 recording: True
 ---
 
