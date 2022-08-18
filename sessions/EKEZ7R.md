@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004593"
 layout: session_academic
 title: "Returning the favor - Leveraging quality insights of OpenStreetMap-based land-use/land-cover multi-label modeling to the community"
 code: "EKEZ7R"

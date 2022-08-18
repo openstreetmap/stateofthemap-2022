@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004666"
 layout: session_academic
 title: "Leveraging OpenStreetMap to investigate urban accessibility and safety of visually impaired pedestrians"
 code: "MXS9R8"

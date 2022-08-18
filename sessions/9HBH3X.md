@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004550"
 layout: session_academic
 title: "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach"
 code: "9HBH3X"

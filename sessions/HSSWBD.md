@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004677"
 layout: session_academic
 title: "OpenStreetMap as a tool for skill building"
 code: "HSSWBD"

@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004576"
 layout: session
 title: "Investigating the capability of UAV imagery in AI-assisted mapping of Refugee Camps in East Africa"
 code: "FRJXCQ"

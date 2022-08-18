@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004634"
 layout: session
 title: "Floor plan extraction from digital building models"
 code: "ZUXTN8"

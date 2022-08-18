@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004583"
 layout: session_academic
 title: "Corporate editing and its impact on network navigability within OpenStreetMap"
 code: "EZPVPB"

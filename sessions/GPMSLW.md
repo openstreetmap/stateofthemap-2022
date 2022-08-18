@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004534"
 layout: session
 title: "Inequalities in the completeness of OpenStreetMap buildings in urban centers"
 code: "GPMSLW"

@@ -1,4 +1,5 @@
 ---
+doi: "10.5281/zenodo.7004662"
 layout: session_academic
 title: "Understanding and modelling accessibility to public green in large urban centers using OpenStreetMap data"
 code: "TA9VAF"
