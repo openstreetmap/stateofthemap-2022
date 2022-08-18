@@ -51,7 +51,7 @@ Florence (Italian: Firenze) is a popular tourist destination because of its high
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([43.80104, 11.24515], {icon: L.icon({
+    L.marker([43.80054, 11.24501], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_2022-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
