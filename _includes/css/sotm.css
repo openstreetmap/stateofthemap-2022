@@ -261,12 +261,12 @@ footer a:focus,
     background-color: {{ site.color.primary-dark }};
 }
 .intro .intro-body .attending img {
-    width: 12em;
+    width: 8em;
     height: auto;
-    margin-right: 2em;
-    margin-bottom: 1.5em;
-}
-.intro .intro-body .attending a {
+    margin-right: 1em;
+    margin-left: 1em;
+    margin-bottom: 0.7em;
+    margin-top: 0.7em;
 }
 .intro .intro-body ul {
     list-style-type: '— ';
