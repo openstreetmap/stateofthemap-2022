@@ -9,7 +9,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:40"
 time_iso: "2022-08-21T08:40:00Z"
-resources: []
+resources: [{ description: "Presentation upload", url: "/attachments/FRJXCQ_Chris_Lighting_talk_nNcbDx7.pptx" }]
 recording: True
 ---
 

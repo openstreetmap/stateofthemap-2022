@@ -25,16 +25,16 @@
       "room": 1531
     },
     {
-      "code": "C83AGN",
-      "title": "Carto-OSC: Activating Performance Spaces with Real Time Cartography",
-      "abstract": "First there were DJs and VJs. Enter the MJ (map jockey).\r\n\r\nCarto-OSC leverages open source libraries, data, and protocols to activate performance spaces – theaters, galleries, nightclubs – with projected, real time cartography. The Open Sound Control (OSC) protocol couples with a touch surface to control layer coloring and patterning, zoom/pitch/bearing effects, label typography, transits along road networks, and a variety of transitions purloined from cinema and visual music.\r\n\r\nWritten in modern JavaScript, Carto-OSC would be unthinkable without a foundation of Open Stage Control, MapLibre, chroma.js, and OpenStreetMap data. This presentation describes its architecture, the impulses behind its creation, and includes documentation of its use in performance.",
+      "code": "RRUH8S",
+      "title": "10 Years Of MapRoulette",
+      "abstract": "MapRoulette was first announced at State of the Map US in 2012 as a tool to solve the many errors introduced by the import of TIGER road data in the United States. Since then, MapRoulette has been used for map improvements and guided data imports around the world. In this talk, MapRoulette creator Martijn van Exel will look at some of the achievements, lessons learned, and the evolution from a single purpose tool to a micro-tasking platform.",
       "speakers": [
-        "QNSYGN"
+        "SG9NNL"
       ],
-      "track": 2819,
+      "track": 2818,
       "start": "2022-08-19T11:30:00+02:00",
       "end": "2022-08-19T11:50:00+02:00",
-      "room": 1532
+      "room": 1531
     },
     {
       "code": "D7BFKR",
@@ -50,16 +50,17 @@
       "room": 1533
     },
     {
-      "code": "RRUH8S",
-      "title": "10 Years Of MapRoulette",
-      "abstract": "MapRoulette was first announced at State of the Map US in 2012 as a tool to solve the many errors introduced by the import of TIGER road data in the United States. Since then, MapRoulette has been used for map improvements and guided data imports around the world. In this talk, MapRoulette creator Martijn van Exel will look at some of the achievements, lessons learned, and the evolution from a single purpose tool to a micro-tasking platform.",
+      "code": "3EREXZ",
+      "title": "OSM Carto as vector tiles",
+      "abstract": "Presentation of the work we've done to adapt the OSM Carto style to vector tiles. We will take you through the making-of the cartography, step by step, scale by scale.\r\nAvailable on MapTiler Cloud (https://cloud.maptiler.com/maps/openstreetmap/), the style will be integrated into the next version of the OpenMapTiles project.\r\n\r\nWe will also show you how to use this style in QGIS and how to display it on 3D maps with MapLibre.",
       "speakers": [
-        "SG9NNL"
+        "HWHAYG",
+        "E9R3GY"
       ],
-      "track": 2818,
-      "start": "2022-08-19T11:30:00+02:00",
-      "end": "2022-08-19T11:50:00+02:00",
-      "room": 1531
+      "track": 2819,
+      "start": "2022-08-19T12:00:00+02:00",
+      "end": "2022-08-19T12:20:00+02:00",
+      "room": 1532
     },
     {
       "code": "UWHAME",
@@ -72,19 +73,6 @@
       "start": "2022-08-19T12:00:00+02:00",
       "end": "2022-08-19T12:20:00+02:00",
       "room": 1531
-    },
-    {
-      "code": "3EREXZ",
-      "title": "OSM Carto as vector tiles",
-      "abstract": "Presentation of the work we've done to adapt the OSM Carto style to vector tiles. We will take you through the making-of the cartography, step by step, scale by scale.\r\nAvailable on MapTiler Cloud (https://cloud.maptiler.com/maps/openstreetmap/), the style will be integrated into the next version of the OpenMapTiles project.\r\n\r\nWe will also show you how to use this style in QGIS and how to display it on 3D maps with MapLibre.",
-      "speakers": [
-        "HWHAYG",
-        "E9R3GY"
-      ],
-      "track": 2819,
-      "start": "2022-08-19T12:00:00+02:00",
-      "end": "2022-08-19T12:20:00+02:00",
-      "room": 1532
     },
     {
       "code": "EHZQXV",
@@ -211,16 +199,16 @@
       "room": 1532
     },
     {
-      "code": "HLTKHD",
-      "title": "Loop-Cinema",
-      "abstract": "Watch talks and lightning talks submitted in advance by people around the world. We'll show the videos in a loop during the entire session. Drop by any time to learn what is new in the OSM world.",
+      "code": "SA77RH",
+      "title": "Mapping a Small Town",
+      "abstract": "Christopher Beddow takes us on a journey of how to map a small town using a variety of tools. The goal was to test and prove how much OpenStreetMap can be enriched using RapiD buildings and roads, and Mapillary map features, traffic signs, and imagery.\r\n\r\nHe evaluates a small town in the western United States that is far from any mapping community and has very little data, and demonstrates how a vivid dataset can be added to OSM. In addition, he compares this to a small town in Switzerland, demonstrating how new details can still be added to a place that is heavily mapped by a strong local community.",
       "speakers": [
-        "N8W3LW"
+        "SBCW7W"
       ],
-      "track": null,
+      "track": 2818,
       "start": "2022-08-19T16:30:00+02:00",
-      "end": "2022-08-19T18:00:00+02:00",
-      "room": 1533
+      "end": "2022-08-19T16:50:00+02:00",
+      "room": 1532
     },
     {
       "code": "NAF9EN",
@@ -236,16 +224,16 @@
       "room": 1531
     },
     {
-      "code": "SA77RH",
-      "title": "Mapping a Small Town",
-      "abstract": "Christopher Beddow takes us on a journey of how to map a small town using a variety of tools. The goal was to test and prove how much OpenStreetMap can be enriched using RapiD buildings and roads, and Mapillary map features, traffic signs, and imagery.\r\n\r\nHe evaluates a small town in the western United States that is far from any mapping community and has very little data, and demonstrates how a vivid dataset can be added to OSM. In addition, he compares this to a small town in Switzerland, demonstrating how new details can still be added to a place that is heavily mapped by a strong local community.",
+      "code": "HLTKHD",
+      "title": "Loop-Cinema",
+      "abstract": "Watch talks and lightning talks submitted in advance by people around the world. We'll show the videos in a loop during the entire session. Drop by any time to learn what is new in the OSM world.",
       "speakers": [
-        "SBCW7W"
+        "N8W3LW"
       ],
-      "track": 2818,
+      "track": null,
       "start": "2022-08-19T16:30:00+02:00",
-      "end": "2022-08-19T16:50:00+02:00",
-      "room": 1532
+      "end": "2022-08-19T18:00:00+02:00",
+      "room": 1533
     },
     {
       "code": "YXMUVT",
@@ -285,6 +273,30 @@
       "room": 1532
     },
     {
+      "code": "HEHHCH",
+      "title": "OpenStreetMap in the Cloud",
+      "abstract": "The geospatial world is moving to cloud-first and cloud-native approaches. Movements like STAC and COG have transformed how people use raster data in the last couple of years. OpenStreetMap has much to gain from thinking about different cloud infrastructure architectures. This talk will discuss what it takes to run the OpenStreetMap ecosystem in the cloud and present the history and work on a project called [OSM Seed](https://github.com/developmentseed/osm-seed/). We learned so much while building OSM Seed and think it can be a blueprint for running OpenStreetMap on cloud infrastructure.",
+      "speakers": [
+        "YLTSXP"
+      ],
+      "track": 2820,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T09:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "PJBGXZ",
+      "title": "Using OpenStreetMap in the case of the social and economic infrastructure mapping project of Togo",
+      "abstract": "Since twelve years OSM has become a database that is heavily used around the world by various actors for various goals. We can mention navigation through mobile GIS application, map production, Geoportal deployment and others. In Togo, OpenStreetMap by its data and its tools were increasingly used in the framework of the national social and economic facilities Census project. This presentation will show how OSM was useful in this country-scale mapping project.",
+      "speakers": [
+        "YE7RU8"
+      ],
+      "track": 2818,
+      "start": "2022-08-20T09:30:00+02:00",
+      "end": "2022-08-20T09:50:00+02:00",
+      "room": 1532
+    },
+    {
       "code": "3YK7NM",
       "title": "Engaging in OSM",
       "abstract": "Across OpenStreetMap there are ways to get involved from working groups to events to boards. How can we increase and deepen participation across the world? What is the current state of engagement/governance in OSM? What do we need to do to improve? What are some of the lessons from other open organizations?",
@@ -316,28 +328,16 @@
       "room": 1534
     },
     {
-      "code": "HEHHCH",
-      "title": "OpenStreetMap in the Cloud",
-      "abstract": "The geospatial world is moving to cloud-first and cloud-native approaches. Movements like STAC and COG have transformed how people use raster data in the last couple of years. OpenStreetMap has much to gain from thinking about different cloud infrastructure architectures. This talk will discuss what it takes to run the OpenStreetMap ecosystem in the cloud and present the history and work on a project called [OSM Seed](https://github.com/developmentseed/osm-seed/). We learned so much while building OSM Seed and think it can be a blueprint for running OpenStreetMap on cloud infrastructure.",
+      "code": "HBBZKV",
+      "title": "The MapOSMatic APIs - generate printable maps from your own application",
+      "abstract": "The MapOSMatic web frontend allows to create printable maps from OSM\r\ndata interactively. This is not the only way to use its rendering\r\nbackend, it is also possible to directly use its ocitysmap Python\r\nlibrary to render maps from your own Python code and a local\r\nstylesheet and database setup, or to use the REST-like API of the web\r\nfrontend to send automated render requests to a MapOSMatic web\r\ninstance from almost any programming language without any local setup\r\neffort.\r\n\r\nThe presentation will give a short overview of both API variants,\r\nshowing the different options to interact with the MapOSMatic render\r\ninfrastructure programmatically.\r\n\r\nAs example applications an alternative neighbourhood",
       "speakers": [
-        "YLTSXP"
+        "HMT7H7"
       ],
       "track": 2820,
-      "start": "2022-08-20T09:30:00+02:00",
-      "end": "2022-08-20T09:50:00+02:00",
+      "start": "2022-08-20T10:00:00+02:00",
+      "end": "2022-08-20T10:20:00+02:00",
       "room": 1531
-    },
-    {
-      "code": "PJBGXZ",
-      "title": "Using OpenStreetMap in the case of the social and economic infrastructure mapping project of Togo",
-      "abstract": "Since twelve years OSM has become a database that is heavily used around the world by various actors for various goals. We can mention navigation through mobile GIS application, map production, Geoportal deployment and others. In Togo, OpenStreetMap by its data and its tools were increasingly used in the framework of the national social and economic facilities Census project. This presentation will show how OSM was useful in this country-scale mapping project.",
-      "speakers": [
-        "YE7RU8"
-      ],
-      "track": 2818,
-      "start": "2022-08-20T09:30:00+02:00",
-      "end": "2022-08-20T09:50:00+02:00",
-      "room": 1532
     },
     {
       "code": "U77MUX",
@@ -351,18 +351,6 @@
       "start": "2022-08-20T10:00:00+02:00",
       "end": "2022-08-20T10:20:00+02:00",
       "room": 1532
-    },
-    {
-      "code": "HBBZKV",
-      "title": "The MapOSMatic APIs - generate printable maps from your own application",
-      "abstract": "The MapOSMatic web frontend allows to create printable maps from OSM\r\ndata interactively. This is not the only way to use its rendering\r\nbackend, it is also possible to directly use its ocitysmap Python\r\nlibrary to render maps from your own Python code and a local\r\nstylesheet and database setup, or to use the REST-like API of the web\r\nfrontend to send automated render requests to a MapOSMatic web\r\ninstance from almost any programming language without any local setup\r\neffort.\r\n\r\nThe presentation will give a short overview of both API variants,\r\nshowing the different options to interact with the MapOSMatic render\r\ninfrastructure programmatically.\r\n\r\nAs example applications an alternative neighbourhood",
-      "speakers": [
-        "HMT7H7"
-      ],
-      "track": 2820,
-      "start": "2022-08-20T10:00:00+02:00",
-      "end": "2022-08-20T10:20:00+02:00",
-      "room": 1531
     },
     {
       "code": "YAYNSB",
@@ -401,18 +389,6 @@
       "room": 1531
     },
     {
-      "code": "HLTKHD",
-      "title": "Loop-Cinema",
-      "abstract": "Watch talks and lightning talks submitted in advance by people around the world. We'll show the videos in a loop during the entire session. Drop by any time to learn what is new in the OSM world.",
-      "speakers": [
-        "N8W3LW"
-      ],
-      "track": null,
-      "start": "2022-08-20T11:30:00+02:00",
-      "end": "2022-08-20T13:00:00+02:00",
-      "room": 1533
-    },
-    {
       "code": "GCLYZE",
       "title": "OpenStreetMap in schools: The case study of Bari",
       "abstract": "OpenStreetMap has proven to be a really interesting and valuable classroom instrument. Making students work with OSM allows them to develop the soft skills entailed in cooperation, to interact with something bigger than their class or school and to give their contribution for the sake of the collectivity. In this particular experienced, we worked on the local area of Bari with a class with 17 female students of a \"Liceo Economico-Sociale\", a school not particularly engaged in the STEM field. Thus, we also wanted to help them get more confident with the STEM field, which desperately need more diversity. Furthermore, focus has been on accessibility.",
@@ -424,6 +400,18 @@
       "start": "2022-08-20T11:30:00+02:00",
       "end": "2022-08-20T11:50:00+02:00",
       "room": 1532
+    },
+    {
+      "code": "HLTKHD",
+      "title": "Loop-Cinema",
+      "abstract": "Watch talks and lightning talks submitted in advance by people around the world. We'll show the videos in a loop during the entire session. Drop by any time to learn what is new in the OSM world.",
+      "speakers": [
+        "N8W3LW"
+      ],
+      "track": null,
+      "start": "2022-08-20T11:30:00+02:00",
+      "end": "2022-08-20T13:00:00+02:00",
+      "room": 1533
     },
     {
       "code": "C9AKZK",
@@ -462,18 +450,6 @@
       "room": 1531
     },
     {
-      "code": "FJWKRV",
-      "title": "Digital Champions fighting Gender Based Violence in rural Tanzania with maps",
-      "abstract": "Our digital champions project in Tanzania has transformed the lives of 353 women who had never used a smartphone before into confident advocates of mapping in their extremely marginalised communities. They have delivered training to over 9000 women in these villages and reported over 470 cases of gender based violence in their villages to the police and social services who have then used the maps to find and protect these women. Giving local women and youth the digital tools to protect their sisters in their communities is an extremely cost effective, long term solution to build up our mapping community and make it more inclusive, and share lessons learnt",
-      "speakers": [
-        "8FRMT8"
-      ],
-      "track": 2817,
-      "start": "2022-08-20T14:30:00+02:00",
-      "end": "2022-08-20T14:50:00+02:00",
-      "room": 1532
-    },
-    {
       "code": "JEXYHK",
       "title": "OSM for sustainable transport planning: getting started",
       "abstract": "This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.",
@@ -485,6 +461,18 @@
       "start": "2022-08-20T14:30:00+02:00",
       "end": "2022-08-20T15:30:00+02:00",
       "room": 1533
+    },
+    {
+      "code": "FJWKRV",
+      "title": "Digital Champions fighting Gender Based Violence in rural Tanzania with maps",
+      "abstract": "Our digital champions project in Tanzania has transformed the lives of 353 women who had never used a smartphone before into confident advocates of mapping in their extremely marginalised communities. They have delivered training to over 9000 women in these villages and reported over 470 cases of gender based violence in their villages to the police and social services who have then used the maps to find and protect these women. Giving local women and youth the digital tools to protect their sisters in their communities is an extremely cost effective, long term solution to build up our mapping community and make it more inclusive, and share lessons learnt",
+      "speakers": [
+        "8FRMT8"
+      ],
+      "track": 2817,
+      "start": "2022-08-20T14:30:00+02:00",
+      "end": "2022-08-20T14:50:00+02:00",
+      "room": 1532
     },
     {
       "code": "A8JLUY",
@@ -537,43 +525,6 @@
       "room": 1532
     },
     {
-      "code": "AKYJPG",
-      "title": "State of OSM in QGIS",
-      "abstract": "QGIS is one of the most used Opensource GIS software with some native functionalities to work with OSM data. Either with raster layer as a basemap, or with vector, QGIS can deal with OSM data. Depending on the amount of data to work with, the need to \"refresh\" the data (from the main OSM database), the extent of the coverage, different plugins or technologies are possible.\r\nThis presentation will try to give an overview how it's possible to use OpenStreetMap data according to different situations (Geocoding, TMS/WMS, OverpassAPI, PostgreSQL…). The presentation will show how you can contribute to QuickOSM to add some default « mappreset » to QuickOSM on GitHub.",
-      "speakers": [
-        "YJZEAY"
-      ],
-      "track": 2819,
-      "start": "2022-08-20T16:30:00+02:00",
-      "end": "2022-08-20T16:50:00+02:00",
-      "room": 1531
-    },
-    {
-      "code": "FGDY3F",
-      "title": "Lightning talks III",
-      "abstract": "Lightning talks",
-      "speakers": [
-        "N8W3LW"
-      ],
-      "track": null,
-      "start": "2022-08-20T16:30:00+02:00",
-      "end": "2022-08-20T16:50:00+02:00",
-      "room": 1532
-    },
-    {
-      "code": "R7GW3X",
-      "title": "Analyzing changes in OSM over time - full history access to OSM data through the ohsome framework",
-      "abstract": "What is the state of the map in 2022 and how did we get here? Everyone who has used and contributed to OSM knows that the map is constantly evolving: new objects are added, existing data is adjusted and eventually gets deleted. In this workshop we want to explain and show hands-on how you can analyze mapping activity over time through the ohsome framework and how you can interpret the changes, e.g. in respect to data quality, and by combining the ohsome approach with other tools.",
-      "speakers": [
-        "E8WPXD",
-        "JWED7P"
-      ],
-      "track": 2821,
-      "start": "2022-08-20T16:30:00+02:00",
-      "end": "2022-08-20T17:30:00+02:00",
-      "room": 1533
-    },
-    {
       "code": "3YK7NM",
       "title": "Engaging in OSM",
       "abstract": "Across OpenStreetMap there are ways to get involved from working groups to events to boards. How can we increase and deepen participation across the world? What is the current state of engagement/governance in OSM? What do we need to do to improve? What are some of the lessons from other open organizations?",
@@ -590,6 +541,43 @@
       "start": "2022-08-20T16:30:00+02:00",
       "end": "2022-08-20T17:30:00+02:00",
       "room": 1534
+    },
+    {
+      "code": "AKYJPG",
+      "title": "State of OSM in QGIS",
+      "abstract": "QGIS is one of the most used Opensource GIS software with some native functionalities to work with OSM data. Either with raster layer as a basemap, or with vector, QGIS can deal with OSM data. Depending on the amount of data to work with, the need to \"refresh\" the data (from the main OSM database), the extent of the coverage, different plugins or technologies are possible.\r\nThis presentation will try to give an overview how it's possible to use OpenStreetMap data according to different situations (Geocoding, TMS/WMS, OverpassAPI, PostgreSQL…). The presentation will show how you can contribute to QuickOSM to add some default « mappreset » to QuickOSM on GitHub.",
+      "speakers": [
+        "YJZEAY"
+      ],
+      "track": 2819,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T16:50:00+02:00",
+      "room": 1531
+    },
+    {
+      "code": "R7GW3X",
+      "title": "Analyzing changes in OSM over time - full history access to OSM data through the ohsome framework",
+      "abstract": "What is the state of the map in 2022 and how did we get here? Everyone who has used and contributed to OSM knows that the map is constantly evolving: new objects are added, existing data is adjusted and eventually gets deleted. In this workshop we want to explain and show hands-on how you can analyze mapping activity over time through the ohsome framework and how you can interpret the changes, e.g. in respect to data quality, and by combining the ohsome approach with other tools.",
+      "speakers": [
+        "E8WPXD",
+        "JWED7P"
+      ],
+      "track": 2821,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T17:30:00+02:00",
+      "room": 1533
+    },
+    {
+      "code": "FGDY3F",
+      "title": "Lightning talks III",
+      "abstract": "Lightning talks",
+      "speakers": [
+        "N8W3LW"
+      ],
+      "track": null,
+      "start": "2022-08-20T16:30:00+02:00",
+      "end": "2022-08-20T16:50:00+02:00",
+      "room": 1532
     },
     {
       "code": "GNEJ9G",
@@ -632,12 +620,26 @@
       "title": "Public Domain Map: Crowdsourcing the Future of Government Data",
       "abstract": "It’s easy to see how OpenStreetMap could be leveraged to improve the completeness and freshness of government geospatial datasets. So why aren’t all governments using OpenStreetMap? In the US, the ODbL license has prevented government agencies from using the data. Public Domain Map aims to resolve this (and other challenges) by providing a workflow that allows contributions to be used in both OpenStreetMap and public domain US Government databases. We will share the journey of Public Domain Map, and importantly, how the project is bringing together US federal agencies and open source contributors to meet this goal.",
       "speakers": [
-        "ZMQP8B"
+        "ZMQP8B",
+        "HJYHNR"
       ],
       "track": 2820,
       "start": "2022-08-20T17:30:00+02:00",
       "end": "2022-08-20T17:50:00+02:00",
       "room": 1531
+    },
+    {
+      "code": "JEXYHK",
+      "title": "OSM for sustainable transport planning: getting started",
+      "abstract": "This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.",
+      "speakers": [
+        "QLGPWP",
+        "JKFJUJ"
+      ],
+      "track": 2821,
+      "start": "2022-08-21T09:30:00+02:00",
+      "end": "2022-08-21T10:30:00+02:00",
+      "room": 1534
     },
     {
       "code": "GNG37Y",
@@ -662,19 +664,6 @@
       "start": "2022-08-21T09:30:00+02:00",
       "end": "2022-08-21T11:00:00+02:00",
       "room": 1533
-    },
-    {
-      "code": "JEXYHK",
-      "title": "OSM for sustainable transport planning: getting started",
-      "abstract": "This workshop is aimed at everyone interested in using OpenStreetMap (OSM) to support sustainable transport planning, in professional or advocacy contexts. The focus will be on getting started, identifying, visualizing, and analyzing key tags and identifying gaps in walking, cycling, and wheeling networks. Participants will place OSM data in the context of other data sources to identify its unique advantages. The workshop will be practical and get users started with key ‘tools of the trade’ in the areas: R (used for live demo), Python, A/B Street, and osm2streets. By the end of the workshop, you will know how to add value to OSM data to support sustainable transport planning.",
-      "speakers": [
-        "QLGPWP",
-        "JKFJUJ"
-      ],
-      "track": 2821,
-      "start": "2022-08-21T09:30:00+02:00",
-      "end": "2022-08-21T10:30:00+02:00",
-      "room": 1534
     },
     {
       "code": "9NHQQM",
@@ -750,18 +739,6 @@
       "room": 1531
     },
     {
-      "code": "HEKRDY",
-      "title": "OSM and indoor data",
-      "abstract": "OpenIndoor is an open source SaaS that uses OpenStreetMap indoor data to display a 3D graphical rendering of building interiors. The resulting map offers a gamified experience to meet different types of needs: indoor navigation, data representation, immersive tour etc.\r\nWe will discuss how we use the available open data and the Maplibre engine to address these different use cases.",
-      "speakers": [
-        "MJXQZY"
-      ],
-      "track": 2820,
-      "start": "2022-08-21T14:30:00+02:00",
-      "end": "2022-08-21T14:50:00+02:00",
-      "room": 1531
-    },
-    {
       "code": "VKDYN7",
       "title": "Creating your own MapComplete theme",
       "abstract": "In this workshop, you'll learn the basics of setting up your own mapcomplete theme.\r\n\r\nAfter a short introduction, explanation of some common pitfalls and a technical explanation, you're invited to open up your laptop (or tablet) and can try it out yourself while I'm around to answer some questions.",
@@ -772,6 +749,18 @@
       "start": "2022-08-21T14:30:00+02:00",
       "end": "2022-08-21T15:30:00+02:00",
       "room": 1533
+    },
+    {
+      "code": "HEKRDY",
+      "title": "OSM and indoor data",
+      "abstract": "OpenIndoor is an open source SaaS that uses OpenStreetMap indoor data to display a 3D graphical rendering of building interiors. The resulting map offers a gamified experience to meet different types of needs: indoor navigation, data representation, immersive tour etc.\r\nWe will discuss how we use the available open data and the Maplibre engine to address these different use cases.",
+      "speakers": [
+        "MJXQZY"
+      ],
+      "track": 2820,
+      "start": "2022-08-21T14:30:00+02:00",
+      "end": "2022-08-21T14:50:00+02:00",
+      "room": 1531
     },
     {
       "code": "XJZBFH",
@@ -1044,7 +1033,7 @@
       "room": 1532
     }
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "timezone": "Europe/Rome",
   "tracks": [
     {
@@ -1385,11 +1374,6 @@
       "avatar": null
     },
     {
-      "code": "QNSYGN",
-      "name": "Eric Theise",
-      "avatar": "https://www.gravatar.com/avatar/57301ca3885f9ae0a4718b3ff8862a7b"
-    },
-    {
       "code": "UHUTU3",
       "name": "Rosa Colacicco",
       "avatar": "https://pretalx.com/media/avatars/51407536_1455789187897383_3572539331362947072_o_6Z8wTj4.jpg"
@@ -1457,6 +1441,11 @@
     {
       "code": "YJZEAY",
       "name": "Etienne Trimaille",
+      "avatar": null
+    },
+    {
+      "code": "HJYHNR",
+      "name": "James McAndrew",
       "avatar": null
     },
     {
