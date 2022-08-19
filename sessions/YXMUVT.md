@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Friday, 17:00"
 time_iso: "2022-08-19T15:00:00Z"
-resources: [{ description: "UX hyperlocal maps SEA", url: "/attachments/YXMUVT_PDF_SoTM_2022_-_UX_for_Hyperlocal_Maps_in_SEA_a3bJ74O.pdf" }]
+resources: [{ description: "UX hyperlocal maps SEA", url: "/attachments/YXMUVT_PDF_SoTM_2022_-_UX_for_Hyperlocal_Maps_in_SEA_IwiteGv.pdf" }]
 recording: True
 ---
 

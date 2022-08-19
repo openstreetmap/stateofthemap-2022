@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Friday, 12:30"
 time_iso: "2022-08-19T10:30:00Z"
-resources: []
+resources: [{ description: "argh", url: "/attachments/EHZQXV_prezentacja2_TDTZXb4.odp" }]
 recording: True
 ---
 

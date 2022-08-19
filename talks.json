@@ -963,7 +963,8 @@
       "title": "Floor plan extraction from digital building models",
       "abstract": "As part of a larger endeavour to make floor plan representations from building models available for indoor map and navigation services, we study the integration of  IFC and OSM.",
       "speakers": [
-        "EBQVT3"
+        "EBQVT3",
+        "CYPKDZ"
       ],
       "track": null,
       "start": "2022-08-21T14:05:00+02:00",
@@ -1562,6 +1563,11 @@
       "code": "9GZ9SL",
       "name": "Alishiba Dsouza",
       "avatar": "https://pretalx.com/media/avatars/Photo_Alishiba_7SZ1XrO.jpg"
+    },
+    {
+      "code": "CYPKDZ",
+      "name": "Subhashini Krishnakumar",
+      "avatar": null
     },
     {
       "code": "PCBWXG",

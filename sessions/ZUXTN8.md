@@ -3,13 +3,13 @@ doi: "10.5281/zenodo.7004634"
 layout: session_academic
 title: "Floor plan extraction from digital building models"
 code: "ZUXTN8"
-speaker_names: ['Helga Tauscher']
+speaker_names: ['Helga Tauscher', 'Subhashini Krishnakumar']
 affiliations: None
 room: "Auditorium B"
 length: "5"
 time: "Sunday, 14:05"
 time_iso: "2022-08-21T12:05:00Z"
-resources: []
+resources: [{ description: "Presentation", url: "/attachments/ZUXTN8_20220818_SotM_Egd8tCF.pptx" }]
 recording: True
 ---
 

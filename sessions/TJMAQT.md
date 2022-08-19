@@ -9,7 +9,7 @@ room: "Auditorium B"
 length: "20"
 time: "Saturday, 10:30"
 time_iso: "2022-08-20T08:30:00Z"
-resources: []
+resources: [{ description: "Slide export from Hackmd", url: "/attachments/TJMAQT_Linking_OpenStreetMap_and_Wikidata__Case_study_of__cIX3ceU.pdf" }]
 recording: True
 ---
 

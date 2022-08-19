@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2022-08-19T13:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/W3AGY8_2022-sotm-jochen-topf-osm-data-model_BppirTK.pdf" }]
 recording: True
 ---
 
