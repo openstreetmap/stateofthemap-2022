@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "40"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/NAF9EN_sotm2022-tagging_5BVFgMo.pdf" }]
 recording: True
 ---
 

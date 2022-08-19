@@ -12,7 +12,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 09:00"
 time_iso: "2022-08-21T07:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/JRN9DN_anderson_omidire_sotm2_Vq629TN.pdf" }]
 recording: True
 ---
 
