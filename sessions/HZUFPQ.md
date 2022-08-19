@@ -9,7 +9,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 15:00"
 time_iso: "2022-08-19T13:00:00Z"
-resources: []
+resources: [{ description: "None: A story of data that isn't there _ Gala Camacho_Simona Ciocoiu_Diagonal Works", url: "/attachments/HZUFPQ_State_of_the_Map_talk___Aug_2022_small_YwTPHhM.pdf" }]
 recording: True
 ---
 

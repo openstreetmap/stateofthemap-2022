@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Friday, 12:00"
 time_iso: "2022-08-19T10:00:00Z"
-resources: []
+resources: [{ description: "OSM Carto as vector tiles", url: "/attachments/3EREXZ_OSM_Carto_as_vector_tiles_ccajLtj.pdf" }]
 recording: True
 ---
 
