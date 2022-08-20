@@ -9,7 +9,7 @@ room: "Auditorium A"
 length: "20"
 time: "Friday, 14:30"
 time_iso: "2022-08-19T12:30:00Z"
-resources: []
+resources: [{ description: "Slides (Compressed)", url: "/attachments/VXECJQ_BrandonLiu_SOTM2022-min_NrmJUmw.pdf" }]
 recording: True
 ---
 
@@ -21,4 +21,8 @@ OpenStreetMap consists of tagged nodes, ways and relations. Many use cases of ge
 * A new open-source program, Protoshapes, to generate admin polygons in FlatGeobuf format
 * Efficient approaches for global datasets such as coastlines, oceans, and road connectivity
 * Frequently updating datasets using the open-source OSM Express database
+
+<hr>
+
+slides: https://github.com/bdon/presentations/blob/master/SOTM2022/Innovating%20on%20Derivative%20OSM%20Datasets-compressed.pdf
 
