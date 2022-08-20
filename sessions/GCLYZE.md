@@ -8,7 +8,7 @@ room: "Auditorium B"
 length: "20"
 time: "Saturday, 11:30"
 time_iso: "2022-08-20T09:30:00Z"
-resources: []
+resources: [{ description: "Slides", url: "/attachments/GCLYZE_OpenStreetMap_in_schools__The_case_study_of_Bari_UiDWsKA.pdf" }]
 recording: True
 ---
 
