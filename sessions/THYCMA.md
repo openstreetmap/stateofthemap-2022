@@ -4,7 +4,7 @@ layout: session_academic
 title: "YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities"
 code: "THYCMA"
 speaker_names: [
-  'Patricia Solís'
+  'Patricia Solís (YouthMappers; School of Geographical Sciences and Urban Planning; Julie Ann Wrigley Global Futures Laboratory; Knowledge Exchange for Resilience, Arizona State University)'
 ]
 affiliations: None
 room: "Auditorium B"
