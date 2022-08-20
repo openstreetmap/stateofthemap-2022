@@ -4,7 +4,7 @@ title: "Academic Lightning Talks 1"
 code: "YWH3XD"
 speaker_names: ['various speakers']
 affiliations: None
-room: "Auditorium B - A1^01"
+room: "Auditorium B"
 length: "25"
 time: "Sunday, 14:00"
 resources: []
