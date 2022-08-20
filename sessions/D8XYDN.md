@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 17:00"
 time_iso: "2022-08-20T15:00:00Z"
-resources: []
+resources: [{ description: "Presentation (v1)", url: "/attachments/D8XYDN_sotm-2022-osm-ops-today-tomorrow_ZucmrtQ.pdf" }]
 recording: True
 ---
 
