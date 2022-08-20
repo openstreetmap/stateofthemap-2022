@@ -1,0 +1,5 @@
+HTML link
+It's better with GIF instead of PDF
+
+https://docs.3liz.org/presentations/2022-08-foss4g-osm-in-qgis.html
+

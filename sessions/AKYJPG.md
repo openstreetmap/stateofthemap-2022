@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 16:30"
 time_iso: "2022-08-20T14:30:00Z"
-resources: []
+resources: [{ description: "HTML slides link", url: "/attachments/AKYJPG_html-slides-link_2llYOYM.txt" },{ description: "PDF (without animations)", url: "/attachments/AKYJPG_2022-08-foss4g-osm-in-qgis_qSn2xWo.pdf" }]
 recording: True
 ---
 
