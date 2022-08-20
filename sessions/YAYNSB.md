@@ -9,7 +9,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 10:30"
 time_iso: "2022-08-20T08:30:00Z"
-resources: []
+resources: [{ description: "Slides Compressed", url: "/attachments/YAYNSB_NYC_Sidewalks_SOTM2022-compressed_ftooaTw.pdf" }]
 recording: True
 ---
 

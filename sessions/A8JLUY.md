@@ -9,7 +9,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 14:30"
 time_iso: "2022-08-20T12:30:00Z"
-resources: [{ description: "Presentation", url: "/attachments/A8JLUY_How_to_kill_OSM_small_zKnJ22t.odp" }]
+resources: [{ description: "Main presentation", url: "/attachments/A8JLUY_20220820_How_to_kill_OSM_-_Florian_Lainez_Uxt5lV7.odp" },{ description: "Backup pdf", url: "/attachments/A8JLUY_20220820_How_to_kill_OSM_-_Florian_Lainez_miaGuFs.pdf" }]
 recording: True
 ---
 

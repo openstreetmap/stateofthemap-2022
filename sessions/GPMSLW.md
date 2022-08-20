@@ -9,7 +9,7 @@ room: "Auditorium B"
 length: "5"
 time: "Sunday, 10:35"
 time_iso: "2022-08-21T08:35:00Z"
-resources: []
+resources: [{ description: "SOTM_2022_Herfort_lightning_talk", url: "/attachments/GPMSLW_SOTM_2022_Inequalities_xTVAics.pdf" }]
 recording: True
 ---
 
