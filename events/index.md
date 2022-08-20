@@ -33,7 +33,7 @@ The venue is not exclusively booked for State of the Map, so please expect that 
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
     map.scrollWheelZoom.disable();
-    L.marker([43.7766, 11.2532], {icon: L.icon({
+    L.marker([43.77642, 11.25282], {icon: L.icon({
       iconUrl: "{{ "/img/logo/sotm_2022-logo.svg" | prepend: site.baseurl }}",
       iconSize: [40, 40],
       iconAnchor: [20, 40]
