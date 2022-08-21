@@ -22,7 +22,3 @@ OpenStreetMap consists of tagged nodes, ways and relations. Many use cases of ge
 * Efficient approaches for global datasets such as coastlines, oceans, and road connectivity
 * Frequently updating datasets using the open-source OSM Express database
 
-<hr>
-
-slides: https://github.com/bdon/presentations/blob/master/SOTM2022/Innovating%20on%20Derivative%20OSM%20Datasets-compressed.pdf
-

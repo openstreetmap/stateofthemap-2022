@@ -13,7 +13,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 12:30"
 time_iso: "2022-08-21T10:30:00Z"
-resources: []
+resources: [{ description: "Academic Track Presentation", url: "/attachments/CEMMTQ_sotm2022_slides_update_HxoiqCX.pdf" }]
 recording: True
 ---
 

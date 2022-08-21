@@ -12,7 +12,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 11:30"
 time_iso: "2022-08-21T09:30:00Z"
-resources: [{ description: "Slides", url: "/attachments/ASADTB_slides_TheodorRieche_S_C3buioy.pdf" }]
+resources: [{ description: "slides", url: "/attachments/ASADTB_slides_TheodorRieche_S_C9M9X9t.pdf" }]
 recording: True
 ---
 
