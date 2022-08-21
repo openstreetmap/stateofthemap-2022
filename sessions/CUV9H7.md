@@ -8,7 +8,7 @@ room: "Auditorium A"
 length: "20"
 time: "Sunday, 12:00"
 time_iso: "2022-08-21T10:00:00Z"
-resources: []
+resources: [{ description: "Presentation - OSMUS TRAILS", url: "/attachments/CUV9H7_OSM_US_Trails_Talk_SOTM_2022_uzUiEHr.pdf" }]
 recording: True
 ---
 
