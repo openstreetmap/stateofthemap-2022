@@ -11,7 +11,7 @@ room: "Auditorium B"
 length: "20"
 time: "Sunday, 15:30"
 time_iso: "2022-08-21T13:30:00Z"
-resources: [{ description: "slides", url: "/attachments/NWB9QF_SOTM2022-presentation-_2n3t00P.pdf" }]
+resources: [{ description: "slides", url: "/attachments/NWB9QF_SOTM2022-presentation-_DfoVTcO.pdf" }]
 recording: True
 ---
 
