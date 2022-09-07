@@ -4,10 +4,10 @@ title: "maplibre-rs: Cross-platform Map Rendering using Rust"
 code: "VECREV"
 speaker_names: ['Max Ammann']
 affiliations: MapLibre
-room: "Workshops/&#34;Loop Cinema&#34; - Room 103"
+room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
 length: "20"
-time: "Friday, 16:30"
-time_iso: "2022-08-19T14:30:00Z"
+time: "Friday, 17:30"
+time_iso: "2022-08-19T15:30:00Z"
 resources: [{ description: "slides", url: "/attachments/VECREV_2022-08-19-SotM-maplibre-rs_sO0aXrv.pdf" }]
 recording: False
 ---
