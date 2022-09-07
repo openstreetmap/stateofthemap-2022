@@ -8,6 +8,10 @@ room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"
+extra_time_1: "Saturday, 11:30"
+extra_time_1_iso: "2022-08-20T09:30:00Z"
+extra_time_2: "Sunday, 09:30"
+extra_time_2_iso: "2022-08-21T07:30:00Z"
 resources: []
 recording: False
 ---
