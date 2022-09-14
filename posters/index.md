@@ -14,6 +14,10 @@ headings: "01,02,03,04,07,09,10,11,12,14,15,16,17,18,19,20,22,23,24,25,26,27,28,
     content: "Poster " counter(poster-submission) " ";
     font-weight: bold;
   }
+  #toc li a {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
 </style>
 
 Many followed the call for posters and the results are AMAZING. We thank all participants for the great work! Some more information can be found on our [call for posters](/calls/posters) page.
