@@ -205,10 +205,6 @@ footer a:focus,
     }
 }
 
-.toc ul {
-  margin-left: 20px;
-}
-
 .intro {
     display: table;
     width: 100%;
@@ -747,9 +743,19 @@ nav .navbar-brand {
   display: block;
   width: 30px;
   height: 3px;
-  background-color: {{ site.color.primary-dark }};
+  background-color: {{ site.color.primary-light }};
   position: absolute;
   bottom: 0px;
+}
+
+#toc ul {
+  margin-left: 20px;
+}
+
+#toc ul li a {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
 }
 
 
