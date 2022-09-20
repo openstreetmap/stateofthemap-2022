@@ -4,7 +4,7 @@ title: "Lightning talks V"
 code: "HLTKHD"
 speaker_names: ['Various Speakers']
 affiliations: None
-room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
+room: "Workshops and Loop-Cinema - Room 103"
 length: "60"
 time: "Friday, 16:30"
 time_iso: "2022-08-19T14:30:00Z"

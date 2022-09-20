@@ -5,7 +5,7 @@ subtitle: "How can we increase and deepen participation across the world?"
 code: "3YK7NM"
 speaker_names: ['Heather Leson', 'Kate Chapman', 'Chad Blevins', 'Allan Mustard', 'Miriam Gonzalez', 'Geoffrey Kateregga', 'Liz Barry']
 affiliations: None
-room: "Workshops/&#34;Loop-Cinema&#34; - Room 103"
+room: "Workshops and Loop-Cinema - Room 103"
 length: "60"
 time: "Saturday, 09:30"
 time_iso: "2022-08-20T07:30:00Z"
