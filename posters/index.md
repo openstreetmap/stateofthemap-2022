@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: "2022 Posters"
 titlecontent: ""
-headings: "01,02,03,04,07,09,10,11,12,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36"
+headings: "01,02,03,04,07,09,10,11,12,14,15,16,17,18,19,20,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,38"
 ---
 
 <style>
@@ -147,3 +147,7 @@ Many followed the call for posters and the results are AMAZING. We thank all par
 <h2 id="36">Mapping Stories and Memories as a Motivational Path in the Training of Vulnerable Communities Women Mappers</h2>
 
 [<img src="../img/posters/36.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/P9qNZpXAW5LMBCJ)
+
+<h2 id="38">Clear around Ukraine and Utilize support</h2>
+
+[<img src="../img/posters/38.jpg" style="max-height:351px; max-width:351px;">](https://files.osmfoundation.org/s/tyHGTRwX2SdSFjM)
