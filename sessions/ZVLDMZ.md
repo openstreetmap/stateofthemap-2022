@@ -1,4 +1,6 @@
 ---
+voc: https://media.ccc.de/v/sotm2022-19710-lightning-talks-i
+recordings: [{'size': 98, 'length': 973, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2022-19710-eng-Lightning_talks_I_webm-hd.webm', 'state': 'new', 'folder': 'webm-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2022-09-24T18:51:01.742+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/webm-hd/sotm2022-19710-eng-Lightning_talks_I_webm-hd.webm', 'url': 'https://api.media.ccc.de/public/recordings/61977', 'event_url': 'https://api.media.ccc.de/public/events/e64e69ba-0d6b-57de-860e-e982e3668df8', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 39, 'length': 973, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2022-19710-eng-Lightning_talks_I_webm-sd.webm', 'state': 'new', 'folder': 'webm-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2022-09-24T18:38:27.781+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/webm-sd/sotm2022-19710-eng-Lightning_talks_I_webm-sd.webm', 'url': 'https://api.media.ccc.de/public/recordings/61972', 'event_url': 'https://api.media.ccc.de/public/events/e64e69ba-0d6b-57de-860e-e982e3668df8', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 28, 'length': 973, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2022-19710-eng-Lightning_talks_I_sd.mp4', 'state': 'new', 'folder': 'h264-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2022-09-24T18:28:47.974+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/h264-sd/sotm2022-19710-eng-Lightning_talks_I_sd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/61966', 'event_url': 'https://api.media.ccc.de/public/events/e64e69ba-0d6b-57de-860e-e982e3668df8', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 14, 'length': 961, 'mime_type': 'audio/mpeg', 'language': 'eng', 'filename': 'sotm2022-19710-eng-Lightning_talks_I_mp3.mp3', 'state': 'new', 'folder': 'mp3', 'high_quality': False, 'width': 0, 'height': 0, 'updated_at': '2022-09-24T18:25:57.741+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/mp3/sotm2022-19710-eng-Lightning_talks_I_mp3.mp3', 'url': 'https://api.media.ccc.de/public/recordings/61964', 'event_url': 'https://api.media.ccc.de/public/events/e64e69ba-0d6b-57de-860e-e982e3668df8', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 74, 'length': 973, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2022-19710-eng-Lightning_talks_I_hd.mp4', 'state': 'new', 'folder': 'h264-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2022-09-24T18:24:13.475+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/h264-hd/sotm2022-19710-eng-Lightning_talks_I_hd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/61962', 'event_url': 'https://api.media.ccc.de/public/events/e64e69ba-0d6b-57de-860e-e982e3668df8', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}]
 layout: session
 title: "Lightning talks I"
 code: "ZVLDMZ"
@@ -16,11 +18,9 @@ Lightning talks
 
 <hr>
 
-## The Meet Your Mappers Tool
+## AddressForAll Institute
 
-_by Martijn van Exel_
-
-Meet Your Mappers is an open source web-based tool that lets you discover who the local mappers are in your city or town. It will give you a list of local mappers that is organized based on their mapping activity: new mappers, heavy mappers, non-active mappers, et cetera. In this presentation, Martijn will explain how to use the tool, and how to create a complete flow to identify and contact local mappers using it.
+_by Thierry Jean_
 
 ## ImproveOSM new data dumps
 
