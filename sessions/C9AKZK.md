@@ -5,7 +5,7 @@ layout: session
 title: "10 Years iD Editor – The Road Ahead"
 code: "C9AKZK"
 speaker_names: ['Martin Raifer']
-affiliations: OpenStreetMap Foundation
+affiliations: None
 room: "Auditorium A"
 length: "20"
 time: "Saturday, 12:00"

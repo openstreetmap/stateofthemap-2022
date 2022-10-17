@@ -16,8 +16,8 @@ speaker_names: [
 affiliations: None
 room: "Auditorium B"
 length: "5"
-time: "Sunday, 10:30"
-time_iso: "2022-08-21T08:30:00Z"
+time: "Sunday, 10:35"
+time_iso: "2022-08-21T08:35:00Z"
 resources: []
 recording: True
 ---
@@ -55,22 +55,4 @@ The methodological procedures developed using python in the QGIS environment are
 In a first analysis, we did a preliminary study for a Brazilian city, Curitiba, with about 28 thousand points of known accuracy. We separated 2.8 thousand control points, and the city was divided into 8 km to 250 m cells. From the preliminary study performed, it was noted that the method show promise in obtaining the necessary analyses to identify the aspects proposed in this work. Furthermore, it was noticed that, as the cell size decreased, the results tended to be more constant, which corroborates the hypothesis of this relationship with data quality. The next steps are to continue the analyses, starting with the verifications and the representation of the magnitude of the differences between different cell sizes.
 
 Although it is a method that still has a relatively high computational cost to be realized, the results are exciting and can be optimized. It is assumed that if it is possible to identify the minimum cell size in which it is possible to estimate the quality of the features, this will help in decision making regarding the incorporation of procedures in different áreas. This method may need even smaller clippings in regions with very heterogeneous characteristics concerning their surroundings (e.g., slums). It is an initial approach to resolve with data a fundamental issue arising from the lack of knowledge of the granularity of discrepancies for each study area.
-
-<hr>
-
-[1] ISO (2013). ISO 19157: 2013 Geographic Information – Data quality
-
-[2] Haklay, M., Basiouka, S., Antoniou, V., &amp; Ather, A. (2010). How many volunteers does it take to map an area well? The validity of Linus’ law to volunteered geographic information. The cartographic journal, 47(4), 315-322.
-
-[3] Fan, H., Zipf, A., Fu, Q., &amp; Neis, P. (2014). Quality assessment for building footprints data on OpenStreetMap. International Journal of Geographical Information Science, 28(4), 700-719.
-
-[4] Martini, A., Kuper, P. V., &amp; Breunig, M. (2019). Database-supported change analysis and quality evaluation of OpenStreetMap Data. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 4, 535-541.
-
-[5] Brovelli, M. A., &amp; Zamboni, G. (2018). A new method for the assessment of spatial accuracy and completeness of OpenStreetMap building footprints. ISPRS International Journal of Geo-Information, 7(8), 289.
-
-[6] Zhang, H., &amp; Malczewski, J. (2017). Accuracy evaluation of the Canadian OpenStreetMap road networks. International Journal of Geospatial and Environmental Research, 5(2).[7] Brovelli, Maria Antonia, Marco Minghini, and Monia Elisa Molinari. “An automated GRASS-based procedure to assess the geometrical accuracy of the OpenStreetMap Paris road network.” (2016): 919-925.
-
-[8] Barron, C., Neis, P., &amp; Zipf, A. (2014). A comprehensive framework for intrinsic OpenStreetMap quality analysis. Transactions in GIS, 18(6), 877-895.
-
-[9] Minghini, M., &amp; Frassinelli, F. (2019). OpenStreetMap history for intrinsic quality assessment: Is OSM up-to-date?. Open Geospatial Data, Software and Standards, 4(1), 1-17.
 

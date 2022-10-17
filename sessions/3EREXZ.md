@@ -5,7 +5,7 @@ layout: session
 title: "OSM Carto as vector tiles"
 code: "3EREXZ"
 speaker_names: ['Jiri Komarek', 'Wladimir Szczerban']
-affiliations: MapTiler
+affiliations: None
 room: "Auditorium B"
 length: "20"
 time: "Friday, 12:00"

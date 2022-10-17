@@ -5,7 +5,7 @@ layout: session
 title: "UX for hyperlocal map in Southeast Asia"
 code: "YXMUVT"
 speaker_names: ['Low Ko Wee', 'Sriram Iyer']
-affiliations: Grab
+affiliations: None
 room: "Auditorium B"
 length: "20"
 time: "Friday, 17:00"

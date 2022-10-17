@@ -5,7 +5,7 @@ layout: session
 title: "Running OpenStreetMap.org - Today and Tomorrow"
 code: "D8XYDN"
 speaker_names: ['Grant Slater']
-affiliations: OpenStreetMap Foundation
+affiliations: None
 room: "Auditorium A"
 length: "20"
 time: "Saturday, 17:00"

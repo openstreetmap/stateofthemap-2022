@@ -5,7 +5,7 @@ layout: session
 title: "Crowdsourcing and virtual reality applications for peacekeeping: study cases in Mogadishu and Tripoli"
 code: "GNG37Y"
 speaker_names: ['Michael Montani']
-affiliations: United Nations Global Service Center / UN Mappers
+affiliations: None
 room: "Auditorium A"
 length: "20"
 time: "Sunday, 09:30"

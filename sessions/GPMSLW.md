@@ -9,8 +9,8 @@ speaker_names: ['Benjamin Herfort']
 affiliations: None
 room: "Auditorium B"
 length: "5"
-time: "Sunday, 10:35"
-time_iso: "2022-08-21T08:35:00Z"
+time: "Sunday, 10:30"
+time_iso: "2022-08-21T08:30:00Z"
 resources: [{ description: "SOTM_2022_Herfort_lightning_talk", url: "/attachments/GPMSLW_SOTM_2022_Inequalities_xTVAics.pdf" }]
 recording: True
 ---
@@ -32,34 +32,4 @@ Nevertheless, since 2014 Moran’s I global spatial autocorrelation declined and
 We developed a typology of urban centers based on a methodology to quantify intra-urban completeness pattern by means of evenness and spatial clustering. For this we utilized a fine-scale 1x1 km resolution dataset. In total this analysis covered 4,722 urban centers each with a minimum area of 25 square kilometers. Urban centers have been classified into five different types utilizing an agglomerative clustering approach. Our proposed typology of urban centers incorporates the fact that OSM mapping is rarely distributed equal within cities. Similar findings have been reported for Haiti, where densely mapped zones of Port-au-Prince co-exist alongside zones that remain entirely unmapped [14]. Here we provided a method to quantify these pattern and compare across cities.
 
 The results reveal the need to address the remaining stark data inequalities, which could not be turned around so far by humanitarian and corporate organized mapping activities. We conclude with recommendations directed at stakeholders working with OSM data: (1) Multi-scale building completeness measures should be applied before subsequent usage of OSM data to outline the potential negative effect of missing data. (2) Completeness maps should be used in combination with socio-demographic information to guide future mapping activities to ensure that &#34;nobody is left behind&#34; as encouraged by the SDGs.
-
-<hr>
-
-Oort, P. Spatial data quality: from description to application. Ph.D. thesis, Wageningen Universiteit (2006).
-
-Neis, P., Zielstra, D. &amp; Zipf, A. The Street Network Evolution of Crowdsourced Maps: OpenStreetMap in Germany 2007–2011. Futur. Internet 4, 1–21, DOI: 10.3390/fi4010001 (2011).
-
-Barron, C., Neis, P. &amp; Zipf, A. A Comprehensive Framework for Intrinsic OpenStreetMap Quality Analysis. Transactions GIS 18, 877–895, DOI: 10.1111/tgis.12073 (2014). 9605103.
-
-Senaratne, H., Mobasheri, A., Ali, A. L., Capineri, C. &amp; Haklay, M. M. A review of volunteered geographic information quality assessment methods. Int. J. Geogr. Inf. Sci. 8816, 1–29, DOI: 10.1080/13658816.2016.1189556 (2016).
-
-Sui, D., Goodchild, M. &amp; Elwood, S. Volunteered geographic information, the exaflood, and the growing digital divide. In Crowdsourcing Geographic Knowledge: Volunteered Geographic Information (VGI) in Theory and Practice, vol. 9789400745872, 1–12, DOI: 10.1007/978-94-007-4587-2_1 (Springer, 2013).
-
-Neis, P., Zielstra, D. &amp; Zipf, A. Comparison of Volunteered Geographic Information Data Contributions and Community Development for Selected World Regions. Futur. Internet 5, 282–300, DOI: 10.3390/fi5020282 (2013).
-
-Florczyk, A. J. et al. Description of the GHS Urban Centre Database 2015. February (2019).
-
-Raifer, M. et al. OSHDB: a framework for spatio-temporal analysis of OpenStreetMap history data. Open Geospatial Data, Softw. Standards 4, DOI: 10.1186/s40965-019-0061-3 (2019).
-
-Fan, H., Zipf, A., Fu, Q. &amp; Neis, P. Quality assessment for building footprints data on OpenStreetMap. Int. J. Geogr. Inf. Sci. 28, 700–719, DOI: 10.1080/13658816.2013.867495 (2014).
-
-Törnros, T., Dorn, H., Hahmann, S. &amp; Zipf, A. UNCERTAINTIES OF COMPLETENESS MEASURES IN OPENSTREETMAP – A CASE STUDY FOR BUILDINGS IN A MEDIUM-SIZED GERMAN CITY. ISPRS Annals Photogramm. Remote. Sens. Spatial Inf. Sci. II-3/W5, 353–357, DOI: 10.5194/isprsannals-II-3-W5-353-2015 (2015).
-
-Hecht, R., Kunze, C. &amp; Hahmann, S. Measuring Completeness of Building Footprints in OpenStreetMap over Space and Time. ISPRS Int. J. Geo-Information 2, 1066–1091, DOI: 10.3390/ijgi2041066 (2013).
-
-Massey, D. S. &amp; Denton, N. A. The dimensions of residential segregation. Soc. Forces 67, 281–315, DOI: 10.1093/sf/67.2.281 (1988).
-
-Morrill, R. L. On the measure of geographic segregation. Geogr. Res. Forum 11, 25–36 (1991).
-
-Goldblatt, R., Jones, N. &amp; Mannix, J. Assessing OpenStreetMap Completeness for Management of Natural Disaster by Means of Remote Sensing: A Case Study of Three Small Island States (Haiti, Dominica and St. Lucia). Remote. Sens. 12, 118, DOI: 10.3390/rs12010118 (2020).
 

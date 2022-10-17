@@ -1,0 +1,18 @@
+---
+voc: https://media.ccc.de/v/state-of-the-map-2022-academic-track-23290-opening-session-academic-track
+recordings: [{'size': 17, 'length': 208, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2022-23290-eng-Opening_Session_-_Academic_Track_webm-hd.webm', 'state': 'new', 'folder': 'webm-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2022-10-16T21:23:04.039+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/webm-hd/sotm2022-23290-eng-Opening_Session_-_Academic_Track_webm-hd.webm', 'url': 'https://api.media.ccc.de/public/recordings/63087', 'event_url': 'https://api.media.ccc.de/public/events/f418843d-4f15-562b-bf53-7131f9210a76', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 7, 'length': 208, 'mime_type': 'video/webm', 'language': 'eng', 'filename': 'sotm2022-23290-eng-Opening_Session_-_Academic_Track_webm-sd.webm', 'state': 'new', 'folder': 'webm-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2022-10-16T21:18:02.903+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/webm-sd/sotm2022-23290-eng-Opening_Session_-_Academic_Track_webm-sd.webm', 'url': 'https://api.media.ccc.de/public/recordings/63086', 'event_url': 'https://api.media.ccc.de/public/events/f418843d-4f15-562b-bf53-7131f9210a76', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 3, 'length': 208, 'mime_type': 'audio/mpeg', 'language': 'eng', 'filename': 'sotm2022-23290-eng-Opening_Session_-_Academic_Track_mp3.mp3', 'state': 'new', 'folder': 'mp3', 'high_quality': False, 'width': 0, 'height': 0, 'updated_at': '2022-10-16T21:17:02.798+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/mp3/sotm2022-23290-eng-Opening_Session_-_Academic_Track_mp3.mp3', 'url': 'https://api.media.ccc.de/public/recordings/63085', 'event_url': 'https://api.media.ccc.de/public/events/f418843d-4f15-562b-bf53-7131f9210a76', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 5, 'length': 208, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2022-23290-eng-Opening_Session_-_Academic_Track_sd.mp4', 'state': 'new', 'folder': 'h264-sd', 'high_quality': False, 'width': 720, 'height': 576, 'updated_at': '2022-10-16T21:16:02.988+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/h264-sd/sotm2022-23290-eng-Opening_Session_-_Academic_Track_sd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/63084', 'event_url': 'https://api.media.ccc.de/public/events/f418843d-4f15-562b-bf53-7131f9210a76', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}, {'size': 12, 'length': 208, 'mime_type': 'video/mp4', 'language': 'eng', 'filename': 'sotm2022-23290-eng-Opening_Session_-_Academic_Track_hd.mp4', 'state': 'new', 'folder': 'h264-hd', 'high_quality': True, 'width': 1920, 'height': 1080, 'updated_at': '2022-10-16T21:14:23.454+02:00', 'recording_url': 'https://cdn.media.ccc.de/events/sotm/2022/h264-hd/sotm2022-23290-eng-Opening_Session_-_Academic_Track_hd.mp4', 'url': 'https://api.media.ccc.de/public/recordings/63083', 'event_url': 'https://api.media.ccc.de/public/events/f418843d-4f15-562b-bf53-7131f9210a76', 'conference_url': 'https://api.media.ccc.de/public/conferences/sotm2022'}]
+layout: session
+title: "Opening Session - Academic Track"
+code: "RBZHX7"
+speaker_names: ['Yair Grinberger &amp; Marco Minghini']
+affiliations: None
+room: "Auditorium B"
+length: "5"
+time: "Sunday, 08:55"
+time_iso: "2022-08-21T06:55:00Z"
+resources: []
+recording: True
+---
+
+The opening session of the Academic Track at the State of the Map 2022 conference.
+

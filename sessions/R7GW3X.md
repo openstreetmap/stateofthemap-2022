@@ -3,7 +3,7 @@ layout: session
 title: "Analyzing changes in OSM over time - full history access to OSM data through the ohsome framework"
 code: "R7GW3X"
 speaker_names: ['Benjamin Herfort', 'Rafael Troilo']
-affiliations: HeiGIT
+affiliations: None
 room: "Workshops and Loop-Cinema - Room 103"
 length: "60"
 time: "Saturday, 16:30"

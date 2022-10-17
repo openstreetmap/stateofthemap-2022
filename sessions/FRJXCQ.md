@@ -122,21 +122,3 @@ are still significant variations among different architectures and setups. The
 next step is to perform systemic fine-tuning to increase the confidence level
 of the appropriate architectures.
 
-<hr>
-
-Anderson, J., Sarkar, D., &amp; Palen, L. (2019). Corporate Editors in the Evolving Landscape of OpenStreetMap. ISPRS International Journal of Geo-Information, 8(5), 232. https://doi.org/10.3390/ijgi8050232
-Carrivick, J. L., Smith, M. W., &amp; Quincey, D. J. (2016). Structure from Motion in the Geosciences. John Wiley &amp; Sons.
-Congalton, R. G., &amp; Green, K. (2019). Assessing the accuracy of remotely sensed data: Principles and practices (3rd ed.). CRC press.
-Dzaleka Refugee Camp. (2017, June 8). There Is Hope. http://thereishopemalawi.org/dzaleka-refugee-camp/
-Herfort, B., Lautenbach, S., de Albuquerque, J. P., Anderson, J., &amp; Zipf, A. (2021). The evolution of humanitarian mapping within the OpenStreetMap community. Scientific Reports, 11(1), 1–15.
-Kuffer, M., Pfeffer, K., Sliuzas, R., &amp; Baud, I. (2016). Extraction of Slum Areas From VHR Imagery Using GLCM Variance. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 9(5), 1830–1840. https://doi.org/10.1109/JSTARS.2016.2538563
-Minghini, M., Ludwig, C., Anderson, J., Mooney, P., &amp; Grinberger, A. Y. (2021). Proceedings of the Academic Track at State of the Map 2021. Zenodo. https://doi.org/10.5281/zenodo.5116434
-Ng, A. (2018). Machine Learning Yearning.
-Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience. (2022). [Jupyter Notebook]. DrivenData. https://github.com/drivendataorg/open-cities-ai-challenge (Original work published 2020)
-Ronneberger, O., Fischer, P., &amp; Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In N. Navab, J. Hornegger, W. M. Wells, &amp; A. F. Frangi (Eds.), Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015 (pp. 234–241). Springer International Publishing. https://doi.org/10.1007/978-3-319-24574-4_28
-Taubenböck, H., Kraff, N. J., &amp; Wurm, M. (2018). The morphology of the Arrival City—A global categorization based on literature surveys and remotely sensed data. Applied Geography, 92, 150–167. https://doi.org/10.1016/j.apgeog.2018.02.002
-UNHCR. (2014). Malawi: Joint Assessment Mission Report. Dzaleka Refugee Camp (November 2014) (WFP/UNHCR/GOM/PRDO/JRS/PLAN). UNHCR. https://www.unhcr.org/protection/health/5680f7d09/malawi-joint-assessment-mission-report-dzaleka-refugee-camp-november-2014.html
-UNHCR &amp; DANIDA. (2019). The Integrated Solutions Model in and Around Kalobeyei, Turkana, Kenya (No. 978-87-93760-22–6). UNHCR, DANIDA. https://www.unhcr.org/research/evalreports/5dfa287c4/unhcrdanida-integrated-solutions-model-around-kalobeyei-turkana-kenya.html
-UNHCR Sub-Office Kakuma. (2019). Kakuman camp and Kalobeyei Settlement Briefing Kit, May 2019.
-Wurm, M., Weigand, M., Schmitt, A., Geiß, C., &amp; Taubenböck, H. (2017). Exploitation of textural and morphological image features in Sentinel-2A data for slum mapping. 2017 Joint Urban Remote Sensing Event (JURSE), 1–4. https://doi.org/10.1109/JURSE.2017.7924586
-

@@ -3,7 +3,7 @@ layout: session
 title: "Local Chapters Congress"
 code: "HTEZJY"
 speaker_names: ['Joost Schouppe', 'Local Chapters &amp; Communities Working Group', 'Maggie Cawley', 'Anisa Kuci', 'Geoffrey Kateregga']
-affiliations: OpenStreetMap Foundation
+affiliations: None
 room: "Workshops and Loop-Cinema - Room 103"
 length: "60"
 time: "Friday, 14:30"

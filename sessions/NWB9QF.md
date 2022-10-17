@@ -37,17 +37,3 @@ Similar to how supply chains “link ostensibly independent entrepreneurs, makin
 
 By delineating this supply-chains approach, this study hopes to scaffold a mental model of humanitarian mapping and the OpenStreetMap more broadly, to be employed in future studies – both quantitative and qualitative. Practically, it hopes to provide a heuristic and application of ethnographic tools, and present questions and queries directly to the community more broadly.
 
-<hr>
-
-[1] Dittus, M., Quattrone, G., &amp; Capra, L. (2016). Analysing volunteer engagement in humanitarian mapping: Building contributor communities at large scale. Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing, 27 February 2016, 108–118.
-[2] Brandusescu, A., &amp; Sieber, R.E. (2018). The spatial knowledge politics of crisis mapping for community development. GeoJournal, 83(3), 509–524.
-[3] Graham, M., Straumann, R.K., &amp; Hogan, B. (2015). Digital Divisions of Labor and Informational Magnetism: Mapping Participation in Wikipedia. Annals of the Association of American Geographers, 105(6), 1158–1178.
-[4] Kelty, C. (2008). Two Bits: The Cultural Significance of Free Software. Duke University Press, Durham, NC.
-[5] Coleman, G. (2012). Coding Freedom: The Ethics and Aesthetics of Hacking. Princeton University Press, Princeton, NJ.
-[6] Brovelli, M.A., Minghini, M., Molinari, M., &amp; Mooney, P. (2017). Towards an Automated Comparison of OpenStreetMap with Authoritative Road Datasets. Transactions in GIS, 21(2), 191–206.
-[7] Cross, J. (2020). Capturing Crisis. The Cambridge Journal of Anthropology, 38(2), 105–124.
-[8] Redfield, P. (2016). Fluid technologies: The Bush Pump, the LifeStraw® and microworlds of humanitarian design. Social Studies of Science, 46(2), 159–183.
-[9] Scott-Smith, T. (2016). Humanitarian neophilia: the ‘innovation turn’ and its implications. Third World Quarterly, 37(12), 2229–2251.
-[10] Ticktin, M. (2014). Transnational humanitarianism. Annual Review of Anthropology, 43, 273–289.
-[11] Tsing, A. (2009). Supply chains and the human condition. Rethinking Marxism, 21(2), 148–176.
-

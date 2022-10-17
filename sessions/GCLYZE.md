@@ -5,7 +5,7 @@ layout: session
 title: "OpenStreetMap in schools: The case study of Bari"
 code: "GCLYZE"
 speaker_names: ['Ferdinando Traversa', 'Rosa Colacicco']
-affiliations: Wikimedia Italy, YouthMappers@UniBA
+affiliations: None
 room: "Auditorium B"
 length: "20"
 time: "Saturday, 11:30"

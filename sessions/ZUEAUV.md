@@ -5,7 +5,7 @@ layout: session
 title: "Women Leadership in Mapping Riverside Communities in the Amazon Forest Using OSM"
 code: "ZUEAUV"
 speaker_names: ['Ana Luísa Teixeira', 'Silvia Elena Ventorini', 'Natalia da Silveira Arruda']
-affiliations: Departamento de Geociências - Universidade Federal de São João del-Rei; Arizona State University; Youthmappers
+affiliations: None
 room: "Auditorium B"
 length: "20"
 time: "Saturday, 15:00"

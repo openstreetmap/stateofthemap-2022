@@ -5,7 +5,7 @@ layout: session
 title: "Educational initiatives and platforms on OpenStreetMap: making open data more accessible"
 code: "SCBZ9Q"
 speaker_names: ['Michael Montani']
-affiliations: United Nations Global Service Center / UN Mappers
+affiliations: None
 room: "Auditorium B"
 length: "60"
 time: "Saturday, 12:00"

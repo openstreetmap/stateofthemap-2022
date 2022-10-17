@@ -38,21 +38,3 @@ Next, we present the community analysis. There were around 8.4 million contribut
 
 To conclude, we notice that both communities have great potential to integrate these sources on the topic of railway stations. This potential increases daily with other topics reaching a mature data state in Wikidata and other knowledge graphs. OSM can benefit from the wide range of semantic information linked to objects, while Wikidata can benefit from the precise geoinformation and completeness OSM offers. Yet, care needs to be taken to take both communities on board as each user base exhibits unique data collection styles that need to be respected.
 
-<hr>
-
-[1] Tempelmeier, N., &amp; Demidova, E. (2021). Linking OpenStreetMap with knowledge graphs—Link discovery for schema-agnostic volunteered geographic information. Future Generation Computer Systems, 116, 349-364. 
-
-[2] Dsouza, A., Tempelmeier, N., &amp; Demidova, E. (2021, October). Towards Neural Schema Alignment for OpenStreetMap and Knowledge Graphs. In International Semantic Web Conference (pp. 56-73). Springer, Cham. 
-
-[3] Gurtovoy, D., &amp; Gottschalk, S. (2022). Linking Streets in OpenStreetMap to Persons in Wikidata., In WWW ’22 Companion. 
-
-[4] Dsouza, A., Tempelmeier, N., Yu, R., Gottschalk, S., &amp; Demidova, E. (2021, October). WorldKG: A World-Scale Geographic Knowledge Graph. In Proceedings of the 30th ACM International Conference on Information &amp; Knowledge Management (pp. 4475-4484). 
-
-[5] Schott, M., Herfort, B., Troilo, R., &amp; Raifer, M. (2022, January 20). A basic guide to OSM data filtering. [web log]. Retrieved May 19, 2022, from http://k1z.blog.uni-heidelberg.de/2022/01/20/a-basic-guide-to-osm-data-filtering/  
-
-[6] Schott, M., Grinberger, A. Y., Lautenbach, S., &amp; Zipf, A. (2021). The Impact of Community Happenings in OpenStreetMap—Establishing a Framework for Online Community Member Activity Analyses. ISPRS International Journal of Geo-Information, 10(3), 164. 
-
-[7] Schott, M., Größchen, L., &amp; Lautenbach, S. (2022, April 20). Version (0.1). OSM Element Vectorisation. Retrieved May 19, 2022, from https://gitlab.gistools.geog.uni-heidelberg.de/giscience/ideal-vgi/osm-element-vectorisation.  
-
-[8] ohsome Team. (2022, April 12). Version (0.9.0). ohsome quality analyst. Retrieved May 19, 2022, from https://github.com/GIScience/ohsome-quality-analyst.
-

@@ -3,7 +3,7 @@ layout: session
 title: "JOSM: Beyond Basic Editing"
 code: "D7BFKR"
 speaker_names: ['Sharon Omoja', 'Michael Heißmeier']
-affiliations: OpenStreetMap Kenya, Humanitarian OpenStreetMap Team's Training Working Group
+affiliations: None
 room: "Workshops and Loop-Cinema - Room 103"
 length: "60"
 time: "Friday, 11:30"

@@ -5,7 +5,7 @@ layout: session
 title: "maplibre-rs: Cross-platform Map Rendering using Rust"
 code: "VECREV"
 speaker_names: ['Max Ammann']
-affiliations: MapLibre
+affiliations: None
 room: "Workshops and Loop-Cinema - Room 103"
 length: "20"
 time: "Friday, 17:30"

@@ -823,6 +823,18 @@
       "room": 1531
     },
     {
+      "code": "RBZHX7",
+      "title": "Opening Session - Academic Track",
+      "abstract": "The opening session of the Academic Track at the State of the Map 2022 conference.",
+      "speakers": [
+        "3UBLLA"
+      ],
+      "track": null,
+      "start": "2022-08-21T08:55:00+02:00",
+      "end": "2022-08-21T09:00:00+02:00",
+      "room": 1532
+    },
+    {
       "code": "JRN9DN",
       "title": "Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness",
       "abstract": "A recent release of new scientific datasets generated from OpenStreetMap exemplifies the need for analysis-ready repositories of OSM data that require minimal pre-processing. We created the  Analysis-Ready Daylight OpenStreetMap Distribution to provide researchers with the opportunity for simple cloud-based SQL queries of nearly 1B OSM features. We demonstrate the capabilities with intrinsic and extrinsic data coverage assessments of OSM buildings globally.",
@@ -832,7 +844,7 @@
       ],
       "track": null,
       "start": "2022-08-21T09:00:00+02:00",
-      "end": "2022-08-21T09:30:00+02:00",
+      "end": "2022-08-21T09:20:00+02:00",
       "room": 1532
     },
     {
@@ -861,11 +873,11 @@
       "room": 1532
     },
     {
-      "code": "9HBH3X",
-      "title": "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach",
-      "abstract": "The quality of OSM data is dependent on many different factors and is quite heterogeneous. Therefore, in both intrinsic and extrinsic quality parameter analyses, a common practice is subdividing the study areas into subareas. In this paper, we worked on a method for obtaining the optimal grid cell size for OSM data quality analysis. Furthermore, we proposed that if the quality is homogeneous in a region, it can be estimated using an IDW interpolation. . In this summary, we have done a preliminary analysis for a Brazilian city, Curitiba, with about 28,000 points of known accuracy.",
+      "code": "GPMSLW",
+      "title": "Inequalities in the completeness of OpenStreetMap buildings in urban centers",
+      "abstract": "Albeit the manifold usage of OSM building footprints an adequate investigation into their completeness on the global scale has not been conducted so far. This talk investigates OSM building completeness within all 13,135 urban centers covering about 50% of the global population.",
       "speakers": [
-        "YLANUK"
+        "E8WPXD"
       ],
       "track": null,
       "start": "2022-08-21T10:30:00+02:00",
@@ -873,11 +885,11 @@
       "room": 1532
     },
     {
-      "code": "GPMSLW",
-      "title": "Inequalities in the completeness of OpenStreetMap buildings in urban centers",
-      "abstract": "Albeit the manifold usage of OSM building footprints an adequate investigation into their completeness on the global scale has not been conducted so far. This talk investigates OSM building completeness within all 13,135 urban centers covering about 50% of the global population.",
+      "code": "9HBH3X",
+      "title": "The cell size issue in OpenStreetMap data quality parameter analyses: an interpolation-based approach",
+      "abstract": "The quality of OSM data is dependent on many different factors and is quite heterogeneous. Therefore, in both intrinsic and extrinsic quality parameter analyses, a common practice is subdividing the study areas into subareas. In this paper, we worked on a method for obtaining the optimal grid cell size for OSM data quality analysis. Furthermore, we proposed that if the quality is homogeneous in a region, it can be estimated using an IDW interpolation. . In this summary, we have done a preliminary analysis for a Brazilian city, Curitiba, with about 28,000 points of known accuracy.",
       "speakers": [
-        "E8WPXD"
+        "YLANUK"
       ],
       "track": null,
       "start": "2022-08-21T10:35:00+02:00",
@@ -1040,8 +1052,8 @@
         "HXJM9Z"
       ],
       "track": null,
-      "start": "2022-08-21T15:00:00+02:00",
-      "end": "2022-08-21T15:20:00+02:00",
+      "start": "2022-08-21T14:55:00+02:00",
+      "end": "2022-08-21T15:15:00+02:00",
       "room": 1532
     },
     {
@@ -1053,7 +1065,7 @@
       ],
       "track": null,
       "start": "2022-08-21T15:30:00+02:00",
-      "end": "2022-08-21T16:00:00+02:00",
+      "end": "2022-08-21T15:50:00+02:00",
       "room": 1532
     }
   ],
@@ -1572,6 +1584,11 @@
       "avatar": null
     },
     {
+      "code": "3UBLLA",
+      "name": "Yair Grinberger & Marco Minghini",
+      "avatar": null
+    },
+    {
       "code": "7RKZCJ",
       "name": "Kauê de Moraes Vestena",
       "avatar": "https://pretalx.com/media/avatars/IMG_20200704_143021_LpJ2RVB.jpg"
@@ -1587,11 +1604,6 @@
       "avatar": "https://pretalx.com/media/avatars/anne-italy_copy_miTDSwf.jpg"
     },
     {
-      "code": "EBQVT3",
-      "name": "Helga Tauscher",
-      "avatar": null
-    },
-    {
       "code": "LSXXGM",
       "name": "Jennings Anderson",
       "avatar": "https://www.gravatar.com/avatar/95d4cabead873e4b3f9f900a729f59ff"
@@ -1600,6 +1612,11 @@
       "code": "9GZ9SL",
       "name": "Alishiba Dsouza",
       "avatar": "https://pretalx.com/media/avatars/Photo_Alishiba_7SZ1XrO.jpg"
+    },
+    {
+      "code": "EBQVT3",
+      "name": "Helga Tauscher",
+      "avatar": null
     },
     {
       "code": "CYPKDZ",
