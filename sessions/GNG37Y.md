@@ -10,7 +10,7 @@ room: "Auditorium A"
 length: "20"
 time: "Sunday, 09:30"
 time_iso: "2022-08-21T07:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/GNG37Y_Crowdsourcing_and_virtual_reality_applications_for_hcGHJfn.pdf" }]
 recording: True
 ---
 

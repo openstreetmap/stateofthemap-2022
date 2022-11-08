@@ -10,7 +10,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 12:30"
 time_iso: "2022-08-20T10:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides (compressed)", url: "/attachments/ACCWJY_sotm22-ilya-everydoor-images-compressed_VvWv9Hv.pdf" }]
 recording: True
 ---
 

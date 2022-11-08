@@ -10,7 +10,7 @@ room: "Auditorium B"
 length: "60"
 time: "Saturday, 12:00"
 time_iso: "2022-08-20T10:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/SCBZ9Q_Educational_initiatives_and_platforms_on_OpenStree_bwZ6V7k.pdf" }]
 recording: True
 ---
 

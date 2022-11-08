@@ -10,7 +10,7 @@ room: "Auditorium B"
 length: "20"
 time: "Friday, 15:30"
 time_iso: "2022-08-19T13:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/FABJFJ_Integrating_OSM_in_the_local_governance_of_Nepal_XwirWca.pdf" }]
 recording: True
 ---
 

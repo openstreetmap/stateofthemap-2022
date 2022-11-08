@@ -10,7 +10,7 @@ room: "Auditorium A"
 length: "20"
 time: "Saturday, 11:30"
 time_iso: "2022-08-20T09:30:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/B7VADW_Map_builder_SotM_2022_-_v2_ZIiHDkG.pdf" }]
 recording: True
 ---
 

@@ -10,7 +10,7 @@ room: "Auditorium B"
 length: "20"
 time: "Saturday, 10:00"
 time_iso: "2022-08-20T08:00:00Z"
-resources: []
+resources: [{ description: "Presentation Slides", url: "/attachments/U77MUX_Building_an_OpenStreetMap_Community_Playbook_SotM__G0iONd5.pdf" }]
 recording: True
 ---
 
